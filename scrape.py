@@ -1,3 +1,4 @@
+from selenium import webdriver
 import logging
 from linkedin_jobs_scraper import LinkedinScraper
 from linkedin_jobs_scraper.events import Events, EventData
