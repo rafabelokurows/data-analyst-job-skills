@@ -96,7 +96,7 @@ queries = [
     Query(
       query='Data Analyst',
         options=QueryOptions(
-            locations=locationsToQuery
+            locations=locationsToQuery,
             optimize=True,  # Blocks requests for resources like images and stylesheet
             limit=25,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
