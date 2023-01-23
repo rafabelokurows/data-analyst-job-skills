@@ -38,25 +38,28 @@ driver = webdriver.Chrome(options = chrome_options)
 # Change root logger level (default is WARN)
 logging.basicConfig(level = logging.INFO)
 
-cache = []
+# cache = []
+# def on_data(data: EventData):
+#     scraped = {
+#         "job_id": data.job_id, 
+#         "link": data.link, 
+#         "apply_link": data.apply_link, 
+#         "title": data.title, 
+#         "company": data.company, 
+#         "place": data.place, 
+#         "description": data.description, 
+#         "description_html": data.description_html, 
+#         "date": data.date
+#         #"seniority_level": data.seniority_level, 
+#         #"job_function": data.job_function, 
+#         #"employment_type": data.employment_type, 
+#         #"industries": data.industries
+#     }
+#     cache.append(scraped)
+    
+job_postings = []
 def on_data(data: EventData):
-    scraped = {
-        "job_id": data.job_id, 
-        "link": data.link, 
-        "apply_link": data.apply_link, 
-        "title": data.title, 
-        "company": data.company, 
-        "place": data.place, 
-        "description": data.description, 
-        "description_html": data.description_html, 
-        "date": data.date
-        #"seniority_level": data.seniority_level, 
-        #"job_function": data.job_function, 
-        #"employment_type": data.employment_type, 
-        #"industries": data.industries
-    }
-    cache.append(scraped)
-
+    job_postings.append([data.job_id,data.link,data.apply_link,data.title,data.company,data.place,data.description,data.description_html,data.date])
 
 def on_error(error):
     print('[ON_ERROR]', error)
@@ -113,7 +116,10 @@ queries = [
 ]
 
 scraper.run(queries)
-with open('data/jobs.json', 'w') as f:
-    json.dump(cache, f, indent=4)
+# with open('data/jobs.json', 'w') as f:
+#     json.dump(cache, f, indent=4)
+# print(f"Operation completed. Scraped {len(cache)} jobs")
 
-print(f"Operation completed. Scraped {len(cache)} jobs")
+df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date'])
+
+df.to_csv(os.getcwd()+'/'+strftime("%Y%m%d%H%M", gmtime())+'_jobs.csv',index=False)
