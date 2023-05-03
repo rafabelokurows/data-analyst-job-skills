@@ -1,0 +1,137 @@
+name
+Oracle Database
+MySQL
+Microsoft SQL Server
+PostgreSQL
+IBM Db2
+Microsoft Access
+SQLite
+MariaDB
+Microsoft Azure SQL Database
+Hive
+Snowflake
+Teradata Vantage
+AllegroGraph
+Amazon Neptune
+AnzoGraph DB
+ArangoDB
+DataStax Enterprise Graph
+DGraph
+Grakn Core
+InfiniteGraph
+JanusGraph
+MarkLogic
+SQL Server
+Nebula Graph
+Neo4j
+Ontotext GraphDB
+OrientDB
+RDFox
+RedisGraph
+SAP HANA
+Sparksee
+SqrrlEnterprise
+Stardog
+Teradata Aster
+TerminusDB
+TigerGraph
+Apache Accumulo
+Apache Cassandra
+Apache HBase
+Bigtable
+DataStax Enterprise
+DataStax Astra DB
+Hypertable
+Azure Tables
+Scylla (database)
+Apache Ignite
+Couchbase
+Coherence
+eXtreme Scale
+Hazelcast
+Infinispan
+Memcached
+Redis
+Velocity
+Azure Cosmos DB
+Amazon DynamoDB
+Aerospike
+Oracle NoSQL Database
+Riak
+Voldemort
+FoundationDB
+InfinityDB
+LMDB
+MemcacheDB
+Apache River
+GigaSpaces
+Tarantool
+TIBCO ActiveSpaces
+OpenLink Virtuoso
+Ontotext-OWLIM
+Profium Sense
+Virtuoso Universal Server
+Objectivity/DB
+Perst
+ZopeDB
+db4o
+GemStone/S
+InterSystems Cach
+JADE
+ObjectDatabase++
+ObjectDB
+ObjectStore
+ODABA
+Realm
+Versant Object Database
+ZODB
+BaseX
+Clusterpoint
+CouchDB
+DocumentDB
+eXist-db
+IBM Domino
+MongoDB
+Qizx
+RethinkDB
+Elasticsearch
+Cassandra
+Google Cloud Datastore
+HBase
+ScyllaDB
+Apache Giraph
+Virtuoso
+OpenQM
+UniData Rocket U2
+UniVerse Rocket U2
+DEX/Sparksee
+FlockDB
+Oracle
+OWLIM
+Sqrrl Enterprise
+Db2
+Berkeley DB
+CDB
+Clusterpoint Database Server
+Couchbase Server
+Dynamo
+etcd
+GridGain Systems
+GT.M[4]
+Hibari
+IBM Informix C-ISAM
+immudb[5]
+Kvrocks
+KeyDB
+Keyspace
+LevelDB
+NoSQLz
+Project Voldemort
+Riak[6]
+RocksDB
+Scylla
+Tkrzw
+Venti
+Access
+Redshift
+Presto
