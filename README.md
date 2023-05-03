@@ -1,5 +1,10 @@
 # Collecting data on Linkedin Job ads
 
+The first version of the website showcasing the results is finally online:  
+
+https://rafabelokurows-linkedin-job-scraping-app4-sh9kre.streamlit.app/
+
+
 ## Goals
 Obtain large pool of job ad descriptions found on Linkedin (and maybe other websites) to later analyze and determine which characteristics are the most requested for a Data Analyst all over the world
 Also:
