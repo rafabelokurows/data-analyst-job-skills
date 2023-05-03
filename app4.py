@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 st.sidebar.title("Studying Job Ads")
 
-counts = pd.read_csv("counts.csv")
+counts = pd.read_csv("data/counts.csv")
 counts = counts.rename(columns={'index':'skill'})
 # create the bar plot for the "keywords" column
 st.subheader("Job Ad Keywords")
