@@ -1,23 +1,23 @@
-# Collecting data on Linkedin Job ads
+# Skills companies ask for in a Data Analyst
 
-The first version of the website showcasing the results is finally online:  
+A study on the skills required by companies for Data Analysts (at least from what they say in their job ads) - based in 40K job ads scraped from Linkedin.
 
+Some preliminary results:
 https://rafabelokurows-linkedin-job-scraping-app4-sh9kre.streamlit.app/
 
-
 ## Goals
+
 Obtain large pool of job ad descriptions found on Linkedin (and maybe other websites) to later analyze and determine which characteristics are the most requested for a Data Analyst all over the world
 Also:
--Are the requisites different for in-person or remote jobs? 
+-What are the most required skills?
 -How many job ads mention R, SQL, Python, etc.
 -How about salary? Can a Data Analyst expect a higher salary based on their skillset?
 
 ## Roadmap
 
-- [ ] Set up a somewhat GitHub-hosted automated version of the data collection pipeline
-- [ ] Establish data analysis process
+- [ ] Set up a pipeline to process new data scraped from Linkedin
 - [ ] Expand keywords to roles such as "Product Analyst", "Analytics Engineer", and others
-- [ ] Train a few ML models to predict salary based on skills, requisites and other characteristics of the job
+- [ ] Train ML models to predict salary based on skills, requisites and other characteristics of the job
 
 ## References
 Some of my references for this one:
