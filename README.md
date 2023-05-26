@@ -14,8 +14,7 @@ Obtain large pool of job ad descriptions found on Linkedin to answer a few burni
  - How about those good old cliches that you hate to find on a job ad and that makes you wanna cringe?  
 "We look for a *detail-oriented* *multi-tasker* who can work *under pressure* on a *fast-paced environment*"  
 
-![image](https://github.com/rafabelokurows/data-analyst-job-skills/assets/55976107/52ea1949-81f8-47ac-9bd9-ded9c615a996)
-
+![image](https://media.tenor.com/uQykeXOagF8AAAAC/yikes-cringe.gif)
 
 ## Roadmap
 
