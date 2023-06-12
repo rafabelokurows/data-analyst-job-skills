@@ -12,5 +12,145 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teste.html#quarto",
+    "href": "teste.html#quarto",
+    "title": "Data Analyst Job Tracker",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "teste.html#bullets",
+    "href": "teste.html#bullets",
+    "title": "Data Analyst Job Tracker",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "teste.html#top-skills",
+    "href": "teste.html#top-skills",
+    "title": "Data Analyst Job Tracker",
+    "section": "Top Skills",
+    "text": "Top Skills"
+  },
+  {
+    "objectID": "teste.html#salary",
+    "href": "teste.html#salary",
+    "title": "Data Analyst Job Tracker",
+    "section": "Salary",
+    "text": "Salary"
+  },
+  {
+    "objectID": "teste.html#skills-x-salary",
+    "href": "teste.html#skills-x-salary",
+    "title": "Data Analyst Job Tracker",
+    "section": "Skills x Salary",
+    "text": "Skills x Salary\n\n\n\n\n\nPython means more $\n\n\n\n\n\n\nExcel means less $"
+  },
+  {
+    "objectID": "teste.html#salary-x-skills-cont.",
+    "href": "teste.html#salary-x-skills-cont.",
+    "title": "Data Analyst Job Tracker",
+    "section": "Salary x Skills (cont.)",
+    "text": "Salary x Skills (cont.)\n\n\n\n\n\nCloud and Engineer stuff👍🏻\n\n\n\n\n\n\nCliches 👎🏻"
+  },
+  {
+    "objectID": "teste.html#section",
+    "href": "teste.html#section",
+    "title": "Data Analyst Job Tracker",
+    "section": "",
+    "text": "AI is upon us"
+  },
+  {
+    "objectID": "teste.html#prediction",
+    "href": "teste.html#prediction",
+    "title": "Data Analyst Job Tracker",
+    "section": "Prediction 🔮",
+    "text": "Prediction 🔮\n\n\n\n\n\n% of jobs with salary larger than a few thresholds — choosing my goal\n\n\n\n\n\n\nML model results"
+  },
+  {
+    "objectID": "teste.html#ml-results---feature-importance",
+    "href": "teste.html#ml-results---feature-importance",
+    "title": "Data Analyst Job Tracker",
+    "section": "ML Results - Feature Importance",
+    "text": "ML Results - Feature Importance\n\nSkills are good for you (but not just any skills)"
+  },
+  {
+    "objectID": "teste.html#verifying-one-prediction",
+    "href": "teste.html#verifying-one-prediction",
+    "title": "Data Analyst Job Tracker",
+    "section": "Verifying one prediction",
+    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\nFirst slides"
+  },
+  {
+    "objectID": "index.html#quarto",
+    "href": "index.html#quarto",
+    "title": "Data Analyst Job Insights",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "index.html#bullets",
+    "href": "index.html#bullets",
+    "title": "Data Analyst Job Insights",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
+  },
+  {
+    "objectID": "index.html#top-skills",
+    "href": "index.html#top-skills",
+    "title": "Data Analyst Job Insights",
+    "section": "Top Skills",
+    "text": "Top Skills"
+  },
+  {
+    "objectID": "index.html#salary",
+    "href": "index.html#salary",
+    "title": "Data Analyst Job Insights",
+    "section": "Salary",
+    "text": "Salary"
+  },
+  {
+    "objectID": "index.html#skills-x-salary",
+    "href": "index.html#skills-x-salary",
+    "title": "Data Analyst Job Insights",
+    "section": "Skills x Salary",
+    "text": "Skills x Salary\n\n\n\n\n\nPython means more $\n\n\n\n\n\n\nExcel means less $"
+  },
+  {
+    "objectID": "index.html#salary-x-skills-cont.",
+    "href": "index.html#salary-x-skills-cont.",
+    "title": "Data Analyst Job Insights",
+    "section": "Salary x Skills (cont.)",
+    "text": "Salary x Skills (cont.)\n\n\n\n\n\nCloud and Engineer stuff👍🏻\n\n\n\n\n\n\nCliches 👎🏻"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Data Analyst Job Insights",
+    "section": "",
+    "text": "AI is upon us"
+  },
+  {
+    "objectID": "index.html#prediction",
+    "href": "index.html#prediction",
+    "title": "Data Analyst Job Insights",
+    "section": "Prediction 🔮",
+    "text": "Prediction 🔮\n\n\n\n\n\n% of jobs with salary larger than a few thresholds — choosing my goal\n\n\n\n\n\n\nML model results"
+  },
+  {
+    "objectID": "index.html#ml-results---feature-importance",
+    "href": "index.html#ml-results---feature-importance",
+    "title": "Data Analyst Job Insights",
+    "section": "ML Results - Feature Importance",
+    "text": "ML Results - Feature Importance\n\nSkills are good for you (but not just any skills)"
+  },
+  {
+    "objectID": "index.html#verifying-one-prediction",
+    "href": "index.html#verifying-one-prediction",
+    "title": "Data Analyst Job Insights",
+    "section": "Verifying one prediction",
+    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\n@rafabelokurows"
   }
 ]

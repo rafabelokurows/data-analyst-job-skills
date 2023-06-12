@@ -1,12 +1,12 @@
 ---
-title: "Data Analyst Job Insights"
+title: "Data Analyst Job Tracker"
 format: 
   revealjs:
     transition: slide
     transition-speed: fast
     slide-number: c/t
-    footer: "@rafabelokurows"
-    theme: moon
+    footer: "First slides"
+    theme: night
 editor: visual
 ---
 
@@ -33,11 +33,11 @@ When you click the **Render** button a document will be generated that includes:
 
 ::: columns
 ::: {.column width="50%"}
-![Python means more \$](https://cdn-images-1.medium.com/max/900/1*UFVhQ0s3cdXXtXHba2jEAA.png){alt="Python means more $"}
+![Python means more \$](https://cdn-images-1.medium.com/max/900/1*UFVhQ0s3cdXXtXHba2jEAA.png)
 :::
 
 ::: {.column width="50%"}
-![Excel means less \$](https://cdn-images-1.medium.com/max/900/1*VcaYFcvy6RkaMX9XNiSX6A.png){alt="Excel means less $"}
+![Excel means less \$](https://cdn-images-1.medium.com/max/900/1*VcaYFcvy6RkaMX9XNiSX6A.png)
 :::
 :::
 
@@ -49,7 +49,7 @@ When you click the **Render** button a document will be generated that includes:
 :::
 
 ::: {.column width="50%"}
-![Cliches 👎🏻](https://cdn-images-1.medium.com/max/900/1*b7UzIS1nYmMBEWk0YbQNcg.png){alt="Cliches 👎🏻"}
+![Cliches 👎🏻](https://cdn-images-1.medium.com/max/900/1*b7UzIS1nYmMBEWk0YbQNcg.png)
 :::
 :::
 
@@ -81,7 +81,7 @@ AI is upon us
 
 ## ML Results - Feature Importance
 
-![Skills are good for you (but not just any skills)](https://cdn-images-1.medium.com/max/900/1*yC65glRUlkLKNLlk-qinyg.png){alt="Skills are good for you (but not just any skills)"}
+![Skills are good for you (but not just any skills)](https://cdn-images-1.medium.com/max/900/1*yC65glRUlkLKNLlk-qinyg.png)
 
 ## Verifying one prediction
 

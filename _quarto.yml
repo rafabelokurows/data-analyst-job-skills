@@ -6,15 +6,16 @@ website:
   title: "job-insights"
   navbar:
     left:
-      - href: index.qmd
+      - href: teste.qmd
         text: Home
-      - about.qmd
 
 format:
-  html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+  revealjs:
+    transition: slide
+    transition-speed: fast
+    slide-number: c/t
+    footer: "First slides"
+    theme: night
 
 editor: visual
 
