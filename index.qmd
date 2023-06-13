@@ -1,29 +1,44 @@
 ---
 title: "Data Analyst Job Insights"
+subtitle: "Based on 15K+ real job ads"
 format: 
   revealjs:
     transition: slide
     transition-speed: fast
     slide-number: c/t
-    footer: "@rafabelokurows"
+    footer: "@rafabelokurows - <a href=\"https://github.com/rafabelokurows/data-analyst-job-skills\">Github repository</a> - <a href=\"https://rafabelokurows.medium.com/what-do-companies-want-in-a-data-analyst-and-the-salaries-they-offer-in-return-fba8324101db\">Medium article</a>"
     theme: moon
 editor: visual
 ---
 
-## Quarto
+## Goal
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+-   Identifying trends in Data Analyst Job Ads
 
-## Bullets
+-   Are there common characteristics in jobs that offer higher salaries?
 
-When you click the **Render** button a document will be generated that includes:
+## Tools used
 
--   Content authored with markdown
--   Output from executable code
+-   Python to scrape, analyze and plot
+
+    -   *spacy*: text extraction
+
+    -   *pandas*: storing, processing, feature engineering
+
+    -   *plotly*: plots (duh)
+
+    -   *pycaret*: ML model building and evaluation
+
+-   Quarto - using R - to present
 
 ## Top Skills
 
 ![](https://cdn-images-1.medium.com/max/1350/1*L6YrS1zfm-KkB7LOb1alow.png)
+
+-   SQL is the top skill in general
+-   Python 2 for 1 compared with R
+-   Tableau \> Power BI
+-   AWS the top cloud provider
 
 ## Salary
 
@@ -53,17 +68,14 @@ When you click the **Render** button a document will be generated that includes:
 :::
 :::
 
-## 
-
-AI is upon us
+## How prevalent are AI buzzwords?\*
 
 ::: columns
 ::: {.column width="50%"}
-![](https://cdn-images-1.medium.com/max/900/1*l3NhR-0Lmez4dMnTTGN6Tg.png)
+![\*In % of jobs they appear](https://cdn-images-1.medium.com/max/900/1*l3NhR-0Lmez4dMnTTGN6Tg.png)
 :::
 
 ::: {.column width="50%"}
-![](https://cdn-images-1.medium.com/max/900/0*WkTjVT1EGrGoY5u1)
 :::
 :::
 

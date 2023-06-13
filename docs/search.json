@@ -102,7 +102,7 @@
     "href": "index.html#top-skills",
     "title": "Data Analyst Job Insights",
     "section": "Top Skills",
-    "text": "Top Skills"
+    "text": "Top Skills\n\n\nSQL is the top skill in general\nPython 2 for 1 compared with R\nTableau &gt; Power BI\nAWS the top cloud provider"
   },
   {
     "objectID": "index.html#salary",
@@ -151,6 +151,27 @@
     "href": "index.html#verifying-one-prediction",
     "title": "Data Analyst Job Insights",
     "section": "Verifying one prediction",
-    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\n@rafabelokurows"
+    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\n@rafabelokurows - Github repository - Medium article"
+  },
+  {
+    "objectID": "index.html#goal",
+    "href": "index.html#goal",
+    "title": "Data Analyst Job Insights",
+    "section": "Goal",
+    "text": "Goal\n\nIdentifying trends in Data Analyst Job Ads\nAre there common characteristics in jobs that offer higher salaries?"
+  },
+  {
+    "objectID": "index.html#tools-used",
+    "href": "index.html#tools-used",
+    "title": "Data Analyst Job Insights",
+    "section": "Tools used",
+    "text": "Tools used\n\nPython to scrape, analyze and plot\n\nspacy: text extraction\npandas: storing, processing, feature engineering\nplotly: plots (duh)\npycaret: ML model building and evaluation\n\nQuarto - using R - to present"
+  },
+  {
+    "objectID": "index.html#how-prevalent-are-ai-buzzwords",
+    "href": "index.html#how-prevalent-are-ai-buzzwords",
+    "title": "Data Analyst Job Insights",
+    "section": "How prevalent are AI buzzwords?*",
+    "text": "How prevalent are AI buzzwords?*\n\n\n\n\n\n*In % of jobs they appear"
   }
 ]
