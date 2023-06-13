@@ -1,8 +1,12 @@
 ---
 title: "Data Analyst Job Insights"
 subtitle: "Based on 15K+ real job ads"
+author: "Rafael Belokurows"
+date: "June 2023"
 format: 
   revealjs:
+    width: 1600
+    height: 900
     transition: slide
     transition-speed: fast
     slide-number: c/t
@@ -104,3 +108,25 @@ editor: visual
 ::: {.fragment fragment-index="2"}
 ![And my model is right 🥳](https://cdn-images-1.medium.com/max/900/1*lg8fH5iV4cCt6eR_ulb4Qg.png){alt="And my model was right 🥳" width="453"}
 :::
+
+## Takeaways
+
+-   If training to be a Data Analyst, make sure you are proficient in at least:
+
+    -   SQL
+
+    -   Tableau or Power BI
+
+    -   Python (or R for some specific fields or skills)
+
+    -   One cloud platform, especially AWS
+
+-   Be on lookout for positions with the following cliches on the job description. Those are probably workplaces that will challenge your mental health and you won't even earn enough for it to be worth it:
+
+    -   "ability to work under pressure"
+
+    -   "multitasking"
+
+    -   "fast-paced environment"
+
+-   European companies, please start disclosing salaries for your positions, thank you in advance!

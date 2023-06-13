@@ -30,28 +30,28 @@
   {
     "objectID": "teste.html#top-skills",
     "href": "teste.html#top-skills",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Top Skills",
-    "text": "Top Skills"
+    "text": "Top Skills\n\n\nSQL is the top skill in general\nPython 2 for 1 compared with R\nTableau &gt; Power BI\nAWS the top cloud provider"
   },
   {
     "objectID": "teste.html#salary",
     "href": "teste.html#salary",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Salary",
     "text": "Salary"
   },
   {
     "objectID": "teste.html#skills-x-salary",
     "href": "teste.html#skills-x-salary",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Skills x Salary",
     "text": "Skills x Salary\n\n\n\n\n\nPython means more $\n\n\n\n\n\n\nExcel means less $"
   },
   {
     "objectID": "teste.html#salary-x-skills-cont.",
     "href": "teste.html#salary-x-skills-cont.",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Salary x Skills (cont.)",
     "text": "Salary x Skills (cont.)\n\n\n\n\n\nCloud and Engineer stuff👍🏻\n\n\n\n\n\n\nCliches 👎🏻"
   },
@@ -65,23 +65,23 @@
   {
     "objectID": "teste.html#prediction",
     "href": "teste.html#prediction",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Prediction 🔮",
     "text": "Prediction 🔮\n\n\n\n\n\n% of jobs with salary larger than a few thresholds — choosing my goal\n\n\n\n\n\n\nML model results"
   },
   {
     "objectID": "teste.html#ml-results---feature-importance",
     "href": "teste.html#ml-results---feature-importance",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "ML Results - Feature Importance",
     "text": "ML Results - Feature Importance\n\nSkills are good for you (but not just any skills)"
   },
   {
     "objectID": "teste.html#verifying-one-prediction",
     "href": "teste.html#verifying-one-prediction",
-    "title": "Data Analyst Job Tracker",
+    "title": "Data Analyst Job Insights",
     "section": "Verifying one prediction",
-    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\nFirst slides"
+    "text": "Verifying one prediction\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\nAnd my model is right 🥳"
   },
   {
     "objectID": "index.html#quarto",
@@ -151,7 +151,7 @@
     "href": "index.html#verifying-one-prediction",
     "title": "Data Analyst Job Insights",
     "section": "Verifying one prediction",
-    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳\n\n\n\n\n\n@rafabelokurows - Github repository - Medium article"
+    "text": "Verifying one prediction\n\n\n\n\nMy model says this job doesn’t pay so well\n\n\n\n\n\n\n\nAnd my model was right 🥳"
   },
   {
     "objectID": "index.html#goal",
@@ -173,5 +173,40 @@
     "title": "Data Analyst Job Insights",
     "section": "How prevalent are AI buzzwords?*",
     "text": "How prevalent are AI buzzwords?*\n\n\n\n\n\n*In % of jobs they appear"
+  },
+  {
+    "objectID": "teste.html#goal",
+    "href": "teste.html#goal",
+    "title": "Data Analyst Job Insights",
+    "section": "Goal",
+    "text": "Goal\n\nIdentifying trends in Data Analyst Job Ads\nAre there common characteristics in jobs that offer higher salaries?"
+  },
+  {
+    "objectID": "teste.html#tools-used",
+    "href": "teste.html#tools-used",
+    "title": "Data Analyst Job Insights",
+    "section": "Tools used",
+    "text": "Tools used\n\nPython to scrape, analyze and plot\n\nspacy: text extraction\npandas: storing, processing, feature engineering\nplotly: plots (duh)\npycaret: ML model building and evaluation\n\nQuarto - using R - to present"
+  },
+  {
+    "objectID": "teste.html#how-prevalent-are-ai-buzzwords",
+    "href": "teste.html#how-prevalent-are-ai-buzzwords",
+    "title": "Data Analyst Job Insights",
+    "section": "How prevalent are AI buzzwords?*",
+    "text": "How prevalent are AI buzzwords?*\n\n\n\n\n\n*In % of jobs they appear"
+  },
+  {
+    "objectID": "teste.html#takeaways",
+    "href": "teste.html#takeaways",
+    "title": "Data Analyst Job Insights",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nIf training to be a Data Analyst, make sure you are proficient in at least:\n\nSQL\nTableau or Power BI\nPython (or R for some specific fields or skills)\nOne cloud platform, especially AWS\n\nBe on lookout for positions with the following cliches on the job description:\n\n“ability to work under pressure”\n“multitasking”\n“fast-paced environment”\n\n\nThose are probably workplaces that will challenge your mental health and you won’t even earn enough for it to be worth it.\n\nEuropean companies, please start disclosing salaries for your positions, thank you in advance!\n\n\n\n@rafabelokurows - Github repository - Medium article"
+  },
+  {
+    "objectID": "index.html#takeaways",
+    "href": "index.html#takeaways",
+    "title": "Data Analyst Job Insights",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nIf training to be a Data Analyst, make sure you are proficient in at least:\n\nSQL\nTableau or Power BI\nPython (or R for some specific fields or skills)\nOne cloud platform, especially AWS\n\nBe on lookout for positions with the following cliches on the job description. Those are probably workplaces that will challenge your mental health and you won’t even earn enough for it to be worth it:\n\n“ability to work under pressure”\n“multitasking”\n“fast-paced environment”\n\nEuropean companies, please start disclosing salaries for your positions, thank you in advance!\n\n\n\n@rafabelokurows - Github repository - Medium article"
   }
 ]
