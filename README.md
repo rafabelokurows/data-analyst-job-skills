@@ -3,25 +3,24 @@
 A study on the skills required by companies for Data Analysts (at least from what they say in their job ads) - based in 20K job ads scraped from Linkedin.
 
 Some preliminary results:
-https://rafabelokurows-linkedin-job-scraping-app4-sh9kre.streamlit.app/
+https://rafabelokurows.github.io/data-analyst-job-skills/
 
 ## Goals
 
-Obtain large pool of job ad descriptions found on Linkedin to answer a few burning questions for me and fellow Data Analysts:
- - What are the skills most in-demand (R, SQL, Python, etc.)?  
+Obtain a large pool of job ad descriptions found on Linkedin to answer a few burning questions for me and fellow Data Analysts:
+ - What are the skills most in demand (R, SQL, Python, etc.)?  
  - How about salary? 💲💲💲 What's the distribution of salaries a Data Analyst can expect for a remote job?  
- - Is there any difference on the skills asked for a job in the US x Europe?  
+ - Is there any difference in the skills asked for a job in the US x Europe?  
  - How about those good old cliches that you hate to find on a job ad and that makes you wanna cringe?  
 "We look for a *detail-oriented* *multi-tasker* who can work *under pressure* on a *fast-paced environment*"  
-
-![image](https://media.tenor.com/uQykeXOagF8AAAAC/yikes-cringe.gif)
 
 ## Roadmap
 
 - [x] Set up a pipeline to process new data scraped from Linkedin
-- [ ] Create some plots of skills, salary and Europe x Americas
+- [x] Create some plots of skills, salary and Europe x Americas
 - [ ] Expand keywords to roles such as "Product Analyst", "Analytics Engineer", and others
-- [ ] Train ML models to predict salary based on skills, requisites and other characteristics of the job
+- [ ] Cluster similar positions based on main types of activities: Governance, Analysis, Scientific/Research
+- [x] Train ML models to predict salary based on skills, requisites and other characteristics of the job
 
 ## References
 Some of my references for this one:
