@@ -1,4 +1,5 @@
 #%%
+import pandas as pd
 from selenium import webdriver
 import logging
 from linkedin_jobs_scraper import LinkedinScraper
