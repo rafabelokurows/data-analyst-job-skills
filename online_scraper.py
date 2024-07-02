@@ -104,7 +104,7 @@ group_of_items = {'Seattle, Washington, United States',
 'Vancouver, British Columbia, Canada',
 'Madrid, Community of Madrid, Spain',
 'Barcelona, Catalonia, Spain',
-'Spain
+'Spain'
 }
 num_to_select = 5
 locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
