@@ -1,0 +1,2071 @@
+Job_ID,Link,Apply Link,Title,Company,Place,Description,HTML,Date
+3959383574,https://de.linkedin.com/jobs/view/machine-learning-engineer-f-m-d-at-exnaton-3959383574?position=1&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=SAdZiQCcUb2bqBB9H%2F0YiQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Machine Learning Engineer (f/m/d),Exnaton,"Berlin, Berlin, Germany","Intro
+
+Exnaton is a startup, spun out of ETH Zurich, which offers software for renewable energy to utility companies. Our software enables energy providers to set up energy communities and smart energy tariffs in their distribution areas. Users of our software can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun!
+
+Prosumers, dynamic electricity tariffs, and energy sharing are driving the energy transition and becoming integral components of the decentralized energy world. Our software is a cloud application that processes smart meter data and computes smart real-time prices for locally produced energy which makes renewable energy financially more attractive. End-users receive an app that maps the sources of their energy, making their electricity consumption more understandable.
+
+Our team is growing and we are looking for extraordinary and talented people to complement our team. We are a diverse mix of engineers and business developers, all driven by the shared goal of using technology to create a sustainable impact in our society. If you're enthusiastic about contributing to this exciting journey, we invite you to be a part of our innovative and motivated team.
+
+The job can be performed remotely in EU countries.
+
+Your role
+
+Responsibilities
+
+As a Machine Learning Engineer at Exnaton, you will join our 25-person team and shape the company and its vision from the ground up. Among others, your main responsibilities are the following:
+
+
+Contributing features to a state-of-the-art application for the energy sector and proposing new data-driven features that derive value from customers’ energy data (mostly time-series data);
+Developing state-of-the-art machine-learning models for forecasting energy loads and prices, pattern recognition, and anomaly detection in energy data;
+Contributing to our data pipelines and deployment setup for our models;
+Collaborating closely with our software engineers to bridge the gap between the backend and analytical core of our product;
+As we are planning to grow the team in the next few years, you will ideally support and mentor new colleagues and review the team’s models, code, and documentation in the future.
+
+
+Your Qualifications
+
+We define ourselves by a culture of collaboration and ownership. We’re looking for a driven, capable, and thoughtful person to add to our mission. We are looking for someone who:
+
+
+Holds a degree in statistics, mathematics, physics, computer science or related field;
+In-depth understanding of mathematical and statistical concepts behind most common machine learning techniques and time-series data;
+Experience in coding and working with data using a wide range of tools and frameworks: Python, Pytorch, Tensorflow, Keras, Docker;
+Ideally experience with cloud providers like AWS and frameworks like Docker and Kubernetes;
+Strong analytical and problem-solving skills, ideally in one or more of the following areas: machine learning for structured data, interpretable AI, uncertainty estimation, representation learning, or Bayesian deep learning;
+Ability to see solutions and opportunities that others do not see;
+Is a team player and thrives in a dynamic startup environment.
+
+
+We would consider it a big plus if, besides working with data, you have an interest in renewable energy and sustainability. If you do not meet all of the above requirements but feel you would be a good match for our team do not hesitate to apply anyway.
+
+Benefits
+
+At Exnaton, you work in a dynamic environment with a flat hierarchy and direct communication, fostering quick operation and collaborative learning. You can also expect the following:
+
+
+Competitive salary and equity package;
+Flexible working hours and location as we believe in ownership and trust. We are a remote-first company and we support those working from different locations;
+Additional benefits such as a new MacBook, a learning budget, sports membership, or Headspace subscription;
+Virtual office for a truly interactive collaboration, even in a distributed team;
+Working with exciting technology for a really important purpose, together with a highly motivated team.
+
+
+About Us
+
+Exnaton is a startup that offers software for renewable energy to energy companies. Our software enables energy providers to enable consumers to share renewable energy. Users of our product can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun! While we primarily serve customers in the DACH region, we are actively expanding into additional markets.
+
+Our team is growing fast and consists of a diverse mix of engineers and business developers who are all motivated to use technology to create a sustainable impact in our society. We are distributed across various European countries, with our office located in Zurich, but primarily working remotely.
+
+Energy-sharing solutions are the next big thing in Europe’s energy market as the European Union is pushing hard for individual climate action. And we are aiming to become Europe’s leading software provider for renewable energy. On that mission, we are looking for motivated and passionate people to join us. To learn more, check out www.exnaton.com.
+
+We are dedicated to fostering diversity and to combat discrimination. We strongly encourage individuals from groups traditionally underrepresented in tech to apply and intend to consider all applications equally regardless of sex, ethnicity, ancestry, religion, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. We won't inquire about how you identify or if you've experienced discrimination, but if you want to tell your story, we are all ears.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Intro<br><br>Exnaton is a startup, spun out of ETH Zurich, which offers software for renewable energy to utility companies. Our software enables energy providers to set up energy communities and smart energy tariffs in their distribution areas. Users of our software can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun!<br><br>Prosumers, dynamic electricity tariffs, and energy sharing are driving the energy transition and becoming integral components of the decentralized energy world. Our software is a cloud application that processes smart meter data and computes smart real-time prices for locally produced energy which makes renewable energy financially more attractive. End-users receive an app that maps the sources of their energy, making their electricity consumption more understandable.<br><br>Our team is growing and we are looking for extraordinary and talented people to complement our team. We are a diverse mix of engineers and business developers, all driven by the shared goal of using technology to create a sustainable impact in our society. If you're enthusiastic about contributing to this exciting journey, we invite you to be a part of our innovative and motivated team.<br><br>The job can be performed remotely in EU countries.<br><br>Your role<br><br><strong>Responsibilities<br><br></strong>As a Machine Learning Engineer at Exnaton, you will join our 25-person team and shape the company and its vision from the ground up. Among others, your main responsibilities are the following:<br><br><ul><li>Contributing features to a state-of-the-art application for the energy sector and proposing new data-driven features that derive value from customers’ energy data (mostly time-series data);</li><li>Developing state-of-the-art machine-learning models for forecasting energy loads and prices, pattern recognition, and anomaly detection in energy data;</li><li>Contributing to our data pipelines and deployment setup for our models;</li><li>Collaborating closely with our software engineers to bridge the gap between the backend and analytical core of our product;</li><li>As we are planning to grow the team in the next few years, you will ideally support and mentor new colleagues and review the team’s models, code, and documentation in the future.<br><br></li></ul><strong>Your Qualifications<br><br></strong>We define ourselves by a culture of collaboration and ownership. We’re looking for a driven, capable, and thoughtful person to add to our mission. We are looking for someone who:<br><br><ul><li>Holds a degree in statistics, mathematics, physics, computer science or related field;</li><li>In-depth understanding of mathematical and statistical concepts behind most common machine learning techniques and time-series data;</li><li>Experience in coding and working with data using a wide range of tools and frameworks: Python, Pytorch, Tensorflow, Keras, Docker;</li><li>Ideally experience with cloud providers like AWS and frameworks like Docker and Kubernetes;</li><li>Strong analytical and problem-solving skills, ideally in one or more of the following areas: machine learning for structured data, interpretable AI, uncertainty estimation, representation learning, or Bayesian deep learning;</li><li>Ability to see solutions and opportunities that others do not see;</li><li>Is a team player and thrives in a dynamic startup environment.<br><br></li></ul>We would consider it a big plus if, besides working with data, you have an interest in renewable energy and sustainability. If you do not meet all of the above requirements but feel you would be a good match for our team do not hesitate to apply anyway.<br><br><strong>Benefits<br><br></strong>At Exnaton, you work in a dynamic environment with a flat hierarchy and direct communication, fostering quick operation and collaborative learning. You can also expect the following:<br><br><ul><li>Competitive salary and equity package;</li><li>Flexible working hours and location as we believe in ownership and trust. We are a remote-first company and we support those working from different locations;</li><li>Additional benefits such as a new MacBook, a learning budget, sports membership, or Headspace subscription;</li><li>Virtual office for a truly interactive collaboration, even in a distributed team;</li><li>Working with exciting technology for a really important purpose, together with a highly motivated team.<br><br></li></ul><strong>About Us<br><br></strong>Exnaton is a startup that offers software for renewable energy to energy companies. Our software enables energy providers to enable consumers to share renewable energy. Users of our product can track their energy consumption and buy renewable energy from their neighbors, which makes investing in the energy transition simple and fun! While we primarily serve customers in the DACH region, we are actively expanding into additional markets.<br><br>Our team is growing fast and consists of a diverse mix of engineers and business developers who are all motivated to use technology to create a sustainable impact in our society. We are distributed across various European countries, with our office located in Zurich, but primarily working remotely.<br><br>Energy-sharing solutions are the next big thing in Europe’s energy market as the European Union is pushing hard for individual climate action. And we are aiming to become Europe’s leading software provider for renewable energy. On that mission, we are looking for motivated and passionate people to join us. To learn more, check out www.exnaton.com.<br><br>We are dedicated to fostering diversity and to combat discrimination. We strongly encourage individuals from groups traditionally underrepresented in tech to apply and intend to consider all applications equally regardless of sex, ethnicity, ancestry, religion, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity. We won't inquire about how you identify or if you've experienced discrimination, but if you want to tell your story, we are all ears.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-26
+3957241471,https://de.linkedin.com/jobs/view/machine-learning-developer-at-mindpal-3957241471?position=4&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=54o%2BRXgcAzq9Ez9d0tgMPw%3D%3D&trk=public_jobs_jserp-result_search-card,,Machine Learning Developer,MindPal,"Berlin, Berlin, Germany","We are looking for Machine Learning Developer
+
+Job Responsibilities
+
+
+Working on machine learning projects
+Analyzing and processing data to create machine learning models
+Implementing and optimizing machine learning algorithms
+Testing and evaluating models
+Collaborating with the programming team and other departments within the company to develop innovative solutions
+
+
+Requirements
+
+
+Minimum 2 years of experience in the field of machine learning
+Knowledge of machine learning algorithms and techniques
+Ability to analyze and process data
+Familiarity with machine learning tools and technologies
+Proficient in English communication
+Education in computer science
+
+
+We Offer
+
+
+B2B contract type
+Full-time employment
+Remote and flexible working hours
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are looking for <strong>Machine Learning Developer<br><br></strong><strong>Job Responsibilities<br><br></strong><ul><li>Working on machine learning projects </li><li>Analyzing and processing data to create machine learning models </li><li>Implementing and optimizing machine learning algorithms </li><li>Testing and evaluating models </li><li>Collaborating with the programming team and other departments within the company to develop innovative solutions <br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Minimum 2 years of experience in the field of machine learning </li><li>Knowledge of machine learning algorithms and techniques </li><li>Ability to analyze and process data </li><li>Familiarity with machine learning tools and technologies </li><li>Proficient in English communication </li><li>Education in computer science <br><br></li></ul><strong>We Offer<br><br></strong><ul><li>B2B contract type </li><li>Full-time employment </li><li>Remote and flexible working hours</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-23
+3959594869,https://de.linkedin.com/jobs/view/data-scientist-at-7learnings-3959594869?position=5&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=DWqgkdEXCrjlgUy%2FLXBzQw%3D%3D&trk=public_jobs_jserp-result_search-card,,Data Scientist,7Learnings,"Berlin, Berlin, Germany","Deine Rolle
+
+
+Unterstütze Optimierungsprojekte im Handel mit analytischen Fähigkeiten
+Experimentiere mit Machine Learning Modellen für die Vorhersage von Absatz und Kosten
+Kontakt mit Händlern zur Verbesserung der 7Learnings Software
+Enge Zusammenarbeit mit unserem Ingenieurteam
+Verbesserung unserer Pipeline und unseres Modellcodes
+Unterstützung der Überwachung, Messung und Erforschung großer Datenmengen
+
+
+Das bringst du mit
+
+
+Bachelor/Master in BWL, Informatik, Wirtschaftsingenieurwesen, Mathematik, Physik oder verwandten Studien
+Ein ergebnis-orientierter, pragmatischer Geist
+Erste praktische Erfahrung mit maschinellem Lernen und Datenwissenschaften durch Praktika oder Werkstudententätigkeit
+Erfahrung mit GIT, Tensorflow, Google Cloud, SQL oder BigQuery sind hilfreich
+Deutsch: mindestens C1
+
+
+Das bieten wir dir
+
+
+Flexible Arbeitszeiten sowie ein Büro in Berlin Kreuzberg & flexible Möglichkeiten für Home Office
+Kultur des Vertrauens und des regelmäßigen konstruktiven Feedbacks
+
+
+Über uns
+
+7Learnings ist eine der führenden Optimierungsplattformen für Händler. Wir bieten einen Softwareservice zur Preis- und Marketingoptimierung für Onlinehändler an. Mit Hilfe unseres Algorithmus können bis zu 10% der Ausgaben für Rabatte bei gleichbleibenden Umsätzen gespart werden. Dies wird dadurch erreicht, dass unnötige Rabatte identifiziert und eliminiert werden. Gleichzeitig werden mehr Rabatte in Produkte mit höherer Preiselastizität gelenkt. Unsere Methode ermöglicht es auch einem kleinen Team die Preise nach neuesten Erkenntnissen zu steuern und Geld zu sparen.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Deine Rolle<br><br><ul><li>Unterstütze Optimierungsprojekte im Handel mit analytischen Fähigkeiten </li><li>Experimentiere mit Machine Learning Modellen für die Vorhersage von Absatz und Kosten</li><li>Kontakt mit Händlern zur Verbesserung der 7Learnings Software</li><li>Enge Zusammenarbeit mit unserem Ingenieurteam</li><li>Verbesserung unserer Pipeline und unseres Modellcodes</li><li>Unterstützung der Überwachung, Messung und Erforschung großer Datenmengen <br><br></li></ul>Das bringst du mit<br><br><ul><li>Bachelor/Master in BWL, Informatik, Wirtschaftsingenieurwesen, Mathematik, Physik oder verwandten Studien</li><li>Ein ergebnis-orientierter, pragmatischer Geist</li><li>Erste praktische Erfahrung mit maschinellem Lernen und Datenwissenschaften durch Praktika oder Werkstudententätigkeit</li><li>Erfahrung mit GIT, Tensorflow, Google Cloud, SQL oder BigQuery sind hilfreich</li><li>Deutsch: mindestens C1<br><br></li></ul>Das bieten wir dir<br><br><ul><li>Flexible Arbeitszeiten sowie ein Büro in Berlin Kreuzberg &amp; flexible Möglichkeiten für Home Office</li><li>Kultur des Vertrauens und des regelmäßigen konstruktiven Feedbacks<br><br></li></ul>Über uns<br><br><em>7Learnings ist eine der führenden Optimierungsplattformen für Händler. Wir bieten einen Softwareservice zur Preis- und Marketingoptimierung für Onlinehändler an. Mit Hilfe unseres Algorithmus können bis zu 10% der Ausgaben für Rabatte bei gleichbleibenden Umsätzen gespart werden. Dies wird dadurch erreicht, dass unnötige Rabatte identifiziert und eliminiert werden. Gleichzeitig werden mehr Rabatte in Produkte mit höherer Preiselastizität gelenkt. Unsere Methode ermöglicht es auch einem kleinen Team die Preise nach neuesten Erkenntnissen zu steuern und Geld zu sparen.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-27
+3948518416,https://de.linkedin.com/jobs/view/data-scientist-at-montash-3948518416?position=9&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=LnhJDyDK7EfHIVu3XRgKQA%3D%3D&trk=public_jobs_jserp-result_search-card,,Data Scientist,Montash,"Berlin, Germany","Project Length: 6 Months initially + extensions
+
+Work Location: 100% remote
+
+Project Language: English
+
+Capacity: 40 hours per week
+
+
+
+
+This role is suited to a Data Scientist who has previous experience modelling ranking algorithms, particularly for optimisation within an e-commerce environment.
+
+Utilising your chosen open-source LTR (learning to rank) framework, you will build a new model which can optimise search results ranking based on multiple variables. The current model in use was built with XGBoost but is being retired.
+
+
+
+
+Key Tasks
+
+Develop an LTR framework module to train models that can optimise custom targets depending on the context.
+Implement LTR compatibility with a selection of value added services which are offered across the marketplace.
+Optimisation of specific transaction types and marketplace features.
+Explore and develop personalisation features with the ranking system to cater to individual user preferences.
+Work towards an unbiased LTR system which ensures fairness and diversity.
+Manage complexities around compatibility and the balance between ad revenue and user experience.
+
+
+
+
+Ideal Skillset:
+
+Previous experience working on complex ranking models – ideally within e-commerce / search results environment
+Deep knowledge in LTR machine learning
+Python & relevant Python libraries
+NLP
+AWS cloud services (desirable)
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Project Length: 6 Months initially + extensions</strong></p><p><strong>Work Location: 100% remote</strong></p><p><strong>Project Language: English</strong></p><p><strong>Capacity: 40 hours per week</strong></p><p><br></p><p>This role is suited to a Data Scientist who has previous experience modelling ranking algorithms, particularly for optimisation within an e-commerce environment.</p><p>Utilising your chosen open-source LTR (learning to rank) framework, you will build a new model which can optimise search results ranking based on multiple variables. The current model in use was built with XGBoost but is being retired.</p><p><br></p><p><strong>Key Tasks</strong></p><ul><li>Develop an LTR framework module to train models that can optimise custom targets depending on the context.</li><li>Implement LTR compatibility with a selection of value added services which are offered across the marketplace.</li><li>Optimisation of specific transaction types and marketplace features.</li><li>Explore and develop personalisation features with the ranking system to cater to individual user preferences.</li><li>Work towards an unbiased LTR system which ensures fairness and diversity.</li><li>Manage complexities around compatibility and the balance between ad revenue and user experience.</li></ul><p><br></p><p><strong>Ideal Skillset:</strong></p><ul><li>Previous experience working on complex ranking models – ideally within e-commerce / search results environment</li><li>Deep knowledge in LTR machine learning</li><li>Python &amp; relevant Python libraries</li><li>NLP</li><li>AWS cloud services (desirable)</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-13
+3958438566,https://de.linkedin.com/jobs/view/data-scientist-germany-d-f-m-at-vr-smart-guide-3958438566?position=10&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=eHWynfb8BnHpZJCnYVkZnQ%3D%3D&trk=public_jobs_jserp-result_search-card,,"Data Scientist - Germany (d, f, m)",VR Smart Guide,"Berlin, Berlin, Germany","Your mission
+
+As a Data Scientist at VR Smart Guide your mission is to develop and implement data science models to drive a data-driven business strategy. Your goals include improving the accuracy of credit risk predictions, creating data-driven solutions for revenue maximization, cost savings, customer satisfaction, and operational efficiency, including the productization of models. You will collaborate with the data platform, product, business, and engineering teams to identify, acquire, and integrate various data sources to inform and refine your model development.
+
+Your role and contribution
+
+
+Independently develop and deploy new machine learning models.
+Develop, refine, and implement machine learning models for creditworthiness prediction and recommendation engines.
+Oversee the implementation and maintenance of the infrastructure supporting these models in collaboration with the Data Platform team.
+Demonstrate continuous improvement in model accuracy through iterative development and fine-tuning.
+Continuously monitor and enhance model performance based on business KPIs.
+Improve model accuracy by retraining models and implementing feedback loops.
+Collaborate with cross-functional teams (Data Platform, Product, Business, Engineering) to identify valuable data sources.
+Lead the acquisition, integration, and cleaning of diverse data streams to support model development.
+Clearly communicate complex data insights and recommendations to both technical and non-technical stakeholders.
+
+
+
+Your profile
+
+
+Master’s degree in statistics, mathematics, engineering or a similar field. Publishing of relevant articles is a plus
+Minimum 3 years of experience as a Data Scientist in financial services, fin-tech, banking, investments, insurance or a related field
+Proficiency in Python
+Strong empathy for small business owners and a user-centric approach to marketing
+Comfortable operating in a quick and in-transition environment
+Demonstration of resilience and adaptability in the face of challenges, able to pivot when necessary, and maintain focus on delivering value to customers
+Able to make more with less, a mind for automation and simplification
+Fluency in English
+Willing to travel occasionally to Berlin and/or Eschborn
+
+
+
+Our benefits
+
+
+Educational budget of up to 1.500 Euros per year to enhance your professional knowledge and skills
+A space to express yourself - shape this role and your work according to what you think works best for your development and company success
+A hybrid work environment - we have locations in Eschborn (near Frankfurt) and Berlin to come together to collaborate. The rest of the time enjoy the flexibility of remote work
+An exciting mix of cultures - yes, multiple nationalities coming together to serve small business owners AND a mix of speedy and scrappy startup action as well as an established brand to have our backs
+An opportunity to make a difference - in the lives of small business owners and in shaping the way we work, what benefits to establish and how we celebrate each other
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Your mission<br><br>As a Data Scientist at VR Smart Guide your mission is to develop and implement data science models to drive a data-driven business strategy. Your goals include improving the accuracy of credit risk predictions, creating data-driven solutions for revenue maximization, cost savings, customer satisfaction, and operational efficiency, including the productization of models. You will collaborate with the data platform, product, business, and engineering teams to identify, acquire, and integrate various data sources to inform and refine your model development.<br><br>Your role and contribution<br><br><ul><li>Independently develop and deploy new machine learning models.</li><li>Develop, refine, and implement machine learning models for creditworthiness prediction and recommendation engines.</li><li>Oversee the implementation and maintenance of the infrastructure supporting these models in collaboration with the Data Platform team.</li><li>Demonstrate continuous improvement in model accuracy through iterative development and fine-tuning.</li><li>Continuously monitor and enhance model performance based on business KPIs.</li><li>Improve model accuracy by retraining models and implementing feedback loops.</li><li>Collaborate with cross-functional teams (Data Platform, Product, Business, Engineering) to identify valuable data sources.</li><li>Lead the acquisition, integration, and cleaning of diverse data streams to support model development.</li><li>Clearly communicate complex data insights and recommendations to both technical and non-technical stakeholders.<br><br><br></li></ul>Your profile<br><br><ul><li>Master’s degree in statistics, mathematics, engineering or a similar field. Publishing of relevant articles is a plus</li><li>Minimum 3 years of experience as a Data Scientist in financial services, fin-tech, banking, investments, insurance or a related field</li><li>Proficiency in Python</li><li>Strong empathy for small business owners and a user-centric approach to marketing</li><li>Comfortable operating in a quick and in-transition environment</li><li>Demonstration of resilience and adaptability in the face of challenges, able to pivot when necessary, and maintain focus on delivering value to customers</li><li>Able to make more with less, a mind for automation and simplification</li><li>Fluency in English</li><li>Willing to travel occasionally to Berlin and/or Eschborn<br><br><br></li></ul>Our benefits<br><br><ul><li>Educational budget of up to 1.500 Euros per year to enhance your professional knowledge and skills</li><li>A space to express yourself - shape this role and your work according to what you think works best for your development and company success</li><li>A hybrid work environment - we have locations in Eschborn (near Frankfurt) and Berlin to come together to collaborate. The rest of the time enjoy the flexibility of remote work</li><li>An exciting mix of cultures - yes, multiple nationalities coming together to serve small business owners AND a mix of speedy and scrappy startup action as well as an established brand to have our backs</li><li>An opportunity to make a difference - in the lives of small business owners and in shaping the way we work, what benefits to establish and how we celebrate each other<br></li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-24
+3943307517,https://de.linkedin.com/jobs/view/junior-data-scientist-m-w-div-at-deutsche-rentenversicherung-bund-3943307517?position=14&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=mS4f8Y76oYgckkphzih1dQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Junior Data Scientist (m/w/div),Deutsche Rentenversicherung Bund,"Berlin, Berlin, Germany","Tätigkeitsbereich
+
+Das KI-Labor bündelt KI-Expertise und KI-Talente in einer zentralen Einheit in der Stabsstelle Digitalstrategie und digitale Transformation. Als Expertenteam für KI und Anwendungsfall-Fabrik bringen wir KI in die DRV Bund und stehen allen Fachabteilungen als Ansprechpartner*in mit unserem Unterstützungs- und Beratungsangebot zur Seite. In einem stetig wachsenden interdisziplinären Team liefern wir mit Hilfe von KI-Technologien neue Lösungsansätze und leisten so Pionierarbeit für die zahlreichen Herausforderungen einer Bundesbehörde mit mehr als 26.000 Mitarbeitenden.
+
+Ihre Aufgaben
+
+
+Unterstützen bei der Entwicklung und Implementierung komplexer Data Science-Anwendungen im Bereich des maschinellen Lernens und im Kontext GenAI
+Konsolidieren und Aufbereiten von Datensätzen aus verschiedenen Quellen
+Visualisieren und Analysieren großer Datenmengen, z.B. zur Detektion von Mustern, Bias oder Daten-Drifts
+Entwickeln von aussagekräftigen Visualisierungen und Dashboards zur Kommunikation
+Erstellen von Berichten und Präsentationen, um die Ergebnisse der Datenanalysen zu dokumentieren
+Zusammenarbeiten mit anderen Abteilungen, um Daten- und Analyseanforderungen zu verstehen
+
+
+Ihr Profil
+
+
+Abgeschlossene Hochschulbildung (Bachelor, Diplom FH) mit quantitativem Schwerpunkt; idealerweise der Studienrichtung MINT (Mathematik, Informatik, Naturwissenschaften oder Technik) oder der Sozial- bzw. Wirtschaftswissenschaften
+Kenntnisse in SQL und Erfahrung mit gängigen Datenanalyse-Tools (insbesondere Python) sowie gängiger Data Science-Bibliotheken und gegebenenfalls Dashboard-Werkzeugen (beispielsweise PowerBI, SAP Analytics Cloud)
+Erfahrung in der Analyse großer Datenmengen von Vorteil verbunden mit der Fähigkeit komplexe Daten sinnhaft auszuwerten und adressatengerecht darzustellen
+Ausgeprägtes Verständnis von Datenbanktechnologien und die Erfahrung in der Arbeit mit unterschiedlichen Datenbanktypen
+Ausgezeichnete analytische und Problemlösungs-Fähigkeiten und Sie teilen gerne ihre Erkenntnisse mit anderen Teammitgliedern und entwickeln diese zusammen weiter
+Begeisterung für die Bereiche Data Analytics, Artifical Intelligence und Geschäftsprozessautomatisierung, insbesondere im Kontext des öffentlichen Sektors (GovTech)
+Ihr Profil wird abgerundet durch einen ausgeprägten Teamgeist und eine kundenorientierte und agile Arbeitsweise
+
+
+Wir bieten Ihnen
+
+
+Wir bieten Ihnen eine interessante und abwechslungsreiche Tätigkeit mit allen Vorteilen einer großen öffentlichen Arbeitgeberin
+Die Möglichkeit durch eigene Ideen die digitale Transformation der DRV Bund mitzugestalten
+Vielfältige Projekte wie KIRA, in dem eine KI-basierte Anwendung für unseren Betriebsprüfdienst entwickelt wird
+Individuelle Fortbildungsmöglichkeiten, vielseitige Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum sowie Communities of Practice (CoP) unterstützen den kontinuierlichen Wissensaustausch
+Eine hervorragende Aussicht aus dem 16. Stock des Silberturms über den Dächern Berlins am Hohenzollerndamm; mindestens ein Tag Präsenz pro Woche
+Vereinbarkeit von Familie und Beruf durch flexible Arbeitszeitmodelle sowie der Möglichkeit der Arbeit im Homeoffice
+
+
+Weitere Informationen
+
+Zur Besetzung der Position werden wir mit den qualifiziertesten Bewerber*innen ein Auswahlgespräch führen. Bestandteil des Auswahlverfahrens wird eine Arbeitsprobe in Form einer Programmieraufgabe in Python sein.
+
+Vorteile
+
+
+Familienfreundliche Arbeitszeiten
+
+
+
+30 Urlaubstage bei 5-Tage-Woche
+
+
+
+
+
+Fort- und Weiterbildungsmöglichkeiten
+
+
+
+
+
+Home Office
+
+Ansprechpartner*in
+
+Christina Urbansky
+
+Personalgewinnung
+
+E-Mail: christina.urbansky@drv-bund.de
+
+Tel.: 0160 91586464
+
+Diese Stellenausschreibung bezieht sich auf einen Bereich, in dem Frauen im Sinne des Bundesgleichstellungsgesetzes unterrepräsentiert sind. Die Deutsche Rentenversicherung Bund hat sich die berufliche Förderung von Frauen zum Ziel gesetzt. Wir sehen daher Bewerbungen von Frauen mit besonderem Interesse entgegen.
+
+Menschen mit einer Schwerbehinderung oder ihnen Gleichgestellte im Sinne von
+
+
+2 Abs. 2 und 3 SGB IX werden bei gleicher Eignung bevorzugt berücksichtigt. Begrüßt werden Bewerbungen von Menschen aller Nationalitäten.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Tätigkeitsbereich<br><br>Das KI-Labor bündelt KI-Expertise und KI-Talente in einer zentralen Einheit in der Stabsstelle Digitalstrategie und digitale Transformation. Als Expertenteam für KI und Anwendungsfall-Fabrik bringen wir KI in die DRV Bund und stehen allen Fachabteilungen als Ansprechpartner*in mit unserem Unterstützungs- und Beratungsangebot zur Seite. In einem stetig wachsenden interdisziplinären Team liefern wir mit Hilfe von KI-Technologien neue Lösungsansätze und leisten so Pionierarbeit für die zahlreichen Herausforderungen einer Bundesbehörde mit mehr als 26.000 Mitarbeitenden.<br><br>Ihre Aufgaben<br><br><ul><li>Unterstützen bei der Entwicklung und Implementierung komplexer Data Science-Anwendungen im Bereich des maschinellen Lernens und im Kontext GenAI</li><li>Konsolidieren und Aufbereiten von Datensätzen aus verschiedenen Quellen</li><li>Visualisieren und Analysieren großer Datenmengen, z.B. zur Detektion von Mustern, Bias oder Daten-Drifts</li><li>Entwickeln von aussagekräftigen Visualisierungen und Dashboards zur Kommunikation</li><li>Erstellen von Berichten und Präsentationen, um die Ergebnisse der Datenanalysen zu dokumentieren</li><li>Zusammenarbeiten mit anderen Abteilungen, um Daten- und Analyseanforderungen zu verstehen<br><br></li></ul>Ihr Profil<br><br><ul><li>Abgeschlossene Hochschulbildung (Bachelor, Diplom FH) mit quantitativem Schwerpunkt; idealerweise der Studienrichtung MINT (Mathematik, Informatik, Naturwissenschaften oder Technik) oder der Sozial- bzw. Wirtschaftswissenschaften</li><li>Kenntnisse in SQL und Erfahrung mit gängigen Datenanalyse-Tools (insbesondere Python) sowie gängiger Data Science-Bibliotheken und gegebenenfalls Dashboard-Werkzeugen (beispielsweise PowerBI, SAP Analytics Cloud)</li><li>Erfahrung in der Analyse großer Datenmengen von Vorteil verbunden mit der Fähigkeit komplexe Daten sinnhaft auszuwerten und adressatengerecht darzustellen</li><li>Ausgeprägtes Verständnis von Datenbanktechnologien und die Erfahrung in der Arbeit mit unterschiedlichen Datenbanktypen</li><li>Ausgezeichnete analytische und Problemlösungs-Fähigkeiten und Sie teilen gerne ihre Erkenntnisse mit anderen Teammitgliedern und entwickeln diese zusammen weiter</li><li>Begeisterung für die Bereiche Data Analytics, Artifical Intelligence und Geschäftsprozessautomatisierung, insbesondere im Kontext des öffentlichen Sektors (GovTech)</li><li>Ihr Profil wird abgerundet durch einen ausgeprägten Teamgeist und eine kundenorientierte und agile Arbeitsweise<br><br></li></ul>Wir bieten Ihnen<br><br><ul><li>Wir bieten Ihnen eine interessante und abwechslungsreiche Tätigkeit mit allen Vorteilen einer großen öffentlichen Arbeitgeberin</li><li>Die Möglichkeit durch eigene Ideen die digitale Transformation der DRV Bund mitzugestalten</li><li>Vielfältige Projekte wie KIRA, in dem eine KI-basierte Anwendung für unseren Betriebsprüfdienst entwickelt wird</li><li>Individuelle Fortbildungsmöglichkeiten, vielseitige Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum sowie Communities of Practice (CoP) unterstützen den kontinuierlichen Wissensaustausch</li><li>Eine hervorragende Aussicht aus dem 16. Stock des Silberturms über den Dächern Berlins am Hohenzollerndamm; mindestens ein Tag Präsenz pro Woche</li><li>Vereinbarkeit von Familie und Beruf durch flexible Arbeitszeitmodelle sowie der Möglichkeit der Arbeit im Homeoffice<br><br></li></ul>Weitere Informationen<br><br>Zur Besetzung der Position werden wir mit den qualifiziertesten Bewerber*innen ein Auswahlgespräch führen. Bestandteil des Auswahlverfahrens wird eine Arbeitsprobe in Form einer Programmieraufgabe in Python sein.<br><br>Vorteile<br><br><ul><li>Familienfreundliche Arbeitszeiten</li></ul><li><br><br></li>30 Urlaubstage bei 5-Tage-Woche<br><br><li><br><br></li>Fort- und Weiterbildungsmöglichkeiten<br><br><li><br><br></li>Home Office<br><br>Ansprechpartner*in<br><br><strong>Christina Urbansky<br><br></strong><em>Personalgewinnung<br><br></em><strong>E-Mail:</strong> christina.urbansky@drv-bund.de<br><br><strong>Tel.:</strong> 0160 91586464<br><br>Diese Stellenausschreibung bezieht sich auf einen Bereich, in dem Frauen im Sinne des Bundesgleichstellungsgesetzes unterrepräsentiert sind. Die Deutsche Rentenversicherung Bund hat sich die berufliche Förderung von Frauen zum Ziel gesetzt. Wir sehen daher Bewerbungen von Frauen mit besonderem Interesse entgegen.<br><br>Menschen mit einer Schwerbehinderung oder ihnen Gleichgestellte im Sinne von<br><br><ul><li>2 Abs. 2 und 3 SGB IX werden bei gleicher Eignung bevorzugt berücksichtigt. Begrüßt werden Bewerbungen von Menschen aller Nationalitäten.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-11
+3942827929,https://de.linkedin.com/jobs/view/ml-engineer-d-f-m-at-taxfix-3942827929?position=15&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=zguTD7Mg20kBc5YQQq5eTw%3D%3D&trk=public_jobs_jserp-result_search-card,,ML Engineer (d/f/m),Taxfix,"Berlin, Berlin, Germany","About Us
+
+Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.
+
+Spread across Berlin and Madrid, Team Taxfix is a compassionate group of solution-finders. We speak our minds openly, and with 500+ professionals from 45+ different nationalities, we're rich in ideas and voices. In four years, we've raised over 300 million euros in funding and helped people reclaim more than one billion euros.
+
+Role Overview
+
+You will work closely with product teams to understand their specific product opportunities, and where these can translate them into practical AI/ML solutions that enhance the user experience. Leveraging the tools and resources provided by our ML Platform, you'll focus on integrating ML and AI to build intelligent features within our products. This role offers an exciting opportunity to see your work directly influence the user experience and shape the future of our product landscape.
+
+Key Responsibilities
+
+
+Collaborate with Product Managers and Application Engineers to define technical requirements and success metrics for ML and AI-powered features.
+Translate product concepts into feasible ML and AI solutions, leveraging established approaches and pre-trained models provided by the ML Platform.
+Design, develop, and test models within product features, ensuring high accuracy, performance, and explainability.
+Implement robust monitoring and evaluation frameworks to track model performance and identify areas for improvement.
+Integrate models into production environments, working seamlessly with application developers and DevOps teams.
+Stay up-to-date with the latest advancements in relevant domains and communicate their potential impact to teams.
+Document technical solutions and participate in knowledge sharing within the organization.
+
+
+Qualifications
+
+
+3+ years of experience in applying machine learning to solve real-world product opportunities
+Strong understanding of core ML concepts, algorithms, and model development methodologies.
+Experience with popular ML libraries and frameworks and familiar working with foundational AI models
+Proven ability to translate business requirements into technical specifications and deliver solutions on time and within budget.
+Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.
+Passion for user experience and a strong desire to build products that make a positive impact and enable making tax simple
+
+
+Bonus Points
+
+
+Experience with specific ML domains relevant to tax, user journeys and personalization
+Understanding of MLOps principles and best practices.
+
+
+Why Taxfix?
+
+
+A chance to do meaningful, people-centric work with an international team of passionate professionals.
+Holistic wellbeing with free mental health coaching sessions and yoga.
+A monthly allowance to spend on an extensive range of services that you can use and rollover as flexibly as you like.
+Employee stock options for all employees—because everyone deserves to benefit from the success they help to create.
+Dedicated relocation and visa support for those that need it.
+30 annual vacation days and flexible working hours.
+Work from abroad for up to six weeks every year. Just align with your team, and then enjoy your trip.
+Free tax declaration filing, of course, through the Taxfix app—and internal support for all personal tax-related questions.
+Have a four-legged friend in your life? We’re happy to have dogs join us in the office.
+
+
+Excited? So are we. Learn more about Team Taxfix on our blog and get a glimpse of our culture below:
+
+At Taxfix, we believe that incredible things happen when you have a wealth of perspectives and experiences. We're proudly committed to equal employment and development opportunities no matter your gender, race, religion, age, sexual orientation, colour, disability, or place of origin. To help mitigate any potential unconscious biases, we ask that you refrain from including your picture, age, or marital status on your CV. Let your experiences speak for themselves.
+
+Not sure if you meet all the requirements for this role? Please apply anyways. You might bring something special to the team that we hadn't previously considered.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Us<br><br></strong>Every year millions of people are either filing their taxes in fear or giving up on their tax refund altogether. We're working on fixing that. Our intuitive app enables anyone, regardless of education or background, to file their taxes with newfound confidence.<br><br>Spread across Berlin and Madrid, Team Taxfix is a compassionate group of solution-finders. We speak our minds openly, and with 500+ professionals from 45+ different nationalities, we're rich in ideas and voices. In four years, we've raised over 300 million euros in funding and helped people reclaim more than one billion euros.<br><br><strong>Role Overview<br><br></strong>You will work closely with product teams to understand their specific product opportunities, and where these can translate them into practical AI/ML solutions that enhance the user experience. Leveraging the tools and resources provided by our ML Platform, you'll focus on integrating ML and AI to build intelligent features within our products. This role offers an exciting opportunity to see your work directly influence the user experience and shape the future of our product landscape.<br><br><strong>Key Responsibilities<br><br></strong><ul><li>Collaborate with Product Managers and Application Engineers to define technical requirements and success metrics for ML and AI-powered features.</li><li>Translate product concepts into feasible ML and AI solutions, leveraging established approaches and pre-trained models provided by the ML Platform.</li><li>Design, develop, and test models within product features, ensuring high accuracy, performance, and explainability.</li><li>Implement robust monitoring and evaluation frameworks to track model performance and identify areas for improvement.</li><li>Integrate models into production environments, working seamlessly with application developers and DevOps teams.</li><li>Stay up-to-date with the latest advancements in relevant domains and communicate their potential impact to teams.</li><li>Document technical solutions and participate in knowledge sharing within the organization.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>3+ years of experience in applying machine learning to solve real-world product opportunities</li><li>Strong understanding of core ML concepts, algorithms, and model development methodologies.</li><li>Experience with popular ML libraries and frameworks and familiar working with foundational AI models</li><li>Proven ability to translate business requirements into technical specifications and deliver solutions on time and within budget.</li><li>Excellent communication and collaboration skills, with the ability to work effectively in cross-functional teams.</li><li>Passion for user experience and a strong desire to build products that make a positive impact and enable making tax simple<br><br></li></ul><strong>Bonus Points<br><br></strong><ul><li>Experience with specific ML domains relevant to tax, user journeys and personalization</li><li>Understanding of MLOps principles and best practices.<br><br></li></ul><strong>Why Taxfix?<br><br></strong><ul><li>A chance to do meaningful, people-centric work with an international team of passionate professionals.</li><li>Holistic wellbeing with free mental health coaching sessions and yoga.</li><li>A monthly allowance to spend on an extensive range of services that you can use and rollover as flexibly as you like.</li><li>Employee stock options for all employees—because everyone deserves to benefit from the success they help to create.</li><li>Dedicated relocation and visa support for those that need it.</li><li>30 annual vacation days and flexible working hours.</li><li>Work from abroad for up to six weeks every year. Just align with your team, and then enjoy your trip.</li><li>Free tax declaration filing, of course, through the Taxfix app—and internal support for all personal tax-related questions.</li><li>Have a four-legged friend in your life? We’re happy to have dogs join us in the office.<br><br></li></ul>Excited? So are we. Learn more about Team Taxfix on our blog and get a glimpse of our culture below:<br><br><em>At Taxfix, we believe that incredible things happen when you have a wealth of perspectives and experiences. We're proudly committed to equal employment and development opportunities no matter your gender, race, religion, age, sexual orientation, colour, disability, or place of origin. To help mitigate any potential unconscious biases, we ask that you refrain from including your picture, age, or marital status on your CV. Let your experiences speak for themselves.<br><br></em>Not sure if you meet all the requirements for this role? Please apply anyways. You might bring something special to the team that we hadn't previously considered.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-07-01
+3943306861,https://de.linkedin.com/jobs/view/data-scientist-m-w-div-at-deutsche-rentenversicherung-bund-3943306861?position=19&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=P2fuanEHRb99UJYrwTzIWw%3D%3D&trk=public_jobs_jserp-result_search-card,,Data Scientist (m/w/div),Deutsche Rentenversicherung Bund,"Berlin, Berlin, Germany","Tätigkeitsbereich
+
+Das KI-Labor bündelt KI-Expertise und KI-Talente in einer zentralen Einheit in der Stabsstelle Digitalstrategie und digitale Transformation. Als Expertenteam für KI und Anwendungsfall-Fabrik bringen wir KI in die DRV Bund und stehen allen Fachabteilungen als Ansprechpartner*in mit unserem Unterstützungs- und Beratungsangebot zur Seite. In einem stetig wachsenden interdisziplinären Team liefern wir mit Hilfe von KI-Technologien neue Lösungsansätze und leisten so Pionierarbeit für die zahlreichen Herausforderungen einer Bundesbehörde mit mehr als 26.000 Mitarbeitenden.
+
+Ihre Aufgaben
+
+
+Entwickeln und Implementieren von Data Science-Anwendungen mit einem crossfunktionalen Team und/ oder externen Dienstleistern
+Durchführen komplexer Modellierungsarbeiten im Bereich des maschinellen Lernens (z.B. Random Forest, Gradient Boosting, etc.) und im Kontext GenAI (z.B. Large Language Modelle, Fine-Tuning etc.)
+Visualisieren und Analysieren großer Datenmengen, z.B. zur Detektion von Bias oder Daten-Drifts
+Optimieren und Warten von teil-automatisierten MLOps- und DevOps-Prozessen
+Enges Zusammenarbeiten mit den Product Ownern und IT-Spezialisten zur Gewährung reibungsloser Prozesse und zuverlässiger Resultate
+Fachliches Weiterentwickeln von KI-Anwendungen auf Basis von datenanalytischen Erkenntnissen in Zusammenarbeit mit Fachexpert*innen
+
+
+Ihr Profil
+
+
+Abgeschlossene Hochschulbildung (Bachelor, Diplom FH) mit quantitativem Schwerpunkt; idealerweise der Studienrichtung MINT (Mathematik, Informatik, Naturwissenschaften oder Technik) oder der Sozial- bzw. Wirtschaftswissenschaften
+Mehrjährige Erfahrung in der Analyse großer Datenmengen, insbesondere mit Python bzw. SQL
+Erste Erfahrungen in der Entwicklung und Umsetzung von Prädiktionsmodellen und Selektionsverfahren auf Basis von Routinedaten gesammelt
+Idealerweise erste Erfahrungen in der Entwicklung von Large Language Modellen (z.B. LoRA, RAG etc.)
+Erfahrung im Umgang mit gängigen Data Science-Tools (Git, Jira, Docker, Kubernetes) sind ein Plus
+
+
+Wir bieten Ihnen
+
+
+Wir bieten Ihnen eine interessante und abwechslungsreiche Tätigkeit mit allen Vorteilen einer großen öffentlichen Arbeitgeberin
+Die Möglichkeit durch eigene Ideen die digitale Transformation der DRV Bund mitzugestalten
+Vielfältige Projekte wie KIRA, in dem eine KI-basierte Anwendung für unseren Betriebsprüfdienst entwickelt wird
+Individuelle Fortbildungsmöglichkeiten, vielseitige Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum sowie Communities of Practice (CoP) unterstützen den kontinuierlichen Wissensaustausch
+Eine hervorragende Aussicht aus dem 16. Stock des Silberturms über den Dächern Berlins am Hohenzollerndamm; mindestens ein Tag Präsenz pro Woche
+Vereinbarkeit von Familie und Beruf durch flexible Arbeitszeitmodelle sowie der Möglichkeit der Arbeit im Homeoffice
+
+
+Weitere Informationen
+
+Zur Besetzung der Position werden wir mit den qualifiziertesten Bewerber*innen ein Auswahlgespräch führen. Bestandteil des Auswahlverfahrens wird eine Arbeitsprobe in Form einer Programmieraufgabe in Python sein.
+
+Vorteile
+
+
+
+
+
+30 Urlaubstage bei 5-Tage-Woche
+
+
+
+
+
+Jahressonderzahlungen und vermögenswirksame Leistungen
+
+
+Unbefristete Stelle
+Herausforderungen
+
+
+Ansprechpartner*in
+
+Suraj Sutar
+
+E-Mail: suraj.rambhau.sutar@drv-bund.de
+
+Tel.: +49 171 9283810
+
+Schreiben Sie Mir Bei
+
+Die Deutsche Rentenversicherung Bund hat sich die berufliche Förderung von Frauen zum Ziel gesetzt. Wir sehen daher Bewerbungen von Frauen mit besonderem Interesse entgegen.
+
+Menschen mit einer Schwerbehinderung oder ihnen Gleichgestellte im Sinne von
+
+
+2 Abs. 2 und 3 SGB IX werden bei gleicher Eignung bevorzugt berücksichtigt. Begrüßt werden Bewerbungen von Menschen aller Nationalitäten.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Tätigkeitsbereich<br><br>Das KI-Labor bündelt KI-Expertise und KI-Talente in einer zentralen Einheit in der Stabsstelle Digitalstrategie und digitale Transformation. Als Expertenteam für KI und Anwendungsfall-Fabrik bringen wir KI in die DRV Bund und stehen allen Fachabteilungen als Ansprechpartner*in mit unserem Unterstützungs- und Beratungsangebot zur Seite. In einem stetig wachsenden interdisziplinären Team liefern wir mit Hilfe von KI-Technologien neue Lösungsansätze und leisten so Pionierarbeit für die zahlreichen Herausforderungen einer Bundesbehörde mit mehr als 26.000 Mitarbeitenden.<br><br>Ihre Aufgaben<br><br><ul><li>Entwickeln und Implementieren von Data Science-Anwendungen mit einem crossfunktionalen Team und/ oder externen Dienstleistern</li><li>Durchführen komplexer Modellierungsarbeiten im Bereich des maschinellen Lernens (z.B. Random Forest, Gradient Boosting, etc.) und im Kontext GenAI (z.B. Large Language Modelle, Fine-Tuning etc.)</li><li>Visualisieren und Analysieren großer Datenmengen, z.B. zur Detektion von Bias oder Daten-Drifts</li><li>Optimieren und Warten von teil-automatisierten MLOps- und DevOps-Prozessen</li><li>Enges Zusammenarbeiten mit den Product Ownern und IT-Spezialisten zur Gewährung reibungsloser Prozesse und zuverlässiger Resultate</li><li>Fachliches Weiterentwickeln von KI-Anwendungen auf Basis von datenanalytischen Erkenntnissen in Zusammenarbeit mit Fachexpert*innen<br><br></li></ul>Ihr Profil<br><br><ul><li>Abgeschlossene Hochschulbildung (Bachelor, Diplom FH) mit quantitativem Schwerpunkt; idealerweise der Studienrichtung MINT (Mathematik, Informatik, Naturwissenschaften oder Technik) oder der Sozial- bzw. Wirtschaftswissenschaften</li><li>Mehrjährige Erfahrung in der Analyse großer Datenmengen, insbesondere mit Python bzw. SQL</li><li>Erste Erfahrungen in der Entwicklung und Umsetzung von Prädiktionsmodellen und Selektionsverfahren auf Basis von Routinedaten gesammelt</li><li>Idealerweise erste Erfahrungen in der Entwicklung von Large Language Modellen (z.B. LoRA, RAG etc.)</li><li>Erfahrung im Umgang mit gängigen Data Science-Tools (Git, Jira, Docker, Kubernetes) sind ein Plus<br><br></li></ul>Wir bieten Ihnen<br><br><ul><li>Wir bieten Ihnen eine interessante und abwechslungsreiche Tätigkeit mit allen Vorteilen einer großen öffentlichen Arbeitgeberin</li><li>Die Möglichkeit durch eigene Ideen die digitale Transformation der DRV Bund mitzugestalten</li><li>Vielfältige Projekte wie KIRA, in dem eine KI-basierte Anwendung für unseren Betriebsprüfdienst entwickelt wird</li><li>Individuelle Fortbildungsmöglichkeiten, vielseitige Schulungsangebote und die Teilnahme an Fachkonferenzen fördern fachliches Wachstum sowie Communities of Practice (CoP) unterstützen den kontinuierlichen Wissensaustausch</li><li>Eine hervorragende Aussicht aus dem 16. Stock des Silberturms über den Dächern Berlins am Hohenzollerndamm; mindestens ein Tag Präsenz pro Woche</li><li>Vereinbarkeit von Familie und Beruf durch flexible Arbeitszeitmodelle sowie der Möglichkeit der Arbeit im Homeoffice<br><br></li></ul>Weitere Informationen<br><br>Zur Besetzung der Position werden wir mit den qualifiziertesten Bewerber*innen ein Auswahlgespräch führen. Bestandteil des Auswahlverfahrens wird eine Arbeitsprobe in Form einer Programmieraufgabe in Python sein.<br><br>Vorteile<br><br><li><br><br></li>30 Urlaubstage bei 5-Tage-Woche<br><br><li><br><br></li>Jahressonderzahlungen und vermögenswirksame Leistungen<br><br><ul><li>Unbefristete Stelle</li><li>Herausforderungen<br><br></li></ul>Ansprechpartner*in<br><br><strong>Suraj Sutar<br><br></strong><strong>E-Mail:</strong> suraj.rambhau.sutar@drv-bund.de<br><br><strong>Tel.:</strong> +49 171 9283810<br><br><strong>Schreiben Sie Mir Bei<br><br></strong>Die Deutsche Rentenversicherung Bund hat sich die berufliche Förderung von Frauen zum Ziel gesetzt. Wir sehen daher Bewerbungen von Frauen mit besonderem Interesse entgegen.<br><br>Menschen mit einer Schwerbehinderung oder ihnen Gleichgestellte im Sinne von<br><br><ul><li>2 Abs. 2 und 3 SGB IX werden bei gleicher Eignung bevorzugt berücksichtigt. Begrüßt werden Bewerbungen von Menschen aller Nationalitäten.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-11
+3954592767,https://de.linkedin.com/jobs/view/junior-data-scientist-m-w-d-%E2%80%93-risikomodelle-at-sparkassen-rating-und-risikosysteme-3954592767?position=20&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=jcU2kqJ2QnrkL2EOHQuQXQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Junior Data Scientist (m/w/d) – Risikomodelle,Sparkassen Rating und Risikosysteme,Berlin Metropolitan Area,"Die Sparkassen Rating und Risikosysteme (SR) ist der zentrale Dienstleister für Verfahren des Risiko­manage­ments in der Sparkassen-Finanzgruppe. Wir unterstützen die Institute mit Standardlösungen in den Bereichen der Risiko­messung und -steuerung, der regulatorischen Banksteuerung sowie im Vertrieb mit Data-Analytics-Lösungen. Gemeinsam mit unseren Partnern bieten wir den Instituten, von der Konzeption der Verfahren, über deren Weiterentwicklung, IT-Umsetzung und Umsetzungsunterstützung, zentrale und standardisierte Lösungen an.
+
+Junior Data Scientist (m/w/d) – Risikomodelle
+
+Wir suchen ständig qualifizierte Unterstützung
+
+Aufgaben
+
+
+Mitarbeit an Gremien- oder Kundenprojekten im Umfeld der Risikobewertung (z. B. Rating, Scoring, Verlustschätzung / LGD, makroökonomische Zeitreihenmodelle, IFRS9)
+Konzeption, Parameterschätzung, Modellpflege und Validierung unter Berücksichtigung regulatorischer Vorgaben und betriebswirtschaftlicher Anforderungen unserer Kunden
+Erstellung von Fach- / DV-Konzepten, Schnitt­stellenspezifikationen und Datenmodellierung
+Begleitung der technischen Implementierung und IT-Testing
+Beratung und Ergebnispräsentation bei unseren Kunden und in Fach- / Expertenkreisen
+
+
+Profil
+
+
+Abgeschlossenes Studium (ggf. Promotion) im Bereich Wirtschafts­wissenschaften, Informatik, Mathematik, Physik oder vergleichbares quantitatives Studium
+Gute Kenntnisse in der anwendungsorientierten Statistik, Finanzmathematik oder dem Risiko­management
+Idealerweise erste Erfahrungen:
+in der praktischen Anwendung und Nutzung statistischer Methoden
+mit Machine-Learning-Algorithmen oder numerischer Optimierung (z. B. Regressionsverfahren, Random Forests, neuronale Netze)
+im Umgang mit SQL und in einem anderen Datenbankmanagementsystem
+mit einem Analysetool (z. B. R, SAS, KNIME, SPSS, Matlab) oder gängigen Programmiersprachen (z. B. Python, Java)
+im Umfeld von Banken, Beratungs-, Wirtschaftsprüfungs- oder Versicherungs­gesellschaft
+Ausgeprägtes teamorientiertes Handeln mit einem Schuss Humor
+Sehr gute Deutschkenntnisse in Wort und Schrift auf C1-Niveau
+
+Wir bieten
+
+
+Eine unbefristete Tätigkeit in einem hoch versierten Arbeitsumfeld mit anspruchsvollen Aufgaben und einem attraktiven Vergütungspaket
+30 Tage Urlaub + 2 Bankfeiertage und zusätzlichen Sonderurlaub für besondere Anlässe
+Betriebliche Altersvorsorge und vermögens­wirksame Leistungen
+Individuelle interne | externe Weiterbildung über unsere Akademie
+Flexible Arbeitszeiten mit Gleitzeit und Option zum mobilen Arbeiten für eine echte Work-Life-Balance
+Betriebliches Gesundheitsmanagement
+Zuzahlung zum Jobticket und Essensgutscheine
+Dienstrad-Leasing (JobRad) als zusätzliches Mobilitätsangebot
+Kostenfreie Girokontoführung inkl. Visa Card Gold bei der Berliner Sparkasse
+Interne Veranstaltungen: Meet-Ups, Afterworks, Sommer- und Weihnachtsfeste
+Zentraler und moderner Arbeitsplatz
+
+
+Important note
+
+Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.
+
+LNKD1_DE
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Die <strong>Sparkassen Rating und Risikosysteme (SR)</strong> ist der zentrale Dienstleister für Verfahren des Risiko­manage­ments in der Sparkassen-Finanzgruppe. Wir unterstützen die Institute mit Standardlösungen in den Bereichen der Risiko­messung und -steuerung, der regulatorischen Banksteuerung sowie im Vertrieb mit Data-Analytics-Lösungen. Gemeinsam mit unseren Partnern bieten wir den Instituten, von der Konzeption der Verfahren, über deren Weiterentwicklung, IT-Umsetzung und Umsetzungsunterstützung, zentrale und standardisierte Lösungen an.<br><br><strong>Junior Data Scientist (m/w/d) – Risikomodelle<br><br></strong>Wir suchen ständig qualifizierte Unterstützung<br><br><strong>Aufgaben<br><br></strong><ul><li>Mitarbeit an Gremien- oder Kundenprojekten im Umfeld der Risikobewertung (z. B. Rating, Scoring, Verlustschätzung / LGD, makroökonomische Zeitreihenmodelle, IFRS9)</li><li>Konzeption, Parameterschätzung, Modellpflege und Validierung unter Berücksichtigung regulatorischer Vorgaben und betriebswirtschaftlicher Anforderungen unserer Kunden</li><li>Erstellung von Fach- / DV-Konzepten, Schnitt­stellenspezifikationen und Datenmodellierung</li><li>Begleitung der technischen Implementierung und IT-Testing</li><li>Beratung und Ergebnispräsentation bei unseren Kunden und in Fach- / Expertenkreisen<br><br></li></ul><strong>Profil<br><br></strong><ul><li>Abgeschlossenes Studium (ggf. Promotion) im Bereich Wirtschafts­wissenschaften, Informatik, Mathematik, Physik oder vergleichbares quantitatives Studium</li><li>Gute Kenntnisse in der anwendungsorientierten Statistik, Finanzmathematik oder dem Risiko­management</li><li>Idealerweise erste Erfahrungen:</li><ul><li>in der praktischen Anwendung und Nutzung statistischer Methoden </li><li>mit Machine-Learning-Algorithmen oder numerischer Optimierung (z. B. Regressionsverfahren, Random Forests, neuronale Netze)</li><li>im Umgang mit SQL und in einem anderen Datenbankmanagementsystem</li><li>mit einem Analysetool (z. B. R, SAS, KNIME, SPSS, Matlab) oder gängigen Programmiersprachen (z. B. Python, Java)</li><li>im Umfeld von Banken, Beratungs-, Wirtschaftsprüfungs- oder Versicherungs­gesellschaft</li></ul><li>Ausgeprägtes teamorientiertes Handeln mit einem Schuss Humor</li><li>Sehr gute Deutschkenntnisse in Wort und Schrift auf C1-Niveau<br></li></ul><strong>Wir bieten<br><br></strong><ul><li>Eine unbefristete Tätigkeit in einem hoch versierten Arbeitsumfeld mit anspruchsvollen Aufgaben und einem attraktiven Vergütungspaket</li><li>30 Tage Urlaub + 2 Bankfeiertage und zusätzlichen Sonderurlaub für besondere Anlässe</li><li>Betriebliche Altersvorsorge und vermögens­wirksame Leistungen</li><li>Individuelle interne | externe Weiterbildung über unsere Akademie </li><li>Flexible Arbeitszeiten mit Gleitzeit und Option zum mobilen Arbeiten für eine echte Work-Life-Balance</li><li>Betriebliches Gesundheitsmanagement </li><li>Zuzahlung zum Jobticket und Essensgutscheine</li><li>Dienstrad-Leasing (JobRad) als zusätzliches Mobilitätsangebot</li><li>Kostenfreie Girokontoführung inkl. Visa Card Gold bei der Berliner Sparkasse</li><li>Interne Veranstaltungen: Meet-Ups, Afterworks, Sommer- und Weihnachtsfeste</li><li>Zentraler und moderner Arbeitsplatz <br><br></li></ul><strong>Important note<br><br></strong>Please be advised that a valid work permit for Germany is required for non-EU citizens. Unfortunately, applications without a valid work permit and sufficient German language skills may not be considered.<br><br>LNKD1_DE
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-20
+3961554785,https://de.linkedin.com/jobs/view/senior-data-scientist-at-blinkist-3961554785?position=24&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=3BiU4OvYELus7FWLb%2BewyQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Senior Data Scientist,Blinkist,"Berlin, Germany","Blinkist connects people with powerful ideas from leading authors and experts to broaden perspectives, gain knowledge, and spark understanding in all areas of their life, both personal and professional.
+
+Used by over 28 million people worldwide, Blinkist distills the key ideas from the most relevant, impactful books and podcasts. These can be read or listened to in 15-minute summaries, that we call Blinks.
+
+Together with Go1, our parent brand, who gives organizations and their employees access to the largest curated e-learning library on the planet, we're on a mission to reach one billion learners as we unlock positive potential through a love of learning. ✨
+
+About The Role
+
+As a Data Scientist specializing in marketing, you will leverage your expertise to enhance our marketing strategies through sophisticated attribution and ROI models. Your role will involve analyzing vast datasets to refine content targeting, enhance the precision of marketing ROI forecasts, and build robust systems that automate and streamline marketing operations. If you thrive in dynamic environments and are passionate about creating solutions that tackle diverse marketing-related challenges, this position offers the opportunity to make a significant impact in shaping our marketing efforts.
+
+A few important notes about this position:
+
+
+You can work in a hybrid setup from our offices in Berlin or Paris, or fully remote within Germany, France or the UK. We can only hire candidates who are based in these countries and already have the legal right to work there.
+Check out the interview process for this position here: https://jobs.blinkist.com/egf
+
+
+What You Will Do
+
+
+Review the performance of existing attribution and eROI systems to identify improvement opportunities
+Develop ML-models to support marketing automation
+Conduct exploratory data analyses to find actionable insights
+Visualize and document your work
+
+
+What You Need To Have
+
+
+You have 4+ years of experience working with machine learning models
+You have 2+ years of experience working with marketing-related challenges and data
+You've worked with the Python ecosystem: Pandas, NumPy, Scikit-learn, Jupyter, Tensorflow
+You are fluent in SQL
+You have good communication skills and communicate confidently in English
+You're a great fit to our team by bringing humour, passion and a drive for ownership
+
+
+Great to Haves
+
+
+You have good knowledge of software architecture and design patterns
+You have experience working with AWS
+You have experience working with DBT
+
+
+Why Blinkist/Go1
+
+Our unique culture of empowerment, mutual respect, and transparency has always been our defining characteristic. We support each other and carve out opportunities for every individual to develop and grow. We strongly believe that diversity powers innovation, thus we celebrate and support our differences, providing equal opportunities for employment and career growth. We embrace a flexible, remote ways of working that support different needs and lifestyles.
+
+🌟 Blinkist is proud to have been selected by LinkedIn as one of the Top 25 Startups in Germany. Glassdoor and Kununu ratings put us amongst Berlin's top employers.
+
+These are some of our most valued benefits:
+
+
+Competitive incentive plan in addition to salary
+Employee Stock Option Plan
+Flexible approach to work
+Monthly work from home or transport reimbursement
+One time work from home office set up budget
+Unlimited access to the Go1 Learning Hub, and mentorship program
+Professional development fund
+Volunteer leave to give back to the community
+30 PTO days + Wellbeing days + Learning Days
+Flexible public holidays - take the days off that are important to you, swap out the ones that are not
+Family planning & parental leave, plus support for parents returning to work
+Wellness initiatives and an Employee Assistance Program
+
+
+If you choose to join our team in Berlin, you'll have access to our modern office space in Neukölln and enjoy healthy plant-based meals prepared fresh every day by our very own chef. 🥑
+
+Apply Now
+
+If we've captured your interest and you want to take part in changing the world through the power of ideas – apply now and tell us what got you excited about this opportunity.
+
+We look forward to hearing from you! ☀️
+
+🔎 Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalised folks tend to only apply when they check every box. If you think you have what it takes, even if you don't meet every single point on the job description, please still get in touch. We'd love to have a chat and see if you could be a great fit.
+
+Information on how we process your personal data can be found in our Privacy Policy: Blinkist Privacy Policy (English) / Blinkist Privacy Policy (German)
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Blinkist connects people with powerful ideas from leading authors and experts to broaden perspectives, gain knowledge, and spark understanding in all areas of their life, both personal and professional.<br><br>Used by over 28 million people worldwide, Blinkist distills the key ideas from the most relevant, impactful books and podcasts. These can be read or listened to in 15-minute summaries, that we call Blinks.<br><br>Together with Go1, our parent brand, who gives organizations and their employees access to the largest curated e-learning library on the planet, we're on a mission to reach one billion learners as we unlock positive potential through a love of learning. ✨<br><br><strong>About The Role<br><br></strong>As a Data Scientist specializing in marketing, you will leverage your expertise to enhance our marketing strategies through sophisticated attribution and ROI models. Your role will involve analyzing vast datasets to refine content targeting, enhance the precision of marketing ROI forecasts, and build robust systems that automate and streamline marketing operations. If you thrive in dynamic environments and are passionate about creating solutions that tackle diverse marketing-related challenges, this position offers the opportunity to make a significant impact in shaping our marketing efforts.<br><br>A few important notes about this position:<br><br><ul><li>You can work in a hybrid setup from our offices in Berlin or Paris, or fully remote within Germany, France or the UK. We can only hire candidates who are based in these countries and already have the legal right to work there.</li><li>Check out the interview process for this position here: https://jobs.blinkist.com/egf <br><br></li></ul>What You Will Do<br><br><ul><li>Review the performance of existing attribution and eROI systems to identify improvement opportunities </li><li>Develop ML-models to support marketing automation </li><li>Conduct exploratory data analyses to find actionable insights </li><li>Visualize and document your work <br><br></li></ul>What You Need To Have<br><br><ul><li>You have 4+ years of experience working with machine learning models </li><li>You have 2+ years of experience working with marketing-related challenges and data </li><li>You've worked with the Python ecosystem: Pandas, NumPy, Scikit-learn, Jupyter, Tensorflow </li><li>You are fluent in SQL </li><li>You have good communication skills and communicate confidently in English </li><li>You're a great fit to our team by bringing humour, passion and a drive for ownership <br><br></li></ul>Great to Haves<br><br><ul><li>You have good knowledge of software architecture and design patterns </li><li>You have experience working with AWS </li><li>You have experience working with DBT <br><br></li></ul>Why Blinkist/Go1<br><br>Our unique culture of empowerment, mutual respect, and transparency has always been our defining characteristic. We support each other and carve out opportunities for every individual to develop and grow. We strongly believe that diversity powers innovation, thus we celebrate and support our differences, providing equal opportunities for employment and career growth. We embrace a flexible, remote ways of working that support different needs and lifestyles.<br><br>🌟 Blinkist is proud to have been selected by LinkedIn as one of the Top 25 Startups in Germany. Glassdoor and Kununu ratings put us amongst Berlin's top employers.<br><br>These are some of our most valued benefits:<br><br><ul><li>Competitive incentive plan in addition to salary</li><li>Employee Stock Option Plan</li><li>Flexible approach to work</li><li>Monthly work from home or transport reimbursement</li><li>One time work from home office set up budget</li><li>Unlimited access to the Go1 Learning Hub, and mentorship program</li><li>Professional development fund</li><li>Volunteer leave to give back to the community</li><li>30 PTO days + Wellbeing days + Learning Days</li><li>Flexible public holidays - take the days off that are important to you, swap out the ones that are not</li><li>Family planning &amp; parental leave, plus support for parents returning to work</li><li>Wellness initiatives and an Employee Assistance Program<br><br></li></ul>If you choose to join our team in Berlin, you'll have access to our modern office space in Neukölln and enjoy healthy plant-based meals prepared fresh every day by our very own chef. 🥑<br><br><strong>Apply Now<br><br></strong>If we've captured your interest and you want to take part in changing the world through the power of ideas – apply now and tell us what got you excited about this opportunity.<br><br>We look forward to hearing from you! ☀️<br><br>🔎 <em>Research shows that while men apply to jobs when they meet an average of 60% of the criteria, women and other marginalised folks tend to only apply when they check every box. If you think you have what it takes, even if you don't meet every single point on the job description, please still get in touch. We'd love to have a chat and see if you could be a great fit.<br><br></em>Information on how we process your personal data can be found in our Privacy Policy: Blinkist Privacy Policy (English) / Blinkist Privacy Policy (German)
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-28
+3960615886,https://de.linkedin.com/jobs/view/senior-machine-learning-engineer-at-futurae-technologies-ag-3960615886?position=25&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=VspMVRlmfVIyS1bQDjVXOQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Senior Machine Learning Engineer,Futurae Technologies AG,"Berlin, Berlin, Germany","At Futurae, we are on a mission to revolutionize cybersecurity by providing businesses and their users with seamless authentication and transaction confirmation solutions. Our customer-centric approach emphasizes security, usability, and innovation. We have a diverse team of industry leaders who work tirelessly to solve tough challenges in online authentication and transaction signing.
+
+We are currently seeking a talented and ambitious Senior Machine Learning Engineer to join our team and lead our fraud detection efforts. In this role, you will have the opportunity to shape the future of cybersecurity while creating outstanding user experiences. You will work closely with our product management and technical teams to design, build, and improve our cutting-edge authentication solution.
+
+Responsibilities:
+
+
+Develop and optimize machine learning models as part of our authentication solution
+Collaborate with cross-functional teams to define feature specifications and ensure high-quality delivery
+Write robust and maintainable code in languages such as Python or Go
+Participate in the entire development cycle of our software, following our Agile development process
+Stay up-to-date with the latest advancements in machine learning and cybersecurity
+
+
+
+Requirements
+
+
+Proven experience as a Machine Learning Engineer, with a focus on cybersecurity
+Strong knowledge of machine learning models and algorithms
+Proficiency in programming languages such as Python or Go
+Experience with data science libraries and tools, such as Pandas, NumPy, and SciPy
+Understanding of security concepts and best practices
+Excellent problem-solving skills and attention to detail
+Strong communication and collaboration abilities
+Experience with Agile development methodologies
+
+
+If you are passionate about machine learning, cybersecurity, and want to be part of a dynamic and friendly team, we would love to hear from you!
+
+Benefits
+
+Why Futurae
+
+Join a young, international, and fast-paced Cybersecurity company with experienced industry leaders
+
+
+Futurae Stock Options
+Yearly personal learning & development budget
+Apple Laptop and equipment for work purposes
+Ability to work remotely (European time zones only)
+Work at the forefront of an inspiring, dynamic tech company in the B2B space in the area of end-user authentication and transaction confirmation
+Be part of our friendly, knowledge-sharing, entrepreneurial culture and flat hierarchy, where we value open and respectful communication, collaboration and an attitude that gets things done for our customers
+Work in a role that gives you responsibility and independence
+Access to coaching, ongoing professional development and training, mentorship and our culture of continuous learning
+
+
+Futurae is an Equal Opportunity employer. All applicants will be considered without regard for race, color, national origin, ethnicity, gender, disability, sexual orientation, gender identity, or religion.
+
+By sending your application, you allow Futurae to handle and store your data.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Futurae, we are on a mission to revolutionize cybersecurity by providing businesses and their users with seamless authentication and transaction confirmation solutions. Our customer-centric approach emphasizes security, usability, and innovation. We have a diverse team of industry leaders who work tirelessly to solve tough challenges in online authentication and transaction signing.<br><br>We are currently seeking a talented and ambitious Senior Machine Learning Engineer to join our team and lead our fraud detection efforts. In this role, you will have the opportunity to shape the future of cybersecurity while creating outstanding user experiences. You will work closely with our product management and technical teams to design, build, and improve our cutting-edge authentication solution.<br><br><strong>Responsibilities:<br><br></strong><ul><li>Develop and optimize machine learning models as part of our authentication solution</li><li>Collaborate with cross-functional teams to define feature specifications and ensure high-quality delivery</li><li>Write robust and maintainable code in languages such as Python or Go</li><li>Participate in the entire development cycle of our software, following our Agile development process</li><li>Stay up-to-date with the latest advancements in machine learning and cybersecurity<br><br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Proven experience as a Machine Learning Engineer, with a focus on cybersecurity</li><li>Strong knowledge of machine learning models and algorithms</li><li>Proficiency in programming languages such as Python or Go</li><li>Experience with data science libraries and tools, such as Pandas, NumPy, and SciPy</li><li>Understanding of security concepts and best practices</li><li>Excellent problem-solving skills and attention to detail</li><li>Strong communication and collaboration abilities</li><li>Experience with Agile development methodologies<br><br></li></ul>If you are passionate about machine learning, cybersecurity, and want to be part of a dynamic and friendly team, we would love to hear from you!<br><br><strong>Benefits<br><br></strong><strong>Why Futurae<br><br></strong>Join a young, international, and fast-paced Cybersecurity company with experienced industry leaders<br><br><ul><li>Futurae Stock Options</li><li>Yearly personal learning &amp; development budget</li><li>Apple Laptop and equipment for work purposes</li><li>Ability to work remotely (European time zones only)</li><li>Work at the forefront of an inspiring, dynamic tech company in the B2B space in the area of end-user authentication and transaction confirmation</li><li>Be part of our friendly, knowledge-sharing, entrepreneurial culture and flat hierarchy, where we value open and respectful communication, collaboration and an attitude that gets things done for our customers</li><li>Work in a role that gives you responsibility and independence</li><li>Access to coaching, ongoing professional development and training, mentorship and our culture of continuous learning<br><br></li></ul>Futurae is an Equal Opportunity employer. All applicants will be considered without regard for race, color, national origin, ethnicity, gender, disability, sexual orientation, gender identity, or religion.<br><br>By sending your application, you allow Futurae to handle and store your data.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-20
+3959204879,https://de.linkedin.com/jobs/view/lead-data-scientist-at-stax-deeptech-greentech-talent-3959204879?position=26&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=F4arRE73wyLBBREKedheWw%3D%3D&trk=public_jobs_jserp-result_search-card,,Lead Data Scientist,Stax - Deeptech & Greentech Talent,"Berlin, Germany","About the Company: Greentech - Scale-up
+
+Pay range: €75.000-€85.000
+
+location: Berlin - Onsite
+
+
+
+
+We are looking for a Lead Data Scientist with IoT or sensor experience to join our highly unique client to help them build the next generation of Edge technology. The ideal candidate will have a strong understanding of machine learning algorithms and techniques, as well as experience developing and deploying ML models in IoT environments.
+
+Responsibilities:
+
+
+
+
+Responsibilities:
+
+Architect, design, and implement machine learning solutions for IoT applications
+Work with cross-functional teams to gather requirements, define solutions, and deliver results
+Lead and mentor a small team of machine learning engineers
+Stay up-to-date on the latest machine learning and IoT technologies and trends
+Contribute to the development of our machine-learning platform and infrastructure
+
+
+
+
+Qualifications:
+
+Master's degree in Computer Science, Data Science, or a related field
+5+ years of experience in machine learning engineering/data science, with a focus on IoT and sensor data
+Experience with popular machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn)
+Experience with developing and deploying ML models on cloud platforms (e.g., AWS, Azure, GCP)
+Experience with sensor data / IoT platforms
+Strong programming skills in Python and/or Java
+Excellent problem-solving and analytical skills
+Ability to work independently and as part of a team
+
+
+
+
+Preferred Qualifications:
+
+Experience with edge computing
+Experience with real-time machine learning
+Experience with DevOps and CI/CD practices
+Experience with machine learning monitoring and observability
+Experience with machine learning fairness and ethics
+
+
+
+
+Pay range and compensation package: €75.000-€85.000
+
+
+
+
+We encourage applicants from all backgrounds. Please note that this is an onsite opportunity so you must be in the location or eligible to work there to apply.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>About the Company:</strong> Greentech - Scale-up</p><p><strong>Pay range:</strong> €75.000-€85.000</p><p>location: Berlin - Onsite</p><p><br></p><p>We are looking for a Lead Data Scientist with IoT or sensor experience to join our highly unique client to help them build the next generation of Edge technology. The ideal candidate will have a strong understanding of machine learning algorithms and techniques, as well as experience developing and deploying ML models in IoT environments.</p><p>Responsibilities:</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Architect, design, and implement machine learning solutions for IoT applications</li><li>Work with cross-functional teams to gather requirements, define solutions, and deliver results</li><li>Lead and mentor a small team of machine learning engineers</li><li>Stay up-to-date on the latest machine learning and IoT technologies and trends</li><li>Contribute to the development of our machine-learning platform and infrastructure</li></ul><p><br></p><p><strong>Qualifications:</strong></p><ul><li>Master's degree in Computer Science, Data Science, or a related field</li><li>5+ years of experience in machine learning engineering/data science, with a focus on IoT and sensor data</li><li>Experience with popular machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn)</li><li>Experience with developing and deploying ML models on cloud platforms (e.g., AWS, Azure, GCP)</li><li>Experience with sensor data / IoT platforms </li><li>Strong programming skills in Python and/or Java</li><li>Excellent problem-solving and analytical skills</li><li>Ability to work independently and as part of a team</li></ul><p><br></p><p><strong>Preferred Qualifications:</strong></p><ul><li>Experience with edge computing</li><li>Experience with real-time machine learning</li><li>Experience with DevOps and CI/CD practices</li><li>Experience with machine learning monitoring and observability</li><li>Experience with machine learning fairness and ethics</li></ul><p><br></p><p><strong>Pay range and compensation package:</strong> €75.000-€85.000</p><p><br></p><p>We encourage applicants from all backgrounds. Please note that this is an onsite opportunity so you must be in the location or eligible to work there to apply.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-25
+3937776565,https://de.linkedin.com/jobs/view/data-scientist-m-w-d-mathematical-optimization-at-siemens-3937776565?position=29&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=HnzPvR1Rz6E8VPpCayR4GA%3D%3D&trk=public_jobs_jserp-result_search-card,,Data Scientist (m/w/d) Mathematical Optimization,Siemens,"Berlin, Berlin, Germany","Entwickeln, was morgen wichtig ist.
+
+Wie werden wir in Zukunft miteinander kommunizieren, Energien sinnvoll nutzen und uns fortbewegen? Wir können an den Antworten zusammenarbeiten. Wir suchen dafür kluge Köpfe, die Theorien in die Praxis umwandeln und clever mitdenken.
+
+Als Data Scientist (w/m/d) Factory Digitalization stehen dir bei uns viele Türen offen, um dich einzubringen: Ergreife jetzt die Chance und werde Teil unseres globalen Netzwerks, knüpfe wichtige Kontakte und lege so den Grundstein für deine berufliche und persönliche Zukunft. Wir freuen uns darüber, wenn du dein Talent bei uns einbringst!
+
+Verändere mit uns die Welt von morgen.
+
+
+Digital Factory: Du identifizierst Potentiale zur Automatisierung und Optimierung gemeinsam mit Kollegen und Kolleginnen aus den Fachbereichen Manufacturing, Finance und dem Supply Chain Management/ Logistik, bei denen der Einsatz von Data Science einen Mehrwert für unser Geschäft darstellt.
+Mathematische Optimierung: Dein Fokus liegt auf der Entwicklung und Implementierung mathematischer Optimierungsmodelle und Heuristiken für spezielle logistische Fragstellungen.
+Data Analysis und Digitale Transformation: Du analysierst und interpretierst Daten aus unserer innovativen Dateninfrastruktur zu möglichen Prozess-, Produkt- oder Qualitätsverbesserungen und bist ein aktiver Bestandteil der digitalen Transformation für unsere Fertigungsstandorte.
+Künstliche Intelligenz (KI): Du stellst die Funktionsfähigkeit deiner Modelle in der Praxis unter Beweis, um unsere Geschäftsabläufe zu optimieren.
+Web-Applikationen/Cloud Computing: Du entwickelst Web-Applikationen zu deinen Use-Cases in unserer Cloud-Umgebung und verbesserst diese kontinuierlich gemeinsam mit uns weiter.
+Project Lead und Cross-Functional Teams: Du verantwortest die erfolgreiche Entwicklung und Implementierung deiner Use Cases mit cross-funktionalen, agilen Fachabteilungs- und IT-Teams, um skalierbare Erfolgsgeschichten zu liefern.
+
+
+Dein Profil für ""Zukunft möglich machen"".
+
+
+Du besitzt einen fachlich relevanten Bachelorabschluss oder höher im Bereich (Wirtschafts-)Ingenieurwesen, (Wirtschafts-)Informatik, (Wirtschafts-)Mathematik oder einer verwanden Fachrichtung.
+Du bringst bereits mehrjährig Berufserfahrung im Bereich Data Science und/oder Computer Science mit, vorzugsweise im industriellen Fertigungsumfeld.
+Du zeichnest Dich durch gute Kenntnisse in C#, Python und SQL aus.
+Du bist mit der mathematischen Modellierung (Operations-Research) von logistischen Fragestellungen und den damit gängigen Lösungsverfahren vertraut und bringst idealerweise Erfahrung im Bereich Machine Learning und Deep Learning mit.
+Du kannst Erfahrungen und Technologiekenntnisse im Cloud-Computing Bereich, wie z.B. mit Microsoft Azure, AWS oder GCP vorweisen.
+Du besitzt die Fähigkeit, komplexe Fragestellungen zu erfassen, detailliert zu analysieren und zu modellieren sowie die gewonnenen Erkenntnisse einem nicht-technischen Publikum verständlich zu präsentieren.
+Verhandlungssichere Deutsch- und Englischkenntnisse runden dein Profil ab.
+
+
+Was wir bieten.
+
+
+Ansprechendes Vergütungspaket
+Weiterbildungsmöglichkeiten sowohl für deine berufliche als auch persönliche Entwicklung
+Ein Arbeitsumfeld, in dem du dich mit deiner ganzen Persönlichkeit einbringen kannst und dich als Teil von Siemens fühlst
+30 Tage Urlaub sowie vielfältige, flexible Arbeitszeitmodelle, die eine Auszeit für dich und deine Familie ermöglichen
+Zugang zu Aktienplänen für Mitarbeitende
+Vielfältige Gesundheitsangebote
+Barrierefreie Standorte
+Und viele weitere Benefits hier
+
+
+Die einzelnen Benefits sind jeweils zugeschnitten auf lokale gesetzliche Anforderungen, Vorgaben verschiedener Job-Profile und Standorte sowie persönliche Präferenzen.
+
+Wir wollen, dass du willst: Bewirb dich!
+
+Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.
+
+https://new.siemens.com/ - wenn du mehr Informationen zu Jobs & Karriere bei Siemens erhalten möchtest.
+
+FAQ - wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Entwickeln, was morgen wichtig ist.<br><br></strong>Wie werden wir in Zukunft miteinander kommunizieren, Energien sinnvoll nutzen und uns fortbewegen? Wir können an den Antworten zusammenarbeiten. Wir suchen dafür kluge Köpfe, die Theorien in die Praxis umwandeln und clever mitdenken.<br><br>Als Data Scientist (w/m/d) Factory Digitalization stehen dir bei uns viele Türen offen, um dich einzubringen: Ergreife jetzt die Chance und werde Teil unseres globalen Netzwerks, knüpfe wichtige Kontakte und lege so den Grundstein für deine berufliche und persönliche Zukunft. Wir freuen uns darüber, wenn du dein Talent bei uns einbringst!<br><br><strong>Verändere mit uns die Welt von morgen.<br><br></strong><ul><li>Digital Factory: Du identifizierst Potentiale zur Automatisierung und Optimierung gemeinsam mit Kollegen und Kolleginnen aus den Fachbereichen Manufacturing, Finance und dem Supply Chain Management/ Logistik, bei denen der Einsatz von Data Science einen Mehrwert für unser Geschäft darstellt.</li><li>Mathematische Optimierung: Dein Fokus liegt auf der Entwicklung und Implementierung mathematischer Optimierungsmodelle und Heuristiken für spezielle logistische Fragstellungen. </li><li>Data Analysis und Digitale Transformation: Du analysierst und interpretierst Daten aus unserer innovativen Dateninfrastruktur zu möglichen Prozess-, Produkt- oder Qualitätsverbesserungen und bist ein aktiver Bestandteil der digitalen Transformation für unsere Fertigungsstandorte.</li><li>Künstliche Intelligenz (KI): Du stellst die Funktionsfähigkeit deiner Modelle in der Praxis unter Beweis, um unsere Geschäftsabläufe zu optimieren.</li><li>Web-Applikationen/Cloud Computing: Du entwickelst Web-Applikationen zu deinen Use-Cases in unserer Cloud-Umgebung und verbesserst diese kontinuierlich gemeinsam mit uns weiter.</li><li>Project Lead und Cross-Functional Teams: Du verantwortest die erfolgreiche Entwicklung und Implementierung deiner Use Cases mit cross-funktionalen, agilen Fachabteilungs- und IT-Teams, um skalierbare Erfolgsgeschichten zu liefern.<br><br></li></ul><strong>Dein Profil für ""Zukunft möglich machen"".<br><br></strong><ul><li>Du besitzt einen fachlich relevanten Bachelorabschluss oder höher im Bereich (Wirtschafts-)Ingenieurwesen, (Wirtschafts-)Informatik, (Wirtschafts-)Mathematik oder einer verwanden Fachrichtung.</li><li>Du bringst bereits mehrjährig Berufserfahrung im Bereich Data Science und/oder Computer Science mit, vorzugsweise im industriellen Fertigungsumfeld.</li><li>Du zeichnest Dich durch gute Kenntnisse in C#, Python und SQL aus.</li><li>Du bist mit der mathematischen Modellierung (Operations-Research) von logistischen Fragestellungen und den damit gängigen Lösungsverfahren vertraut und bringst idealerweise Erfahrung im Bereich Machine Learning und Deep Learning mit.</li><li>Du kannst Erfahrungen und Technologiekenntnisse im Cloud-Computing Bereich, wie z.B. mit Microsoft Azure, AWS oder GCP vorweisen.</li><li>Du besitzt die Fähigkeit, komplexe Fragestellungen zu erfassen, detailliert zu analysieren und zu modellieren sowie die gewonnenen Erkenntnisse einem nicht-technischen Publikum verständlich zu präsentieren.</li><li>Verhandlungssichere Deutsch- und Englischkenntnisse runden dein Profil ab.<br><br></li></ul><strong>Was wir bieten.<br><br></strong><ul><li>Ansprechendes Vergütungspaket</li><li>Weiterbildungsmöglichkeiten sowohl für deine berufliche als auch persönliche Entwicklung</li><li>Ein Arbeitsumfeld, in dem du dich mit deiner ganzen Persönlichkeit einbringen kannst und dich als Teil von Siemens fühlst</li><li>30 Tage Urlaub sowie vielfältige, flexible Arbeitszeitmodelle, die eine Auszeit für dich und deine Familie ermöglichen</li><li>Zugang zu Aktienplänen für Mitarbeitende</li><li>Vielfältige Gesundheitsangebote</li><li>Barrierefreie Standorte</li><li>Und viele weitere Benefits hier<br><br></li></ul><em>Die einzelnen Benefits sind jeweils zugeschnitten auf lokale gesetzliche Anforderungen, Vorgaben verschiedener Job-Profile und Standorte sowie persönliche Präferenzen.<br><br></em><strong>Wir wollen, dass du willst: Bewirb dich!<br><br></strong>Wir legen Wert auf Chancengleichheit und freuen uns über Bewerbungen von Menschen mit Behinderung.<br><br><strong>https://new.siemens.com/</strong> - wenn du mehr Informationen zu Jobs &amp; Karriere bei Siemens erhalten möchtest.<br><br><strong>FAQ</strong> - wenn du eine Frage zum Thema Bewerbung bei Siemens hast.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-23
+3965197142,https://de.linkedin.com/jobs/view/machine-vision-engineer-at-taymerc-recruitment-3965197142?position=30&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=OGXJw9lAMGYc%2Bie2kZItGw%3D%3D&trk=public_jobs_jserp-result_search-card,,Machine vision engineer,Taymerc Recruitment,"Berlin, Germany","Your Responsibilities:
+
+• Become a Technical Expert: Develop a profound understanding of our customers, machine vision system, rule-based algorithm and AI software. Design the machine vision system and algorithm solution based on clients' requirements. Onsite showcase our AI solutions and troubleshoot.
+
+
+
+
+• Building Strong Relationships: Establish trust and lasting relationships with the sales team, product team, and clients' technical team.
+
+
+
+
+• Product training: Make necessary documents and videos to train engineers' from our SI and machine builder partners.
+
+
+
+
+YOUR PROFILE:
+
+What We're Looking For -
+
+• Educational Background: Currently enrolled in or already possess a degree.
+
+
+
+
+• Career Background: Familar with machine vision industry standards and deep learning software. Project experience in designing and installing a machine vision system and onsite deployment for defect inspection. Familiar with at least Halcon and/or visionpro. Able to use basic C# and C++.
+
+
+
+
+• Communication Skills: Possess good communication skills with end-users' technical team.
+
+
+
+
+• Self-Motivation: Self-driven, goal-oriented, and capable of working independently as well as collaboratively with cross-functional teams.
+
+• Language Proficiency: Fluent in both German and English; additional language skills are a plus.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Your Responsibilities:</strong></p><p>• Become a Technical Expert: Develop a profound understanding of our customers, machine vision system, rule-based algorithm and AI software. Design the machine vision system and algorithm solution based on clients' requirements. Onsite showcase our AI solutions and troubleshoot. </p><p><br></p><p>• Building Strong Relationships: Establish trust and lasting relationships with the sales team, product team, and clients' technical team. </p><p><br></p><p>• Product training: Make necessary documents and videos to train engineers' from our SI and machine builder partners. </p><p><br></p><p><strong>YOUR PROFILE:</strong></p><p>What We're Looking For -</p><p>• Educational Background: Currently enrolled in or already possess a degree. </p><p><br></p><p>• Career Background: Familar with machine vision industry standards and deep learning software. Project experience in designing and installing a machine vision system and onsite deployment for defect inspection. Familiar with at least Halcon and/or visionpro. Able to use basic C# and C++. </p><p><br></p><p>• Communication Skills: Possess good communication skills with end-users' technical team. </p><p><br></p><p>• Self-Motivation: Self-driven, goal-oriented, and capable of working independently as well as collaboratively with cross-functional teams.</p><p> </p><p>• Language Proficiency: Fluent in both German and English; additional language skills are a plus.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-07-02
+3957237899,https://de.linkedin.com/jobs/view/python-developer-at-mindpal-3957237899?position=34&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=QgvdxtRBJoV4JVCz6JrUQw%3D%3D&trk=public_jobs_jserp-result_search-card,,Python Developer,MindPal,"Berlin, Berlin, Germany","We are looking for a mid/senior Python Developer
+
+Responsibilities
+
+
+Maintenance and development of the backend of an e-commerce application based on Django Rest Framework
+Writing unit tests for new functionalities
+Delivering readable and transparent code
+Building dashboards based on SQL queries and processing the results
+Direct contact with the client
+
+
+Requirements
+
+
+Minimum 3 years of experience working with Python
+Knowledge of Django, Django Rest Framework, Docker, Docker-compose, relational databases (e.g. PostgreSQL), Flask, Redis, Celery, postgresql
+English at least B2
+Understanding the right patterns and algorithms
+Practical analytical skills
+Nice to have: Kubernetes, graphql, AWS / Google Cloud as well as Agile / SCRUM / Kanban
+
+
+We Offer
+
+
+B2B contract type
+Full-time job
+Remote and flexible working hours
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>We are looking for a mid/senior Python Developer<br><br></strong><strong>Responsibilities<br><br></strong><ul><li>Maintenance and development of the backend of an e-commerce application based on Django Rest Framework </li><li>Writing unit tests for new functionalities </li><li>Delivering readable and transparent code </li><li>Building dashboards based on SQL queries and processing the results </li><li>Direct contact with the client <br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Minimum 3 years of experience working with Python </li><li>Knowledge of Django, Django Rest Framework, Docker, Docker-compose, relational databases (e.g. PostgreSQL), Flask, Redis, Celery, postgresql </li><li>English at least B2 </li><li>Understanding the right patterns and algorithms </li><li>Practical analytical skills </li><li>Nice to have: Kubernetes, graphql, AWS / Google Cloud as well as Agile / SCRUM / Kanban <br><br></li></ul><strong>We Offer<br><br></strong><ul><li>B2B contract type </li><li>Full-time job </li><li>Remote and flexible working hours</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-23
+3926903393,https://de.linkedin.com/jobs/view/senior-data-scientist-at-snowflake-3926903393?position=35&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=I%2FnpYWH1kEFS5xA1rAnMIQ%3D%3D&trk=public_jobs_jserp-result_search-card,,Senior Data Scientist,Snowflake,Berlin Metropolitan Area,"Build the future of data. Join the Snowflake team.
+
+We’re looking for a talented Senior Data Scientist to come aboard and be part of Data Applications built on Snowflake. In this role, you will work closely with our Product and Engineering teams to uncover insights about how providers built data apps and customers use Snowflake and applications, helping to inform Product’s decision making and focus Engineering efforts. You will also work on long-running analytical initiatives marked by greater complexity and less structure that will yield substantial product enhancements. This is a strategic, high-impact role that will help shape the future of Snowflake products and services.
+
+AS A SENIOR DATA SCIENTIST AT SNOWFLAKE YOU WILL:
+
+
+Drive high impactful initiatives for the global data application architecture and provide foundation for all critical telemetry and events to track data apps , its usage & consumption patterns
+Innovate and build data platforms to store, analyze sleuth through large amounts of data to uncover feature-usage patterns, subtle issues with the system, potential performance enhancements, and areas to improve user experience.
+Influence and collaborate closely with Engineers and Product Managers and executives to inform product decision making with data and to identify opportunities to create more value for our customers.
+Build framework and foundational high quality data pipelines , inform engineering for relevant instrumentation of telemetry events and architect the right data model for the product.
+Build native apps , dashboards/apps & analytical framework to help Engineering and Product Managers monitor performance and availability of our system.
+Answer questions from the executive team for board reporting, publications, and industry reports.
+Think creatively to find optimal solutions to our complex, often unstructured problems.
+
+
+
+OUR IDEAL CANDIDATE WILL HAVE:
+
+
+MS/Ph.D. in quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS)
+Expert-level experience working with SQL and relational data (8+ years on a regular basis).
+8+ years of experience with Python, including scikit-learn, numpy, and pandas.
+Expert in working with large-scale machine generated data (e.g., log, application, or customer-usage data).
+Heavy fluency with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
+Data storytelling , analysis & learnings to business leaders and technical stakeholders.
+The ability to thrive in a dynamic environment. That means being flexible and willing to jump in and do whatever it takes to be successful.
+Must have prior experience in data application , apps , app store & marketplace.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Build the future of data. Join the Snowflake team.<br><br>We’re looking for a talented Senior Data Scientist to come aboard and be part of Data Applications built on Snowflake. In this role, you will work closely with our Product and Engineering teams to uncover insights about how providers built data apps and customers use Snowflake and applications, helping to inform Product’s decision making and focus Engineering efforts. You will also work on long-running analytical initiatives marked by greater complexity and less structure that will yield substantial product enhancements. This is a strategic, high-impact role that will help shape the future of Snowflake products and services.<br><br><strong>AS A SENIOR DATA SCIENTIST AT SNOWFLAKE YOU WILL:<br><br></strong><ul><li>Drive high impactful initiatives for the global data application architecture and provide foundation for all critical telemetry and events to track data apps , its usage &amp; consumption patterns </li><li>Innovate and build data platforms to store, analyze sleuth through large amounts of data to uncover feature-usage patterns, subtle issues with the system, potential performance enhancements, and areas to improve user experience.</li><li>Influence and collaborate closely with Engineers and Product Managers and executives to inform product decision making with data and to identify opportunities to create more value for our customers.</li><li>Build framework and foundational high quality data pipelines , inform engineering for relevant instrumentation of telemetry events and architect the right data model for the product. </li><li>Build native apps , dashboards/apps &amp; analytical framework to help Engineering and Product Managers monitor performance and availability of our system.</li><li>Answer questions from the executive team for board reporting, publications, and industry reports.</li><li>Think creatively to find optimal solutions to our complex, often unstructured problems.<br><br><br></li></ul><strong>OUR IDEAL CANDIDATE WILL HAVE:<br><br></strong><ul><li>MS/Ph.D. in quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS)</li><li>Expert-level experience working with SQL and relational data (8+ years on a regular basis).</li><li>8+ years of experience with Python, including scikit-learn, numpy, and pandas.</li><li>Expert in working with large-scale machine generated data (e.g., log, application, or customer-usage data).</li><li>Heavy fluency with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc. </li><li>Data storytelling , analysis &amp; learnings to business leaders and technical stakeholders. </li><li>The ability to thrive in a dynamic environment. That means being flexible and willing to jump in and do whatever it takes to be successful.</li><li>Must have prior experience in data application , apps , app store &amp; marketplace.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-27
+3956795595,https://de.linkedin.com/jobs/view/python-developer-at-mindpal-3956795595?position=36&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=jkV3d740U0gqDRITjxjriw%3D%3D&trk=public_jobs_jserp-result_search-card,,Python Developer,MindPal,"Berlin, Berlin, Germany","We are looking for a mid/senior Python Developer
+
+Responsibilities
+
+
+Maintenance and development of the backend of an e-commerce application based on Django Rest Framework
+Writing unit tests for new functionalities
+Delivering readable and transparent code
+Building dashboards based on SQL queries and processing the results
+Direct contact with the client
+
+
+Requirements
+
+
+Minimum 3 years of experience working with Python
+Knowledge of Django, Django Rest Framework, Docker, Docker-compose, relational databases (e.g. PostgreSQL), Flask, Redis, Celery, postgresql
+English at least B2
+Understanding the right patterns and algorithms
+Practical analytical skills
+Nice to have: Kubernetes, graphql, AWS / Google Cloud as well as Agile / SCRUM / Kanban
+
+
+We Offer
+
+
+B2B contract type
+Full-time job
+Remote and flexible working hours
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>We are looking for a mid/senior Python Developer<br><br></strong><strong>Responsibilities<br><br></strong><ul><li>Maintenance and development of the backend of an e-commerce application based on Django Rest Framework </li><li>Writing unit tests for new functionalities </li><li>Delivering readable and transparent code </li><li>Building dashboards based on SQL queries and processing the results </li><li>Direct contact with the client <br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Minimum 3 years of experience working with Python </li><li>Knowledge of Django, Django Rest Framework, Docker, Docker-compose, relational databases (e.g. PostgreSQL), Flask, Redis, Celery, postgresql </li><li>English at least B2 </li><li>Understanding the right patterns and algorithms </li><li>Practical analytical skills </li><li>Nice to have: Kubernetes, graphql, AWS / Google Cloud as well as Agile / SCRUM / Kanban <br><br></li></ul><strong>We Offer<br><br></strong><ul><li>B2B contract type </li><li>Full-time job </li><li>Remote and flexible working hours</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-22
+3959676146,https://de.linkedin.com/jobs/view/artificial-intelligence-engineer-at-flinn-ai-3959676146?position=40&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=nE3IXHADbljF0LNOgcJnkA%3D%3D&trk=public_jobs_jserp-result_search-card,,Artificial Intelligence Engineer,Flinn.ai,"Berlin, Germany","Summary of the role:
+
+To build a world-class engineering team, we are looking for an AI Engineer to lead our efforts around the analysis and evaluation of biomedical data by leveraging state of the art (L)LMs and using cutting-edge machine learning methods.
+
+
+
+
+✨ Why Flinn?
+
+We are building a truly exceptional culture: While many companies claim to have a great culture, we invite you to discover what truly sets ours apart. Visit our career page, speak with our team, listen to our founders’ podcast, or experience our culture first-hand during the interview process.
+Make a Meaningful Impact: Your work at Flinn contributes directly to solutions that improve people’s health and lives by making high-quality health products accessible for everyone.
+Experienced, well-funded, highly professional: As well-funded startup veterans, we know how to sustain long-term business health and success, ensuring an environment for continuous personal growth.
+
+
+
+
+🚀 Your contributions to our journey:
+
+Being involved in the setup of our tech stack and AI / data pipelines.
+Developing models for analysis and classification of biomedical data, pattern recognition and anomalies detection.
+Collaborating with the tech team to bring the developed / trained models into production and supporting the whole end-to-end process.
+Contributing to defining and shaping our data and AI product roadmap.
+
+
+
+
+💯 What you need to be successful:
+
+Experience in the complete end-to-end process and life cycle of model development: From data acquisition and preparation to the deployment and go-live phase.
+Experience in NLP and the fields of topic modeling, document classification, named entity recognition and recommender systems.
+Expert-level experience in working with transformer-based large language models (BERT, GPT, Llama, etc.), this includes:
+Advanced knowledge of prompt engineering techniques, e.g. zero / few shot classification, Chain-Of-Thought, etc.
+Experience in fine-tuning open-source language models on both labelled (supervised) and unlabelled (unsupervised) domain-specific data using various techniques like LoRa and PEFT / ReFT.
+Experience in validating, evaluating and benchmarking LLM performance on specific task
+Experience with LangChain is a plus.
+Good level of proficiency in Python and the common data science tool kit: NumPy, pandas, scikit-learn, etc. Extensive experience in at least one of the following Machine Learning frameworks: PyTorch, TensorFlow, JAX.
+Solid understanding of statistical concepts and methodologies, with the ability to apply them effectively in data analysis and model development.
+Experience with data modeling, data warehousing, ETL and data pipelines is a plus.
+Experience with cloud computing (AWS, GCP, Azure) and IaC is a plus.
+
+
+
+
+🏃‍♀️ Attributes we are looking for:
+
+You have a positive, problem-solving mindset and a clear bias for action, you bring in your ideas and solutions proactively.
+You are an excellent communicator both with technical and non-technical folks and are able to give and receive direct and open feedback.
+You are flexible, pragmatic, and able to react to new findings and keep adapting under dynamic environments.
+You are passionate about creating products that solve real-world problems, while regarding technology as a tool and not an end in itself.
+
+
+
+
+🎁 What is in for you?
+
+Grow with us. We are committed to supporting you in your professional and personal development, no matter whether you aim to become a great leader, renowned expert, successful entrepreneur, or high performing specialist.
+Staying healthy is a top priority. We help each other to reflect, stay in balance, and free up company budget to support healthy activities (food, subscriptions, team activities etc.).
+Competitive compensation, including the most employee friendly stock options. Such as fair leaver & vesting terms, secondary exit participation and profit participation opportunities for employees.
+We offer you flexibility and empower you to design your days/weeks according to your needs. Therefore, we offer unlimited vacation and very flexible working hours.
+We commit ourselves to the highest integrity standards. Great performance is not an excuse for disrespectful, jerk-like behavior.
+
+
+
+
+💡 Do you want to learn more about us? Have a look at our Career Page.
+
+
+
+
+We strive to remove barriers, eliminate discrimination, and ensure equal opportunity through our transparent recruitment process. We are open to all groups of people without regard to age, color, national origin, race, religion, gender, sex, sexual orientation, gender identity and/or expression, marital status or any other legally protected characteristic.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Summary of the role:</strong></p><p>To build a world-class engineering team, we are looking for an AI Engineer to lead our efforts around the analysis and evaluation of biomedical data by leveraging state of the art (L)LMs and using cutting-edge machine learning methods.</p><p><br></p><p>✨ <strong>Why Flinn?</strong></p><ul><li><strong>We are building a truly exceptional culture:</strong> While many companies claim to have a great culture, we invite you to discover what truly sets ours apart. Visit our career page, speak with our team, listen to our founders’ podcast, or experience our culture first-hand during the interview process.</li><li><strong>Make a Meaningful Impact:</strong> Your work at Flinn contributes directly to solutions that improve people’s health and lives by making high-quality health products accessible for everyone.</li><li><strong>Experienced, well-funded, highly professional</strong>: As well-funded startup veterans, we know how to sustain long-term business health and success, ensuring an environment for continuous personal growth.</li></ul><p><br></p><p>🚀 <strong>Your contributions to our journey:</strong></p><ul><li>Being involved in the setup of our tech stack and AI / data pipelines.</li><li>Developing models for analysis and classification of biomedical data, pattern recognition and anomalies detection.</li><li>Collaborating with the tech team to bring the developed / trained models into production and supporting the whole end-to-end process.</li><li>Contributing to defining and shaping our data and AI product roadmap.</li></ul><p><br></p><p>💯 <strong>What you need to be successful:</strong></p><ul><li>Experience in the complete end-to-end process and life cycle of model development: From data acquisition and preparation to the deployment and go-live phase.</li><li>Experience in NLP and the fields of topic modeling, document classification, named entity recognition and recommender systems.</li><li>Expert-level experience in working with transformer-based large language models (BERT, GPT, Llama, etc.), this includes:</li><li>Advanced knowledge of prompt engineering techniques, e.g. zero / few shot classification, Chain-Of-Thought, etc.</li><li>Experience in fine-tuning open-source language models on both labelled (supervised) and unlabelled (unsupervised) domain-specific data using various techniques like LoRa and PEFT / ReFT.</li><li>Experience in validating, evaluating and benchmarking LLM performance on specific task</li><li>Experience with LangChain is a plus.</li><li>Good level of proficiency in Python and the common data science tool kit: NumPy, pandas, scikit-learn, etc. Extensive experience in at least one of the following Machine Learning frameworks: PyTorch, TensorFlow, JAX.</li><li>Solid understanding of statistical concepts and methodologies, with the ability to apply them effectively in data analysis and model development.</li><li>Experience with data modeling, data warehousing, ETL and data pipelines is a plus.</li><li>Experience with cloud computing (AWS, GCP, Azure) and IaC is a plus.</li></ul><p><br></p><p>🏃‍♀️ <strong>Attributes we are looking for:</strong></p><ul><li>You have a positive, problem-solving mindset and a clear bias for action, you bring in your ideas and solutions proactively.</li><li>You are an excellent communicator both with technical and non-technical folks and are able to give and receive direct and open feedback.</li><li>You are flexible, pragmatic, and able to react to new findings and keep adapting under dynamic environments.</li><li>You are passionate about creating products that solve real-world problems, while regarding technology as a tool and not an end in itself.</li></ul><p><br></p><p>🎁 <strong>What is in for you?</strong></p><ul><li><strong>Grow with us.</strong> We are committed to supporting you in your professional and personal development, no matter whether you aim to become a great leader, renowned expert, successful entrepreneur, or high performing specialist.</li><li><strong>Staying healthy is a top priority.</strong> We help each other to reflect, stay in balance, and free up company budget to support healthy activities (food, subscriptions, team activities etc.).</li><li><strong>Competitive compensation, including the most employee friendly stock options.</strong> Such as fair leaver &amp; vesting terms, secondary exit participation and profit participation opportunities for employees.</li><li><strong>We offer you flexibility and empower you</strong> to design your days/weeks according to your needs. Therefore, we offer unlimited vacation and very flexible working hours.</li><li><strong>We commit ourselves to the highest integrity standards.</strong> Great performance is not an excuse for disrespectful, jerk-like behavior.</li></ul><p><br></p><p>💡 <strong>Do you want to learn more about us?</strong> Have a look at our Career Page<strong>.</strong></p><p><br></p><p><em>We strive to remove barriers, eliminate discrimination, and ensure equal opportunity through our transparent recruitment process. We are open to all groups of people without regard to age, color, national origin, race, religion, gender, sex, sexual orientation, gender identity and/or expression, marital status or any other legally protected characteristic.</em></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-27
+3960095395,https://de.linkedin.com/jobs/view/ai-ml-and-mlops-field-engineer-at-canonical-3960095395?position=41&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=VEP%2BtjPGbZqpGpugEuliVQ%3D%3D&trk=public_jobs_jserp-result_search-card,,AI/ML and MLOps Field Engineer,Canonical,"Berlin, Berlin, Germany","Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.
+
+The company is founder led, profitable and growing.
+
+We are hiring an AI/ML and MLOps Field Engineer to help global companies embrace AI in their business, using the latest open source capabilities on public and private cloud infrastructure, Linux and Kubernetes. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Ubuntu, Kubeflow, MLFlow, Feast, DVC and related analytics, machine learning and data technologies. We are working to create the world's best open source data platform, covering traditional SQL databases and today's NoSQL data stores, as well as the machinery which turns data into insights and executable models.
+
+The people who love this role are software engineers who enjoy customer conversations and solving customer problems during the presales cycle. They are are developers who like to solve customer problems through architecture, presentations and training. Ubuntu is used by pretty much every enterprise in the world, in every industry. This is a fantastic opportunity to learn about the open source technology landscape and develop your business technology insights. You will see first hand in various industries how Linux - and Ubuntu in particular - is shaping innovation and changing the world for the better.
+
+This role is particularly suited to candidates with a technical background who are business minded and driven by commercial success. This role is on our global Field Engineering team and will work closely with enterprise sales leads. We are specifically looking for people interested in solving the most difficult problems in modern data architectures. Training LLMs on multiple K8s clusters deployed on a hybrid cloud infrastructure with GPU sharing across multiple teams? Processing 10M events in real time for financial transactions? Object detection on 10k parallel 4K video streams? These are the problems we solve day to day.
+
+Location: Most of our colleagues work from home. We are growing teams in EMEA, Americas and APAC time zones, so can accommodate candidates from almost any country.
+
+What your day will look like
+
+The global Field Engineering team members are Linux and cloud solutions architects for our customers, designing private and public cloud solutions fitting their workload needs. They are the cloud consultants who work hands-on with the technologies by deploying, testing and handing over the solution to our support or managed services team at the end of a project. They are also software engineers who use Python to develop Kubernetes operators and Linux open source infrastructure-as-code.
+
+
+Work across the entire Linux stack, from kernel, networking, storage, to applications
+Architect cloud infrastructure solutions like Kubernetes, Kubeflow, OpenStack, and Spark
+Deliver solutions either on-premise or in public cloud (AWS, Azure, Google Cloud)
+Collect customer business requirements and advise them on Ubuntu and relevant open source applications
+Grow a healthy, collaborative engineering culture in line with the company values
+Deliver presentations and demonstrations of Ubuntu Pro and AI/ML capabilities to prospective and current clients
+Liaise with product teams to give them feedback on requirements to influence roadmap
+Work collaboratively with your sales team to reach our common targets
+Global travel up to 25% of time for internal and external events and 25% to customer meetings
+
+
+What we are looking for in you
+
+
+Exceptional academic track record from both high school and university
+Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+Experience in data engineering, MLOps, or big data solutions deployment
+Experience with a relevant programming language, like Python, R, or Rust.
+Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+Track record of going above-and-beyond expectations to achieve outstanding results
+Demonstrated personal interest in continuous learning and development
+Practical knowledge of Linux, virtualisation, containers and networking
+Business-minded technology thinker and problem solver
+Knowledge of cloud computing concepts & leaders, such as Kubernetes, AWS, Azure, GCP
+Interest in large-scale enterprise open source - private clouds, machine learning and AI, data and analytics
+Intermediate level Python programming skills
+Passion for technology evidenced by personal projects and initiatives
+The work ethic and confidence to shine alongside motivated colleagues
+Professional written and spoken English with excellent presentation skills
+Experience with Linux (Debian or Ubuntu preferred)
+Excellent interpersonal skills, curiosity, flexibility, and accountability
+A dynamic person who loves to jump in new projects and interact with people
+Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation
+Thoughtfulness and self-motivation
+Result-oriented, with a personal drive to follow up and meet commitments
+Ability to travel internationally, for company events up to two weeks long, and customer or industry meetings
+
+
+What you'll learn
+
+
+Architect and deploy AI/ML infrastructures, data processing pipelines and multi-cluster distributed training
+Wide range of open source applications and skills
+Work directly with customers in a range of different businesses
+Real-life and hands-on exposure to a wide range of emerging technologies and tools
+
+
+What we offer colleagues
+
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+
+About Canonical
+
+Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.
+
+Canonical is an equal opportunity employer
+
+We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1000+ colleagues in 70+ countries and very few roles based in offices. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.<br><br>The company is founder led, profitable and growing.<br><br>We are hiring an <strong>AI/ML and MLOps Field Engineer</strong> to help global companies embrace AI in their business, using the latest open source capabilities on public and private cloud infrastructure, Linux and Kubernetes. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Ubuntu, Kubeflow, MLFlow, Feast, DVC and related analytics, machine learning and data technologies. We are working to create the world's best open source data platform, covering traditional SQL databases and today's NoSQL data stores, as well as the machinery which turns data into insights and executable models.<br><br>The people who love this role are software engineers who enjoy customer conversations and solving customer problems during the presales cycle. They are are developers who like to solve customer problems through architecture, presentations and training. Ubuntu is used by pretty much every enterprise in the world, in every industry. This is a fantastic opportunity to learn about the open source technology landscape and develop your business technology insights. You will see first hand in various industries how Linux - and Ubuntu in particular - is shaping innovation and changing the world for the better.<br><br>This role is particularly suited to candidates with a technical background who are business minded and driven by commercial success. This role is on our global Field Engineering team and will work closely with enterprise sales leads. We are specifically looking for people interested in solving the most difficult problems in modern data architectures. Training LLMs on multiple K8s clusters deployed on a hybrid cloud infrastructure with GPU sharing across multiple teams? Processing 10M events in real time for financial transactions? Object detection on 10k parallel 4K video streams? These are the problems we solve day to day.<br><br><strong>Location: </strong>Most of our colleagues work from home. We are growing teams in EMEA, Americas and APAC time zones, so can accommodate candidates from almost any country.<br><br>What your day will look like<br><br>The global Field Engineering team members are Linux and cloud solutions architects for our customers, designing private and public cloud solutions fitting their workload needs. They are the cloud consultants who work hands-on with the technologies by deploying, testing and handing over the solution to our support or managed services team at the end of a project. They are also software engineers who use Python to develop Kubernetes operators and Linux open source infrastructure-as-code.<br><br><ul><li>Work across the entire Linux stack, from kernel, networking, storage, to applications</li><li>Architect cloud infrastructure solutions like Kubernetes, Kubeflow, OpenStack, and Spark</li><li>Deliver solutions either on-premise or in public cloud (AWS, Azure, Google Cloud)</li><li>Collect customer business requirements and advise them on Ubuntu and relevant open source applications</li><li>Grow a healthy, collaborative engineering culture in line with the company values</li><li>Deliver presentations and demonstrations of Ubuntu Pro and AI/ML capabilities to prospective and current clients</li><li>Liaise with product teams to give them feedback on requirements to influence roadmap</li><li>Work collaboratively with your sales team to reach our common targets</li><li>Global travel up to 25% of time for internal and external events and 25% to customer meetings<br><br></li></ul>What we are looking for in you<br><br><ul><li>Exceptional academic track record from both high school and university</li><li>Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path</li><li>Experience in data engineering, MLOps, or big data solutions deployment </li><li>Experience with a relevant programming language, like Python, R, or Rust. </li><li>Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation</li><li>Track record of going above-and-beyond expectations to achieve outstanding results</li><li>Demonstrated personal interest in continuous learning and development</li><li>Practical knowledge of Linux, virtualisation, containers and networking</li><li>Business-minded technology thinker and problem solver</li><li>Knowledge of cloud computing concepts &amp; leaders, such as Kubernetes, AWS, Azure, GCP</li><li>Interest in large-scale enterprise open source - private clouds, machine learning and AI, data and analytics</li><li>Intermediate level Python programming skills</li><li>Passion for technology evidenced by personal projects and initiatives</li><li>The work ethic and confidence to shine alongside motivated colleagues</li><li>Professional written and spoken English with excellent presentation skills</li><li>Experience with Linux (Debian or Ubuntu preferred) </li><li>Excellent interpersonal skills, curiosity, flexibility, and accountability</li><li>A dynamic person who loves to jump in new projects and interact with people</li><li>Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation</li><li>Thoughtfulness and self-motivation </li><li>Result-oriented, with a personal drive to follow up and meet commitments </li><li>Ability to travel internationally, for company events up to two weeks long, and customer or industry meetings<br><br></li></ul>What you'll learn<br><br><ul><li>Architect and deploy AI/ML infrastructures, data processing pipelines and multi-cluster distributed training</li><li>Wide range of open source applications and skills</li><li>Work directly with customers in a range of different businesses </li><li>Real-life and hands-on exposure to a wide range of emerging technologies and tools<br><br></li></ul>What we offer colleagues<br><br>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.<br><br><ul><li>Distributed work environment with twice-yearly team sprints in person</li><li>Personal learning and development budget of USD 2,000 per year</li><li>Annual compensation review</li><li>Recognition rewards</li><li>Annual holiday leave</li><li>Maternity and paternity leave</li><li>Employee Assistance Programme</li><li>Opportunity to travel to new locations to meet colleagues</li><li>Priority Pass, and travel upgrades for long haul company events<br><br></li></ul><strong>About Canonical<br><br></strong>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence - in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game.<br><br><strong>Canonical is an equal opportunity employer<br><br></strong>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-26
+3958923686,https://de.linkedin.com/jobs/view/python-developer-m-f-d-at-whitevoid-3958923686?position=44&pageNum=0&refId=DMt1TwW%2FSLg5GUF1lA1p6Q%3D%3D&trackingId=EnIFSEMe8flrSczHoU0Fww%3D%3D&trk=public_jobs_jserp-result_search-card,,Python Developer (m/f/d),WHITEvoid,"Berlin, Germany","WHITEvoid is an art and design studio. Our work spans a wide range of cutting-edge projects and scales. From architecture, interiors, and light installations to interactive exhibits and custom-made applications, our architectonic designs realize complex, unique ideas and adorn clubs, shops, exhibitions, shows, and more worldwide.
+
+
+
+
+Our team comprises specialists in architecture, product design, event technology, and mechanical, electronics, and software engineering. Driven by technology, innovation, and experimentation, we dare to think big and push the boundaries of complexity and beauty in every project.
+
+
+
+
+Our house brand KINETIC LIGHTS is the leading specialist in kinetic lighting. For more than fifteen years our designs and products have earned awards and worldwide recognition for delivering professionally engineered lighting equipment.
+
+
+
+
+
+
+
+YOUR TASKS:
+
+Develop and maintain our in-house control software for the KINETIC LIGHTS event automation system
+Adapt and extend the Python-based backend of the software
+Integrate the backend with UI components built in TouchDesigner
+Manage data structures in Python
+Work closely with our TouchDesigner development team, who focus more on content programming, show-delivery, UI, and frontend development
+Collaborate with firmware and hardware engineers on testing KINETIC LIGHTS products
+Cooperate with our manufacturing and technical planning teams
+Provide off-site support for ongoing projects
+Create and maintain technical documentation
+
+
+
+
+
+
+
+YOU BRING:
+
+Strong proficiency in Python programming with experience in application building, software architecture, and UI frameworks
+Understanding of general object-oriented programming principles and design patterns
+At least a basic familiarity with C++ programming
+Proficiency in vector and matrix mathematic, e.g. transformations of coordinate spaces
+Experience with network protocols, e.g. UDP, TCP, and OSC
+Solid understanding of core computer graphics concepts and 3D pipelines
+Experience using git for version control of software development projects
+Adaptability to a dynamic project environment
+A willingness to learn new tools, technologies, and concepts, especially TouchDesigner
+A strong team player mentality with a proactive attitude and a willingness to share knowledge and support colleagues
+Excellent communication skills in English. You do not need to speak German for this role!
+
+
+
+
+
+
+
+WE OFFER:
+
+Exceptional, challenging and unique international projects
+Participation in the ongoing establishment of DARK MATTER, a new location for art, technology and events
+A highly motivated, international team and a friendly, open-minded working environment - we stand for openness and diversity!
+Working independently, flat hierarchies and the opportunity to contribute your own ideas
+Substantial discount on Urban Sports Club memberships
+Free German lessons online or at a centrally located school
+A bike leasing scheme with tax benefits, insurance, maintenance, and end of lease options
+Guest list allowance for our permanent exhibition and temporary events
+Delicious coffee and other drinks and snacks for free
+Team events, such as BBQs, summer parties and a Christmas party
+A modern studio right on the Spree in East Berlin with great leisure activities nearby
+
+
+
+
+
+
+
+HOW TO APPLY:
+
+Please send us your digital application including CV, salary expectations and preferred start date by email to jobs@whitevoid.com
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>WHITEvoid</strong> is an art and design studio. Our work spans a wide range of cutting-edge projects and scales. From architecture, interiors, and light installations to interactive exhibits and custom-made applications, our architectonic designs realize complex, unique ideas and adorn clubs, shops, exhibitions, shows, and more worldwide.</p><p><br></p><p>Our team comprises specialists in architecture, product design, event technology, and mechanical, electronics, and software engineering. Driven by technology, innovation, and experimentation, we dare to think big and push the boundaries of complexity and beauty in every project.</p><p><br></p><p>Our house brand <strong>KINETIC LIGHTS</strong> is the leading specialist in kinetic lighting. For more than fifteen years our designs and products have earned awards and worldwide recognition for delivering professionally engineered lighting equipment.</p><p><br></p><p><br></p><p><strong>YOUR TASKS:</strong></p><ul><li>Develop and maintain our in-house control software for the KINETIC LIGHTS event automation system </li><li>Adapt and extend the Python-based backend of the software </li><li>Integrate the backend with UI components built in TouchDesigner </li><li>Manage data structures in Python </li><li>Work closely with our TouchDesigner development team, who focus more on content programming, show-delivery, UI, and frontend development </li><li>Collaborate with firmware and hardware engineers on testing KINETIC LIGHTS products </li><li>Cooperate with our manufacturing and technical planning teams </li><li>Provide off-site support for ongoing projects </li><li>Create and maintain technical documentation</li></ul><p><br></p><p><br></p><p><strong>YOU BRING: </strong></p><ul><li>Strong proficiency in Python programming with experience in application building, software architecture, and UI frameworks </li><li>Understanding of general object-oriented programming principles and design patterns </li><li>At least a basic familiarity with C++ programming </li><li>Proficiency in vector and matrix mathematic, e.g. transformations of coordinate spaces </li><li>Experience with network protocols, e.g. UDP, TCP, and OSC </li><li>Solid understanding of core computer graphics concepts and 3D pipelines </li><li>Experience using git for version control of software development projects </li><li>Adaptability to a dynamic project environment </li><li>A willingness to learn new tools, technologies, and concepts, especially TouchDesigner </li><li>A strong team player mentality with a proactive attitude and a willingness to share knowledge and support colleagues </li><li>Excellent communication skills in English. You do not need to speak German for this role!</li></ul><p><br></p><p><br></p><p><strong>WE OFFER:</strong></p><ul><li>Exceptional, challenging and unique international projects</li><li>Participation in the ongoing establishment of DARK MATTER, a new location for art, technology and events</li><li>A highly motivated, international team and a friendly, open-minded working environment - we stand for openness and diversity!</li><li>Working independently, flat hierarchies and the opportunity to contribute your own ideas</li><li>Substantial discount on Urban Sports Club memberships</li><li>Free German lessons online or at a centrally located school</li><li>A bike leasing scheme with tax benefits, insurance, maintenance, and end of lease options</li><li>Guest list allowance for our permanent exhibition and temporary events</li><li>Delicious coffee and other drinks and snacks for free</li><li>Team events, such as BBQs, summer parties and a Christmas party</li><li>A modern studio right on the Spree in East Berlin with great leisure activities nearby</li></ul><p><br></p><p><br></p><p><strong>HOW TO APPLY:</strong></p><p>Please send us your digital application including CV, salary expectations and preferred start date by email to jobs@whitevoid.com</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-06-28
