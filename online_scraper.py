@@ -67,8 +67,7 @@ logging.basicConfig(level = logging.INFO)
 job_postings = []
 def on_data(data: EventData):
     print(data)
-    job_postings.append([data.job_id,data.link,data.title,data.company,data.place,data.description,data.description_html,data.date,
-                         data.skills])
+    job_postings.append([data.job_id,data.link,data.title,data.company,data.place,data.description,data.description_html,data.date,data.skills])
 
 def on_error(error):
     print('[ON_ERROR]', error)
@@ -97,7 +96,8 @@ scraper.on(Events.END, on_end)
 #%%
 group_of_items = {'Seattle, Washington, United States',
 'San Francisco, California, United States',
-'United States Remote','European Union Remote',
+'United States Remote',
+'European Union Remote',
 'Boston, Massachusetts, United States',
 'Berlin, Germany',
 'London, England, United Kingdom',
@@ -106,9 +106,15 @@ group_of_items = {'Seattle, Washington, United States',
 'Vancouver, British Columbia, Canada',
 'Madrid, Community of Madrid, Spain',
 'Barcelona, Catalonia, Spain',
-'Spain'
+'Spain',
+'Lisbon, Portugal',
+'Porto, Portugal',
+'Milan, Lombardy, Italy',
+'Brussels Region, Belgium',
+'Switzerland',
+'São Paulo, Brazil'
 }
-num_to_select = 1
+num_to_select = 6
 locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
 
 query_1 = [
@@ -117,7 +123,7 @@ query_1 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=3,  # Limit the number of jobs to scrape
+            limit=25,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
@@ -152,7 +158,7 @@ query_2 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=3,  # Limit the number of jobs to scrape
+            limit=25,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
