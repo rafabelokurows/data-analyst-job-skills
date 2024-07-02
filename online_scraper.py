@@ -106,16 +106,16 @@ group_of_items = {'Seattle, Washington, United States',
 'Barcelona, Catalonia, Spain',
 'Spain'
 }
-num_to_select = 5
+num_to_select = 1
 locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
 
-queries = [
+query_1 = [
     Query(
       query='Data Analyst',
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=25,  # Limit the number of jobs to scrape
+            limit=20,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
@@ -128,7 +128,7 @@ queries = [
     ),
 ]
 
-scraper.run(queries)
+scraper.run(query_1)
 # with open('data/jobs.json', 'w') as f:
 #     json.dump(cache, f, indent=4)
 # print(f"Operation completed. Scraped {len(cache)} jobs")
@@ -139,5 +139,35 @@ df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Co
 #%%
 
 #%%
-df.to_csv('./data/'+strftime("%Y%m%d%H%M", gmtime())+'_jobs.csv',index=False)
+df.to_csv('./data/data_analyst_'+strftime("%Y%m%d", gmtime())+'.csv',index=False)
+#%%
+
+##### TRYING TO OBTAIN INFO FOR DATA SCIENTIST POSITIONS #####
+job_postings = []
+query_2 = [
+    Query(
+      query='Data Scientist',
+        options=QueryOptions(
+            locations=locationsToQuery,
+            #optimize=True,  # Blocks requests for resources like images and stylesheet
+            limit=20,  # Limit the number of jobs to scrape
+            skip_promoted_jobs=True,
+            filters=QueryFilters(
+                relevance=RelevanceFilters.RECENT,
+                time=TimeFilters.MONTH,
+                on_site_or_remote=[OnSiteOrRemoteFilters.REMOTE],
+                #type=[TypeFilters.FULL_TIME, TypeFilters.INTERNSHIP],
+                experience=None               
+            )
+        )
+    ),
+]
+
+scraper.run(query_2)
+#%%
+df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date'])
+#%%
+
+#%%
+df2.to_csv('./data/data_scientist_'+strftime("%Y%m%d", gmtime())+'.csv',index=False)
 #%%
