@@ -66,7 +66,8 @@ logging.basicConfig(level = logging.INFO)
     
 job_postings = []
 def on_data(data: EventData):
-    job_postings.append([data.job_id,data.link,data.apply_link,data.title,data.company,data.place,data.description,data.description_html,data.date,
+    print(data)
+    job_postings.append([data.job_id,data.link,data.title,data.company,data.place,data.description,data.description_html,data.date,
                          data.seniority_level,data.job_function,data.employment_type,data.industries])
 
 def on_error(error):
@@ -136,7 +137,7 @@ scraper.run(query_1)
 #%%
 
 #%%
-df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
+df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
 #%%
 
 #%%
@@ -166,7 +167,7 @@ query_2 = [
 
 scraper.run(query_2)
 #%%
-df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
+df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
 #%%
 
 #%%
