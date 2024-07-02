@@ -68,7 +68,7 @@ job_postings = []
 def on_data(data: EventData):
     print(data)
     job_postings.append([data.job_id,data.link,data.title,data.company,data.place,data.description,data.description_html,data.date,
-                         data.employment_type,data.skills])
+                         data.skills])
 
 def on_error(error):
     print('[ON_ERROR]', error)
@@ -137,7 +137,7 @@ scraper.run(query_1)
 #%%
 
 #%%
-df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Skills','Employment Type'])
+df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Skills'])
 #%%
 
 #%%
@@ -167,7 +167,7 @@ query_2 = [
 
 scraper.run(query_2)
 #%%
-df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Skills','Employment Type'])
+df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Title','Company','Place','Description','HTML','Date','Skills'])
 #%%
 
 #%%
