@@ -1,5 +1,7 @@
 name: Scrape Linkedin
 on:
+  schedule:
+    - cron: '0 19 * * *'
   workflow_dispatch:
 jobs:
   scrape:
