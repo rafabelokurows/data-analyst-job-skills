@@ -18,7 +18,7 @@ jobs:
         
        # Need to fetch reqs if needed
       - name: Installing all necessary packages
-        run: pip install chromedriver-autoinstaller selenium pyvirtualdisplay webdriver_manager linkedin_jobs_scraper
+        run: pip install pandas chromedriver-autoinstaller selenium pyvirtualdisplay webdriver_manager linkedin_jobs_scraper
       - name: Install xvfb
         run: sudo apt-get install xvfb
 
