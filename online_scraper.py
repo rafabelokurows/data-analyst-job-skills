@@ -66,7 +66,8 @@ logging.basicConfig(level = logging.INFO)
     
 job_postings = []
 def on_data(data: EventData):
-    job_postings.append([data.job_id,data.link,data.apply_link,data.title,data.company,data.place,data.description,data.description_html,data.date])
+    job_postings.append([data.job_id,data.link,data.apply_link,data.title,data.company,data.place,data.description,data.description_html,data.date,
+                         data.seniority_level,data.job_function,data.employment_type,data.industries])
 
 def on_error(error):
     print('[ON_ERROR]', error)
@@ -115,7 +116,7 @@ query_1 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=20,  # Limit the number of jobs to scrape
+            limit=3,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
@@ -135,7 +136,7 @@ scraper.run(query_1)
 #%%
 
 #%%
-df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date'])
+df = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
 #%%
 
 #%%
@@ -150,7 +151,7 @@ query_2 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=20,  # Limit the number of jobs to scrape
+            limit=3,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
@@ -165,7 +166,7 @@ query_2 = [
 
 scraper.run(query_2)
 #%%
-df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date'])
+df2 = pd.DataFrame(job_postings,columns=['Job_ID','Link','Apply Link','Title','Company','Place','Description','HTML','Date','Seniority Level','Job Function','Employment Type','Industries'])
 #%%
 
 #%%
