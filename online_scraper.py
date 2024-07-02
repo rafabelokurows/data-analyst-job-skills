@@ -91,8 +91,8 @@ scraper.on(Events.END, on_end)
 #%%
 
 #%%
-group_of_items = {'Seattle, Washington, United States'}
-# 'San Francisco, California, United States',
+group_of_items = {'Seattle, Washington, United States',
+'San Francisco, California, United States'}
 # 'United States Remote','European Union Remote',
 # 'Boston, Massachusetts, United States',
 # 'Berlin, Germany',
