@@ -1,5 +1,6 @@
 #%%
 import pandas as pd
+from time import gmtime,strftime
 from selenium import webdriver
 import logging
 from linkedin_jobs_scraper import LinkedinScraper
@@ -93,16 +94,19 @@ scraper.on(Events.END, on_end)
 
 #%%
 group_of_items = {'Seattle, Washington, United States',
-'San Francisco, California, United States'}
-# 'United States Remote','European Union Remote',
-# 'Boston, Massachusetts, United States',
-# 'Berlin, Germany',
-# 'London, England, United Kingdom',
-# 'Canada Remote',
-# 'Toronto, Ontario, Canada',
-# 'Vancouver, British Columbia, Canada'
-#}
-num_to_select = 1
+'San Francisco, California, United States',
+'United States Remote','European Union Remote',
+'Boston, Massachusetts, United States',
+'Berlin, Germany',
+'London, England, United Kingdom',
+'Canada Remote',
+'Toronto, Ontario, Canada',
+'Vancouver, British Columbia, Canada',
+'Madrid, Community of Madrid, Spain',
+'Barcelona, Catalonia, Spain',
+'Spain
+}
+num_to_select = 5
 locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
 
 queries = [
