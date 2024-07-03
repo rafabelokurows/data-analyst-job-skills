@@ -169,7 +169,7 @@ def select_items_by_day(item_list):
     return selected_items
 
 #Select places based on day of the week, 5 places for each day
-select_items_by_day(group_of_items)
+locationsToQuery = select_items_by_day(group_of_items)
 
 
 query_1 = [
