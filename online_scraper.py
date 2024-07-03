@@ -94,7 +94,29 @@ scraper.on(Events.END, on_end)
 #%%
 
 #%%
-group_of_items = {'Seattle, Washington, United States',
+# group_of_items = {'Seattle, Washington, United States',
+# 'San Francisco, California, United States',
+# 'United States Remote',
+# 'European Union Remote',
+# 'Boston, Massachusetts, United States',
+# 'Berlin, Germany',
+# 'London, England, United Kingdom',
+# 'Canada Remote',
+# 'Toronto, Ontario, Canada',
+# 'Vancouver, British Columbia, Canada',
+# 'Madrid, Community of Madrid, Spain',
+# 'Barcelona, Catalonia, Spain',
+# 'Spain',
+# 'Lisbon, Portugal',
+# 'Porto, Portugal',
+# 'Milan, Lombardy, Italy',
+# 'Brussels Region, Belgium',
+# 'Switzerland',
+# 'São Paulo, Brazil'
+# }
+#num_to_select = 6
+#locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
+group_of_items = ['Seattle, Washington, United States',
 'San Francisco, California, United States',
 'United States Remote',
 'European Union Remote',
@@ -112,10 +134,42 @@ group_of_items = {'Seattle, Washington, United States',
 'Milan, Lombardy, Italy',
 'Brussels Region, Belgium',
 'Switzerland',
-'São Paulo, Brazil'
-}
-num_to_select = 6
-locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
+'São Paulo, Brazil',
+'Rome, Latium, Italy',
+'Netherlands',
+'Stuttgart Region',
+'Stockholm, Stockholm County, Sweden',
+'Denmark',
+'United Kingdom'
+]
+
+#num_to_select = 1
+#locationsToQuery = random.sample(sorted(group_of_items), num_to_select)
+
+def select_items_by_day(item_list):
+    # Get the current day of the week (0 = Monday, 6 = Sunday)
+    today = datetime.datetime.today().weekday()
+    
+    # Define the ranges for each day of the week
+    ranges = {
+        0: range(0, 5),    # Monday: items 1 through 6
+        1: range(5, 10),   # Tuesday: items 7 through 12
+        2: range(10, 15),  # Wednesday: items 13 through 18
+        3: range(15, 20),  # Thursday: items 19 through 24
+        4: range(20, 25)   # Friday: items 25 through 30
+    }
+    
+    # Calculate the current range based on the day of the week
+    item_range = ranges[today % 5]
+    
+    # Select items from the dictionary based on the calculated range
+    selected_items = [item_list[i] for i in item_range if i < len(item_list)]
+    
+    return selected_items
+
+#Select places based on day of the week, 5 places for each day
+select_items_by_day(group_of_items)
+
 
 query_1 = [
     Query(
@@ -123,7 +177,7 @@ query_1 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=25,  # Limit the number of jobs to scrape
+            limit=60,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
@@ -158,7 +212,7 @@ query_2 = [
         options=QueryOptions(
             locations=locationsToQuery,
             #optimize=True,  # Blocks requests for resources like images and stylesheet
-            limit=25,  # Limit the number of jobs to scrape
+            limit=60,  # Limit the number of jobs to scrape
             skip_promoted_jobs=True,
             filters=QueryFilters(
                 relevance=RelevanceFilters.RECENT,
