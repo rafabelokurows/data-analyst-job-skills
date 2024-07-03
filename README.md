@@ -21,6 +21,7 @@ Obtain a large pool of job ad descriptions found on Linkedin to answer a few bur
 - [ ] Expand keywords to roles such as "Product Analyst", "Analytics Engineer", and others
 - [ ] Cluster similar positions based on main types of activities: Governance, Analysis, Scientific/Research
 - [x] Train ML models to predict salary based on skills, requisites and other characteristics of the job
+- [x] Add automated collection workflow running on Github Actions
 
 ## References
 Some of my references for this one:
