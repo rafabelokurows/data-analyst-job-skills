@@ -1,0 +1,1986 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4056806945,https://dk.linkedin.com/jobs/view/machine-learning-engineer-at-trustpilot-4056806945?position=1&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=qMgpCyOrCccpDjc5zk29SA%3D%3D,Machine Learning Engineer,Trustpilot,"Copenhagen, Capital Region of Denmark, Denmark","Our vision is to be the universal symbol of trust, bringing consumers and businesses together through reviews. We are well on our way — but there’s still an exciting journey ahead. Join us at the heart of trust.
+
+As part of the MLOps team, you’ll work closely with data scientists, software engineers, and other stakeholders to bring machine learning models to life—ensuring they’re deployed, maintained, and monitored efficiently in production. You’ll have the opportunity to improve model performance and infrastructure, all while contributing to Trustpilot’s AI-based solutions.
+
+What You’ll Be Doing
+
+
+Model Deployment: Collaborate with data scientists to take machine learning models from development to production, ensuring quality work and scalability.
+Build Pipelines: Develop and maintain data and model pipelines, integrating seamlessly with our existing systems to support reliable, efficient workflows.
+CI/CD for ML: Design and implement continuous integration and delivery pipelines to streamline the deployment of machine learning models.
+Model Monitoring: Help monitor the performance of machine learning models post-deployment, ensuring reliability, scalability, and quality over time.
+Collaboration: Work with cross-functional teams to design solutions that meet business needs while adhering to best practices in machine learning and software engineering.
+Optimize: Continuously improve our infrastructure, ensuring we remain at the forefront of AI model production and delivery.
+
+
+Who You Are
+
+
+Solid technical foundation in both machine learning and software engineering.
+Experience deploying machine learning models in production environments.
+Proficiency in Python and relevant ML libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+Familiarity with cloud platforms like GCP, AWS, or Azure.
+Experience with CI/CD pipelines for machine learning (e.g., Vertex AI).
+Experience with data processing frameworks and tools, particularly Apache Beam/Dataflow is highly desirable.
+Knowledge of monitoring and maintaining models in production.
+Proficiency in employing containerization tools, including Docker, to streamline the configuration of deployment settings.
+Problem-solving skills with the ability to troubleshoot model and pipeline issues.
+Good communication skills, enabling effective collaboration across teams.
+
+
+What’s In It For You
+
+
+A range of flexible working options to dedicate time to what matters to you
+Competitive compensation package + bonus
+25 days holiday per year, with an extra 5 days holiday allocated after your 1 year anniversary (prorated)
+Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community
+Rich learning and development opportunities are supported through the Trustpilot Academy, LinkedIn Learning, and Blinkist
+Comprehensive health package, pension, and full access to Headspace, a popular mindfulness app to promote positive mental health
+Paid parental leave
+Central office with a laid-back vibe and constant buzz of different languages being spoken everywhere you go It’s complete with a coffee bar, canteen, and table tennis and has a wide variety of refreshments available - you can opt-in for breakfast and lunch at an affordable price
+Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials
+Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go-karting, cooking classes, and escape rooms
+Employee discounts to restaurants and shops
+
+
+Still not sure?
+
+We want to be a part of creating a more diverse, equitable, and inclusive world of work for all. We’re excited to hear about your experiences as well as how you will contribute to our working culture. So, even if you don’t feel you don't meet all the requirements, we'd still really like to hear from you!
+
+About Us
+
+Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.
+
+Today, we have more than 300 million reviews and 67 million monthly active users across the globe, with 127 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 900 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York.
+
+We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas.
+
+Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.
+
+Join us at the heart of trust.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Our vision is to be the universal symbol of trust, bringing consumers and businesses together through reviews. We are well on our way — but there’s still an exciting journey ahead. Join us at the heart of trust.<br><br></strong>As part of the MLOps team, you’ll work closely with data scientists, software engineers, and other stakeholders to bring machine learning models to life—ensuring they’re deployed, maintained, and monitored efficiently in production. You’ll have the opportunity to improve model performance and infrastructure, all while contributing to Trustpilot’s AI-based solutions.<br><br><strong>What You’ll Be Doing<br><br></strong><ul><li>Model Deployment: Collaborate with data scientists to take machine learning models from development to production, ensuring quality work and scalability.</li><li>Build Pipelines: Develop and maintain data and model pipelines, integrating seamlessly with our existing systems to support reliable, efficient workflows.</li><li>CI/CD for ML: Design and implement continuous integration and delivery pipelines to streamline the deployment of machine learning models.</li><li>Model Monitoring: Help monitor the performance of machine learning models post-deployment, ensuring reliability, scalability, and quality over time.</li><li>Collaboration: Work with cross-functional teams to design solutions that meet business needs while adhering to best practices in machine learning and software engineering.</li><li>Optimize: Continuously improve our infrastructure, ensuring we remain at the forefront of AI model production and delivery.<br><br></li></ul><strong>Who You Are<br><br></strong><ul><li>Solid technical foundation in both machine learning and software engineering.</li><li>Experience deploying machine learning models in production environments.</li><li>Proficiency in Python and relevant ML libraries (e.g., TensorFlow, PyTorch, scikit-learn).</li><li>Familiarity with cloud platforms like GCP, AWS, or Azure.</li><li>Experience with CI/CD pipelines for machine learning (e.g., Vertex AI).</li><li>Experience with data processing frameworks and tools, particularly Apache Beam/Dataflow is highly desirable.</li><li>Knowledge of monitoring and maintaining models in production.</li><li>Proficiency in employing containerization tools, including Docker, to streamline the configuration of deployment settings.</li><li>Problem-solving skills with the ability to troubleshoot model and pipeline issues.</li><li>Good communication skills, enabling effective collaboration across teams.<br><br></li></ul><strong>What’s In It For You<br><br></strong><ul><li>A range of flexible working options to dedicate time to what matters to you</li><li>Competitive compensation package + bonus</li><li>25 days holiday per year, with an extra 5 days holiday allocated after your 1 year anniversary (prorated) </li><li>Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community</li><li>Rich learning and development opportunities are supported through the Trustpilot Academy, LinkedIn Learning, and Blinkist</li><li>Comprehensive health package, pension, and full access to Headspace, a popular mindfulness app to promote positive mental health</li><li>Paid parental leave</li><li>Central office with a laid-back vibe and constant buzz of different languages being spoken everywhere you go It’s complete with a coffee bar, canteen, and table tennis and has a wide variety of refreshments available - you can opt-in for breakfast and lunch at an affordable price</li><li>Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials</li><li>Opportunity to join the Trustpilot Social Club for a small monthly fee and attend regular social and leisure activities like go-karting, cooking classes, and escape rooms </li><li>Employee discounts to restaurants and shops <br><br></li></ul><strong>Still not sure?<br><br></strong>We want to be a part of creating a more diverse, equitable, and inclusive world of work for all. We’re excited to hear about your experiences as well as how you will contribute to our working culture. So, even if you don’t feel you don't meet all the requirements, we'd still really like to hear from you!<br><br><strong>About Us<br><br></strong>Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.<br><br>Today, we have more than 300 million reviews and 67 million monthly active users across the globe, with 127 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 900 employees and we’re headquartered in Copenhagen, with operations in Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York.<br><br>We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas.<br><br>Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.<br><br>Join us at the heart of trust.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-23,[]
+4071982867,https://dk.linkedin.com/jobs/view/machine-learning-engineer-at-veo-technologies-4071982867?position=4&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=3nonUSlsf8hzDZf6EDXNLQ%3D%3D,Machine Learning Engineer,Veo Technologies,"Copenhagen, Capital Region of Denmark, Denmark","Veo is a global leader in AI-based sports camera technology. Our innovative, fully automatic camera solution enables sports teams to record matches and training sessions without a camera operator. We’re democratizing the world of sports by granting video analysis for teams on all levels—a privilege that used to be only for the few. More than 40,000 clubs in 90+ countries record their games every week.
+
+Growing as fast as we do in Veo means that every day is different, exciting, and challenging, both on the front line and in the back office.
+
+But that’s not the most remarkable thing about us.
+
+The coolest thing is our people. We’ve attracted some of the brightest minds in the industry. They are the reason we can create a great product and do it while enjoying ourselves.
+
+As a Machine Learning Engineer at Veo you will get to work on challenging problems and directly contribute to the value created by our AI-driven end-user products.
+
+You will become part of our AI team, which comprises 15 researchers and engineers responsible for all stages in the machine learning lifecycles across different projects – from scoping and defining data annotation tasks to modeling, validation, and deployment. You will be free to determine the directions of the project you work on while also getting feedback and being encouraged to spar with the rest of the team to assist each other in improving and succeeding.
+
+We stay current with the latest research and continuously discuss concepts and ideas in recent papers to assess their relevance to our tasks and product-specific challenges.
+
+We aim to recruit an adept junior to senior professional with hands-on experience in machine learning initiatives to join our engineering and research team. Experience with computer vision is advantageous but not a must.
+
+What you will do:
+
+
+
+Train state-of-the-art machine learning models
+Write efficient inference pipelines for cloud and edge
+Define and supervise data annotation tasks
+Improve evaluation schemes to increase understanding of model performance and shortcomings
+Contribute to long-term planning and prioritization of tasks
+
+
+
+
+What you will need:
+
+
+
+MSc or PhD in a relevant field
+Hands-on experience with real-world, large-scale machine-learning projects
+Great coding skills
+Skilled at both autonomous tasks and contributing to group efforts
+Ability to examine details closely and critically
+
+
+
+
+At Veo, you'll be part of a thriving work environment where every day brings new excitement. Our rapid growth ensures a diverse and ever-changing atmosphere. We believe in work-life balance and providing a positive culture that allows you to thrive personally and professionally.
+
+Our Copenhagen office mirrors our innovative technology – with an indoor ball court, rooftop terrace, and well-equipped gym. We have created a facility that supports connecting disciplines across the business, facilitates creative thinking, and gives the space to engage with colleagues, our global partners, and the entire Veo community.
+
+Diversity and differences are valuable assets for us. We value diversity and inclusion and welcome people from all backgrounds. If you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we still encourage you to apply.
+
+We’re committed to building a diverse, inclusive, and authentic workplace. And you may be just the right candidate for this or other roles.
+
+Still interested? Join us at Veo and become a part of a team that delivers greatness and has a great time doing it.
+
+We will invite for interviews continuously, so apply with LinkedIn or your resume as soon as possible.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Veo is a global leader in AI-based sports camera technology. Our innovative, fully automatic camera solution enables sports teams to record matches and training sessions without a camera operator. We’re democratizing the world of sports by granting video analysis for teams on all levels—a privilege that used to be only for the few. More than 40,000 clubs in 90+ countries record their games every week.<br><br>Growing as fast as we do in Veo means that every day is different, exciting, and challenging, both on the front line and in the back office.<br><br>But that’s not the most remarkable thing about us.<br><br>The coolest thing is our people. We’ve attracted some of the brightest minds in the industry. They are the reason we can create a great product and do it while enjoying ourselves.<br><br>As a Machine Learning Engineer at Veo you will get to work on challenging problems and directly contribute to the value created by our AI-driven end-user products.<br><br>You will become part of our AI team, which comprises 15 researchers and engineers responsible for all stages in the machine learning lifecycles across different projects – from scoping and defining data annotation tasks to modeling, validation, and deployment. You will be free to determine the directions of the project you work on while also getting feedback and being encouraged to spar with the rest of the team to assist each other in improving and succeeding.<br><br>We stay current with the latest research and continuously discuss concepts and ideas in recent papers to assess their relevance to our tasks and product-specific challenges.<br><br>We aim to recruit an adept junior to senior professional with hands-on experience in machine learning initiatives to join our engineering and research team. Experience with computer vision is advantageous but not a must.<br><br><strong>What you will do:<br><br><br></strong><ul><li>Train state-of-the-art machine learning models</li><li>Write efficient inference pipelines for cloud and edge</li><li>Define and supervise data annotation tasks</li><li>Improve evaluation schemes to increase understanding of model performance and shortcomings</li><li>Contribute to long-term planning and prioritization of tasks<br><br><br><br></li></ul><strong>What you will need:<br><br><br></strong><ul><li>MSc or PhD in a relevant field</li><li>Hands-on experience with real-world, large-scale machine-learning projects</li><li>Great coding skills</li><li>Skilled at both autonomous tasks and contributing to group efforts</li><li>Ability to examine details closely and critically<br><br><br><br></li></ul>At Veo, you'll be part of a thriving work environment where every day brings new excitement. Our rapid growth ensures a diverse and ever-changing atmosphere. We believe in work-life balance and providing a positive culture that allows you to thrive personally and professionally.<br><br>Our Copenhagen office mirrors our innovative technology – with an indoor ball court, rooftop terrace, and well-equipped gym. We have created a facility that supports connecting disciplines across the business, facilitates creative thinking, and gives the space to engage with colleagues, our global partners, and the entire Veo community.<br><br>Diversity and differences are valuable assets for us. We value diversity and inclusion and welcome people from all backgrounds. If you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we still encourage you to apply.<br><br>We’re committed to building a diverse, inclusive, and authentic workplace. And you may be just the right candidate for this or other roles.<br><br>Still interested? Join us at Veo and become a part of a team that delivers greatness and has a great time doing it.<br><br>We will invite for interviews continuously, so apply with LinkedIn or your resume as soon as possible.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-08,[]
+4062013342,https://dk.linkedin.com/jobs/view/ml-engineer-at-%C3%B8nskeskyen-4062013342?position=5&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=itqBpcZD6iR%2FE%2FX7KZAirQ%3D%3D,ML Engineer,Ønskeskyen,"Copenhagen, Capital Region of Denmark, Denmark","ML Engineer at Ønskeskyen (GoWish)About Ønskeskyen (GoWish):
+
+Ønskeskyen, known globally as GoWish, is an innovative app platform transforming the way users create, share, and fulfil wish lists for life's significant moments - weddings, birthdays, Christmas, and beyond. With a user base spanning the globe, we lead in fostering connections through shared desires and thoughtful gifting. GoWish, accessible on any device, is the premier platform for crafting wish lists and finding inspiration for all occasions.
+
+
+
+
+Role Overview:
+
+As a ML Engineer at GoWish you will be part of our growing AI and data science team, with a focus on developing internal api’s and products that elevate our user experience and insights. Your work will involve implementing services which use Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Machine Learning (ML) on top of our data, to deliver best in class services for our customers. Your contributions will directly enhance our mission to foster personalised connections among users, gifts, and brands.
+
+
+
+
+Key Responsibilities:
+Implementation of applications using RAG, LLM and ML to provide results for our customer centric applications.
+Prompt engineering: Implement and improve LLM prompts to optimise performance and quality of the results.
+Work closely with our specialised team, sharing knowledge and contributing to products that leverage data science for maximum value creation.
+Develop and improve our ML Infrastructure, working closely with the team to deliver first class data pipelines.
+
+Qualifications:
+Experience with MLOps/LLMOps/GitOps practices for data and AI platforms.
+Demonstrable expertise with developing ML and LLM applications.
+Proficiency in Python, Spark, and other relevant programming languages.
+Experience with developing data pipelines using Airflow, Dataproc, DPT or similar
+Solid grounding in machine learning principles, and data visualisation.
+Strong problem-solving abilities and collaboration skills.
+Skilled in processing large datasets and deriving actionable insights.
+Prompt engineering for LLM applications.
+
+Nice-to-Have:
+Experience with GoLang.
+Business acumen with the ability to translate insights into strategic actions.
+Familiarity with Google Cloud Platform.
+Experience with Terraform
+Why Ønskeskyen?
+Impact how people celebrate significant milestones and everyday moments.
+Enjoy a vibrant, social workplace culture in the heart of Nordhavn, Copenhagen, complete with daily lunches, comprehensive health insurance, and regular social events.
+Work in an innovative environment focused on pioneering recommendation systems and user engagement strategies.
+Benefit from a competitive compensation package within a supportive, team-oriented culture.
+Contribute to a sustainable, meaningful approach to gifting.
+Location:
+
+Nordhavn, Copenhagen, Denmark — a lively workplace with a host of perks.
+
+
+
+
+Start Date: ASAP
+
+Embark on a fulfilling career journey with Ønskeskyen. Apply today and be a pivotal part of our mission to revolutionise gifting and celebrations worldwide.
+
+
+
+
+
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <span>ML Engineer at Ønskeskyen (GoWish)</span><span>About Ønskeskyen (GoWish):</span><p><span>Ønskeskyen, known globally as GoWish, is an innovative app platform transforming the way users create, share, and fulfil wish lists for life's significant moments - weddings, birthdays, Christmas, and beyond. With a user base spanning the globe, we lead in fostering connections through shared desires and thoughtful gifting. GoWish, accessible on any device, is the premier platform for crafting wish lists and finding inspiration for all occasions.</span></p><p><br></p><span>Role Overview:</span><p><span>As a ML Engineer at GoWish you will be part of our growing AI and data science team, with a focus on developing internal api’s and products that elevate our user experience and insights. Your work will involve implementing services which use Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Machine Learning (ML) on top of our data, to deliver best in class services for our customers. Your contributions will directly enhance our mission to foster personalised connections among users, gifts, and brands.</span></p><p><br></p><span>Key Responsibilities:</span><ul><li><span>Implementation of applications using RAG, LLM and ML to provide results for our customer centric applications.</span></li><li><span>Prompt engineering: Implement and improve LLM prompts to optimise performance and quality of the results.</span></li><li><span>Work closely with our specialised team, sharing knowledge and contributing to products that leverage data science for maximum value creation.</span></li><li><span>Develop and improve our ML Infrastructure, working closely with the team to deliver first class data pipelines.<br></span></li></ul><span>Qualifications:</span><ul><li><span>Experience with MLOps/LLMOps/GitOps practices for data and AI platforms.</span></li><li><span>Demonstrable expertise with developing ML and LLM applications.</span></li><li><span>Proficiency in Python, Spark, and other relevant programming languages.</span></li><li><span>Experience with developing data pipelines using Airflow, Dataproc, DPT or similar</span></li><li><span>Solid grounding in machine learning principles, and data visualisation.</span></li><li><span>Strong problem-solving abilities and collaboration skills.</span></li><li><span>Skilled in processing large datasets and deriving actionable insights.</span></li><li><span>Prompt engineering for LLM applications.<br></span></li></ul><span>Nice-to-Have:</span><ul><li><span>Experience with GoLang.</span></li><li><span>Business acumen with the ability to translate insights into strategic actions.</span></li><li><span>Familiarity with Google Cloud Platform.</span></li><li><span>Experience with Terraform</span></li></ul><span>Why Ønskeskyen?</span><ul><li><span>Impact how people celebrate significant milestones and everyday moments.</span></li><li><span>Enjoy a vibrant, social workplace culture in the heart of Nordhavn, Copenhagen, complete with daily lunches, comprehensive health insurance, and regular social events.</span></li><li><span>Work in an innovative environment focused on pioneering recommendation systems and user engagement strategies.</span></li><li><span>Benefit from a competitive compensation package within a supportive, team-oriented culture.</span></li><li><span>Contribute to a sustainable, meaningful approach to gifting.</span></li></ul><span>Location:</span><p><span>Nordhavn, Copenhagen, Denmark — a lively workplace with a host of perks.</span></p><p><br></p><span>Start Date: ASAP</span><p><span>Embark on a fulfilling career journey with Ønskeskyen. Apply today and be a pivotal part of our mission to revolutionise gifting and celebrations worldwide.</span></p><p><br></p><p><br></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-30,[]
+4065617387,https://dk.linkedin.com/jobs/view/data-scientist-choreograph-at-choreograph-nordic-4065617387?position=10&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=uB87Ie4ynECQIe85bN28Wg%3D%3D,Data Scientist - Choreograph,Choreograph Nordic,"Copenhagen, Capital Region of Denmark, Denmark","Join a growing team of Data Scientists transforming marketing for some of the world's largest brands!
+
+Join a team of expert Data Scientists and Consultants at Choreograph, a GroupM company, revolutionizing marketing for the world's biggest brands. We transform data into powerful solutions for complex media and marketing challenges, leveraging cutting-edge techniques like econometrics, algorithmic media buying, and strategic consulting. At Choreograph, you'll be at the forefront of industry innovation, partnering with leading advertisers, publishers, and tech companies to shape the future of marketing. This role offers unparalleled opportunities for professional and personal growth.
+
+We are a team with an entrepreneurial drive. Professionally, we believe that you are a recent graduate or have worked for a few years in data science or analysis.
+
+What you will do:
+
+As a Data Scientist on our team, you will:
+
+
+Develop and implement data-driven solutions for a variety of projects, including econometric modeling, attribution analysis, experimental design, algorithm development, and other data science initiatives.
+Analyze large datasets, extract actionable insights, and package findings into compelling presentations for clients.
+Collaborate with project teams to drive the development of automated reporting, algorithms, and other data science deliverables.
+Contribute to a culture of innovation and continuous improvement within the team.
+
+
+What you will bring:
+
+
+A strong academic background in mathematics, statistics, or a related field (e.g., cand.merc.(mat), cand.oecon, scand.polit, Master's in Mathematics).
+Proven experience or academic projects demonstrating proficiency in regression analysis and econometric modeling.
+Proficiency in statistical software such as R and Python. Experience with Power BI is a plus.
+Excellent communication and presentation skills, with the ability to clearly articulate complex technical concepts to both technical and non-technical audiences.
+A proactive and entrepreneurial mindset, with the ability to work independently and as part of a team.
+Strong analytical and problem-solving skills, with a keen eye for detail.
+Fluency in English. Danish language skills are highly desirable.
+Experience with cloud environments (e.g., AWS, Azure, GCP) is advantageous but not required.
+
+
+Why Choreograph?
+
+
+Impactful Work: Contribute to innovative projects that directly impact the success of leading brands.
+Growth Opportunities: Develop your skills and advance your career within a supportive and collaborative environment. Gain exposure to cutting-edge technologies like cloud computing, machine learning, and automated data activation.
+Dynamic Culture: Join a fun, casual, and social team that values collaboration and work-life balance. Enjoy regular social activities, from padel tennis and functional training to Friday afternoon socials.
+Mentorship & Training: Benefit from ongoing training and mentorship from experienced colleagues.
+
+
+About Us:
+
+At Choreograph, a GroupM company, we are more than just a business intelligence consultancy. We are a team of passionate data experts driving real-world results in marketing effectiveness, customer insights, econometric modeling, and digital transformation.
+
+Our Data Science team thrives in a collaborative environment with a vibrant social culture. You will get excellent training from day one and have opportunities to expand your skillset in cutting-edge areas like custom algorithms, cloud technology, and machine learning. We value a supportive and social atmosphere and believe in continuous learning and development within a fun, friendly team.
+
+This is a full-time, permanent position based in Copenhagen. Apply now with your CV and cover letter as well we expect you to share your grades from bachelor's and Master's (any issues uploading, just follow up by email to johan.hillers@groupm.com, thanks).
+
+Contact:
+
+For questions about the position, don't hesitate to get in touch with Simon Backlund, Senior Data Scientist & Team Lead, at simon.backlund@choreograph.com (Please submit applications through the official channels, not via email. However, please send your ).
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Join a growing team of Data Scientists transforming marketing for some of the world's largest brands!<br><br></strong>Join a team of expert Data Scientists and Consultants at Choreograph, a GroupM company, revolutionizing marketing for the world's biggest brands. We transform data into powerful solutions for complex media and marketing challenges, leveraging cutting-edge techniques like econometrics, algorithmic media buying, and strategic consulting. At Choreograph, you'll be at the forefront of industry innovation, partnering with leading advertisers, publishers, and tech companies to shape the future of marketing. This role offers unparalleled opportunities for professional and personal growth.<br><br>We are a team with an entrepreneurial drive. Professionally, we believe that you are a recent graduate or have worked for a few years in data science or analysis.<br><br><strong>What you will do:<br><br></strong>As a Data Scientist on our team, you will:<br><br><ul><li>Develop and implement data-driven solutions for a variety of projects, including econometric modeling, attribution analysis, experimental design, algorithm development, and other data science initiatives.</li><li>Analyze large datasets, extract actionable insights, and package findings into compelling presentations for clients.</li><li>Collaborate with project teams to drive the development of automated reporting, algorithms, and other data science deliverables.</li><li>Contribute to a culture of innovation and continuous improvement within the team.<br><br></li></ul><strong>What you will bring:<br><br></strong><ul><li>A strong academic background in mathematics, statistics, or a related field (e.g., cand.merc.(mat), cand.oecon, scand.polit, Master's in Mathematics).</li><li>Proven experience or academic projects demonstrating proficiency in regression analysis and econometric modeling.</li><li>Proficiency in statistical software such as R and Python. Experience with Power BI is a plus.</li><li>Excellent communication and presentation skills, with the ability to clearly articulate complex technical concepts to both technical and non-technical audiences.</li><li>A proactive and entrepreneurial mindset, with the ability to work independently and as part of a team.</li><li>Strong analytical and problem-solving skills, with a keen eye for detail.</li><li>Fluency in English. Danish language skills are highly desirable.</li><li>Experience with cloud environments (e.g., AWS, Azure, GCP) is advantageous but not required.<br><br></li></ul><strong>Why Choreograph?<br><br></strong><ul><li>Impactful Work: Contribute to innovative projects that directly impact the success of leading brands.</li><li>Growth Opportunities: Develop your skills and advance your career within a supportive and collaborative environment. Gain exposure to cutting-edge technologies like cloud computing, machine learning, and automated data activation.</li><li>Dynamic Culture: Join a fun, casual, and social team that values collaboration and work-life balance. Enjoy regular social activities, from padel tennis and functional training to Friday afternoon socials.</li><li>Mentorship &amp; Training: Benefit from ongoing training and mentorship from experienced colleagues.<br><br></li></ul><strong>About Us:<br><br></strong>At Choreograph, a GroupM company, we are more than just a business intelligence consultancy. We are a team of passionate data experts driving real-world results in marketing effectiveness, customer insights, econometric modeling, and digital transformation.<br><br>Our Data Science team thrives in a collaborative environment with a vibrant social culture. You will get excellent training from day one and have opportunities to expand your skillset in cutting-edge areas like custom algorithms, cloud technology, and machine learning. We value a supportive and social atmosphere and believe in continuous learning and development within a fun, friendly team.<br><br>This is a full-time, permanent position based in Copenhagen. Apply now with your CV and cover letter as well we expect you to share your grades from bachelor's and Master's (any issues uploading, just follow up by email to johan.hillers@groupm.com, thanks).<br><br><strong>Contact:<br><br></strong>For questions about the position, don't hesitate to get in touch with Simon Backlund, Senior Data Scientist &amp; Team Lead, at simon.backlund@choreograph.com (Please submit applications through the official channels, not via email. However, please send your ).
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-02,[]
+4063738977,https://dk.linkedin.com/jobs/view/data-science-graduate-at-%C3%B8rsted-4063738977?position=11&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=5Blwl0pRn7woZi55PWBTGg%3D%3D,Data Science Graduate,Ørsted,"Gentofte, Capital Region of Denmark, Denmark","Step into a career where your software and mathematical models help create a world that runs entirely on green energy
+
+The Ørsted Global Graduate Programme is designed to unleash your potential. We offer you an intense two-year developmental journey where you’ll learn from experts within your field and get diverse project experience, develop transferable skills, and build a strong cross-functional network with other talents.
+
+The graduate journey
+
+Our Global Graduate Programme consists of three rotations, where you’ll solve business challenges, take responsibility for your own assignments, and engage in our day-to-day business decisions.
+
+You’ll have your first rotation in Advanced Analytics where you’ll be part of a skilled analytics and data science team, supporting trading of our Danish assets. In the second rotation, you’ll join SMARTPlant, an agile programme consisting of multiple teams. You’ll be part of a team focused on analytics, artificial intelligence, and business information, where your responsibilities will include developing AI-based tools for applications such as predictive maintenance. The third rotation is aimed at supporting our digitalisation. You’ll be implementing advanced analytics directly in the daily operation of our carbon capture and power plants, working closely with subject matter experts.
+
+You’ll play an important role in:
+
+
+deploying machine learning models that help us maximise revenue from our diverse portfolio of power plants, electric boilers, heat pumps, and wind and solar parks
+developing decision support applications, incl. forecasting, optimisation models, predictive maintenance, performance monitoring, and dashboards
+introducing new methods and tools for advanced analytics, visualisation, and programming to the team
+writing and deploying Python applications to live production environments
+cooperating with developers, subject matter experts, and end users.
+
+
+To succeed in this role, you:
+
+
+have a master’s degree in engineering, computer science, physics, or statistics from before 1 September 2025
+have a maximum of one year of full-time, relevant work experience between your master's completion and 1 September 2025
+have excellent knowledge of data science and mathematical modelling
+are a strong Python programmer, ideally with knowledge of automated testing and deployment
+have knowledge of or an interest in thermodynamics
+are eager to learn more about the renewable energy business and apply your skills to solve real-world problems
+have strong communication skills and are fluent in both spoken and written English.
+
+
+Maybe you’ve read the above and can see you have some transferable skills, even though they don’t quite match all the points. If you think you can bring something to the team, we still encourage you to apply.
+
+Join a global leader in renewable energy
+
+Ørsted is a growing green energy major and global leader in climate action. With us you’ll play a part in driving change towards a green energy future. You’ll grow your talent in a fast-paced and high-growth industry where you have plenty of opportunities to learn and develop through challenging assignments and industry-leading experts. Here you can perform in a friendly work environment based on trust, respect, and collaboration.
+
+The best first step you’ll ever take
+
+Send your application, CV, and most recent grade transcripts as soon as possible and no later than 5 January 2025. We’ll conduct interviews shortly after the application deadline.
+
+Please don’t hesitate to write to graduates@orsted.com if you have any questions. If you need to request any adjustments to working practices, working patterns, or the assessment or interview process we're happy to discuss alternative arrangements.
+
+Step closer to a career as a graduate in Ørsted
+
+In Ørsted, we help accelerate your talent into an international career within your professional field. See our Global Graduate Programme overview, read more about the recruitment process, and find out how you can help us turn visions into reality.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <em>Step into a career where your software and mathematical models help create a world that runs entirely on green energy <br><br></em>The Ørsted Global Graduate Programme is designed to unleash your potential. We offer you an intense two-year developmental journey where you’ll learn from experts within your field and get diverse project experience, develop transferable skills, and build a strong cross-functional network with other talents.<br><br><strong>The graduate journey<br><br></strong>Our Global Graduate Programme consists of three rotations, where you’ll solve business challenges, take responsibility for your own assignments, and engage in our day-to-day business decisions.<br><br>You’ll have your first rotation in Advanced Analytics where you’ll be part of a skilled analytics and data science team, supporting trading of our Danish assets. In the second rotation, you’ll join SMARTPlant, an agile programme consisting of multiple teams. You’ll be part of a team focused on analytics, artificial intelligence, and business information, where your responsibilities will include developing AI-based tools for applications such as predictive maintenance. The third rotation is aimed at supporting our digitalisation. You’ll be implementing advanced analytics directly in the daily operation of our carbon capture and power plants, working closely with subject matter experts.<br><br><strong>You’ll play an important role in:<br><br></strong><ul><li>deploying machine learning models that help us maximise revenue from our diverse portfolio of power plants, electric boilers, heat pumps, and wind and solar parks</li><li>developing decision support applications, incl. forecasting, optimisation models, predictive maintenance, performance monitoring, and dashboards</li><li>introducing new methods and tools for advanced analytics, visualisation, and programming to the team</li><li>writing and deploying Python applications to live production environments</li><li>cooperating with developers, subject matter experts, and end users.<br><br></li></ul><strong>To succeed in this role, you:<br><br></strong><ul><li>have a master’s degree in engineering, computer science, physics, or statistics from before 1 September 2025</li><li>have a maximum of one year of full-time, relevant work experience between your master's completion and 1 September 2025 </li><li>have excellent knowledge of data science and mathematical modelling</li><li>are a strong Python programmer, ideally with knowledge of automated testing and deployment</li><li>have knowledge of or an interest in thermodynamics</li><li>are eager to learn more about the renewable energy business and apply your skills to solve real-world problems</li><li>have strong communication skills and are fluent in both spoken and written English.<br><br></li></ul>Maybe you’ve read the above and can see you have some transferable skills, even though they don’t quite match all the points. If you think you can bring something to the team, we still encourage you to apply.<br><br><strong>Join a global leader in renewable energy<br><br></strong>Ørsted is a growing green energy major and global leader in climate action. With us you’ll play a part in driving change towards a green energy future. You’ll grow your talent in a fast-paced and high-growth industry where you have plenty of opportunities to learn and develop through challenging assignments and industry-leading experts. Here you can perform in a friendly work environment based on trust, respect, and collaboration.<br><br><strong>The best first step you’ll ever take<br><br></strong>Send your application, CV, and most recent grade transcripts as soon as possible and no later than 5 January 2025. We’ll conduct interviews shortly after the application deadline.<br><br>Please don’t hesitate to write to graduates@orsted.com if you have any questions. If you need to request any adjustments to working practices, working patterns, or the assessment or interview process we're happy to discuss alternative arrangements.<br><br><strong>Step closer to a career as a graduate in Ørsted<br><br></strong>In Ørsted, we help accelerate your talent into an international career within your professional field. See our Global Graduate Programme overview, read more about the recruitment process, and find out how you can help us turn visions into reality.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-31,[]
+4064189317,https://dk.linkedin.com/jobs/view/data-science-graduate-at-%C3%B8rsted-4064189317?position=12&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=ynakPDTffq6bRi4gKsJyKA%3D%3D,Data Science Graduate,Ørsted,"Fredericia, Region of Southern Denmark, Denmark","Step into a career where your software and mathematical models help create a world that runs entirely on green energy
+
+The Ørsted Global Graduate Programme is designed to unleash your potential. We offer you an intense two-year developmental journey where you’ll learn from experts within your field and get diverse project experience, develop transferable skills, and build a strong cross-functional network with other talents.
+
+The graduate journey
+
+Our Global Graduate Programme consists of three rotations, where you’ll solve business challenges, take responsibility for your own assignments, and engage in our day-to-day business decisions.
+
+You’ll have your first rotation in Advanced Analytics where you’ll be part of a skilled analytics and data science team, supporting trading of our Danish assets. In the second rotation, you’ll join SMARTPlant, an agile programme consisting of multiple teams. You’ll be part of a team focused on analytics, artificial intelligence, and business information, where your responsibilities will include developing AI-based tools for applications such as predictive maintenance. The third rotation is aimed at supporting our digitalisation. You’ll be implementing advanced analytics directly in the daily operation of our carbon capture and power plants, working closely with subject matter experts.
+
+You’ll play an important role in:
+
+
+deploying machine learning models that help us maximise revenue from our diverse portfolio of power plants, electric boilers, heat pumps, and wind and solar parks
+developing decision support applications, incl. forecasting, optimisation models, predictive maintenance, performance monitoring, and dashboards
+introducing new methods and tools for advanced analytics, visualisation, and programming to the team
+writing and deploying Python applications to live production environments
+cooperating with developers, subject matter experts, and end users.
+
+
+To succeed in this role, you:
+
+
+have a master’s degree in engineering, computer science, physics, or statistics from before 1 September 2025
+have a maximum of one year of full-time, relevant work experience between your master's completion and 1 September 2025
+have excellent knowledge of data science and mathematical modelling
+are a strong Python programmer, ideally with knowledge of automated testing and deployment
+have knowledge of or an interest in thermodynamics
+are eager to learn more about the renewable energy business and apply your skills to solve real-world problems
+have strong communication skills and are fluent in both spoken and written English.
+
+
+Maybe you’ve read the above and can see you have some transferable skills, even though they don’t quite match all the points. If you think you can bring something to the team, we still encourage you to apply.
+
+Join a global leader in renewable energy
+
+Ørsted is a growing green energy major and global leader in climate action. With us you’ll play a part in driving change towards a green energy future. You’ll grow your talent in a fast-paced and high-growth industry where you have plenty of opportunities to learn and develop through challenging assignments and industry-leading experts. Here you can perform in a friendly work environment based on trust, respect, and collaboration.
+
+The best first step you’ll ever take
+
+Send your application, CV, and most recent grade transcripts as soon as possible and no later than 5 January 2025. We’ll conduct interviews shortly after the application deadline.
+
+Please don’t hesitate to write to graduates@orsted.com if you have any questions. If you need to request any adjustments to working practices, working patterns, or the assessment or interview process we're happy to discuss alternative arrangements.
+
+Step closer to a career as a graduate in Ørsted
+
+In Ørsted, we help accelerate your talent into an international career within your professional field. See our Global Graduate Programme overview, read more about the recruitment process, and find out how you can help us turn visions into reality.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <em>Step into a career where your software and mathematical models help create a world that runs entirely on green energy <br><br></em>The Ørsted Global Graduate Programme is designed to unleash your potential. We offer you an intense two-year developmental journey where you’ll learn from experts within your field and get diverse project experience, develop transferable skills, and build a strong cross-functional network with other talents.<br><br><strong>The graduate journey<br><br></strong>Our Global Graduate Programme consists of three rotations, where you’ll solve business challenges, take responsibility for your own assignments, and engage in our day-to-day business decisions.<br><br>You’ll have your first rotation in Advanced Analytics where you’ll be part of a skilled analytics and data science team, supporting trading of our Danish assets. In the second rotation, you’ll join SMARTPlant, an agile programme consisting of multiple teams. You’ll be part of a team focused on analytics, artificial intelligence, and business information, where your responsibilities will include developing AI-based tools for applications such as predictive maintenance. The third rotation is aimed at supporting our digitalisation. You’ll be implementing advanced analytics directly in the daily operation of our carbon capture and power plants, working closely with subject matter experts.<br><br><strong>You’ll play an important role in:<br><br></strong><ul><li>deploying machine learning models that help us maximise revenue from our diverse portfolio of power plants, electric boilers, heat pumps, and wind and solar parks</li><li>developing decision support applications, incl. forecasting, optimisation models, predictive maintenance, performance monitoring, and dashboards</li><li>introducing new methods and tools for advanced analytics, visualisation, and programming to the team</li><li>writing and deploying Python applications to live production environments</li><li>cooperating with developers, subject matter experts, and end users.<br><br></li></ul><strong>To succeed in this role, you:<br><br></strong><ul><li>have a master’s degree in engineering, computer science, physics, or statistics from before 1 September 2025</li><li>have a maximum of one year of full-time, relevant work experience between your master's completion and 1 September 2025 </li><li>have excellent knowledge of data science and mathematical modelling</li><li>are a strong Python programmer, ideally with knowledge of automated testing and deployment</li><li>have knowledge of or an interest in thermodynamics</li><li>are eager to learn more about the renewable energy business and apply your skills to solve real-world problems</li><li>have strong communication skills and are fluent in both spoken and written English.<br><br></li></ul>Maybe you’ve read the above and can see you have some transferable skills, even though they don’t quite match all the points. If you think you can bring something to the team, we still encourage you to apply.<br><br><strong>Join a global leader in renewable energy<br><br></strong>Ørsted is a growing green energy major and global leader in climate action. With us you’ll play a part in driving change towards a green energy future. You’ll grow your talent in a fast-paced and high-growth industry where you have plenty of opportunities to learn and develop through challenging assignments and industry-leading experts. Here you can perform in a friendly work environment based on trust, respect, and collaboration.<br><br><strong>The best first step you’ll ever take<br><br></strong>Send your application, CV, and most recent grade transcripts as soon as possible and no later than 5 January 2025. We’ll conduct interviews shortly after the application deadline.<br><br>Please don’t hesitate to write to graduates@orsted.com if you have any questions. If you need to request any adjustments to working practices, working patterns, or the assessment or interview process we're happy to discuss alternative arrangements.<br><br><strong>Step closer to a career as a graduate in Ørsted<br><br></strong>In Ørsted, we help accelerate your talent into an international career within your professional field. See our Global Graduate Programme overview, read more about the recruitment process, and find out how you can help us turn visions into reality.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-02,[]
+4049050735,https://dk.linkedin.com/jobs/view/research-scientist-at-chora-a-s-4049050735?position=14&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=A%2BXI53vRGxEatdnlvBFUPg%3D%3D,Research Scientist,Chora A/S,"Central Denmark Region, Denmark","RESEARCH SCIENTIST / RESEARCH ENGINEER
+
+
+
+
+Are you passionate about advanced signal processing and algorithm development? Are you ready to take on the challenge of developing innovative solutions in positioning, navigation, and timing systems? At Chora, we are looking for a dedicated, talented, and proactive Research Scientist / Research Engineer to join our innovative team. This is your chance to work on cutting-edge projects in a dynamic environment, collaborate with industry experts, and make a significant impact. If you have a strong background in signal processing, algorithm development, and a keen enthusiasm for research and creative problem-solving, we want to hear from you!
+
+
+
+
+
+
+
+YOUR ROLE AND RESPONSIBILITIES
+
+
+
+
+In this position, you will contribute to the development of our mission critical communication equipment used by e.g. the electronic warfare sector. You will work collaboratively with a team of experts, engaging in both research and the practical implementation of algorithms. Your responsibilities will encompass the entire process, from designing and developing laboratory systems to analyzing algorithm performance in real-world applications. As you navigate complex challenges, your expertise will play a vital role in shaping the future of our cutting-edge technology at Chora.
+
+
+
+
+You will be in charge of conducting research and development in the field of signal processing for radio signals, focusing on positioning, navigation, and timing.
+You will be responsible for designing laboratory systems for signal acquisition and proposing hardware development solutions.
+You will play a crucial role in developing and implementing algorithms for detection, acquisition, tracking, and high-level system modeling.
+You will be responsible for performing algorithm development and integrating them into real-world systems.
+You will contribute to the research and model physical behaviors related to our products.
+You will be part of analyzing and documenting algorithmic subsystems, evaluating their performance and functionality.
+You will be pivotal in implementing algorithms in C/C++.
+You will have a key role in carrying out requirement analysis for algorithmic subsystems and ensuring their performance through simulations and real-world data evaluations.
+You will participate in field tests and analyze alternatives to enhance systems performance.
+
+
+
+
+
+
+
+YOUR PROFILE
+
+
+
+
+You have a Master’s degree in Physics, Engineering, or a related field.
+You have proven experience in setting up and developing laboratory experiments.
+You possess strong skills in statistical signal modeling, Bayesian statistics, and Monte Carlo simulations.
+You are proficient in programming languages such as C/C++ and Python.
+Preferably, you have a solid understanding of antennas and electromagnetic simulations. Experience in developing radar or radio systems is advantageous.
+You have proven experience in high-performance computing (HPC), such as parallel computing, AVX/SSE, GPU, and/or FPGA.
+You take ownership of your tasks and responsibilities, just as you thrive on working independently.
+You also enjoy working closely with your colleagues within an agile software development environment.
+
+
+
+
+You live within commuting distance of Aarhus, and you speak and write Danish and English fluently. You have a clean criminal record, and you are a Danish citizen or you have lived in Denmark for at least the last 7 years.
+
+
+
+
+
+
+
+CHORA AS A WORKPLACE
+
+
+
+
+Chora is a small corporation with room for differences. At Chora everyone knows everybody, and as an employee you have the opportunity to influence how work is done. We are a dedicated team with the ambitions of being the most respected corporation within our field. At Chora we offer:
+
+
+
+
+Variation in assignments
+A dynamic atmosphere with an informal tone
+Good stable working conditions
+An exciting niche market with unique products
+Pension scheme
+Salary according to qualifications and an attractive bonus scheme
+Great colleagues, influence on your own work, and focus on quality
+Staff Association, Summer Party, Christmas Party
+Health insurance
+Delicious lunch every day, free fruit, coffee, tea, and water
+
+
+
+
+
+
+
+ABOUT CHORA
+
+Chora is an international corporation with headquarters in Aarhus and a subsidiary in Munich, Germany. Chora cooperates with acknowledged corporations all over the world. Chora was founded in 1994, and since then we have developed and sold high-tech communication solutions. We sell our products to the B2B and B2G market. Our customer segment is quite different, as we work within a fascinating and interesting niche-market. Chora is a healthy business with sound ownership and an international perspective not to mention strong core values.
+
+
+
+
+If you have any questions or need more information, you are welcome to contact us at tel: +45 86 18 99 55. We look forward to receiving your application and CV at job@chora.com.
+
+
+
+
+We review applications continuously, and we treat your information discretely.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>RESEARCH SCIENTIST / RESEARCH ENGINEER</strong></p><p><br></p><p><em>Are you passionate about advanced signal processing and algorithm development? Are you ready to take on the challenge of developing innovative solutions in positioning, navigation, and timing systems? At Chora, we are looking for a dedicated, talented, and proactive Research Scientist / Research Engineer to join our innovative team. This is your chance to work on cutting-edge projects in a dynamic environment, collaborate with industry experts, and make a significant impact. If you have a strong background in signal processing, algorithm development, and a keen enthusiasm for research and creative problem-solving, we want to hear from you!</em></p><p><br></p><p><br></p><p><strong>YOUR ROLE AND RESPONSIBILITIES</strong></p><p><br></p><p>In this position, you will contribute to the development of our mission critical communication equipment used by e.g. the electronic warfare sector. You will work collaboratively with a team of experts, engaging in both research and the practical implementation of algorithms. Your responsibilities will encompass the entire process, from designing and developing laboratory systems to analyzing algorithm performance in real-world applications. As you navigate complex challenges, your expertise will play a vital role in shaping the future of our cutting-edge technology at Chora.</p><p><br></p><ul><li>You will be in charge of conducting research and development in the field of signal processing for radio signals, focusing on positioning, navigation, and timing.</li><li>You will be responsible for designing laboratory systems for signal acquisition and proposing hardware development solutions.</li><li>You will play a crucial role in developing and implementing algorithms for detection, acquisition, tracking, and high-level system modeling.</li><li>You will be responsible for performing algorithm development and integrating them into real-world systems.</li><li>You will contribute to the research and model physical behaviors related to our products.</li><li>You will be part of analyzing and documenting algorithmic subsystems, evaluating their performance and functionality.</li><li>You will be pivotal in implementing algorithms in C/C++.</li><li>You will have a key role in carrying out requirement analysis for algorithmic subsystems and ensuring their performance through simulations and real-world data evaluations.</li><li>You will participate in field tests and analyze alternatives to enhance systems performance.</li></ul><p><br></p><p><br></p><p><strong>YOUR PROFILE</strong></p><p><br></p><ul><li>You have a Master’s degree in Physics, Engineering, or a related field.</li><li>You have proven experience in setting up and developing laboratory experiments.</li><li>You possess strong skills in statistical signal modeling, Bayesian statistics, and Monte Carlo simulations.</li><li>You are proficient in programming languages such as C/C++ and Python.</li><li>Preferably, you have a solid understanding of antennas and electromagnetic simulations. Experience in developing radar or radio systems is advantageous.</li><li>You have proven experience in high-performance computing (HPC), such as parallel computing, AVX/SSE, GPU, and/or FPGA.</li><li>You take ownership of your tasks and responsibilities, just as you thrive on working independently.</li><li>You also enjoy working closely with your colleagues within an agile software development environment.</li></ul><p><br></p><p>You live within commuting distance of Aarhus, and you speak and write Danish and English fluently. You have a clean criminal record, and you are a Danish citizen or you have lived in Denmark for at least the last 7 years.</p><p><br></p><p><br></p><p><strong>CHORA AS A WORKPLACE</strong></p><p><br></p><p>Chora is a small corporation with room for differences. At Chora everyone knows everybody, and as an employee you have the opportunity to influence how work is done. We are a dedicated team with the ambitions of being the most respected corporation within our field. At Chora we offer:</p><p><br></p><ul><li>Variation in assignments</li><li>A dynamic atmosphere with an informal tone</li><li>Good stable working conditions</li><li>An exciting niche market with unique products</li><li>Pension scheme</li><li>Salary according to qualifications and an attractive bonus scheme</li><li>Great colleagues, influence on your own work, and focus on quality</li><li>Staff Association, Summer Party, Christmas Party</li><li>Health insurance</li><li>Delicious lunch every day, free fruit, coffee, tea, and water</li></ul><p><br></p><p><br></p><p><strong>ABOUT CHORA</strong></p><p>Chora is an international corporation with headquarters in Aarhus and a subsidiary in Munich, Germany. Chora cooperates with acknowledged corporations all over the world. Chora was founded in 1994, and since then we have developed and sold high-tech communication solutions. We sell our products to the B2B and B2G market. Our customer segment is quite different, as we work within a fascinating and interesting niche-market. Chora is a healthy business with sound ownership and an international perspective not to mention strong core values.</p><p><br></p><p>If you have any questions or need more information, you are welcome to contact us at tel: +45 86 18 99 55. We look forward to receiving your application and CV at job@chora.com.</p><p><br></p><p>We review applications continuously, and we treat your information discretely.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-06,[]
+4055780398,https://dk.linkedin.com/jobs/view/junior-software-engineer-12-months-contract-at-belmont-lavan-4055780398?position=24&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=R5syzV2bx5eoEx4%2B%2B3%2FTlQ%3D%3D,Junior Software Engineer 12 Months Contract,Belmont Lavan,"Måløv, Capital Region of Denmark, Denmark","We are now looking for our new Software Engineer (50% allocation) as part of our Computational Science Platforms team. In the department, we are responsible for developing, implementing, operating, maintaining, and supporting the data, middleware and IT infrastructure that is used across the client's R&ED on-premises and/or in the cloud. You will work within a scrum team dealing with data scientists and IT vendors, which will require a good level of collaborative skills and cooperation. As a Software Engineer, you will get to work closely with scientists and architects to understand the business needs and mainly own the product called Py, which is a phyton library and basically exist for integrations with some other platforms.
+
+You will among other things be responsible for:
+
+
+Maintaining the software packages including NovoPy
+Refactoring Py
+Merge request, code review
+Releasing and maintaining pipelines and automating repeated tasks.
+Testing
+Upgrading the dependent libraries
+Governance and security.
+Bug fixing  
+Guidance for the users, including writing documentation for users and guide them.
+Collaborating with cross-functional teams to deliver solutions and resolve issues.
+A bachelor's degree with a large focus on IT systems engineering and/or Scientific Computing or similar.
++5 years of experience and proficiency within IT infrastructure and/or system engineering. 
+Experience with the following technologies:
+Python including knowledge of how libraries are structured and built
+Python testing and working with CI/CD pipelines
+Knowledge of Docker containers
+Data manipulation in Pandas
+Working with endpoints in Python
+Knowledge of authentication (Kerberos and Oauth)
+Documentation with Sphinx
+Linux / Bash  
+
+
+You find it important to ensure stable platforms and infrastructural environment. You are excited to work with new technologies and concepts. You are team-oriented and service-minded. Finally, you have professional proficiency in written and spoken English. 
+
+In this position, you will get the opportunity to work with and improve your skills within the following technologies:
+
+
+IaC - Configuration/Infrastructure as code
+Cloud environment (AWS & Azure)
+AD (Active Directory) / SSO 
+
+
+
+Mandatory Skills:
+
+
+Python including knowledge of how libraries are structured and built
+Python testing and working with CI/CD pipelines
+Knowledge of Docker containers
+Data manipulation in Pandas
+Working with endpoints in Python
+Knowledge of authentication (Kerberos and Oauth)
+Documentation with Sphinx
+Linux / Bash
+
+
+
+Start-date: 3/11-2024
+
+End-date: 2/11-2025
+
+Location: Måløv Denmark
+
+Requirements
+
+Required skills
+
+CI/CD pipeline
+
+Containers/Docker
+
+Manipulation in Pandas
+
+Kerberos
+
+OAuth
+
+Sphinx
+
+Bash
+
+Linux
+
+Python
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are now looking for our new Software Engineer (50% allocation) as part of our Computational Science Platforms team. In the department, we are responsible for developing, implementing, operating, maintaining, and supporting the data, middleware and IT infrastructure that is used across the client's R&amp;ED on-premises and/or in the cloud. You will work within a scrum team dealing with data scientists and IT vendors, which will require a good level of collaborative skills and cooperation. As a Software Engineer, you will get to work closely with scientists and architects to understand the business needs and mainly own the product called Py, which is a phyton library and basically exist for integrations with some other platforms.<br><br><strong>You will among other things be responsible for: <br><br></strong><ul><li>Maintaining the software packages including NovoPy </li><li>Refactoring Py </li><li>Merge request, code review </li><li>Releasing and maintaining pipelines and automating repeated tasks. </li><li>Testing </li><li>Upgrading the dependent libraries </li><li>Governance and security. </li><li>Bug fixing   </li><li>Guidance for the users, including writing documentation for users and guide them. </li><li>Collaborating with cross-functional teams to deliver solutions and resolve issues. </li><li>A bachelor's degree with a large focus on IT systems engineering and/or Scientific Computing or similar. </li><li>+5 years of experience and proficiency within IT infrastructure and/or system engineering.  </li><li>Experience with the following technologies: </li><li>Python including knowledge of how libraries are structured and built </li><li>Python testing and working with CI/CD pipelines </li><li>Knowledge of Docker containers </li><li>Data manipulation in Pandas </li><li>Working with endpoints in Python </li><li>Knowledge of authentication (Kerberos and Oauth) </li><li>Documentation with Sphinx </li><li>Linux / Bash   <br><br></li></ul>You find it important to ensure stable platforms and infrastructural environment. You are excited to work with new technologies and concepts. You are team-oriented and service-minded. Finally, you have professional proficiency in written and spoken English. <br><br>In this position, you will get the opportunity to work with and improve your skills within the following technologies:<br><br><ul><li>IaC - Configuration/Infrastructure as code </li><li>Cloud environment (AWS &amp; Azure) </li><li>AD (Active Directory) / SSO  <br><br><br></li></ul><strong>Mandatory Skills:<br><br></strong><ul><li>Python including knowledge of how libraries are structured and built </li><li>Python testing and working with CI/CD pipelines </li><li>Knowledge of Docker containers </li><li>Data manipulation in Pandas </li><li>Working with endpoints in Python </li><li>Knowledge of authentication (Kerberos and Oauth) </li><li>Documentation with Sphinx </li><li>Linux / Bash<br><br><br></li></ul><strong>Start-date</strong>: 3/11-2024<br><br><strong>End-date</strong>: 2/11-2025<br><br><strong>Location: </strong>Måløv Denmark<br><br><strong>Requirements<br><br></strong>Required skills<br><br>CI/CD pipeline<br><br>Containers/Docker<br><br>Manipulation in Pandas<br><br>Kerberos<br><br>OAuth<br><br>Sphinx<br><br>Bash<br><br>Linux<br><br>Python
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-21,[]
+4053711155,https://dk.linkedin.com/jobs/view/natural-language-processing-nlp-researcher-at-alipes-aps-4053711155?position=26&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=QrHQ0KDnLhQBHy0Y4g%2B51Q%3D%3D,Natural Language Processing (NLP) Researcher,Alipes ApS,"Copenhagen, Capital Region of Denmark, Denmark","Do you want to impact a highly-skilled team that uses cutting edge techniques in Natural Language Processing and Algorithmic Trading? We are looking for an NLP Researcher that will help us greatly improve the text-processing behind our models.
+
+
+
+
+At Alipes Capital, we have been the market leader in automating the financial markets since we started back in 2008, shaping a fully automatic natural language processing system for reading and interpreting financial news.
+
+
+
+
+Your work
+
+Your work will support turning massive data sets of unstructured financial information into structured datasets and mathematical models that accurately predict movements in the equity markets. In doing so, you will:
+
+Redesign and introduce new text-processing techniques to extract additional and more accurate entities from the text-sources that underlie our trading algorithms
+Maintain and curate new and existing text data sources for our analyses
+Automate monitoring and benchmarking of the trading strategies
+
+
+
+
+You will enjoy a wide degree of autonomy and responsibility to optimize our machine-learning pipelines, from data-ingestion to live-model performance. There is no red tape, no sales people to consult and there is ample room for creativity.
+
+
+
+
+The team
+
+All of this will happen in an informal atmosphere where technical discussions are valued and you are encouraged to take ownership of, and pride in, your work. You will impact the direction of the team, prioritize your work and choose the tools that get the job done. We are a tight-knit modeling team with fourteen passionate quantitative researchers covering six nationalities – eleven PhD’s and three MSc’s- with expertise in statistical analysis, mathematical modeling and machine learning (seven of us working directly on the text-based equity models).
+
+
+
+
+We enjoy collaboration, lending a helping hand and discussing the business cases built upon our data-sets. You will be working alongside a team of software developers and a team of traders who implement and conceive the trading models with us. All team members write code and are not afraid to discuss technical details.
+
+
+
+
+Need to have
+
+Skilled in extracting signals from texts using embeddings to enhance prediction model
+Proficient in entity-extraction from text, e.g. using modern Transformer-based Large-Language Models
+Solid understanding of machine learning techniques and their practical applications
+Aptitude for programming in a numerical scripting language (we primarily use Python)
+A meticulous and detail-oriented mind
+
+
+
+
+Nice to have
+
+Experience using RAGs (Retrieval-Augmentation-Generation)
+Working with financial/trading data
+Experience with C#, C/C++ or Java
+Familiarity with software engineering (version control, unit testing, object oriented-design)
+Degree in Computer Science / Engineering
+
+
+
+
+What we can offer you
+
+Flat hierarchy and high levels of trust and autonomy
+Exciting problems to solve
+Collaborative team made up of really smart and curious people
+Nice office in central Copenhagen with a hybrid work model
+Pension, Health Insurance and 30 days of vacation
+
+
+
+
+Practicalities
+
+To apply, please send us your CV and a cover letter telling us why you think this role is a great fit for you. If your profile looks like a good match, we will get in touch to coordinate an online technical test as a first step in the interview process.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Do you want to impact a highly-skilled team that uses cutting edge techniques in Natural Language Processing and Algorithmic Trading? We are looking for an NLP Researcher that will help us greatly improve the text-processing behind our models.</p><p><br></p><p>At Alipes Capital, we have been the market leader in automating the financial markets since we started back in 2008, shaping a fully automatic natural language processing system for reading and interpreting financial news.</p><p><br></p><p><strong>Your work</strong></p><p>Your work will support turning massive data sets of unstructured financial information into structured datasets and mathematical models that accurately predict movements in the equity markets. In doing so, you will:</p><ul><li>Redesign and introduce new text-processing techniques to extract additional and more accurate entities from the text-sources that underlie our trading algorithms</li><li>Maintain and curate new and existing text data sources for our analyses</li><li>Automate monitoring and benchmarking of the trading strategies</li></ul><p><br></p><p>You will enjoy a wide degree of autonomy and responsibility to optimize our machine-learning pipelines, from data-ingestion to live-model performance. There is no red tape, no sales people to consult and there is ample room for creativity.</p><p><br></p><p><strong>The team</strong></p><p>All of this will happen in an informal atmosphere where technical discussions are valued and you are encouraged to take ownership of, and pride in, your work. You will impact the direction of the team, prioritize your work and choose the tools that get the job done. We are a tight-knit modeling team with fourteen passionate quantitative researchers covering six nationalities – eleven PhD’s and three MSc’s- with expertise in statistical analysis, mathematical modeling and machine learning (seven of us working directly on the text-based equity models).</p><p><br></p><p>We enjoy collaboration, lending a helping hand and discussing the business cases built upon our data-sets. You will be working alongside a team of software developers and a team of traders who implement and conceive the trading models with us. All team members write code and are not afraid to discuss technical details.</p><p><br></p><p><strong>Need to have</strong></p><ul><li>Skilled in extracting signals from texts using embeddings to enhance prediction model</li><li>Proficient in entity-extraction from text, e.g. using modern Transformer-based Large-Language Models</li><li>Solid understanding of machine learning techniques and their practical applications</li><li>Aptitude for programming in a numerical scripting language (we primarily use Python)</li><li>A meticulous and detail-oriented mind</li></ul><p><br></p><p><strong>Nice to have</strong></p><ul><li>Experience using RAGs (Retrieval-Augmentation-Generation)</li><li>Working with financial/trading data</li><li>Experience with C#, C/C++ or Java</li><li>Familiarity with software engineering (version control, unit testing, object oriented-design)</li><li>Degree in Computer Science / Engineering</li></ul><p><br></p><p><strong>What we can offer you</strong></p><ul><li>Flat hierarchy and high levels of trust and autonomy</li><li>Exciting problems to solve</li><li>Collaborative team made up of really smart and curious people</li><li>Nice office in central Copenhagen with a hybrid work model</li><li>Pension, Health Insurance and 30 days of vacation</li></ul><p><br></p><p><strong>Practicalities</strong></p><p>To apply, please send us your CV and a cover letter telling us why you think this role is a great fit for you. If your profile looks like a good match, we will get in touch to coordinate an online technical test as a first step in the interview process.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-20,[]
+4027175833,https://dk.linkedin.com/jobs/view/senior-manager-data-scientist-in-corporate-finance-at-the-lego-group-4027175833?position=36&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=tK9GRzRBbOr0l8FNcyZZXg%3D%3D,"Senior manager, Data scientist in Corporate Finance",the LEGO Group,"Copenhagen, Capital Region of Denmark, Denmark","Job Description
+
+This role is a strong opportunity to elevate digitalization in financial planning in the LEGO Group and to gain E2E knowledge on the LEGO Group's financial processes and grow a strong network across the organization!
+
+As part of the Corporate reporting and planning team, you will play a key role in using data and drive innovation and continuous improvement in the financial planning processes and build on your already excellent finance data scientist career!
+
+No relocation assistance is offered for this position
+
+
+Core Responsibilities
+
+
+
+
+
+Drive the aspiration on business analysis and push the data focus in defining the new financial planning processes
+Leverage data driven forecasting in financial planning e.g. via driver-based planning, predictive planning and sensible machine learning to drive automation and reduced cycle time with less effort
+Engage with partners across Finance to drive the implementation and support the change journey
+Be one of the subject matter experts training and supporting colleagues building confidence in the data driven approach
+Co-drive validation and recommendation on the model selection in a new forecast engine in collaboration with the technical developers
+Prepare the reporting supporting transparency in the models and building a storyline on the development
+
+
+
+
+Play your part in our team succeeding
+
+Do you have what it takes?
+
+We expect our preferred candidate to hold a Master's degree in Data science/Data engineering/ Economics / Finance or similar
+
+
+
+
+
+5-8 years of experience with data science or data engineering, preferably with a focus on finance
+Strong analytical skills and experience with predictive planning/ machine learning /Python/R or similar
+Superb communication and collaboration skills
+Location in Billund or Copenhagen office
+
+
+
+
+Applications are reviewed on an ongoing basis. However, please note we do amend or withdraw our jobs and reserve the right to do so at any time, including prior to any advertised closing date. So, if you're interested in this role we encourage you to apply as soon as possible.
+
+What’s in it for you?
+
+Here is what you can expect
+
+Family Care Leave - We offer enhanced paid leave options for those important times.
+
+Insurances – All colleagues are covered by our life and disability insurance which provides protection and peace of mind.
+
+Wellbeing - We want our people to feel well and thrive. We offer resources and benefits to nurture physical and mental wellbeing along with opportunities to build community and inspire creativity.
+
+Colleague Discount – We know you'll love to build, so from day 1 you will qualify for our generous colleague discount.
+
+Bonus - We do our best work to succeed together. When goals are reached and if eligible, you'll be rewarded through our bonus scheme.
+
+Workplace - When you join the team you'll be assigned a primary workplace location i.e. one of our Offices, stores or factories. Our hybrid work policy means an average of 3 days per week in the office. The hiring team will discuss the policy and role eligibility with you during the recruitment process.
+
+Children are our role models. Their curiosity, creativity and imagination inspire everything we do. We strive to create a diverse, dynamic and inclusive culture of play at the LEGO Group, where everyone feels safe, valued and they belong.
+
+The LEGO Group is highly committed to equal employment opportunity and equal pay and seeks to encourage applicants from all backgrounds (eg. sex, gender identity or expression, race/ethnicity, national origin, sexual orientation, disability, age and religion) to apply for roles in our team.
+
+Research shows that women and people from different underrepresented backgrounds often only apply for a job if they meet 100% of the listed qualifications. If you dream of being a part of our team and you meet many, but not all of our listed qualifications for this role, please apply.
+
+The LEGO Group is fully committed to Children’s Rights and Child Wellbeing across the globe. Candidates offered positions with high engagement with children are required to take part in Child Safeguarding Background Screening, as a condition of the offer.
+
+Thank you for sharing our global commitment to Children’s Rights.
+
+Just imagine building your dream career.
+
+Then make it real.
+
+Join the LEGO® team today.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Job Description<br><br></strong>This role is a strong opportunity to elevate digitalization in financial planning in the LEGO Group and to gain E2E knowledge on the LEGO Group's financial processes and grow a strong network across the organization!<br><br>As part of the Corporate reporting and planning team, you will play a key role in using data and drive innovation and continuous improvement in the financial planning processes and build on your already excellent finance data scientist career!<br><br>No relocation assistance is offered for this position<br><br><strong><br>Core Responsibilities<br><br></strong><ul><br><br><li>Drive the aspiration on business analysis and push the data focus in defining the new financial planning processes</li><li>Leverage data driven forecasting in financial planning e.g. via driver-based planning, predictive planning and sensible machine learning to drive automation and reduced cycle time with less effort</li><li>Engage with partners across Finance to drive the implementation and support the change journey</li><li>Be one of the subject matter experts training and supporting colleagues building confidence in the data driven approach</li><li>Co-drive validation and recommendation on the model selection in a new forecast engine in collaboration with the technical developers</li><li>Prepare the reporting supporting transparency in the models and building a storyline on the development<br><br><br><br></li></ul><strong>Play your part in our</strong> <strong>team succeeding<br><br></strong><strong>Do</strong> <strong>you</strong> <strong>have</strong> <strong>what</strong> <strong>it</strong> <strong>takes?<br><br></strong>We expect our preferred candidate to hold a Master's degree in Data science/Data engineering/ Economics / Finance or similar<br><br><ul><br><br><li>5-8 years of experience with data science or data engineering, preferably with a focus on finance</li><li>Strong analytical skills and experience with predictive planning/ machine learning /Python/R or similar</li><li>Superb communication and collaboration skills</li><li>Location in Billund or Copenhagen office<br><br><br><br></li></ul>Applications are reviewed on an ongoing basis. However, please note we do amend or withdraw our jobs and reserve the right to do so at any time, including prior to any advertised closing date. So, if you're interested in this role we encourage you to apply as soon as possible.<br><br><strong>What’s in it for you?<br><br></strong>Here is what you can expect<br><br><strong>Family Care Leave</strong> - We offer enhanced paid leave options for those important times.<br><br><strong>Insurances</strong> – All colleagues are covered by our life and disability insurance which provides protection and peace of mind.<br><br><strong>Wellbeing</strong> - We want our people to feel well and thrive. We offer resources and benefits to nurture physical and mental wellbeing along with opportunities to build community and inspire creativity.<br><br><strong>Colleague Discount</strong> – We know you'll love to build, so from day 1 you will qualify for our generous colleague discount.<br><br><strong>Bonus </strong>- We do our best work to succeed together. When goals are reached and if eligible, you'll be rewarded through our bonus scheme.<br><br><strong>Workplace</strong> - When you join the team you'll be assigned a primary workplace location i.e. one of our Offices, stores or factories. Our hybrid work policy means an average of 3 days per week in the office. The hiring team will discuss the policy and role eligibility with you during the recruitment process.<br><br>Children are our role models. Their curiosity, creativity and imagination inspire everything we do. We strive to create a diverse, dynamic and inclusive culture of play at the LEGO Group, where everyone feels safe, valued and they belong.<br><br>The LEGO Group is highly committed to equal employment opportunity and equal pay and seeks to encourage applicants from all backgrounds (eg. sex, gender identity or expression, race/ethnicity, national origin, sexual orientation, disability, age and religion) to apply for roles in our team.<br><br>Research shows that women and people from different underrepresented backgrounds often only apply for a job if they meet 100% of the listed qualifications. If you dream of being a part of our team and you meet many, but not all of our listed qualifications for this role, please apply.<br><br>The LEGO Group is fully committed to Children’s Rights and Child Wellbeing across the globe. Candidates offered positions with high engagement with children are required to take part in Child Safeguarding Background Screening, as a condition of the offer.<br><br>Thank you for sharing our global commitment to Children’s Rights.<br><br>Just imagine building your dream career.<br><br>Then make it real.<br><br><strong>Join the LEGO® team today.<br><br></strong>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-01,[]
+4055871394,https://dk.linkedin.com/jobs/view/senior-data-scientist-antibody-design-at-novo-nordisk-4055871394?position=45&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=o3ZJLjLKlYgdsr50U7l2GA%3D%3D,Senior Data Scientist - Antibody Design,Novo Nordisk,"Måløv, Capital Region of Denmark, Denmark","Are you a highly skilled scientist with experience in computational antibody and Variable Heavy Chain Domain (VHH) design, and a strong background in Next-Generation Sequencing (NGS) data analysis? Do you have a passion for developing solutions that will impact patients with diabetes and other chronic diseases? Additionally, do you have a strong understanding of antibody or VHH sequence, structure, and function, along with previous experience in antibody or VHH discovery and development in an industrial or academic setting?
+
+If yes, we have exciting opportunities for you to join our team as a Senior Data Scientist! Apply today for life-changing career.
+
+The Position
+As a Senior Data Scientist in Antibody and VHH Design, your main tasks will include:
+
+
+
+Engaging directly to laboratory scientists in Recombinant Drug Discovery for optimization of workflows that integrate bulk and single B cell sequencing from in vivo immunization with in vitro antibody and VHH library design
+Driving innovative and creative solutions to design novel antibodies or VHHs in collaboration with other departments, while supporting research projects within the antibody and VHH area.
+Identifying potential liabilities and developability issues throughout the antibody discovery pipeline.
+Coordinating the development of the relevant computational infrastructure for ingesting, analysing, and exposing the information from sequencing and other data sources
+Utilizing existing tools or develop new ones to design and engineer antibody variants with enhanced functionality.
+Integrating experimental results with computational models to expedite the antibody discovery process.
+Working collaboratively with your colleagues to develop machine learning models that can be used to optimize antibody candidates.
+Staying up to date with the latest developments in computational biology and antibody/VHH design.
+Documenting and effectively communicating the discovery and innovation process to key stakeholders and managers.
+Encouraging, proposing, and participating in projects boosting the use of advanced computational techniques for antibody and VHH design.
+
+
+
+
+The position requires documented expertise in the development of antibodies in a pharmaceutical or clinical environment, as well as the development of AI and deep learning methods . The candidate will use computational tools such as molecular modelling and simulations, sequence and structure analysis, and machine learning tools to design and optimize antibody and VHH candidates. In addition, you will use your strong interpersonal skills to communicate effectively and collaborate with team members to achieve our goals.
+
+Qualifications
+
+To succeed in this role, you have:
+
+
+
+Master’s degree within Computational Biology, Bioinformatics, Machine Learning, or a related field
+At least 3+ years of experience in clinical or industrial antibody/VHH development. More experienced scientists are also encouraged to apply. PhD preferred.
+Deep understanding of antibody or VHH sequence, structure, function, and their development in an industrial setting.
+Previous knowledge of NGS sequencing analysis and preferably RepSeq, antibody sequencing, or TCR sequencing is a must.
+Solid experience with relevant computational tools, including but not limited to Python programming, molecular modelling and simulations (Rosetta, Schrödinger, or similar), sequence analysis, and data analysis frameworks.
+Experience in usage of HPC solutions (AWS, Azure, or similar).
+Full proficiency in English, with knowledge of Danish being a plus.
+
+
+
+
+As an individual, you possess good interpersonal skills, including effective communication, the ability to work in a team, and being goal oriented.
+
+About The Department
+
+The Antibody Design Department is part of the Digital Science and Innovation (DSI) area at Novo Nordisk, located in Måløv (Denmark) and London (UK). We use innovative computational tools and techniques to design novel antibodies and VHHs. Our team works collaboratively across various departments, within and outside Research and Early Development, to deliver safe and effective antibody therapies to patients. We value a diverse and inclusive culture, where our team members can thrive and grow. Our team consists of collaborative, goal-oriented individuals who take pride in their work and are committed to making a difference in patients' lives.
+
+Working at Novo Nordisk
+At Novo Nordisk, we don't wait for change. We drive change. We are a dynamic company in an even more dynamic industry, and we know that what got us to where we are today is not necessarily what will make us successful in the future. We embrace the spirit of experimentation and strive for excellence without fixating on perfection.
+
+We never shy away from opportunities to develop; we seize them. Working at Novo Nordisk means working towards something greater than ourselves, and it's a collective effort. Novo Nordisk relies on the collective potential and collaboration of its more than 47,000 employees to make life better for millions of patients living with diabetes and other chronic diseases.
+
+Together, we move forward. Together, we change lives.
+
+Contact
+For further information, please contact Paolo Marcatili, Head, Antibody Design at pomc@novonordisk.com.
+
+Deadline
+10 November 2024.
+
+Please note that applications will be reviewed continuously, and interviews will be planned as soon as a suitable candidate is identified. To ensure an efficient and fair recruitment process, please refrain from adding a photo in your CV.
+
+We commit to an inclusive recruitment process and equality of opportunity for all our job applicants.
+
+At Novo Nordisk we recognize that it is no longer good enough to aspire to be the best company in the world. We need to aspire to be the best company for the world and we know that this is only possible with talented employees with diverse perspectives, backgrounds and cultures. We are therefore committed to creating an inclusive culture that celebrates the diversity of our employees, the patients we serve and communities we operate in. Together, we’re life changing.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Are you a highly skilled scientist with experience in computational antibody and Variable Heavy Chain Domain (VHH) design, and a strong background in Next-Generation Sequencing (NGS) data analysis? Do you have a passion for developing solutions that will impact patients with diabetes and other chronic diseases? Additionally, do you have a strong understanding of antibody or VHH sequence, structure, and function, along with previous experience in antibody or VHH discovery and development in an industrial or academic setting?<br><br>If yes, we have exciting opportunities for you to join our team as a Senior Data Scientist! Apply today for life-changing career.<br><br><strong>The Position<br></strong>As a Senior Data Scientist in Antibody and VHH Design, your main tasks will include:<br><br><br><ul><li>Engaging directly to laboratory scientists in Recombinant Drug Discovery for optimization of workflows that integrate bulk and single B cell sequencing from in vivo immunization with in vitro antibody and VHH library design</li><li>Driving innovative and creative solutions to design novel antibodies or VHHs in collaboration with other departments, while supporting research projects within the antibody and VHH area.</li><li>Identifying potential liabilities and developability issues throughout the antibody discovery pipeline.</li><li>Coordinating the development of the relevant computational infrastructure for ingesting, analysing, and exposing the information from sequencing and other data sources</li><li>Utilizing existing tools or develop new ones to design and engineer antibody variants with enhanced functionality.</li><li>Integrating experimental results with computational models to expedite the antibody discovery process. </li><li>Working collaboratively with your colleagues to develop machine learning models that can be used to optimize antibody candidates.</li><li>Staying up to date with the latest developments in computational biology and antibody/VHH design.</li><li>Documenting and effectively communicating the discovery and innovation process to key stakeholders and managers.</li><li>Encouraging, proposing, and participating in projects boosting the use of advanced computational techniques for antibody and VHH design.<br><br><br><br></li></ul>The position requires documented expertise in the development of antibodies in a pharmaceutical or clinical environment, as well as the development of AI and deep learning methods . The candidate will use computational tools such as molecular modelling and simulations, sequence and structure analysis, and machine learning tools to design and optimize antibody and VHH candidates. In addition, you will use your strong interpersonal skills to communicate effectively and collaborate with team members to achieve our goals.<br><br><strong>Qualifications<br><br></strong>To succeed in this role, you have:<br><br><br><ul><li>Master’s degree within Computational Biology, Bioinformatics, Machine Learning, or a related field</li><li>At least 3+ years of experience in clinical or industrial antibody/VHH development. More experienced scientists are also encouraged to apply. PhD preferred.</li><li>Deep understanding of antibody or VHH sequence, structure, function, and their development in an industrial setting.</li><li>Previous knowledge of NGS sequencing analysis and preferably RepSeq, antibody sequencing, or TCR sequencing is a must.</li><li>Solid experience with relevant computational tools, including but not limited to Python programming, molecular modelling and simulations (Rosetta, Schrödinger, or similar), sequence analysis, and data analysis frameworks.</li><li>Experience in usage of HPC solutions (AWS, Azure, or similar).</li><li>Full proficiency in English, with knowledge of Danish being a plus.<br><br><br><br></li></ul>As an individual, you possess good interpersonal skills, including effective communication, the ability to work in a team, and being goal oriented.<br><br><strong>About The Department<br><br></strong>The Antibody Design Department is part of the Digital Science and Innovation (DSI) area at Novo Nordisk, located in Måløv (Denmark) and London (UK). We use innovative computational tools and techniques to design novel antibodies and VHHs. Our team works collaboratively across various departments, within and outside Research and Early Development, to deliver safe and effective antibody therapies to patients. We value a diverse and inclusive culture, where our team members can thrive and grow. Our team consists of collaborative, goal-oriented individuals who take pride in their work and are committed to making a difference in patients' lives.<br><br><strong>Working at Novo Nordisk<br></strong>At Novo Nordisk, we don't wait for change. We drive change. We are a dynamic company in an even more dynamic industry, and we know that what got us to where we are today is not necessarily what will make us successful in the future. We embrace the spirit of experimentation and strive for excellence without fixating on perfection.<br><br>We never shy away from opportunities to develop; we seize them. Working at Novo Nordisk means working towards something greater than ourselves, and it's a collective effort. Novo Nordisk relies on the collective potential and collaboration of its more than 47,000 employees to make life better for millions of patients living with diabetes and other chronic diseases.<br><br>Together, we move forward. Together, we change lives.<br><br><strong>Contact <br></strong>For further information, please contact Paolo Marcatili, Head, Antibody Design at pomc@novonordisk.com.<br><br><strong>Deadline<br></strong>10 November 2024.<br><br>Please note that applications will be reviewed continuously, and interviews will be planned as soon as a suitable candidate is identified. To ensure an efficient and fair recruitment process, please refrain from adding a photo in your CV.<br><br>We commit to an inclusive recruitment process and equality of opportunity for all our job applicants.<br><br>At Novo Nordisk we recognize that it is no longer good enough to aspire to be the best company in the world. We need to aspire to be the best company for the world and we know that this is only possible with talented employees with diverse perspectives, backgrounds and cultures. We are therefore committed to creating an inclusive culture that celebrates the diversity of our employees, the patients we serve and communities we operate in. Together, we’re life changing.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-25,[]
+4069918819,https://dk.linkedin.com/jobs/view/k%C3%B8benhavns-politi-s%C3%B8ger-data-scientist-til-strategiske-analyser-at-politi-4069918819?position=48&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=ULN6bELnSWEOJt%2BnIIeHvw%3D%3D,Københavns Politi søger data scientist til strategiske analyser,Politi,"Copenhagen, Capital Region of Denmark, Denmark","Har du stærke kompetencer inden for datahåndtering og -bearbejdning og samtidigt flair for analyse? Vil du arbejde med styring af opgaveløsningen i Danmarks største politikreds og være med til at skabe et tryggere samfund med mindre kriminalitet? Så er du måske den, vi søger i Sektionen for styring.
+
+Om jobbet
+
+Sektionen for styring er Københavns Politis strategiske analyse- og styringsenhed. Vi udvikler værktøjer og analyser til brug direkte i politikredsens arbejde, som understøtter ledelsen i at sikre, at politiske krav til politiet bliver realiseret samtidig med, at Købehavns Politi anvender sine ressourcer optimalt, så borgerne får mest muligt politi for pengene.
+
+Konkret gennemfører vi analyser og udvikler styringsværktøjer, som muliggør en datadrevet styring i den daglige drift på tværs af politikredsen. Derudover leverer vi ledelsesinformation og beslutningsoplæg til politikredsens øverste ledelse, som understøtter, at politikredsen kan leve op til sine mål. I et tværfagligt team kobler vi indsigt i data med stærk analysekraft og problemløsning samt professionel organisationsstyring.
+
+Dit arbejde vil bestå i at foretage dataanalyser, udvikle og drifte vores datamodeller, samt implementering af digitale løsninger i kredsen. Dine opgaver vil blandt andet være databehandling, strategisk analyse, datakvalitetskontrol og digitaliserings projekter. Vi arbejder primært i R som vores foretrukne værktøj, men vi er også fleksible og tilpasser vores tech stack alt efter opgavens behov. Som ny kollega vil du derfor også have mulighed for at præge vores værkstøjskasse i den retning, du finder mest relevant.
+
+Du Vil Blandt Andet Få Ansvar For At
+
+
+Omsætte organisationens behov for styring og controlling til konkrete løsninger via analyser og datamodellering
+Håndtere datasæt fra politikredsens fagsystemer og gennemføre solide analyser af fx produktion og ressourceforbrug
+Udvikle vores datamodeller til brug for statistisk analyse af bl.a. kredsens operative områder
+Implementere og vedligeholde teamets løsninger i Rstudio
+Formidle komplicerede analyseresultater så budskabet står knivskarpt, herunder udarbejde gode beslutningsoplæg
+Implementering af digitale løsninger i kredsen, herunder machine learning-løsninger til eksempelvis prognoser og tekstgenerering
+
+
+Om dig
+
+Du har et analytisk mindset og flair for avanceret dataanalyse og kan samtidig proaktivt omsætte indsigten herfra til viden og konkrete løsningsmuligheder. Du bliver motiveret af at bidrage til professionel styring af en vigtig samfundsinstitution, der i sidste ende skaber et tryggere samfund med mindre kriminalitet.
+
+Din Profil Er Kendetegnet Ved
+
+
+Du har praktisk erfaring med databehandling, dataanalyse og databaser, gerne med minimum 2-4 års erfaring
+Du går struktureret til problemløsning og analysedesign
+Du ser mønstre og skaber viden ud fra komplekse datastrukturer og kan omsætte indsigter til gode beslutningsoplæg, skriftligt og visuelt
+Du finder det naturligt at arbejde i RStudio og er rutineret i Office-pakken
+Det er en fordel, hvis du har erfaring med at udvikle machine learning modeller, herunder at opsætte lokale sprogmodeller (LLM’er).
+Det er en fordel, hvis du har erfaring med økonomiske beregninger og analyse, men det er ikke et krav
+
+
+Vi har samarbejdsflader med hele politikredsen og på alle niveauer. Det er vigtigt, at du har sans for at skabe gode relationer, gode processer og samarbejde på tværs af faggrupper. Vi forventer, at du indtager en proaktiv rolle og tager ansvar for, at vores leverancer har den højeste kvalitet.
+
+Du har en relevant uddannelsesmæssig baggrund, f.eks. cand.scient.pol., data science, cand.soc., cand.polit., statistik eller lign.
+
+Vi tilbyder
+
+Du bliver en del af et team på 8 medarbejdere, som både tæller civile og politifaglige kollegaer. Du vil opleve et stærkt fagligt fællesskab, højt tempo og en uformel omgangstone i en varieret arbejdsdag, hvor vi vægter det sociale sammenhold højt. Du vil blive udfordret og udvikle dig fagligt, mens du får mulighed for at bidrage til styring og udvikling af opgaveløsningen i landets største politikreds.
+
+Løn- og ansættelsesvilkår
+
+Du bliver ansat på overenskomstvilkår i henhold til de til enhver tid gældende aftaler mellem Finansministeriet og Akademikernes Centralorganisation. Alternativt bliver du ansat på anden relevant overenskomst.
+
+Du bliver indplaceret som fuldmægtig, specialkonsulent eller chefkonsulent på baggrund af kvalifikationer.
+
+Du bliver ansat på fuld tid svarende til 37 timer ugentligt inkl. frokost.
+
+Dit arbejdssted bliver Københavns Politi med adresse på Politigården 1567 København V
+
+Det er en forudsætning for ansættelse, at du kan blive sikkerhedsgodkendt, ligesom du skal kunne opretholde sikkerhedsgodkendelsen gennem hele din ansættelse.
+
+Københavns Politi har røgfri og nikotinfri arbejdstid. Den røgfrie og nikotinfrie arbejdstid gælder uanset, hvorfra man arbejder.
+
+Vi forventer at holde samtaler løbende.
+
+Kontakt og ansøgning
+
+Hvis du har spørgsmål, er du velkommen til at kontakte sektionsleder Julie Ebskov på telefon 2448 2154.
+
+Du kan finde generel information om politiet på www.politi.dk
+
+Når du søger en stilling i politiet, opretter du samtidig en profil i vores rekrutteringssystem. Hvis du søger flere jobs i politiet, skal du lægge en ansøgning og et CV ind i systemet pr. ansøgt job. Du skal derfor ikke slette tidligere dokumenter, hvis du søger endnu et job. Det er først, hvis du har fået afslag på en søgt stilling, at du kan slette dokumenterne knyttet dertil.
+
+Vi anbefaler, at du navngiver dine dokumenter, så det fremgår, hvilket job du søger. Foruden ansøgning og CV, bedes du uploade dit eksamensbevis. Du skal uploade alle dokumenter i pdf-format.
+
+Vi lægger vægt på diversitet og opfordrer alle kvalificerede ansøgere til at søge stillingen uanset alder, køn, religion eller etnisk baggrund.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <em>Har du stærke kompetencer inden for datahåndtering og -bearbejdning og samtidigt flair for analyse? Vil du arbejde med styring af opgaveløsningen i Danmarks største politikreds og være med til at skabe et tryggere samfund med mindre kriminalitet? Så er du måske den, vi søger i Sektionen for styring.<br><br></em><strong>Om jobbet<br><br></strong>Sektionen for styring er Københavns Politis strategiske analyse- og styringsenhed. Vi udvikler værktøjer og analyser til brug direkte i politikredsens arbejde, som understøtter ledelsen i at sikre, at politiske krav til politiet bliver realiseret samtidig med, at Købehavns Politi anvender sine ressourcer optimalt, så borgerne får mest muligt politi for pengene.<br><br>Konkret gennemfører vi analyser og udvikler styringsværktøjer, som muliggør en datadrevet styring i den daglige drift på tværs af politikredsen. Derudover leverer vi ledelsesinformation og beslutningsoplæg til politikredsens øverste ledelse, som understøtter, at politikredsen kan leve op til sine mål. I et tværfagligt team kobler vi indsigt i data med stærk analysekraft og problemløsning samt professionel organisationsstyring.<br><br>Dit arbejde vil bestå i at foretage dataanalyser, udvikle og drifte vores datamodeller, samt implementering af digitale løsninger i kredsen. Dine opgaver vil blandt andet være databehandling, strategisk analyse, datakvalitetskontrol og digitaliserings projekter. Vi arbejder primært i R som vores foretrukne værktøj, men vi er også fleksible og tilpasser vores tech stack alt efter opgavens behov. Som ny kollega vil du derfor også have mulighed for at præge vores værkstøjskasse i den retning, du finder mest relevant.<br><br><strong>Du Vil Blandt Andet Få Ansvar For At<br><br></strong><ul><li> Omsætte organisationens behov for styring og controlling til konkrete løsninger via analyser og datamodellering</li><li> Håndtere datasæt fra politikredsens fagsystemer og gennemføre solide analyser af fx produktion og ressourceforbrug</li><li> Udvikle vores datamodeller til brug for statistisk analyse af bl.a. kredsens operative områder</li><li> Implementere og vedligeholde teamets løsninger i Rstudio</li><li> Formidle komplicerede analyseresultater så budskabet står knivskarpt, herunder udarbejde gode beslutningsoplæg</li><li> Implementering af digitale løsninger i kredsen, herunder machine learning-løsninger til eksempelvis prognoser og tekstgenerering<br><br></li></ul><strong>Om dig<br><br></strong>Du har et analytisk mindset og flair for avanceret dataanalyse og kan samtidig proaktivt omsætte indsigten herfra til viden og konkrete løsningsmuligheder. Du bliver motiveret af at bidrage til professionel styring af en vigtig samfundsinstitution, der i sidste ende skaber et tryggere samfund med mindre kriminalitet.<br><br><strong>Din Profil Er Kendetegnet Ved<br><br></strong><ul><li> Du har praktisk erfaring med databehandling, dataanalyse og databaser, gerne med minimum 2-4 års erfaring</li><li> Du går struktureret til problemløsning og analysedesign</li><li> Du ser mønstre og skaber viden ud fra komplekse datastrukturer og kan omsætte indsigter til gode beslutningsoplæg, skriftligt og visuelt</li><li> Du finder det naturligt at arbejde i RStudio og er rutineret i Office-pakken</li><li> Det er en fordel, hvis du har erfaring med at udvikle machine learning modeller, herunder at opsætte lokale sprogmodeller (LLM’er).</li><li> Det er en fordel, hvis du har erfaring med økonomiske beregninger og analyse, men det er ikke et krav<br><br></li></ul>Vi har samarbejdsflader med hele politikredsen og på alle niveauer. Det er vigtigt, at du har sans for at skabe gode relationer, gode processer og samarbejde på tværs af faggrupper. Vi forventer, at du indtager en proaktiv rolle og tager ansvar for, at vores leverancer har den højeste kvalitet.<br><br>Du har en relevant uddannelsesmæssig baggrund, f.eks. cand.scient.pol., data science, cand.soc., cand.polit., statistik eller lign.<br><br><strong>Vi tilbyder<br><br></strong>Du bliver en del af et team på 8 medarbejdere, som både tæller civile og politifaglige kollegaer. Du vil opleve et stærkt fagligt fællesskab, højt tempo og en uformel omgangstone i en varieret arbejdsdag, hvor vi vægter det sociale sammenhold højt. Du vil blive udfordret og udvikle dig fagligt, mens du får mulighed for at bidrage til styring og udvikling af opgaveløsningen i landets største politikreds.<br><br><strong>Løn- og ansættelsesvilkår <br><br></strong>Du bliver ansat på overenskomstvilkår i henhold til de til enhver tid gældende aftaler mellem Finansministeriet og Akademikernes Centralorganisation. Alternativt bliver du ansat på anden relevant overenskomst.<br><br>Du bliver indplaceret som fuldmægtig, specialkonsulent eller chefkonsulent på baggrund af kvalifikationer.<br><br>Du bliver ansat på fuld tid svarende til 37 timer ugentligt inkl. frokost.<br><br>Dit arbejdssted bliver Københavns Politi med adresse på Politigården 1567 København V<br><br>Det er en forudsætning for ansættelse, at du kan blive sikkerhedsgodkendt, ligesom du skal kunne opretholde sikkerhedsgodkendelsen gennem hele din ansættelse.<br><br>Københavns Politi har røgfri og nikotinfri arbejdstid. Den røgfrie og nikotinfrie arbejdstid gælder uanset, hvorfra man arbejder.<br><br>Vi forventer at holde samtaler løbende.<br><br><strong>Kontakt og ansøgning <br><br></strong>Hvis du har spørgsmål, er du velkommen til at kontakte sektionsleder Julie Ebskov på telefon 2448 2154.<br><br>Du kan finde generel information om politiet på www.politi.dk<br><br>Når du søger en stilling i politiet, opretter du samtidig en profil i vores rekrutteringssystem. Hvis du søger flere jobs i politiet, skal du lægge en ansøgning og et CV ind i systemet pr. ansøgt job. Du skal derfor ikke slette tidligere dokumenter, hvis du søger endnu et job. Det er først, hvis du har fået afslag på en søgt stilling, at du kan slette dokumenterne knyttet dertil.<br><br>Vi anbefaler, at du navngiver dine dokumenter, så det fremgår, hvilket job du søger. Foruden ansøgning og CV, bedes du uploade dit eksamensbevis. Du skal uploade alle dokumenter i pdf-format.<br><br>Vi lægger vægt på diversitet og opfordrer alle kvalificerede ansøgere til at søge stillingen uanset alder, køn, religion eller etnisk baggrund.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-05,[]
+4062786818,https://dk.linkedin.com/jobs/view/vie-data-scientist-m-f-denmark-at-oil-and-gas-job-search-ltd-4062786818?position=50&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=uW6weCYMzPV6rwEMLPKmUg%3D%3D,VIE _ DATA SCIENTIST (M/F) _ DENMARK,Oil and Gas Job Search Ltd,"Kjellerup, Central Denmark Region, Denmark","Context & Environment
+
+The selected candidate will receive a VIE allowance according to the Business France rates.
+
+The affiliate will provide an accommodation.
+
+Please check the following website to make sure that your application complies with the criteria to carry out a VIE assignment : mon-vie-via.businessfrance.fr .
+
+Please apply in English !
+
+Activities
+
+Join our affiliate TotalEnergies EP Denmark AS in Esbjerg !
+
+You will join the Digital Transformation and Innovation team at TotalEnergies Denmark, based in Esbjerg. The team's primary mission is to identify opportunities for developing digital solutions through advanced data exploration, prototyping, and, depending on the projects, the development of MVPs or transfer to the Total Digital Factory. The team covers a wide range of domains, including production optimization, carbon footprint reduction, safety, and environmental and industrial performance. The activities span offshore operations, maintenance logistics, interventions on wells and installations, mobilizing hundreds of people in one of the most complex offshore oil plants in the North Sea. The stated goal is to develop and deploy ambitious solutions (prescriptive rather than descriptive) from data exploration to the development of apps and solutions in collaboration with users. For the specific position in question, the initial focus will be on understanding the causes and minimizing production losses, particularly related to valve failures, using real-time time series data. Several ongoing use cases within the team in the field of operational performance leverage GenAI components (including Azure OpenAI) and NLP. These efforts aim to enrich datasets and will likely lead to new developments. In addition to maintaining some of the use cases in production, this role provides an opportunity to delve into extremely varied topics and explore equally diverse techniques
+
+As a data scientist in the industrial domain, the main tasks will be as follows :
+
+
+Advanced feature engineering and modeling for optimization studies (identifying points of industrial performance and costs) ;
+Exploratory analysis and development of use cases in collaboration with subject matter experts ;
+Analysis studies based on the developed models or enriched data ;
+Whenever applicable, implementation of proof-of-concept applications on themes with high potential. The development/data engineering team usually intervenes at this stage, but it is common for comprehensive profiles to enhance their own experience by taking a significant part or even leadership in this area
+Technology stacks: Primarily Python with Dash/Plotly or a combination of Python and React JS, in an Azure and/or server environment. You will have to build upon the proofs of concept already initiated on these themes by the VIE (Volunteer for International Experience) whom you will replace, before developing or participating in the creation of new proofs of concept.
+
+
+
+Candidate Profile
+
+Expected Qualifications
+
+
+Master degree with specialisation in Data Science
+Engineering background preferred
+
+
+
+Technical Skills
+
+
+Engineer profile with strong data / digital culture and curiosity about our industry, and care of the users / clients
+Good data analysis skills
+
+
+
+Computing Skills
+
+
+Strong knowledge of data science (Python): solid capacities to code and learn
+Knowledge of Git
+Experience with GenAI,
+Knowledge of LLM is a plus
+
+
+
+Languages
+
+
+English: level C1
+French: level B2
+Danish : optional but is a plus
+
+
+
+Additional Information
+
+TotalEnergies values diversity, promotes individual growth and offers equal opportunity careers.
+
+Apply
+
+
+Facebook
+Email
+X
+LinkedIn
+
+
+
+<
+
+TotalEnergies is a broad energy company that produces and markets fuels, natural gas and electricity. Our 105,000 employees are committed to better energy that is more affordable, more reliable, cleaner and accessible to as many people as possible. Active in more than 130 countries, our ambition is to become the responsible energy major.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong><strong>Context &amp; Environment<br><br></strong></strong>The selected candidate will receive a VIE allowance according to the Business France rates.<br><br>The affiliate will provide an accommodation.<br><br>Please check the following website to make sure that your application complies with the criteria to carry out a VIE assignment : <strong> mon-vie-via.businessfrance.fr </strong> .<br><br><strong> Please apply in English ! <br><br></strong><strong><strong>Activities<br><br></strong></strong><strong> Join our affiliate TotalEnergies EP Denmark AS in Esbjerg ! <br><br></strong>You will join the Digital Transformation and Innovation team at TotalEnergies Denmark, based in Esbjerg. The team's primary mission is to identify opportunities for developing digital solutions through advanced data exploration, prototyping, and, depending on the projects, the development of MVPs or transfer to the Total Digital Factory. The team covers a wide range of domains, including production optimization, carbon footprint reduction, safety, and environmental and industrial performance. The activities span offshore operations, maintenance logistics, interventions on wells and installations, mobilizing hundreds of people in one of the most complex offshore oil plants in the North Sea. The stated goal is to develop and deploy ambitious solutions (prescriptive rather than descriptive) from data exploration to the development of apps and solutions in collaboration with users. For the specific position in question, the initial focus will be on understanding the causes and minimizing production losses, particularly related to valve failures, using real-time time series data. Several ongoing use cases within the team in the field of operational performance leverage GenAI components (including Azure OpenAI) and NLP. These efforts aim to enrich datasets and will likely lead to new developments. In addition to maintaining some of the use cases in production, this role provides an opportunity to delve into extremely varied topics and explore equally diverse techniques<br><br>As a data scientist in the industrial domain, the main tasks will be as follows :<br><br><ul><li> Advanced feature engineering and modeling for optimization studies (identifying points of industrial performance and costs) ;</li><li> Exploratory analysis and development of use cases in collaboration with subject matter experts ;</li><li> Analysis studies based on the developed models or enriched data ;</li><li> Whenever applicable, implementation of proof-of-concept applications on themes with high potential. The development/data engineering team usually intervenes at this stage, but it is common for comprehensive profiles to enhance their own experience by taking a significant part or even leadership in this area</li><li> Technology stacks: Primarily Python with Dash/Plotly or a combination of Python and React JS, in an Azure and/or server environment. You will have to build upon the proofs of concept already initiated on these themes by the VIE (Volunteer for International Experience) whom you will replace, before developing or participating in the creation of new proofs of concept.<br><br><br></li></ul><strong><strong>Candidate Profile<br><br></strong></strong><strong>Expected Qualifications<br><br></strong><ul><li> Master degree with specialisation in Data Science </li><li> Engineering background preferred <br><br><br></li></ul><strong>Technical Skills<br><br></strong><ul><li>Engineer profile with strong data / digital culture and curiosity about our industry, and care of the users / clients</li><li>Good data analysis skills<br><br><br></li></ul><strong>Computing Skills<br><br></strong><ul><li> Strong knowledge of data science (Python): solid capacities to code and learn </li><li> Knowledge of Git </li><li> Experience with GenAI, </li><li> Knowledge of LLM is a plus <br><br><br></li></ul><strong>Languages<br><br></strong><ul><li> English: level C1 </li><li> French: level B2 </li><li> Danish : optional but is a plus <br><br><br></li></ul><strong>Additional Information<br><br></strong><strong>TotalEnergies values diversity, promotes individual growth and offers equal opportunity careers.<br><br></strong>Apply<br><br><ul><li> Facebook </li><li> Email </li><li> X </li><li> LinkedIn <br><br><br></li></ul>&lt;<br><br><strong> TotalEnergies </strong> is a broad energy company that produces and markets fuels, natural gas and electricity. Our 105,000 employees are committed to better energy that is more affordable, more reliable, cleaner and accessible to as many people as possible. Active in more than 130 countries, our ambition is to become the responsible energy major.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-30,[]
+4062979600,https://dk.linkedin.com/jobs/view/plc-programmer-at-tm-norway-4062979600?position=59&pageNum=0&refId=qQtatJt%2BALKaJ%2FaTJKelXQ%3D%3D&trackingId=%2FXinD0Bc%2B4K%2Bt33egudS9g%3D%3D,PLC programmer,TM Norway,"Sønderborg, Region of Southern Denmark, Denmark","Company Description
+
+
+TM Norway is a leading technology company based in Sønderborg, specializing in fully automated high-pressure cylinder systems for industrial and medical gases, as well as advanced filling equipment for food-grade CO2.
+
+
+Role Description
+
+
+This is a full-time on-site role for a PLC Programmer at TM Norway in Sønderborg. The PLC Programmer will be responsible for designing, developing, and maintaining PLC programs for automated high-pressure cylinder systems and filling equipment. The role involves troubleshooting, testing, and optimizing PLC programs to ensure the efficiency and accuracy of the systems.
+
+
+Qualifications
+
+PLC Programming, Troubleshooting, and Testing skills
+Experience with industrial automation systems
+Knowledge of SCADA systems
+Understanding of electrical schematics and diagrams
+Excellent problem-solving abilities
+Strong attention to detail and accuracy
+Ability to work in a team environment
+Bachelor's degree in Electrical Engineering, Automation, or related field
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Company Description<br></strong> <p>TM Norway is a leading technology company based in Sønderborg, specializing in fully automated high-pressure cylinder systems for industrial and medical gases, as well as advanced filling equipment for food-grade CO2.<br></p> <strong>Role Description<br></strong> <p>This is a full-time on-site role for a PLC Programmer at TM Norway in Sønderborg. The PLC Programmer will be responsible for designing, developing, and maintaining PLC programs for automated high-pressure cylinder systems and filling equipment. The role involves troubleshooting, testing, and optimizing PLC programs to ensure the efficiency and accuracy of the systems.<br></p> <strong>Qualifications<br></strong> <ul><li>PLC Programming, Troubleshooting, and Testing skills</li><li>Experience with industrial automation systems</li><li>Knowledge of SCADA systems</li><li>Understanding of electrical schematics and diagrams</li><li>Excellent problem-solving abilities</li><li>Strong attention to detail and accuracy</li><li>Ability to work in a team environment</li><li>Bachelor's degree in Electrical Engineering, Automation, or related field</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-01,[]
+4053711155,https://dk.linkedin.com/jobs/view/natural-language-processing-nlp-researcher-at-alipes-aps-4053711155?position=1&pageNum=2&refId=yf5i6inA84mboAgteNDUHg%3D%3D&trackingId=vMHeVH97zJCbWz%2BP48U2hA%3D%3D,Natural Language Processing (NLP) Researcher,Alipes ApS,"Copenhagen, Capital Region of Denmark, Denmark","Do you want to impact a highly-skilled team that uses cutting edge techniques in Natural Language Processing and Algorithmic Trading? We are looking for an NLP Researcher that will help us greatly improve the text-processing behind our models.
+
+
+
+
+At Alipes Capital, we have been the market leader in automating the financial markets since we started back in 2008, shaping a fully automatic natural language processing system for reading and interpreting financial news.
+
+
+
+
+Your work
+
+Your work will support turning massive data sets of unstructured financial information into structured datasets and mathematical models that accurately predict movements in the equity markets. In doing so, you will:
+
+Redesign and introduce new text-processing techniques to extract additional and more accurate entities from the text-sources that underlie our trading algorithms
+Maintain and curate new and existing text data sources for our analyses
+Automate monitoring and benchmarking of the trading strategies
+
+
+
+
+You will enjoy a wide degree of autonomy and responsibility to optimize our machine-learning pipelines, from data-ingestion to live-model performance. There is no red tape, no sales people to consult and there is ample room for creativity.
+
+
+
+
+The team
+
+All of this will happen in an informal atmosphere where technical discussions are valued and you are encouraged to take ownership of, and pride in, your work. You will impact the direction of the team, prioritize your work and choose the tools that get the job done. We are a tight-knit modeling team with fourteen passionate quantitative researchers covering six nationalities – eleven PhD’s and three MSc’s- with expertise in statistical analysis, mathematical modeling and machine learning (seven of us working directly on the text-based equity models).
+
+
+
+
+We enjoy collaboration, lending a helping hand and discussing the business cases built upon our data-sets. You will be working alongside a team of software developers and a team of traders who implement and conceive the trading models with us. All team members write code and are not afraid to discuss technical details.
+
+
+
+
+Need to have
+
+Skilled in extracting signals from texts using embeddings to enhance prediction model
+Proficient in entity-extraction from text, e.g. using modern Transformer-based Large-Language Models
+Solid understanding of machine learning techniques and their practical applications
+Aptitude for programming in a numerical scripting language (we primarily use Python)
+A meticulous and detail-oriented mind
+
+
+
+
+Nice to have
+
+Experience using RAGs (Retrieval-Augmentation-Generation)
+Working with financial/trading data
+Experience with C#, C/C++ or Java
+Familiarity with software engineering (version control, unit testing, object oriented-design)
+Degree in Computer Science / Engineering
+
+
+
+
+What we can offer you
+
+Flat hierarchy and high levels of trust and autonomy
+Exciting problems to solve
+Collaborative team made up of really smart and curious people
+Nice office in central Copenhagen with a hybrid work model
+Pension, Health Insurance and 30 days of vacation
+
+
+
+
+Practicalities
+
+To apply, please send us your CV and a cover letter telling us why you think this role is a great fit for you. If your profile looks like a good match, we will get in touch to coordinate an online technical test as a first step in the interview process.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Do you want to impact a highly-skilled team that uses cutting edge techniques in Natural Language Processing and Algorithmic Trading? We are looking for an NLP Researcher that will help us greatly improve the text-processing behind our models.</p><p><br></p><p>At Alipes Capital, we have been the market leader in automating the financial markets since we started back in 2008, shaping a fully automatic natural language processing system for reading and interpreting financial news.</p><p><br></p><p><strong>Your work</strong></p><p>Your work will support turning massive data sets of unstructured financial information into structured datasets and mathematical models that accurately predict movements in the equity markets. In doing so, you will:</p><ul><li>Redesign and introduce new text-processing techniques to extract additional and more accurate entities from the text-sources that underlie our trading algorithms</li><li>Maintain and curate new and existing text data sources for our analyses</li><li>Automate monitoring and benchmarking of the trading strategies</li></ul><p><br></p><p>You will enjoy a wide degree of autonomy and responsibility to optimize our machine-learning pipelines, from data-ingestion to live-model performance. There is no red tape, no sales people to consult and there is ample room for creativity.</p><p><br></p><p><strong>The team</strong></p><p>All of this will happen in an informal atmosphere where technical discussions are valued and you are encouraged to take ownership of, and pride in, your work. You will impact the direction of the team, prioritize your work and choose the tools that get the job done. We are a tight-knit modeling team with fourteen passionate quantitative researchers covering six nationalities – eleven PhD’s and three MSc’s- with expertise in statistical analysis, mathematical modeling and machine learning (seven of us working directly on the text-based equity models).</p><p><br></p><p>We enjoy collaboration, lending a helping hand and discussing the business cases built upon our data-sets. You will be working alongside a team of software developers and a team of traders who implement and conceive the trading models with us. All team members write code and are not afraid to discuss technical details.</p><p><br></p><p><strong>Need to have</strong></p><ul><li>Skilled in extracting signals from texts using embeddings to enhance prediction model</li><li>Proficient in entity-extraction from text, e.g. using modern Transformer-based Large-Language Models</li><li>Solid understanding of machine learning techniques and their practical applications</li><li>Aptitude for programming in a numerical scripting language (we primarily use Python)</li><li>A meticulous and detail-oriented mind</li></ul><p><br></p><p><strong>Nice to have</strong></p><ul><li>Experience using RAGs (Retrieval-Augmentation-Generation)</li><li>Working with financial/trading data</li><li>Experience with C#, C/C++ or Java</li><li>Familiarity with software engineering (version control, unit testing, object oriented-design)</li><li>Degree in Computer Science / Engineering</li></ul><p><br></p><p><strong>What we can offer you</strong></p><ul><li>Flat hierarchy and high levels of trust and autonomy</li><li>Exciting problems to solve</li><li>Collaborative team made up of really smart and curious people</li><li>Nice office in central Copenhagen with a hybrid work model</li><li>Pension, Health Insurance and 30 days of vacation</li></ul><p><br></p><p><strong>Practicalities</strong></p><p>To apply, please send us your CV and a cover letter telling us why you think this role is a great fit for you. If your profile looks like a good match, we will get in touch to coordinate an online technical test as a first step in the interview process.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-20,[]
+4056581906,https://dk.linkedin.com/jobs/view/full-stack-software-engineer-remote-americas-at-scout-ai-4056581906?position=9&pageNum=2&refId=yf5i6inA84mboAgteNDUHg%3D%3D&trackingId=u8bmEdlvs6s9p6cR5kapXA%3D%3D,Full-stack Software Engineer (Remote / Americas),Scout AI,"Copenhagen, Capital Region of Denmark, Denmark","Intro
+
+Scout.ai is a new hiring platform that connects software engineers to opportunities with world-class companies. On Scout, you get a more relevant and growthful interviewing experience, you receive feedback on your performance, and you also get end-to-end support to improve your chances of getting hired.
+
+If you perform well on the Scout interview, you become eligible for opportunities with all companies in the Teamups network (only complete the interview once).
+
+This role is with our partner company that is actively hiring:
+
+Hunt Labs
+
+About The Company
+
+About Hunt Labs
+
+At Hunt we believe the future of fashion & style commerce is increasingly visual. Founded in 2024, we build experiences for highly engaged and passionate communities, all with the aim of maximizing inspiration and discoverability. We achieve this by building custom state-of-the-art computer vision models that extract nuanced information from images, powering hybrid search (text and vector), visual search and embedding-based recommendations.
+
+Role
+
+You’ll be joining Hunt in its infancy. As an early team member you will have a formative impact on the product, user experience and business.
+
+Your focus will be on web app and backend. From data modeling, to implementing APIs, to bringing beautiful designs to life, you’ll help us build a flawless experience that delights our users and partners alike.
+
+About You
+
+You are a champion of your teammates, and you appreciate receiving help from them as much as providing it. We’re in this together, and we will be there for each other for every part of this journey.
+
+You love creating something from the ground up, and you relish the challenge of assembling a rocket mid-flight. You rise to challenges where others may only see insurmountable roadblocks. Once a plan is hatched, you relentlessly focus on execution.
+
+Tools of the trade
+
+We’re building a modern front- and back-end application and our tools reflect our ambition. They include:
+
+
+React / Next.js / NestJS
+TypeScript / JavaScript
+Node.js
+Snowplow Analytics
+GraphQL / Apollo
+PostgreSQL / DynamoDB / Redis
+ElasticSearch
+AWS / AWS Lambda / Serverless Framework
+Docker
+
+
+Experience
+
+
+You are a full-stack developer with at least 4-5 years of experience.
+You prefer TypeScript over JavaScript.
+You get annoyed by messy code, but you are also eager to ship code that delights our community.
+Experience with SQL (PostgreSQL) and ElasticSearch as great plus.
+Experience with GraphQL and Apollo would be great.
+Experience with automated testing is a great plus.
+You are fluent in English.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Intro<br><br></strong>Scout.ai is a new hiring platform that connects software engineers to opportunities with world-class companies. On Scout, you get a more relevant and growthful interviewing experience, you receive feedback on your performance, and you also get end-to-end support to improve your chances of getting hired.<br><br>If you perform well on the Scout interview, you become eligible for opportunities with all companies in the Teamups network (only complete the interview once).<br><br><strong>This role is with our partner company that is actively hiring:<br><br>Hunt Labs<br><br></strong><strong>About The Company<br><br></strong><strong>About Hunt Labs<br><br></strong>At Hunt we believe the future of fashion &amp; style commerce is increasingly visual. Founded in 2024, we build experiences for highly engaged and passionate communities, all with the aim of maximizing inspiration and discoverability. We achieve this by building custom state-of-the-art computer vision models that extract nuanced information from images, powering hybrid search (text and vector), visual search and embedding-based recommendations.<br><br><strong>Role<br><br></strong>You’ll be joining Hunt in its infancy. As an early team member you will have a formative impact on the product, user experience and business.<br><br>Your focus will be on web app and backend. From data modeling, to implementing APIs, to bringing beautiful designs to life, you’ll help us build a flawless experience that delights our users and partners alike.<br><br><strong>About You<br><br></strong>You are a champion of your teammates, and you appreciate receiving help from them as much as providing it. We’re in this together, and we will be there for each other for every part of this journey.<br><br>You love creating something from the ground up, and you relish the challenge of assembling a rocket mid-flight. You rise to challenges where others may only see insurmountable roadblocks. Once a plan is hatched, you relentlessly focus on execution.<br><br><strong>Tools of the trade<br><br></strong>We’re building a modern front- and back-end application and our tools reflect our ambition. They include:<br><br><ul><li>React / Next.js / NestJS</li><li>TypeScript / JavaScript</li><li>Node.js</li><li>Snowplow Analytics</li><li>GraphQL / Apollo</li><li>PostgreSQL / DynamoDB / Redis</li><li>ElasticSearch</li><li>AWS / AWS Lambda / Serverless Framework</li><li>Docker<br><br></li></ul><strong>Experience<br><br></strong><ul><li>You are a full-stack developer with at least 4-5 years of experience.</li><li>You prefer TypeScript over JavaScript.</li><li>You get annoyed by messy code, but you are also eager to ship code that delights our community.</li><li>Experience with SQL (PostgreSQL) and ElasticSearch as great plus.</li><li>Experience with GraphQL and Apollo would be great.</li><li>Experience with automated testing is a great plus.</li><li>You are fluent in English.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-22,[]
+4056700688,https://dk.linkedin.com/jobs/view/data-scientist-innovation-team-at-stibo-systems-4056700688?position=10&pageNum=2&refId=yf5i6inA84mboAgteNDUHg%3D%3D&trackingId=pj40TjHf9lMQk4gx6F1AMg%3D%3D,Data Scientist - Innovation Team,Stibo Systems,"Aarhus, Central Denmark Region, Denmark","
+Are you passionate about the potential of Small Language Models (SLMs) and their ability to revolutionize Master Data Management (MDM)? Do you envision a future where agentic workflows streamline critical use cases in MDM? Join our Innovation Team, where we push the boundaries of technology to solve real-world data challenges.  
+
+This is the role and main tasks 
+
+As a key player in our Innovation Team, you will leverage SLMs to empower and optimize master data processes. Your work will focus on developing and deploying advanced models that improve data quality, automate complex workflows, and recommend the next best action in data management tasks. By harnessing the power of agentic workflows, you’ll help transform how businesses handle their data within our multidomain MDM platform ""STEP"" and our cloud-based Data-as-a-Service offerings. 
+
+More specifically you will 
+
+Explore the potential of SLMs to solve automation and data management challenges. 
+
+
+
+Design and implement agentic workflows that autonomously manage and maintain master data processes. 
+
+
+
+Train and fine-tune SLMs using live data from our enterprise customers. 
+
+
+
+Collaborate with DevOps teams to deploy and integrate these models across our cloud environments.  
+
+
+
+
+This is your Team 
+
+You will be part of a global Innovation Team, working alongside talented professionals from Denmark, England, Germany, the United States, and beyond. Our agile team embraces rapid prototyping, co-innovation, and close collaboration with clients to bring new solutions to life. With daily interactions and a strong focus on teamwork, we foster a culture of creativity and mutual support.  
+
+Some of the technologies we play with includes:
+
+Python 
+
+
+
+Small Language Models (SLMs) and related frameworks 
+
+
+
+Agentic workflows 
+
+
+
+Experience with machine learning libraries (scikit-learn, PyTorch) and microservices 
+
+
+
+Docker, Kubernetes, and Azure cloud environments 
+
+
+
+
+
+Who we are looking for You are someone with a relentless curiosity for experimenting with new ideas and technologies. You are curiously interested in the future of SLMs and agentic workflows, especially how they can address critical MDM use cases. You push boundaries, and you thrive in a fast-paced, innovation-driven environment. 
+
+Qualifications 
+
+A master’s degree in data science, computer science or a related field, with a strong focus on machine learning and AI. 
+
+
+
+3 to 5 years of experience with AI / ML – or fresh out of university 
+
+
+
+Experience with the Microsoft Azure AI stack 
+
+
+
+Knowledge about microservices and cloud platforms (Azure, Docker). 
+
+
+
+A passion for agentic workflows and their applications in real-world scenarios.  
+
+
+
+
+We offer 
+
+At Stibo Systems, we offer more than just a job. We put people first and inspire you to become the best version of yourself. 
+
+A flexible hybrid work model that supports work-life balance. 
+
+
+
+A multicultural, international team and career opportunities across the globe. 
+
+
+
+A dynamic, caring, and inspiring work environment focused on growth and well-being. 
+
+
+
+Access to online learning platforms like Udemy for continuous upskilling. 
+
+
+
+
+ 
+
+Join Stibo Systems, where we embrace 'All Kinds of Data Minds.'   Stibo Systems is a global company with a Nordic heritage. We help companies transform into digital leaders through market-leading multidomain master data management that delivers transparency. Through our solution, large brands (our customers) connect data across their products, customers, stores, employees, suppliers, digital assets and much, much more.   Our people are key to our success and at Stibo Systems, you'll find an environment that values data driven, creativity, curiosity, and analytical thinking. We're committed to making you feel trusted, invested in, and connected, fostering a workplace where every data mind thrives. Be part of our journey to digital leadership! 
+
+ 
+
+Interested? 
+
+We invite candidates for interviews on a continuous basis, so apply soon! If you have any questions about the position, feel free to contact Jesper Grode, Director, Product Innovation, at jnrg@stibosystems.com. 
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <br><strong><span><span>Are you passionate about the potential of Small Language Models (SLMs) and their ability to revolutionize Master Data Management (MDM)? Do you envision a future where agentic workflows streamline critical use cases in MDM? Join our Innovation Team, where we push the boundaries of technology to solve real-world data challenges.</span></span></strong><span><strong>&nbsp;</strong></span>&nbsp;<br><br><strong><span>This is the role and main tasks</span></strong><span>&nbsp;<br><br></span><span><span>As a key player in our Innovation Team, you will leverage SLMs to empower and </span><span>optimize</span><span> master data processes. Your work will focus on developing and deploying advanced models that improve data quality, automate complex workflows, and recommend the next best action in data management tasks. By harnessing the power of agentic workflows, </span><span>you’ll</span><span> help transform how businesses handle their data within our multidomain MDM platform ""STEP"" and our cloud-based Data-as-a-Service offerings.</span></span><span>&nbsp;<br><br></span><strong><span>More </span><span>specifically</span><span> </span><span>you</span><span> </span><span>will</span></strong><span>&nbsp;<br></span><ul><li><span><span>Explore the potential of SLMs to solve automation and data management challenges.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Design and implement agentic workflows that autonomously manage and </span><span>maintain</span><span> master data processes.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Train and fine-tune SLMs using live data from our enterprise customers.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Collaborate with DevOps teams to deploy and integrate these models across our cloud environments.</span></span><span>&nbsp;</span>&nbsp;<br><br><br><br></li></ul><strong><span>This is your Team</span></strong><span>&nbsp;<br><br></span><span><span>You will be part of a global Innovation Team, working alongside talented professionals from Denmark, </span><span>England</span><span>, Germany, the United States, and beyond. Our agile team embraces rapid prototyping, co-innovation, and close collaboration with clients to bring </span><span>new solutions</span><span> to life. With daily interactions and a strong focus on teamwork, we foster a culture of creativity and mutual support.</span></span><span>&nbsp;</span>&nbsp;<br><br><strong><span>Some of the technologies we play with includes:<br></span></strong><ul><li><span><span>Python</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Small Language Models (SLMs) and related frameworks</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Agentic</span><span> workflows</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Experience with machine learning libraries (scikit-learn, </span><span>PyTorch</span><span>) and microservices</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Docker, Kubernetes, and Azure cloud environments</span></span><span>&nbsp;<br><br><br><br><br></span></li></ul><strong><span>Who we are looking for</span></strong><span>&nbsp;</span><span><span>You are someone with a relentless curiosity for experimenting with </span><span>new ideas</span><span> and technologies. You are </span><span>curiously interested in the future of SLMs and agentic workflows, especially how they can address critical MDM use cases. You push boundaries, and you thrive in a fast-paced, innovation-driven environment.</span></span>&nbsp;<br><br><strong><span>Qualifications</span></strong><span>&nbsp;<br></span><ul><li><span><span>A master’s degree in </span><span>data science, </span><span>computer science or a related field, with a strong focus on machine learning </span><span>and</span><span> AI.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>3 to 5 years of </span><span>experience</span><span> with AI / ML</span><span> – or fresh out of university</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Experience with the Microsoft Azure AI stack</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Knowledge about </span><span>microservices and cloud platforms (Azure, Docker).</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>A passion for agentic workflows and their applications in real-world scenarios.</span></span><span>&nbsp;</span>&nbsp;<br><br><br><br></li></ul><strong><span>We</span><span> offer</span></strong><span>&nbsp;<br><br></span><span><span>At Stibo Systems, we offer more than just a job. We put people first and inspire you to become the best version of yourself.</span></span><span>&nbsp;<br></span><ul><li><span><span>A flexible hybrid work model that supports work-life balance.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>A multicultural, international team and career opportunities across the globe.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>A dynamic, caring, and inspiring work environment focused on growth and well-being.</span></span><span>&nbsp;<br><br><br></span></li></ul><ul><li><span><span>Access to online learning platforms like Udemy for continuous upskilling.</span></span><span>&nbsp;<br><br><br><br></span></li></ul><span>&nbsp;<br><br></span><strong><span>Join Stibo Systems, where we embrace 'All Kinds of Data Minds.' </span></strong><span><span>&nbsp;</span></span><span>&nbsp;</span><span><span>Stibo Systems is a global company with a Nordic heritage. We help companies transform into digital leaders through market-leading multidomain master data management that delivers transparency. Through our solution, large brands (</span></span><span><span>our customers</span></span><span><span>) connect data across their products, customers, stores, employees, suppliers, digital assets and much, much more. </span></span><span><span>&nbsp;</span></span><span><span>&nbsp;</span></span><span><span>Our </span></span><span><span>people</span></span><span><span> are key to our success and at Stibo Systems, </span><span>you'll</span><span> find an environment that values data driven, creativity, curiosity, and analytical thinking. </span><span>We're</span><span> committed to making you feel trusted, invested in, and connected, fostering a workplace where every data mind thrives. Be part of </span><span>our</span><span> </span><span>journey</span><span> to digital </span><span>leadership</span><span>!</span></span><span>&nbsp;<br><br></span><span>&nbsp;<br><br></span><strong><span>Interested?</span></strong><span>&nbsp;<br><br></span><span><span>We invite candidates for interviews on a continuous basis, so apply soon!</span><span> </span><span>If you have any questions</span><span> about the position</span><span>, feel free to contact </span><span>Jesper Grode, </span><span>Director, Product Innovation</span><span>, </span><span>at</span><span> jnrg@stibosystems.com.</span></span><span>&nbsp;<br></span>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-23,[]
