@@ -1,0 +1,1963 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4043066097,https://uk.linkedin.com/jobs/view/data-analyst-performance-marketing-at-bumble-inc-4043066097?position=1&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=VCtEaganIV810euHv23hyg%3D%3D,"Data Analyst, Performance Marketing",Bumble Inc.,"London, England, United Kingdom","Bumble Inc. is the parent company of Bumble, Badoo, Fruitz and Official. The Bumble platform enables people to build healthy and equitable relationships, through kind connections. Founded by CEO Whitney Wolfe Herd in 2014, Bumble was one of the first dating apps built with women at the center and connects people across dating (Bumble Date), friendship (Bumble BFF) and professional networking (Bumble Bizz). Badoo, which was founded in 2006, is one of the pioneers of web and mobile dating products. Fruitz, founded in 2017, encourages open and honest communication of dating intentions through playful fruit metaphors. Official is an app for couples that promotes open and honest communication between partners and was founded in 2020.
+
+Bumble Inc. is seeking an experienced User Acquisition Analyst to work with our paid marketing stakeholders, take an integrated ecosystem approach and support critical business decisions across all our apps. This is a unique opportunity for an experienced analyst who enjoys the fast-paced environment of a growing company, has experience in marketing and has a passion to contribute to helping the Bumble Inc. mission to foster kind connections.
+
+You would ideally have an extensive background in marketing analytics at an app-based tech company, with proven experience in driving commercial impact through applying analytics to critical business problems.
+
+You bring the experience of working with complex sources of Paid Marketing data and use that knowledge to partner with stakeholders and senior leaders, taking a holistic approach to finding answers. You understand the high-level business model of the company and the primary drivers and output metrics to efficiently receive a stakeholder request, draft a project/insights brief and proactively ask for additional scope clarity where necessary.
+
+Remaining laser-focused on the ""so what"" of the findings, and how the insights support business decisions you take an integrated perspective to analytics, consider all the potential drivers to a problem, review existing knowledge and bring in expertise for advice from other teams. You are passionate about continual improvement, both personally and for the team around you, you always look for feedback to strive for high quality of deliverables.
+
+
+
+
+What you'll do:
+You will contribute to data quality as it relates to the Paid Marketing domain, proactively working with Data and Analytics Engineering and other teams to improve data collection and modelling
+You will build and manage self-serve data products, a knowledge base of insights, and provide direct support, to empower others to fully understand the value of data in their day-to-day work
+You will deliver analytical roadmaps to support the longer-term vision of marketing measurement within the business. This includes reporting, handling of ad-hoc requests and data visibility, experimentation, and ongoing measurement of marketing campaigns
+You will optimise and improve SKAN ETL pipelines and refine conversion value methodologies to ensure accurate and robust data collection and analysis
+You will build, maintain, and interpret LTV prediction and ROAS calculations to optimise user acquisition campaigns
+You will stay up-to-date with the industry and privacy trends, the paid UA landscape, and emerging technologies in data science and engineering
+
+
+
+
+
+About you:
+Preference for a graduate degree in Mathematics, Engineering, Information Sciences, Economics, Finance, or STEM. PhD and Masters welcome
+3+ years of experience in data science and analytics preferably in Paid Marketing and User Acquisition domains with a strong understanding of multiple tactics, including Churn, LTV, ROAS
+Preference for experience working in similar dating/social/gaming tech product industries or else app-based product, being able to elaborate on the business impact you have driven in your previous experience
+You have a background working with complex data infrastructures and experience partnering and guiding the work of data engineering to help facilitate ingestion, warehousing, and optimisation of databases
+Strong experience with SQL and Python, Looker or a similar visualisation platform. Familiarity with DBT is a plus
+You have experience setting up experimentation, measurement, and data collection in the marketing domain
+You keep an eye out on the industry, understanding how the wider dating industry influences our business strategies
+
+
+
+
+
+
+
+
+Global benefits
+
+Maven Fertility We offer a $10,000 lifetime benefit opportunity to all employees and their partners around the world. This benefit can be used to support your reproductive journey - from abortion care and related travel costs to fertility treatment, egg-freezing, adoption, surrogacy, and more. 
+
+Family & compassionate paid leaveFamily leave to support you and your loved ones when needed (including victim of domestic abuse or violent crime).
+
+26 weeks parental leave 26 weeks paid leave for the primary caregiver following the birth, adoption, surrogacy or foster care of a child. The secondary caregiver will also receive 26 weeks paid leave after 1 year of employment.
+
+Unlimited paid time offTake the time you need when you need it. 
+
+Company-wide week offTwice a year, we have a company-wide week off (it’s essential for some teams to continue working and they will be offered alternative time off instead).
+
+Focus FridaysTwice a month we have a no meeting, no deadline, no email and no Slack rule on a Friday so you can focus without distraction.
+
+Check out more of our local benefits here.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><span>Bumble Inc. is the parent company of Bumble, Badoo, Fruitz and Official. The Bumble platform enables people to build healthy and equitable relationships, through kind connections. Founded by CEO Whitney Wolfe Herd in 2014, Bumble was one of the first dating apps built with women at the center and connects people across dating (Bumble Date), friendship (Bumble BFF) and professional networking (Bumble Bizz). Badoo, which was founded in 2006, is one of the pioneers of web and mobile dating products. Fruitz, founded in 2017, encourages open and honest communication of dating intentions through playful fruit metaphors. Official is an app for couples that promotes open and honest communication between partners and was founded in 2020.</span></p><p></p><p><span>Bumble Inc. is seeking an experienced User Acquisition Analyst to work with our paid marketing stakeholders, take an integrated ecosystem approach and support critical business decisions across all our apps. This is a unique opportunity for an experienced analyst who enjoys the fast-paced environment of a growing company, has experience in marketing and has a passion to contribute to helping the Bumble Inc. mission to foster kind connections.</span></p><p></p><p><span>You would ideally have an extensive background in marketing analytics at an app-based tech company, with proven experience in driving commercial impact through applying analytics to critical business problems.</span></p><p></p><p><span>You bring the experience of working with complex sources of Paid Marketing data and use that knowledge to partner with stakeholders and senior leaders, taking a holistic approach to finding answers. You understand the high-level business model of the company and the primary drivers and output metrics to efficiently receive a stakeholder request, draft a project/insights brief and proactively ask for additional scope clarity where necessary.</span></p><p></p><p><span>Remaining laser-focused on the ""so what"" of the findings, and how the insights support business decisions you take an integrated perspective to analytics, consider all the potential drivers to a problem, review existing knowledge and bring in expertise for advice from other teams. You are passionate about continual improvement, both personally and for the team around you, you always look for feedback to strive for high quality of deliverables.</span></p><p></p><p><br></p><strong>What you'll do: </strong><ul><li>You will contribute to data quality as it relates to the Paid Marketing domain, proactively working with Data and Analytics Engineering and other teams to improve data collection and modelling</li><li>You will build and manage self-serve data products, a knowledge base of insights, and provide direct support, to empower others to fully understand the value of data in their day-to-day work</li><li>You will deliver analytical roadmaps to support the longer-term vision of marketing measurement within the business. This includes reporting, handling of ad-hoc requests and data visibility, experimentation, and ongoing measurement of marketing campaigns</li><li>You will optimise and improve SKAN ETL pipelines and refine conversion value methodologies to ensure accurate and robust data collection and analysis</li><li>You will build, maintain, and interpret LTV prediction and ROAS calculations to optimise user acquisition campaigns</li><li>You will stay up-to-date with the industry and privacy trends, the paid UA landscape, and emerging technologies in data science and engineering<br></li></ul><p><br></p><strong>About you:</strong><ul><li>Preference for a graduate degree in Mathematics, Engineering, Information Sciences, Economics, Finance, or STEM. PhD and Masters welcome</li><li>3+ years of experience in data science and analytics preferably in Paid Marketing and User Acquisition domains with a strong understanding of multiple tactics, including Churn, LTV, ROAS</li><li>Preference for experience working in similar dating/social/gaming tech product industries or else app-based product, being able to elaborate on the business impact you have driven in your previous experience</li><li>You have a background working with complex data infrastructures and experience partnering and guiding the work of data engineering to help facilitate ingestion, warehousing, and optimisation of databases</li><li>Strong experience with SQL and Python, Looker or a similar visualisation platform. Familiarity with DBT is a plus</li><li>You have experience setting up experimentation, measurement, and data collection in the marketing domain</li><li>You keep an eye out on the industry, understanding how the wider dating industry influences our business strategies<br></li></ul><p></p><p><br></p><br><p><strong>Global benefits</strong></p><p></p><p><strong><strong>Maven Fertility&nbsp;<span>We offer a $10,000 lifetime benefit opportunity to all employees and their partners around the world. This benefit can be used to support your reproductive journey - from abortion care and related travel costs to fertility treatment, egg-freezing, adoption, surrogacy, and more.&nbsp;</span></strong></strong></p><p></p><p><strong><strong><strong>Family &amp; compassionate paid leave<span>Family leave to support you and your loved ones when needed (including victim of domestic abuse or violent crime).</span></strong></strong></strong></p><p></p><p><strong><strong><strong><strong>26 weeks parental leave&nbsp;<span>26 weeks paid leave for the primary caregiver following the birth, adoption, surrogacy or foster care of a child. The secondary caregiver will also receive 26 weeks paid leave after 1 year of employment.</span></strong></strong></strong></strong></p><p></p><p><strong><strong><strong><strong>Unlimited paid time off<span>Take the time you need when you need it.&nbsp;</span></strong></strong></strong></strong></p><p></p><p><strong><strong><strong><strong>Company-wide week off<span>Twice a year, we have a company-wide week off (it’s essential for some teams to continue working and they will be offered alternative time off instead).</span></strong></strong></strong></strong></p><p></p><p><strong><strong><strong><strong>Focus Fridays<span>Twice a month we have a no meeting, no deadline, no email and no Slack rule on a Friday so you can focus without distraction.</span></strong></strong></strong></strong></p><p></p><p><strong><strong><strong>Check out more of our local benefits here.</strong></strong></strong></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-19,[]
+4085589359,https://uk.linkedin.com/jobs/view/data-analyst-at-walt-labs-4085589359?position=2&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=4gdSyZnN5cf0mEt%2BWbv1JA%3D%3D,Data Analyst,WALT Labs,"London, England, United Kingdom","Company Description
+
+WALT Labs, a leading managed service provider, is dedicated to empowering businesses by harnessing the power of cloud technology. Our team specializes in delivering customized solutions tailored to meet the unique needs of our clients, driving growth and operational efficiency across industries. From supporting small businesses with seamless data migration to enabling large corporations to manage complex infrastructure projects, we provide exceptional service while staying at the forefront of cloud technology advancements.
+
+
+
+
+Role Description
+
+This is a full-time on-site role 3 days a week minimum, for a Data Analyst at WALT Labs in London Kings Cross. The Data Analyst will be responsible for day-to-day tasks such as data analytics, data modeling, and utilizing statistical methods to drive business insights in Looker Studio and Looker Core. Effective communication skills will play a key role in collaborating with cross-functional teams.
+
+
+
+
+Qualifications
+
+Analytical Skills, Data Analytics, and Data Modeling abilities
+Proficiency in Statistics
+Experience using Looker Studio at minimum
+Strong Communication skills
+Bachelor's degree in a related field (e.g., Statistics, Data Analytics, Computer Science)
+Experience in data analysis tools (e.g., SQL, Python, R)
+Ability to work effectively in a team environment
+
+
+
+
+
+
+
+Responsibilities
+
+
+
+
+Collect, clean, and optimize datasets in BigQuery or other SQL databases for analysis and reporting.
+Use SQL to query large datasets and uncover trends that support business decisions.
+Design, build, and maintain Looker dashboards, including custom LookML models.
+Optimize queries and visualizations for cost efficiency and performance improvement.
+Collaborate with cross-functional teams to gather reporting requirements and present actionable insights.
+Ensure data privacy, security, and compliance with governance policies.
+Troubleshoot and resolve data discrepancies and support Looker or SQL database-related issues.
+Monitor and automate reporting for business-critical KPIs.
+Stay updated on best practices and recommend process improvements for data analysis and visualization.
+
+
+
+
+This role combines technical skills in SQL and Looker with strategic analysis to drive data-driven decisions.
+
+
+
+
+Salary
+
+Between £30,000 - £45,000 depending on experience
+
+
+
+
+Benefits
+
+20 holiday days + bank holidays (earn 1.5 days every 3 years)
+Private health insurance
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Company Description</strong></p><p> </p><p>WALT Labs, a leading managed service provider, is dedicated to empowering businesses by harnessing the power of cloud technology. Our team specializes in delivering customized solutions tailored to meet the unique needs of our clients, driving growth and operational efficiency across industries. From supporting small businesses with seamless data migration to enabling large corporations to manage complex infrastructure projects, we provide exceptional service while staying at the forefront of cloud technology advancements. </p><p><br></p><p> <strong>Role Description</strong></p><p> </p><p>This is a full-time on-site role 3 days a week minimum, for a Data Analyst at WALT Labs in London Kings Cross. The Data Analyst will be responsible for day-to-day tasks such as data analytics, data modeling, and utilizing statistical methods to drive business insights in Looker Studio and Looker Core. Effective communication skills will play a key role in collaborating with cross-functional teams.</p><p><br></p><p> <strong>Qualifications</strong></p><p> </p><ul><li>Analytical Skills, Data Analytics, and Data Modeling abilities</li><li>Proficiency in Statistics</li><li>Experience using Looker Studio at minimum</li><li>Strong Communication skills</li><li>Bachelor's degree in a related field (e.g., Statistics, Data Analytics, Computer Science)</li><li>Experience in data analysis tools (e.g., SQL, Python, R)</li><li>Ability to work effectively in a team environment</li></ul><p><br></p><p><br></p><strong><p>Responsibilities</p></strong><p><br></p><ul><li>Collect, clean, and optimize datasets in BigQuery or other SQL databases for analysis and reporting.</li><li>Use SQL to query large datasets and uncover trends that support business decisions.</li><li>Design, build, and maintain Looker dashboards, including custom LookML models.</li><li>Optimize queries and visualizations for cost efficiency and performance improvement.</li><li>Collaborate with cross-functional teams to gather reporting requirements and present actionable insights.</li><li>Ensure data privacy, security, and compliance with governance policies.</li><li>Troubleshoot and resolve data discrepancies and support Looker or SQL database-related issues.</li><li>Monitor and automate reporting for business-critical KPIs.</li><li>Stay updated on best practices and recommend process improvements for data analysis and visualization.</li></ul><p><br></p><p>This role combines technical skills in SQL and Looker with strategic analysis to drive data-driven decisions.</p><p><br></p><p><strong>Salary</strong></p><p>Between £30,000 - £45,000 depending on experience</p><p><br></p><p><strong>Benefits</strong></p><ul><li>20 holiday days + bank holidays (earn 1.5 days every 3 years)</li><li>Private health insurance</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-26,[]
+4083843157,https://uk.linkedin.com/jobs/view/data-analyst-at-emed-healthcare-uk-4083843157?position=4&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=Z4oz7WNFSAyp%2BkX%2F%2BL1p6w%3D%3D,Data Analyst,eMed Healthcare UK,"London, England, United Kingdom","We are seeking a detail-oriented and analytical Data Analyst to support our data-driven decision-making processes. The ideal candidate will have strong technical skills in data analysis, experience with data visualization tools, and the ability to communicate complex insights to both technical and non-technical stakeholders. You will sit within the data team, and work closely with cross-functional teams to identify business needs and deliver data solutions that enhance overall performance.
+
+WHAT YOU'LL WORK ON
+
+
+Data Collection & Preparation: Gather, clean, and organize large datasets from multiple sources to ensure accuracy, consistency, and completeness.
+Data Analysis: Perform exploratory data analysis (EDA) to identify trends, patterns, and insights that drive business decisions.
+Reporting & Visualization: Create clear, actionable, and visually appealing reports and dashboards using Tableau
+Data Modelling: Build and maintain data models to support ongoing analysis and reporting needs.
+Collaboration: Work with business stakeholders to understand data needs, and provide insights that support strategic initiatives.
+Automation: Develop automated reports and data processes to improve efficiency and reduce manual work.
+Performance Metrics: Define and track key performance indicators (KPIs) to measure business performance and identify areas for improvement.
+Presentations & Storytelling: Present findings to management and key stakeholders through presentations and clear data storytelling.
+
+
+WHAT WE'RE LOOKING FOR
+
+
+At least 2-3 years professional experience developing advanced Tableau data visualisations, dashboards and reporting. (Essential)
+Skills in exploratory data analysis and familiarity with advanced quantitative analysis. (Essential)
+Strong ability to interpret and analyse data to provide actionable insights. (Essential)
+Comfortable using modern data technologies. Familiarity with database modelling and data warehousing principles.
+Familiarity with automated data ingestion processes including APIs.
+Ability to partner effectively with data science and engineering stakeholders to meet the data needs of the business, translating business needs into analytical requirements.
+Ability to communicate the results of analyses in a clear and effective manner.
+Excellent written, verbal, presentation and communication skills.
+Self-motivated and proactive with proven creative, problem-solving, and critical thinking capabilities.
+Ability to adapt to changing circumstances and are open to new ideas and approaches.
+Who is willing to learn (what are likely to be new tools and programmes).
+Work effectively in teams, respect diverse perspectives, and contribute positively to group dynamics. A willingness to support and motivate colleagues is highly valued.
+Willingness to be creative and innovative to suggest new ideas for insights and product possibilities.
+
+
+WHAT WE OFFER
+
+
+eMed flex-leave
+5% employer pension contribution for 5% employee contribution
+Life Insurance 4x annual base salary
+Health cash plan
+Employee Assistance Program
+Eye care voucher reimbursement (up to £20)
+Enhanced Maternity, Paternity and Adoption pay.
+Health & Wellbeing resources
+Up to £80 towards noise cancelling headphones
+
+
+This role is based in our London Head Office 5 days per week.
+
+WORKING AT EMED
+
+Whether you work in one of our amazing offices, clinics or part of our remote clinician workforce, eMed is highly collaborative and fun! You’ll have a chance to work in a fast-paced environment with experienced industry leaders. We have a learning environment where you can make an impact.
+
+WHO WE ARE
+
+At eMed our people aren’t just part of a team, they’re part of something bigger. We’re a vibrant community of creative thinkers and doers, forging the way for a new generation of healthcare. We’re only as good as our people. So, finding the best people is everything to us. We serve millions, but we choose our people one at a time…
+
+DIVERSITY
+
+We believe that difference inspires a better, healthier world. That’s why it’s at the heart of everything we do. From our people to our products, difference enriches every part of our business and creates a culture based on equality of opportunity, and in which all employees can progress their careers. We’re committed to creating an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, colour, religion, sex, pregnancy status, national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information, and any other characteristic protected by applicable law.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are seeking a detail-oriented and analytical Data Analyst to support our data-driven decision-making processes. The ideal candidate will have strong technical skills in data analysis, experience with data visualization tools, and the ability to communicate complex insights to both technical and non-technical stakeholders. You will sit within the data team, and work closely with cross-functional teams to identify business needs and deliver data solutions that enhance overall performance.<br><br><strong>WHAT YOU'LL WORK ON <br><br></strong><ul><li>Data Collection &amp; Preparation: Gather, clean, and organize large datasets from multiple sources to ensure accuracy, consistency, and completeness.</li><li>Data Analysis: Perform exploratory data analysis (EDA) to identify trends, patterns, and insights that drive business decisions.</li><li>Reporting &amp; Visualization: Create clear, actionable, and visually appealing reports and dashboards using Tableau</li><li>Data Modelling: Build and maintain data models to support ongoing analysis and reporting needs.</li><li>Collaboration: Work with business stakeholders to understand data needs, and provide insights that support strategic initiatives.</li><li>Automation: Develop automated reports and data processes to improve efficiency and reduce manual work.</li><li>Performance Metrics: Define and track key performance indicators (KPIs) to measure business performance and identify areas for improvement.</li><li>Presentations &amp; Storytelling: Present findings to management and key stakeholders through presentations and clear data storytelling.<br><br></li></ul><strong>WHAT WE'RE LOOKING FOR<br><br></strong><ul><li>At least 2-3 years professional experience developing advanced Tableau data visualisations, dashboards and reporting. (Essential) </li><li>Skills in exploratory data analysis and familiarity with advanced quantitative analysis. (Essential) </li><li>Strong ability to interpret and analyse data to provide actionable insights. (Essential) </li><li>Comfortable using modern data technologies. Familiarity with database modelling and data warehousing principles.</li><li>Familiarity with automated data ingestion processes including APIs.</li><li>Ability to partner effectively with data science and engineering stakeholders to meet the data needs of the business, translating business needs into analytical requirements.</li><li>Ability to communicate the results of analyses in a clear and effective manner.</li><li>Excellent written, verbal, presentation and communication skills.</li><li>Self-motivated and proactive with proven creative, problem-solving, and critical thinking capabilities.</li><li>Ability to adapt to changing circumstances and are open to new ideas and approaches.</li><li>Who is willing to learn (what are likely to be new tools and programmes).</li><li>Work effectively in teams, respect diverse perspectives, and contribute positively to group dynamics. A willingness to support and motivate colleagues is highly valued.</li><li>Willingness to be creative and innovative to suggest new ideas for insights and product possibilities.<br><br></li></ul><strong>WHAT WE OFFER<br><br></strong><ul><li>eMed flex-leave</li><li>5% employer pension contribution for 5% employee contribution </li><li>Life Insurance 4x annual base salary</li><li>Health cash plan</li><li>Employee Assistance Program</li><li>Eye care voucher reimbursement (up to £20)</li><li>Enhanced Maternity, Paternity and Adoption pay.</li><li>Health &amp; Wellbeing resources</li><li>Up to £80 towards noise cancelling headphones<br><br></li></ul>This role is based in our London Head Office 5 days per week.<br><br><strong>WORKING AT EMED <br><br></strong>Whether you work in one of our amazing offices, clinics or part of our remote clinician workforce, eMed is highly collaborative and fun! You’ll have a chance to work in a fast-paced environment with experienced industry leaders. We have a learning environment where you can make an impact.<br><br><strong>WHO WE ARE<br><br></strong>At eMed our people aren’t just part of a team, they’re part of something bigger. We’re a vibrant community of creative thinkers and doers, forging the way for a new generation of healthcare. We’re only as good as our people. So, finding the best people is everything to us. We serve millions, but we choose our people one at a time…<br><br><strong>DIVERSITY<br><br></strong>We believe that difference inspires a better, healthier world. That’s why it’s at the heart of everything we do. From our people to our products, difference enriches every part of our business and creates a culture based on equality of opportunity, and in which all employees can progress their careers. We’re committed to creating an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, colour, religion, sex, pregnancy status, national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, gender expression, genetic information, and any other characteristic protected by applicable law.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-27,[]
+4068047797,https://uk.linkedin.com/jobs/view/data-analyst-at-pine-walk-capital-limited-4068047797?position=6&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=lbIWmkBDsYRroeXSISgT5g%3D%3D,Data Analyst,Pine Walk Capital Limited,"Croydon, England, United Kingdom","About Pine Walk
+
+Pine Walk Capital is a business platform helping insurance teams to grow. Pine Walk provides a wrap-around set of support functions and delivers best in class service across executive management, consultancy, finance, compliance, and IT. Pine Walk works with highly motivated niche insurance teams that deal in complicated and innovative transactions. Pine Walk is on a high growth trajectory which is giving rise to opportunities and new roles across the team.
+
+
+
+
+Job Summary
+
+This role offers an exciting opportunity to fast-track your career in an aggressively ambitious business. The role’s broad scope provides high exposure to the business, visibility over Group processes and systems, and exposure to and collaboration with highly skilled professionals.
+
+
+
+
+The primary purpose of the role is to design, develop, and optimize SQL queries, stored procedures, and database architectures to solve business problems. This includes writing and maintaining efficient SQL code for data retrieval, manipulation, and reporting, as well as automating recurring database tasks. The role also involves performance tuning, ensuring data integrity, and managing datasets to optimise database performance and scalability. You'll collaborate closely with other developers and teams to integrate SQL solutions with applications and ensure seamless data flow.
+
+
+
+
+Location
+
+Pine Walk is part of the wider Fidelis Partnership Group – with offices across London, Belgium, Ireland, and Bermuda. This role will be based in the Croydon office with 1x day per week in the London City office.
+
+
+
+
+Key Responsibilities
+
+1. Create, optimise, and maintain SQL queries and stored procedures for efficient data retrieval, manipulation, and reporting.
+
+2. Analyse and optimise database performance through indexing, query optimisation, and other techniques to ensure high efficiency and scalability.
+
+3. Work with third parties to deliver integrations that are robust and effective, to reduce manual processing/re-keying of data.
+
+4. Automate recurring database processes such as data imports, exports, and scheduled jobs to improve workflow efficiency.
+
+5. Analyse data to provide both reports and insight using a range of technologies including SQL, Python and Power Platform.
+
+6. Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, etc.
+
+7. Manage data collection processes with the MGA’s or third parties – ensuring processes are documented and data is delivered to an appropriate level of quality.
+
+8. Manage and review the tasks of the junior data analysts – developing into the line manager for junior data analysts.
+
+9. Working with the rest of the Pine Walk data team ensure that infrastructures and environments are appropriately sized and structured.
+
+10. Any other duties assigned by your line manager relevant to the role/time.
+
+
+
+
+Our Stack
+
+Pine Walk works completely in the cloud to ensure we are flexible and ready for growth. Our Datawarehouse is built on Azure SQL combining data from third party databases and our own apps. The Power Platform is our reporting tool of choice alongside Excel but given the types of insurance involved other areas of data analysis and system design, e.g. Python, GIS, will need to be integrated into our solutions in the future.
+
+
+
+
+Pine Walk is committed to exploring new technologies to automate processes and deliver effective working processes.
+
+
+
+
+Essential Skills, Knowledge, and Experience
+
+• Degree educated (minimum 2:1) in a numerate subject.
+
+• Prior experience in SQL ( preferably 2+ years)
+
+• Strong written and spoken communication skills to enable communication at all levels.
+
+• Ability to handle a varied workload and competing priorities.
+
+• Strong analytical, research and reporting skills.
+
+• Intermediate proficiency in the Microsoft Office Suite, particularly Excel, Word, and
+
+PowerPoint.
+
+• Proven ability to follow instructions and work diligently to create solutions based on
+
+provided specifications.
+
+
+
+
+Competencies and behaviours
+
+• Proactive and solutions orientated.
+
+• Analytical with a strong attention to detail.
+
+• Detail-orientated with excellent problem-solving skills.
+
+• Personal drive and resilience in established and new/changing situations.
+
+• Ability to support success and timely delivery in a complex, multi-disciplinary environment.
+
+• A team player with strong interest in the performance of the wider business.
+
+• Commercially savvy, bright, energetic, and positive with a ‘can do’ attitude and a focus on getting things done.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>About Pine Walk</strong></p><p>Pine Walk Capital is a business platform helping insurance teams to grow. Pine Walk provides a wrap-around set of support functions and delivers best in class service across executive management, consultancy, finance, compliance, and IT. Pine Walk works with highly motivated niche insurance teams that deal in complicated and innovative transactions. Pine Walk is on a high growth trajectory which is giving rise to opportunities and new roles across the team.</p><p><br></p><p><strong>Job Summary</strong></p><p>This role offers an exciting opportunity to fast-track your career in an aggressively ambitious business. The role’s broad scope provides high exposure to the business, visibility over Group processes and systems, and exposure to and collaboration with highly skilled professionals.</p><p><br></p><p>The primary purpose of the role is to design, develop, and optimize SQL queries, stored procedures, and database architectures to solve business problems. This includes writing and maintaining efficient SQL code for data retrieval, manipulation, and reporting, as well as automating recurring database tasks. The role also involves performance tuning, ensuring data integrity, and managing datasets to optimise database performance and scalability. You'll collaborate closely with other developers and teams to integrate SQL solutions with applications and ensure seamless data flow.</p><p><br></p><p><strong>Location</strong></p><p>Pine Walk is part of the wider Fidelis Partnership Group – with offices across London, Belgium, Ireland, and Bermuda. This role will be based in the Croydon office with 1x day per week in the London City office.</p><p><br></p><p><strong>Key Responsibilities</strong></p><p>1. Create, optimise, and maintain SQL queries and stored procedures for efficient data retrieval, manipulation, and reporting.</p><p>2. Analyse and optimise database performance through indexing, query optimisation, and other techniques to ensure high efficiency and scalability.</p><p>3. Work with third parties to deliver integrations that are robust and effective, to reduce manual processing/re-keying of data.</p><p>4. Automate recurring database processes such as data imports, exports, and scheduled jobs to improve workflow efficiency.</p><p>5. Analyse data to provide both reports and insight using a range of technologies including SQL, Python and Power Platform.</p><p>6. Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, etc.</p><p>7. Manage data collection processes with the MGA’s or third parties – ensuring processes are documented and data is delivered to an appropriate level of quality.</p><p>8. Manage and review the tasks of the junior data analysts – developing into the line manager for junior data analysts.</p><p>9. Working with the rest of the Pine Walk data team ensure that infrastructures and environments are appropriately sized and structured.</p><p>10. Any other duties assigned by your line manager relevant to the role/time.</p><p><br></p><p><strong>Our Stack</strong></p><p>Pine Walk works completely in the cloud to ensure we are flexible and ready for growth. Our Datawarehouse is built on Azure SQL combining data from third party databases and our own apps. The Power Platform is our reporting tool of choice alongside Excel but given the types of insurance involved other areas of data analysis and system design, e.g. Python, GIS, will need to be integrated into our solutions in the future.</p><p><br></p><p>Pine Walk is committed to exploring new technologies to automate processes and deliver effective working processes.</p><p><br></p><p><strong>Essential Skills, Knowledge, and Experience </strong></p><p>• Degree educated (minimum 2:1) in a numerate subject.</p><p>• Prior experience in SQL ( preferably 2+ years)</p><p>• Strong written and spoken communication skills to enable communication at all levels.</p><p>• Ability to handle a varied workload and competing priorities.</p><p>• Strong analytical, research and reporting skills.</p><p>• Intermediate proficiency in the Microsoft Office Suite, particularly Excel, Word, and</p><p>PowerPoint.</p><p>• Proven ability to follow instructions and work diligently to create solutions based on</p><p>provided specifications.</p><p><br></p><p><strong>Competencies and behaviours</strong></p><p>• Proactive and solutions orientated.</p><p>• Analytical with a strong attention to detail.</p><p>• Detail-orientated with excellent problem-solving skills.</p><p>• Personal drive and resilience in established and new/changing situations.</p><p>• Ability to support success and timely delivery in a complex, multi-disciplinary environment.</p><p>• A team player with strong interest in the performance of the wider business.</p><p>• Commercially savvy, bright, energetic, and positive with a ‘can do’ attitude and a focus on getting things done.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-06,[]
+4083461659,https://uk.linkedin.com/jobs/view/data-analyst-at-mobica-4083461659?position=7&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=42LEO%2BpAgZWd49qMYZfeGg%3D%3D,Data Analyst,Mobica,"London, England, United Kingdom","Mobica | Be Extraordinary_
+
+
+
+Mobica helps businesses build pioneering experiences for their customers. Headquartered in Manchester UK with offices across Europe and US, we partner with businesses across multiple industries - from aerospace to finance and semiconductors to automotive - providing them with access to incredible talent and engineering expertise across the entire technology stack
+
+
+
+Mobica Way
+
+
+
+Well-known Clients and Projects focused on the Technologies of Tomorrow - our work is already all around you. Almost all of our long term customers are instantly recognisable global brands developing some of the most interesting products and services you are using today and will use in the future. Our expertly crafted software underpins many of today’s amazing customer experiences. When you join us, you'll be both challenged and supported, and you'll be a part of something extraordinary.
+Empowered Mobicans driving their own careers – we empower our people to develop their skills and move forward in their careers. Our people are treated like partners, are encouraged to share knowledge and push the boundaries. We are there to help you with the opportunities to advance, learn and grow.
+Ideas are prioritised over Hierarchy and Biases - in Mobica you are listened to and valued. We are building open communication and a safe environment. We've made it our mission to create a working environment where all team members feel welcome, protected from discrimination and have access to equal opportunities.
+We believe that employees should be happy – Mobica is a place where talented minds are recognised, nurtured and valued. We are early adopters of the hybrid working practices, you define the way where you work more productive - at home or in the office - we will create the environment for that. In addition to the competitive salary you are getting access to a range of virtual, offline and on-site events and platforms where you can learn, brainstorm, challenge, express yourself or simply have some fun and get new friends. Fruit and snacks are in the office to make your mood good.
+
+
+Job Description
+
+
+
+We are seeking a highly skilled Data Analyst to join our team and help shape the integration of new businesses and enhanced activities into global operations. This role combines business acumen with technical expertise to deliver innovative data solutions and drive operational excellence.
+
+
+
+Key Responsibilities:
+
+
+
+Business Integration & Process Design:
+Combine business understanding with logical data modeling and process design to integrate new Trading & Supply (T&S) businesses into global operations.
+
+
+
+System Understanding:
+Gain in-depth knowledge of key Align Energy Trading and Risk Management Systems (ETRMs), focusing on system interactions with Risk tools in the regional context.
+
+
+
+Market Risk Analytics:
+Analyze pre- and post-deal market risk metrics, including Value at Risk (VaR), Scenario Analysis, Stress Testing, Risk Metric reporting, and PnL Explained reporting.
+
+
+
+Credit Risk Analytics:
+Assess credit risk on pre- and post-deal bases, covering Potential Future Exposure (PFE), portfolio analytics, Expected Credit Loss (ECL), Credit Value Adjustment (CVA), credit reserves, and cost of credit analysis.
+
+
+
+Collaboration & Support:
+Work closely with Commercial, Credit, Market Risk, and Valuation teams, supporting production reporting and leading transformation projects.
+
+
+
+Solution Design:
+Link technical solutions with business requirements, capturing business challenges and creating functional/non-functional requirements (e.g., security, usability, and supportability).
+
+
+
+
+
+Qualifications
+
+
+Proven expertise in data analysis, business modeling, and process improvement.
+Strong knowledge of market and credit risk analytics.
+Familiarity with Energy Trading and Risk Management Systems (ETRMs).
+Ability to create clear documentation and communicate effectively with cross-functional teams.
+Excellent problem-solving skills with the ability to assess risks and business impacts.
+Experience collaborating with commercial, risk, and technical teams to deliver robust solutions.
+Proficient in translating business needs into functional technical solutions.
+
+Work mode: hybrid - minimum 3 days from the office.
+
+
+
+
+
+Additional Information
+
+
+
+We offer
+
+
+
+Competitive salary package
+Flexible working hours
+Opportunity to work from home
+Training and mentoring programs
+Ability to advance your technology skills
+Variety of projects with the cutting edge technologies at the core
+Private medical care and life insurance
+
+Diversity and Inclusion Statement
+
+
+
+We aim to recruit, develop and retain the most talented people we can find, from a range of backgrounds and cultures. Inclusivity and equality are cornerstones of our Mobica community and a big part of what makes us so brilliant to work with. Here, dedication and performance are valued and rewarded regardless of nationality, gender, age, religious beliefs or other personal characteristics. Here, diversity is celebrated and everyone belongs.
+
+
+
+“The benefits of having a diverse workforce from different backgrounds, recruited and developed only on the basis of ability, is a core personal belief for me - so I join with other members of Mobica’s leadership in promoting a commitment to recognise equal opportunities and rights for our talented individuals. Every Mobican can expect to be treated with dignity and respect regardless of personal characteristics or beliefs.”
+
+
+
+Gary Butters
+CEO
+
+
+
+Mobica | Be Extraordinary_
+
+
+
+Join the visionaries - Be Extraordinary
+
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Mobica | Be Extraordinary_  <br><br></p><p>Mobica helps businesses build pioneering experiences for their customers. Headquartered in Manchester UK with offices across Europe and US, we partner with businesses across multiple industries - from aerospace to finance and semiconductors to automotive - providing them with access to incredible talent and engineering expertise across the entire technology stack<br><br></p><p><strong>Mobica Way<br><br></strong></p><ul><li><strong>Well-known Clients and Projects focused on the Technologies of Tomorrow</strong> - our work is already all around you. Almost all of our long term customers are instantly recognisable global brands developing some of the most interesting products and services you are using today and will use in the future. Our expertly crafted software underpins many of today’s amazing customer experiences. When you join us, you'll be both challenged and supported, and you'll be a part of something extraordinary. </li><li><strong>Empowered Mobicans driving their own careers</strong> – we empower our people to develop their skills and move forward in their careers. Our people are treated like partners, are encouraged to share knowledge and push the boundaries. We are there to help you with the opportunities to advance, learn and grow. </li><li><strong>Ideas are prioritised over Hierarchy and Biases </strong>- in Mobica you are listened to and valued. We are building open communication and a safe environment. We've made it our mission to create a working environment where all team members feel welcome, protected from discrimination and have access to equal opportunities. </li></ul><ul><li><strong>We believe that employees should be happy</strong> – Mobica is a place where talented minds are recognised, nurtured and valued. We are early adopters of the hybrid working practices, you define the way where you work more productive - at home or in the office - we will create the environment for that. In addition to the competitive salary you are getting access to a range of virtual, offline and on-site events and platforms where you can learn, brainstorm, challenge, express yourself or simply have some fun and get new friends.  Fruit and snacks are in the office to make your mood good. <br><br></li></ul><strong>Job Description<br><br></strong><p>We are seeking a highly skilled <strong>Data Analyst</strong> to join our team and help shape the integration of new businesses and enhanced activities into global operations. This role combines business acumen with technical expertise to deliver innovative data solutions and drive operational excellence.<br><br></p><p><strong>Key Responsibilities:<br><br></strong></p><ul><li><p><strong>Business Integration &amp; Process Design:</strong><br>Combine business understanding with logical data modeling and process design to integrate new Trading &amp; Supply (T&amp;S) businesses into global operations.<br><br></p></li><li><p><strong>System Understanding:</strong><br>Gain in-depth knowledge of key Align Energy Trading and Risk Management Systems (ETRMs), focusing on system interactions with Risk tools in the regional context.<br><br></p></li><li><p><strong>Market Risk Analytics:</strong><br>Analyze pre- and post-deal market risk metrics, including Value at Risk (VaR), Scenario Analysis, Stress Testing, Risk Metric reporting, and PnL Explained reporting.<br><br></p></li><li><p><strong>Credit Risk Analytics:</strong><br>Assess credit risk on pre- and post-deal bases, covering Potential Future Exposure (PFE), portfolio analytics, Expected Credit Loss (ECL), Credit Value Adjustment (CVA), credit reserves, and cost of credit analysis.<br><br></p></li><li><p><strong>Collaboration &amp; Support:</strong><br>Work closely with Commercial, Credit, Market Risk, and Valuation teams, supporting production reporting and leading transformation projects.<br><br></p></li><li><p><strong>Solution Design:</strong><br>Link technical solutions with business requirements, capturing business challenges and creating functional/non-functional requirements (e.g., security, usability, and supportability).<br><br><br><br></p></li></ul><strong>Qualifications<br><br></strong><ul><li>Proven expertise in data analysis, business modeling, and process improvement. </li><li>Strong knowledge of market and credit risk analytics. </li><li>Familiarity with Energy Trading and Risk Management Systems (ETRMs). </li><li>Ability to create clear documentation and communicate effectively with cross-functional teams. </li><li>Excellent problem-solving skills with the ability to assess risks and business impacts. </li><li>Experience collaborating with commercial, risk, and technical teams to deliver robust solutions. </li><li>Proficient in translating business needs into functional technical solutions. </li></ul><p>Work mode: hybrid - minimum 3 days from the office.<br><br><br><br></p><strong>Additional Information<br><br></strong><p><strong>We offer<br><br></strong></p><ul><li>Competitive salary package</li><li>Flexible working hours</li><li>Opportunity to work from home</li><li>Training and mentoring programs</li><li>Ability to advance your technology skills</li><li>Variety of projects with the cutting edge technologies at the core</li><li>Private medical care and life insurance</li></ul><p><strong>Diversity and Inclusion Statement<br><br></strong></p><p>We aim to recruit, develop and retain the most talented people we can find, from a range of backgrounds and cultures. Inclusivity and equality are cornerstones of our Mobica community and a big part of what makes us so brilliant to work with. Here, dedication and performance are valued and rewarded regardless of nationality, gender, age, religious beliefs or other personal characteristics. Here, diversity is celebrated and everyone belongs.<br><br></p><p>“The benefits of having a diverse workforce from different backgrounds, recruited and developed only on the basis of ability, is a core personal belief for me - so I join with other members of Mobica’s leadership in promoting a commitment to recognise equal opportunities and rights for our talented individuals. Every Mobican can expect to be treated with dignity and respect regardless of personal characteristics or beliefs.”<br><br></p><p>Gary Butters<br>CEO<br><br></p><p><strong>Mobica | Be Extraordinary_<br><br></strong></p><p>Join the visionaries - Be Extraordinary<br><br></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-22,[]
+4079077993,https://uk.linkedin.com/jobs/view/analista-de-datos-at-axpe-consulting-4079077993?position=8&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=Wia%2Fs0w8gsCxtdLikxZsCA%3D%3D,Analista de datos,Axpe Consulting,"London Area, United Kingdom","We are seeking a skilled Data Analyst to join as a temporary employee for a 4-month period, with the possibility of extension. The Data Analyst will be responsible for reviewing, analyzing, and structuring a large and complex database. This role involves applying data analysis techniques to identify trends, patterns, and anomalies, ensuring that data is accurately categorized, organized, and accessible. Experience with Microsoft SharePoint is highly desirable.
+
+
+
+
+Key Responsibilities
+
+Data Analysis: Analyze large datasets to extract meaningful insights, trends, and discrepancies.
+Database Organization: Assess and improve the database structure, ensuring data is properly categorized, tagged, and accessible.
+Data Quality Control: Conduct integrity checks to ensure data accuracy, consistency, and completeness.
+Reporting & Visualization: Provide regular reports and data visualizations to present complex information clearly for non-technical stakeholders.
+Collaboration & SharePoint Management: Collaborate with team members and use SharePoint to facilitate data sharing and organization, maintaining data integrity.
+
+
+
+
+Qualifications
+
+Education: Bachelor’s degree in Data Science, Statistics, Information Systems, International Relations, Law, or a related field.
+Experience:
+Minimum of 3 years in data analysis, ideally in a legal, investigative, or similar context.
+Experience with large datasets, data structuring, and analysis.
+Proficiency with Microsoft SharePoint or similar collaboration tools.
+Technical Skills: Proficiency in data analysis tools (Excel, SQL, Python, R) and data visualization tools (e.g., Power BI, Tableau).
+Soft Skills: Strong analytical skills, attention to detail, and excellent written and verbal communication abilities.
+
+
+
+
+Deliverables
+
+Weekly Oral Reports: Updates on data analysis progress and any challenges encountered.
+Data Quality Report: Delivered after the first month, summarizing data inconsistencies or issues.
+Database Improvement Recommendations: Suggestions for enhanced database organization and accessibility.
+Data Insights Report: Summarizes analysis findings and recommendations.
+Final Report: A comprehensive summary of findings, insights, and data integrity checks conducted throughout the consultancy.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>We are seeking a skilled <strong>Data Analyst</strong> to join as a <strong>temporary employee</strong> for a 4-month period, with the possibility of extension. The Data Analyst will be responsible for <strong>reviewing, analyzing, and structuring</strong> a large and complex database. This role involves applying data analysis techniques to identify trends, patterns, and anomalies, ensuring that data is accurately categorized, organized, and accessible. <strong>Experience with Microsoft SharePoint</strong> is highly desirable.</p><p><br></p><p><strong>Key Responsibilities</strong></p><ul><li><strong>Data Analysis</strong>: Analyze large datasets to extract meaningful insights, trends, and discrepancies.</li><li><strong>Database Organization</strong>: Assess and improve the database structure, ensuring data is properly categorized, tagged, and accessible.</li><li><strong>Data Quality Control</strong>: Conduct integrity checks to ensure data accuracy, consistency, and completeness.</li><li><strong>Reporting &amp; Visualization</strong>: Provide regular reports and data visualizations to present complex information clearly for non-technical stakeholders.</li><li><strong>Collaboration &amp; SharePoint Management</strong>: Collaborate with team members and use SharePoint to facilitate data sharing and organization, maintaining data integrity.</li></ul><p><br></p><p><strong>Qualifications</strong></p><ul><li><strong>Education</strong>: Bachelor’s degree in Data Science, Statistics, Information Systems, International Relations, Law, or a related field.</li><li><strong>Experience</strong>:</li><li>Minimum of 3 years in data analysis, ideally in a legal, investigative, or similar context.</li><li>Experience with large datasets, data structuring, and analysis.</li><li>Proficiency with <strong>Microsoft SharePoint</strong> or similar collaboration tools.</li><li><strong>Technical Skills</strong>: Proficiency in data analysis tools (Excel, SQL, Python, R) and data visualization tools (e.g., Power BI, Tableau).</li><li><strong>Soft Skills</strong>: Strong analytical skills, attention to detail, and excellent written and verbal communication abilities.</li></ul><p><br></p><p><strong>Deliverables</strong></p><ul><li><strong>Weekly Oral Reports</strong>: Updates on data analysis progress and any challenges encountered.</li><li><strong>Data Quality Report</strong>: Delivered after the first month, summarizing data inconsistencies or issues.</li><li><strong>Database Improvement Recommendations</strong>: Suggestions for enhanced database organization and accessibility.</li><li><strong>Data Insights Report</strong>: Summarizes analysis findings and recommendations.</li><li><strong>Final Report</strong>: A comprehensive summary of findings, insights, and data integrity checks conducted throughout the consultancy.</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-18,[]
+4041968785,https://uk.linkedin.com/jobs/view/data-analyst-at-teksystems-4041968785?position=14&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=wkfhMRkk1GrldAXIOiLB2w%3D%3D,Data Analyst,TEKsystems,"Bracknell, England, United Kingdom","Overview
+
+TEKsystems Global Services is a growing Professional Services company. We provide bespoke IT solutions across a spectrum of services to a range of market leading global clients. Our business strategy focuses on continually developing our service offering and providing the commercial support needed for this growth, this role is focused on our EMEA region. This specific role sits within our Commercial and Financial Operations department and has the opportunity to progress becoming a Commercial Business Partner role or Project Analyst role.
+
+
+
+
+This is a unique opportunity with a mixture of Commercial and Finance, focusing on data, analytics and process improvements whilst playing a crucial role in driving business results. As part of this team, you’ll utilize our financial, sales and operations technology/systems to cleanse, review, analyze and ultimately transform data into insight. This role offers the opportunity to obtain an in-depth view of performance and business processes whilst providing recommendations for improvements with a “Right First Time” mindset.
+
+
+
+
+This role would suit an individual seeking to be in an analytical role and is passionate about automating manual processes, in what is a fast-paced and dynamic services business. We are a people-focused organisation that takes pride in the inclusive and innovative culture that we have created.We recognise the importance of our people and invest in the training and development to offer continuous opportunity to those who earn the right.
+
+
+
+
+Core Skills, Role and Responsibilities
+
+Developing an in-depth understanding of our business operates, internal systems and data sources to provide data insight
+Develop an understanding of IFRS (International Financial Reporting Standards) to aid in the manipulation and presenting of financial data
+Develop strong partnerships with Sales, Commercial, Operations and Finance to improve current and future business decisions
+Gather, monitor, audit and analyse sales, finance and operations data to provide insight and drive business improvements and track KPI’s
+Monitor and audit data quality, building in automated checks where necessary
+Analysing trends and variances in data to drive data accuracy
+Increase productivity by implementing and maintaining automated data processes.
+Supporting in management reporting on financial budgeting, month end revenue and profitability analysis on the EMEA Region
+Management reporting on sales performance and reward tracking
+Supporting strategic priorities and transformational projects sponsored by the Senior Leadership team
+Driving excellence through process improvements
+Development of business cases for strategic decision making
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Knowledge and skills:
+
+BSc/BA degree or similar further education (ideally in a Business or Finance related subject)
+1-3 years post graduate experience in business finance or similar
+Superior communication skills, written and oral, and ability to build relationships quickly
+Strong analytical and problem-solving skills
+Excellent attention to detail – “Right First Time”
+Excellent Time Management, organisation skills and adaptable to change
+Experience providing high standards of service to stakeholders
+Advanced experience with Microsoft Office tools – Excel, Word, Outlook, PowerPoint, Access
+Experience and/ or knowledge of SQL and Tableau/Power BI (Desired)
+Experience of gathering requirements and delivering insights/reporting as agreed (Desired)
+Comprehensible understanding of financial, sales and operational metrics (Desired)
+Good basic financial acumen (P&L, cashflow, balance sheet) and understanding of financial modelling, contract pricing and differing pricing models. (Desired)
+
+
+
+
+Behaviours
+
+Ability to scrutinise potential challenges and provide options to deliver the desired result - Solutions-orientated approach
+Building relationships and communicating with a wide range of business stakeholders
+Takes initiative and responsibility to address what is required to achieve goals
+High level of self-motivation and drive for self-improvement (including new skills and tools) with commitment to high quality delivery
+Persistent in the face of significant challenges, with a readiness to tackle difficult tasks and devise innovative solutions.
+Comfortable in assessment of risks in an ambiguous environment
+Organised and able to manage time effectively
+Flexible and able to execute multiple initiatives concurrently with the ability to re-prioritize as needed
+Open to challenging current ways of working
+Fair, open and honest demeanour
+Managing upwards
+Conflict resolution between stakeholders
+Public speaking or presenting experience
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Overview</p><p>TEKsystems Global Services is a growing Professional Services company. We provide bespoke IT solutions across a spectrum of services to a range of market leading global clients. Our business strategy focuses on continually developing our service offering and providing the commercial support needed for this growth, this role is focused on our EMEA region. This specific role sits within our Commercial and Financial Operations department and has the opportunity to progress becoming a Commercial Business Partner role or Project Analyst role.</p><p><br></p><p>This is a unique opportunity with a mixture of Commercial and Finance, focusing on data, analytics and process improvements whilst playing a crucial role in driving business results. As part of this team, you’ll utilize our financial, sales and operations technology/systems to cleanse, review, analyze and ultimately transform data into insight. This role offers the opportunity to obtain an in-depth view of performance and business processes whilst providing recommendations for improvements with a “Right First Time” mindset. </p><p><br></p><p>This role would suit an individual seeking to be in an analytical role and is passionate about automating manual processes, in what is a fast-paced and dynamic services business. We are a people-focused organisation that takes pride in the inclusive and innovative culture that we have created.We recognise the importance of our people and invest in the training and development to offer continuous opportunity to those who earn the right.</p><p><br></p><p>Core Skills, Role and Responsibilities</p><p><u> </u></p><ul><li>Developing an in-depth understanding of our business operates, internal systems and data sources to provide data insight</li><li>Develop an understanding of IFRS (International Financial Reporting Standards) to aid in the manipulation and presenting of financial data</li><li>Develop strong partnerships with Sales, Commercial, Operations and Finance to improve current and future business decisions </li><li>Gather, monitor, audit and analyse sales, finance and operations data to provide insight and drive business improvements and track KPI’s</li><li>Monitor and audit data quality, building in automated checks where necessary</li><li>Analysing trends and variances in data to drive data accuracy</li><li>Increase productivity by implementing and maintaining automated data processes. </li><li>Supporting in management reporting on financial budgeting, month end revenue and profitability analysis on the EMEA Region </li><li>Management reporting on sales performance and reward tracking</li><li>Supporting strategic priorities and transformational projects sponsored by the Senior Leadership team</li><li>Driving excellence through process improvements</li><li>Development of business cases for strategic decision making</li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Knowledge and skills:</strong></p><ul><li>BSc/BA degree or similar further education (ideally in a Business or Finance related subject)</li><li>1-3 years post graduate experience in business finance or similar</li><li>Superior communication skills, written and oral, and ability to build relationships quickly</li><li>Strong analytical and problem-solving skills</li><li>Excellent attention to detail – “Right First Time”</li><li>Excellent Time Management, organisation skills and adaptable to change</li><li>Experience providing high standards of service to stakeholders</li><li>Advanced experience with Microsoft Office tools – Excel, Word, Outlook, PowerPoint, Access</li><li>Experience and/ or knowledge of SQL and Tableau/Power BI (Desired)</li><li>Experience of gathering requirements and delivering insights/reporting as agreed (Desired) </li><li>Comprehensible understanding of financial, sales and operational metrics (Desired)</li><li>Good basic financial acumen (P&amp;L, cashflow, balance sheet) and understanding of financial modelling, contract pricing and differing pricing models. (Desired)</li></ul><p><br></p><p>Behaviours </p><ul><li>Ability to scrutinise potential challenges and provide options to deliver the desired result - Solutions-orientated approach</li><li>Building relationships and communicating with a wide range of business stakeholders</li><li>Takes initiative and responsibility to address what is required to achieve goals</li><li>High level of self-motivation and drive for self-improvement (including new skills and tools) with commitment to high quality delivery</li><li>Persistent in the face of significant challenges, with a readiness to tackle difficult tasks and devise innovative solutions.</li><li>Comfortable in assessment of risks in an ambiguous environment </li><li>Organised and able to manage time effectively</li><li>Flexible and able to execute multiple initiatives concurrently with the ability to re-prioritize as needed</li><li>Open to challenging current ways of working </li><li>Fair, open and honest demeanour</li><li>Managing upwards</li><li>Conflict resolution between stakeholders </li><li>Public speaking or presenting experience</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-22,[]
+4074535951,https://uk.linkedin.com/jobs/view/data-analyst-at-brewer-morris-4074535951?position=17&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=pCzQRT%2BkKanq1ndQaPYYqA%3D%3D,Data Analyst,Brewer Morris,"London Area, United Kingdom","Data Analyst
+
+London Hybrid
+
+£80,000 per annum
+
+
+
+
+We have partnered with a global media business who are looking to appoint a passionate data analyst who sit within the FP&A team. This individual will be comfortable with dealing with large sets of data as well as partnering with global teams to ensure the information is received on time and collated from various data sources. If you have proven experience partnering with various business heads, including finance, and are comfortable compiling and cleaning large data sets, building analytical models, comfortable with validation tools and building comprehensive dashboards, then this is the perfect opportunity for you!
+
+
+
+
+Responsibilities:
+
+Collect and compile information from various internal databases and systems across the regions
+Create and maintain financial models to support the forecasting and budgeting process including the validation process
+Provide insight on variance analysis and trend identification
+Partner with various regions to get information required from various data sources
+Collate and consolidate data to ensure accurate financial analysis
+Create useful dashboards to ensure clear visibility for FP&A purposes
+Database management and monitoring
+Support to senior leadership with board decks and leadership updates
+Actively contribute to operational improvement projects linked to process analysis, solution design, implementation plans, training and communication.
+
+
+
+
+Qualifications and experience:
+
+Relevant qualification
+3-5 years’ experience in finance and/or accounting
+Proven experience dealing with large datasets in complex environments
+Strong proficiency in financial modelling and data analysis
+Strong knowledge of accounting principles, financial metric as well as forecasting and budgeting processes
+Systems experience – Netsuite, Snowflake, Workday, Salesforce and G-Suite
+Visual analytics tools - Tableau
+Advanced excel
+Experience organising and analysing large data sets from multiple sources.
+
+
+
+
+The client operates a hybrid working model with 2 days in the office and 3 days from home.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Data Analyst </strong></p><p><strong>London Hybrid</strong></p><p><strong>£80,000 per annum</strong></p><p><br></p><p>We have partnered with a global media business who are looking to appoint a passionate data analyst who sit within the FP&amp;A team. This individual will be comfortable with dealing with large sets of data as well as partnering with global teams to ensure the information is received on time and collated from various data sources. If you have proven experience partnering with various business heads, including finance, and are comfortable compiling and cleaning large data sets, building analytical models, comfortable with validation tools and building comprehensive dashboards, then this is the perfect opportunity for you!</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Collect and compile information from various internal databases and systems across the regions</li><li>Create and maintain financial models to support the forecasting and budgeting process including the validation process</li><li>Provide insight on variance analysis and trend identification</li><li>Partner with various regions to get information required from various data sources</li><li>Collate and consolidate data to ensure accurate financial analysis</li><li>Create useful dashboards to ensure clear visibility for FP&amp;A purposes</li><li>Database management and monitoring</li><li>Support to senior leadership with board decks and leadership updates</li><li>Actively contribute to operational improvement projects linked to process analysis, solution design, implementation plans, training and communication.</li></ul><p><br></p><p><strong>Qualifications and experience:</strong></p><ul><li>Relevant qualification</li><li>3-5 years’ experience in finance and/or accounting </li><li>Proven experience dealing with large datasets in complex environments</li><li>Strong proficiency in financial modelling and data analysis</li><li>Strong knowledge of accounting principles, financial metric as well as forecasting and budgeting processes</li><li>Systems experience – Netsuite, Snowflake, Workday, Salesforce and G-Suite</li><li>Visual analytics tools - Tableau</li><li>Advanced excel</li><li>Experience organising and analysing large data sets from multiple sources.</li></ul><p><br></p><p>The client operates a hybrid working model with 2 days in the office and 3 days from home.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-14,[]
+4082626868,https://uk.linkedin.com/jobs/view/junior-data-analyst-at-block-labs-4082626868?position=18&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=bMHolird2MtEETAk35auRA%3D%3D,Junior Data Analyst,Block Labs,"London, England, United Kingdom","🏷️Title: Junior Data Analyst
+
+👫Department: RevOPs
+
+📍Location: UK or Europe, Remote
+
+About Block Labs
+
+Block Labs is a leading force in the Web3 space, incubating, investing in, and accelerating top-tier fintech, crypto and iGaming projects. With a mission to shape the future of decentralized technology, we partner with visionary startups to raise funding, refine product-market fit, and grow their audiences. Our diverse team drives innovation, using deep industry expertise and an extensive network to empower the next wave of blockchain-driven companies. At Block Labs, we’re passionate about turning bold ideas into breakthrough success.
+
+We’re looking for a Junior Data Analyst to join our growing team!
+
+About The Role
+
+We are looking for a detail-oriented Junior Data Analyst to support our team by creating impactful reports, automating data workflows, and providing key insights to drive decision-making. This role is ideal for someone passionate about data and eager to grow their analytical skills.
+
+Key Responsibilities
+
+
+Build and deliver daily reports for stakeholders.
+Proactively search for automation in reporting processes to improve efficiency and accuracy.
+Calculating, and validating product metrics to measure the success of new features
+Present findings and insights to support strategic decisions.
+Manage and optimise data collection processes.
+
+
+About You
+
+
+Strong communication and presentation skills with a data-driven mindset.
+Experience with stakeholder management and reporting
+Proficient in SQL for basic data queries.
+Familiarity with crypto metrics and data analysis tools like Excel or Tableau.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong><strong>🏷️Title</strong></strong>: Junior Data Analyst<br><br><strong><strong>👫Department</strong></strong>: RevOPs<br><br><strong><strong>📍Location</strong></strong>: UK or Europe, Remote<br><br><strong>About Block Labs<br><br></strong>Block Labs is a leading force in the Web3 space, incubating, investing in, and accelerating top-tier fintech, crypto and iGaming projects. With a mission to shape the future of decentralized technology, we partner with visionary startups to raise funding, refine product-market fit, and grow their audiences. Our diverse team drives innovation, using deep industry expertise and an extensive network to empower the next wave of blockchain-driven companies. At Block Labs, we’re passionate about turning bold ideas into breakthrough success.<br><br>We’re looking for a <strong><strong>Junior Data Analyst</strong></strong> to join our growing team!<br><br><strong>About The Role<br><br></strong>We are looking for a detail-oriented Junior Data Analyst to support our team by creating impactful reports, automating data workflows, and providing key insights to drive decision-making. This role is ideal for someone passionate about data and eager to grow their analytical skills.<br><br><strong>Key Responsibilities<br><br></strong><ul><li>Build and deliver daily reports for stakeholders.</li><li>Proactively search for automation in reporting processes to improve efficiency and accuracy.</li><li>Calculating, and validating product metrics to measure the success of new features</li><li>Present findings and insights to support strategic decisions.</li><li>Manage and optimise data collection processes.<br><br></li></ul><strong>About You<br><br></strong><ul><li>Strong communication and presentation skills with a data-driven mindset.</li><li>Experience with stakeholder management and reporting</li><li>Proficient in SQL for basic data queries.</li><li>Familiarity with crypto metrics and data analysis tools like Excel or Tableau.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-25,[]
+4084142239,https://uk.linkedin.com/jobs/view/junior-data-visualisation-analyst-at-mccabe-barton-4084142239?position=34&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=MPPn8ZVijeqXT0E3F%2FybjQ%3D%3D,Junior Data Visualisation Analyst,McCabe & Barton,"London Area, United Kingdom","We are partnered with a leading Investment House in recruiting for a Junior Data Visualisation Analyst to support the Data Intelligence & Analytics teams on a 6-month contract assignment to build visualisations, charts and interactive dashboards for the wider business through the Qlik platform. This is a hybrid role based in the city of London.
+
+
+
+
+Essential Skills:
+
+
+
+
+Strong organisational and motivational skills, with excellent attention to detail.
+University graduate in an analytical related subject with a minimum of a 2:1 pass.
+Minimum of 2 years' experience working in an analytics function, or on change-based project work.
+Experience of working on Qlik platform, or a similar BI tool with ability to present data with end user in mind.
+Passion for technology/automation.
+Experience of interrogating large datasets and spotting trends in analysis.
+Previous consulting or Financial Services experience
+
+Desirable skills:
+
+Prior experience working on SQL databases.
+Knowledge of programming language (ie Python).
+Very strong excel skills (including ability to write macros, or other coding experience)
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>We are partnered with a leading Investment House in recruiting for a Junior Data Visualisation Analyst to support the Data Intelligence &amp; Analytics teams on a 6-month contract assignment to build visualisations, charts and interactive dashboards for the wider business through the Qlik platform. This is a hybrid role based in the city of London.</p><p><br></p><p>Essential Skills:</p><p><br></p><ul><li>Strong organisational and motivational skills, with excellent attention to detail.</li><li>University graduate in an analytical related subject with a minimum of a 2:1 pass.</li><li>Minimum of 2 years' experience working in an analytics function, or on change-based project work.</li><li>Experience of working on Qlik platform, or a similar BI tool with ability to present data with end user in mind.</li><li>Passion for technology/automation.</li><li>Experience of interrogating large datasets and spotting trends in analysis.</li><li>Previous consulting or Financial Services experience</li></ul><p>Desirable skills:</p><ul><li>Prior experience working on SQL databases.</li><li>Knowledge of programming language (ie Python).</li><li>Very strong excel skills (including ability to write macros, or other coding experience)</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-27,[]
+4078823953,https://uk.linkedin.com/jobs/view/data-analyst-at-understanding-recruitment-4078823953?position=39&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=6wvJ%2BLOZxythMR79%2FrfRYA%3D%3D,Data Analyst,Understanding Recruitment,"London Area, United Kingdom","Operational Data Analyst - GreenTech Start Up - London
+
+
+
+
+A cutting-edge energy technology start up who are revolutionising grid infrastructure are on the lookout for a Data Analyst to join their fast growing team.
+
+
+
+
+What will you be doing:
+
+
+
+
+Analyse and process electricity market data
+Manage market bidding and settlement processes
+Develop data automation workflows
+Support user and client remuneration tracking
+Provide analytical insights for operational decision-making
+
+
+
+
+What we're looking for:
+
+
+
+
+Advanced SQL skills
+Proficient Python programming
+Data analysis and visualisation capabilities
+Strong mathematical and statistical background
+Experience with energy sector data preferred but not essential
+
+
+
+
+What's in it for you:
+
+
+
+
+Salary of up to £70,000 dependent on experience
+Collaborate working opportunities (2-3 days a week in the office)
+Opportunity to work with world class engineering and commercial team
+
+
+
+
+Please apply now for immediate consideration!
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Operational Data Analyst - GreenTech Start Up - London</strong></p><p><br></p><p>A cutting-edge energy technology start up who are revolutionising grid infrastructure are on the lookout for a Data Analyst to join their fast growing team. </p><p><br></p><p>What will you be doing:</p><p><br></p><ul><li>Analyse and process electricity market data</li><li>Manage market bidding and settlement processes</li><li>Develop data automation workflows</li><li>Support user and client remuneration tracking</li><li>Provide analytical insights for operational decision-making</li></ul><p><br></p><p><strong>What we're looking for:</strong></p><p><br></p><ul><li>Advanced SQL skills</li><li>Proficient Python programming</li><li>Data analysis and visualisation capabilities</li><li>Strong mathematical and statistical background</li><li>Experience with energy sector data preferred but not essential </li></ul><p><br></p><p><strong>What's in it for you:</strong></p><p><br></p><ul><li>Salary of up to £70,000 dependent on experience </li><li>Collaborate working opportunities (2-3 days a week in the office) </li><li>Opportunity to work with world class engineering and commercial team</li></ul><p><br></p><p>Please apply now for immediate consideration!</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-20,[]
+4083333887,https://uk.linkedin.com/jobs/view/data-analyst-commercial-at-carwow-4083333887?position=41&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=mJQyzrdmHC%2FjMIe5Bl5Z2Q%3D%3D,Data Analyst - Commercial,Carwow,"London, England, United Kingdom","THE CARWOW GROUP
+
+Carwow Group is driven by a passion for getting people into cars. But not just any car, the right car. That's why we are building the go-to destination for car-changing. Designed to reach drivers everywhere with our trail-blazing portfolio of personality rich automotive brands; Carwow, Auto Express, evo, Driving Electric and Car Buyer.
+
+What started as a simple reviews site, is now one of the largest online car-changing destinations in Europe - over 10m customers have used Carwow to help them buy and sell cars since its inception. Last year we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.
+
+In 2024 we went big and acquired Autovia, doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with over 1.1 billion annual views, sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.
+
+WHY JOIN US?
+
+We are winners of the prestigious Culture 100 award that recognises the most loved and happiest tech companies to work for! We have just raised $52m in funding led by global venture capital firm Bessemer Venture Partners (an early backer of LinkedIn and Shopify) to accelerate our growth plans!
+
+As pioneers, we're always driving for new territory and positive change, so our work as a group is never done. Where others see difficulty, it's our responsibility to see possibility - building new experiences, launching new titles and listening to drivers.
+
+Being a part of Carwow Group means championing drivers and the automotive industry, acting as a disrupter and never being afraid to fail (but learning fast when we do!).
+
+Our team of 500 employees across the UK, Germany, Spain and Portugal are revolutionising car-changing and we are fast expanding our mission across every single brand and country we operate in, so jump in!
+
+THE ROLE
+
+Want to make your mark within a fast-moving industry? We are seeking a highly motivated and detail oriented Data Analyst to join our Marketplace Analytics team here at Carwow. You will play a key role in improving our proposition for users on both sides of our marketplace, through analysing and interpreting data to provide actionable insights, and developing crucial business reporting to contribute to our data driven decision making. You will utilise your commercial awareness and analytical expertise to discover the insights that change the status quo and accelerate the growth of the company exponentially.
+
+The role sits within the Analytics & Data Science team to benefit from the wider expertise but is closely aligned with Commercial stakeholders to enable us to deliver the most impactful analysis by fully understanding business questions and problems that we need to solve.
+
+What You'll Do
+
+
+Collaborate with commercial leaders and account managers to understand their specific business problems
+Combine data from multiple sources to generate actionable insights that highlight new opportunities and drive revenue
+Work closely with our commercial teams to generate and maintain dynamic dashboards and reports that visualise key performance indicators, enabling self-serve and informed stakeholder decisions
+Regularly conduct validation and quality checks on our data sets to ensure accuracy and reliability while recommending opportunities to improve how we assess commercial performance
+Develop an understanding of how our commercial teams work, and ensure this is considered by the wider Analytics team
+Create regular ad hoc reporting and analysis, with the ability to present findings to both technical and non technical audiences
+Support the wider analytics and data science community here at carwow, with knowledge shares and peer programming
+
+
+What You'll Need
+
+Please note{​{:}} We know that no candidate will be the perfect match for all we've listed in this posting, so we'd encourage you to apply if you feel you're close to the brief but not an exact match
+
+
+.Proactivity and curiosity are vital qualities in our analytics team to enable you to take responsibility for operations for the tea
+mStrong technical skills in SQL and a desire to learn pytho
+nAbility to work in fast paced multi discipline teams to deliver high quality analysis that informs business decisions and drives business growt
+hExperience of using web analytics tools a plus (Amplitude, Google Analytics, Adobe Analytics etc
+)You have a deep interest and aptitude in data, metrics analysis, trends and applied knowledge of measurement, statistics and product evaluatio
+nExperience in the automotive industry would be a plus
+
+
+INTERVIEW PROCESS
+
+
+Step 1{​{:}} Hiring Manager Intervi
+ewStep 2{​{:}} SQL T
+estStep 3{​{:}} Technical Task with Presentat
+
+
+ion What's In It For
+
+
+YouHybrid wor
+kingCompetitive salary to fund that dream holiday to
+BaliMatched pension contributions for a peaceful retire
+mentShare options - when we thrive, so do
+you!Vitality Private Healthcare, for peace of mind, plus eyecare vouc
+hersLife Assurance for (even more) peace of
+mindMonthly coaching sessions with Spill - our mental wellbeing par
+tnerEnhanced holiday package, plus Bank Holid
+ays 28 days annual l
+eave1 day for your wed
+ding1 day off when you move house - because moving is hard enough without w
+ork!For your third year anniversary, get 30 days of annual leave per
+yearFor your tenth year anniversary, get 35 days of annual leave per y
+ear Option to buy 3 extra days of holiday per y
+ear Work from abroad for a m
+onthInclusive parental, partner and shared parental leave, fertility treatment and pregnancy loss poli
+ciesBubble childcare support and discounted nanny fees for little
+onesThe latest tech (Macbook or Surface) to power your gif-sending tal
+entsUp to £500/€550 home office allowance for that massage chair you've been talking a
+boutGenerous learning and development budget to help you master your c
+raftRegular social events{​{:}} tech lunches, coffee with the exec sessions, lunch 8 learns, book clubs, social events/anything else you pester u
+s forRefer a friend, get paid. Repeat for infinite
+
+
+moneyDiversity and inclusion is an integral part of our culture. We know that diverse teams are strong teams, so we welcome those with alternative identities, backgrounds, and experiences to apply for this position. We make recruiting decisions based on experience, skills and potential, so all our applicants are treated fairly and equally.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>THE CARWOW GROUP<br><br></strong>Carwow Group is driven by a passion for getting people into cars. But not just any car, the right car. That's why we are building the go-to destination for car-changing. Designed to reach drivers everywhere with our trail-blazing portfolio of personality rich automotive brands; Carwow, Auto Express, evo, Driving Electric and Car Buyer.<br><br>What started as a simple reviews site, is now one of the largest online car-changing destinations in Europe - over 10m customers have used Carwow to help them buy and sell cars since its inception. Last year we grew over 50% with nearly £3bn worth of cars bought on site, while £1.8bn of cars were listed for sale through our Sell My Car service.<br><br>In 2024 we went big and acquired Autovia, doubling our audience overnight. Together we now have one of the biggest YouTube channels in the world with over 1.1 billion annual views, sell 1.2 million print copies of our magazines and have an annual web content reach over 350million.<br><br><strong>WHY JOIN US?<br><br></strong>We are winners of the prestigious Culture 100 award that recognises the most loved and happiest tech companies to work for! We have just raised $52m in funding led by global venture capital firm Bessemer Venture Partners (an early backer of LinkedIn and Shopify) to accelerate our growth plans!<br><br>As pioneers, we're always driving for new territory and positive change, so our work as a group is never done. Where others see difficulty, it's our responsibility to see possibility - building new experiences, launching new titles and listening to drivers.<br><br>Being a part of Carwow Group means championing drivers and the automotive industry, acting as a disrupter and never being afraid to fail (but learning fast when we do!).<br><br>Our team of 500 employees across the UK, Germany, Spain and Portugal are revolutionising car-changing and we are fast expanding our mission across every single brand and country we operate in, so jump in!<br><br><strong>THE ROLE<br><br></strong>Want to make your mark within a fast-moving industry? We are seeking a highly motivated and detail oriented Data Analyst to join our Marketplace Analytics team here at Carwow. You will play a key role in improving our proposition for users on both sides of our marketplace, through analysing and interpreting data to provide actionable insights, and developing crucial business reporting to contribute to our data driven decision making. You will utilise your commercial awareness and analytical expertise to discover the insights that change the status quo and accelerate the growth of the company exponentially.<br><br>The role sits within the Analytics &amp; Data Science team to benefit from the wider expertise but is closely aligned with Commercial stakeholders to enable us to deliver the most impactful analysis by fully understanding business questions and problems that we need to solve.<br><br><strong>What You'll Do<br><br></strong><ul><li>Collaborate with commercial leaders and account managers to understand their specific business problems</li><li>Combine data from multiple sources to generate actionable insights that highlight new opportunities and drive revenue</li><li>Work closely with our commercial teams to generate and maintain dynamic dashboards and reports that visualise key performance indicators, enabling self-serve and informed stakeholder decisions</li><li>Regularly conduct validation and quality checks on our data sets to ensure accuracy and reliability while recommending opportunities to improve how we assess commercial performance</li><li>Develop an understanding of how our commercial teams work, and ensure this is considered by the wider Analytics team</li><li>Create regular ad hoc reporting and analysis, with the ability to present findings to both technical and non technical audiences</li><li>Support the wider analytics and data science community here at carwow, with knowledge shares and peer programming<br><br></li></ul><strong>What You'll Need<br><br></strong>Please note{​{:}} We know that no candidate will be the perfect match for all we've listed in this posting, so we'd encourage you to apply if you feel you're close to the brief but not an exact match<br><br><ul><li>.Proactivity and curiosity are vital qualities in our analytics team to enable you to take responsibility for operations for the tea</li><li>mStrong technical skills in SQL and a desire to learn pytho</li><li>nAbility to work in fast paced multi discipline teams to deliver high quality analysis that informs business decisions and drives business growt</li><li>hExperience of using web analytics tools a plus (Amplitude, Google Analytics, Adobe Analytics etc</li><li>)You have a deep interest and aptitude in data, metrics analysis, trends and applied knowledge of measurement, statistics and product evaluatio</li><li>nExperience in the automotive industry would be a plus<br><br></li></ul><strong> INTERVIEW PROCESS<br><br></strong><ul><li> Step 1{​{:}} Hiring Manager Intervi</li><li>ewStep 2{​{:}} SQL T</li><li>estStep 3{​{:}} Technical Task with Presentat<br><br></li></ul><strong>ion What's In It For<br><br></strong><ul><li> YouHybrid wor</li><li>kingCompetitive salary to fund that dream holiday to </li><li>BaliMatched pension contributions for a peaceful retire</li><li>mentShare options - when we thrive, so do </li><li>you!Vitality Private Healthcare, for peace of mind, plus eyecare vouc</li><li>hersLife Assurance for (even more) peace of </li><li>mindMonthly coaching sessions with Spill - our mental wellbeing par</li><li>tnerEnhanced holiday package, plus Bank Holid</li><ul><li>ays 28 days annual l</li><li>eave1 day for your wed</li><li>ding1 day off when you move house - because moving is hard enough without w</li><li>ork!For your third year anniversary, get 30 days of annual leave per </li><li>yearFor your tenth year anniversary, get 35 days of annual leave per y</li><li>ear Option to buy 3 extra days of holiday per y</li></ul><li>ear Work from abroad for a m</li><li>onthInclusive parental, partner and shared parental leave, fertility treatment and pregnancy loss poli</li><li>ciesBubble childcare support and discounted nanny fees for little </li><li>onesThe latest tech (Macbook or Surface) to power your gif-sending tal</li><li>entsUp to £500/€550 home office allowance for that massage chair you've been talking a</li><li>boutGenerous learning and development budget to help you master your c</li><li>raftRegular social events{​{:}} tech lunches, coffee with the exec sessions, lunch 8 learns, book clubs, social events/anything else you pester u</li><li>s forRefer a friend, get paid. Repeat for infinite <br><br></li></ul>moneyDiversity and inclusion is an integral part of our culture. We know that diverse teams are strong teams, so we welcome those with alternative identities, backgrounds, and experiences to apply for this position. We make recruiting decisions based on experience, skills and potential, so all our applicants are treated fairly and equally.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-26,[]
+4063706748,https://uk.linkedin.com/jobs/view/tiktok-live-data-analyst-at-tiktok-4063706748?position=42&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=2z1q1gmcTY%2BPCDCcLHlSTQ%3D%3D,TikTok LIVE Data Analyst,TikTok,"London, England, United Kingdom","TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+
+The LIVE Operations team is obsessed with everything to do with TikTok LIVE. Our focus is to continually champion and optimize TikTok LIVE through working with creators to ensure a creative, fun and safe space for all of our users.
+
+The Regional LIVE Operation Strategy Team leads various cross-functional projects. Our key initiatives include developing strategic plans to drive widespread adoption of LIVE at scale among creators, localizing new product features, creating user engagement strategies, ensuring a positive creator experience through education on the Community Guidelines and best practices, and providing ad hoc analysis and support to cross-functional partners.
+
+Responsibilities:
+- Analyzing local and global trends to help improve performance within the EU LIVE team
+- Creating and preparing reports and dashboards to help us better identify areas of focus and trends within our ecosystem
+
+Examples of Problems You'll Be Solving:
+- What are the best content verticals for us to focus our creator recruitment on?
+- Building a prediction model for identifying creators who may be destined for success on our platform
+- Which metrics and leading and lagging indicators should we use for our key OKRs?
+- How should we best segment our creators and users to have a more meaningful impact on their growth?
+- What are the best touchpoints to educate our creators, and when should we activate this education?
+- Using statistical tools to simplify complex data sets, helping us better diagnose issues and propose solutions
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          TikTok is the leading destination for short-form mobile video. At TikTok, our mission is to inspire creativity and bring joy. TikTok's global headquarters are in Los Angeles and Singapore, and its offices include New York, London, Dublin, Paris, Berlin, Dubai, Jakarta, Seoul, and Tokyo.<br><br>Why Join Us<br>Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.<br>Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.<br>To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.<br>At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.<br>Join us.<br><br>The LIVE Operations team is obsessed with everything to do with TikTok LIVE. Our focus is to continually champion and optimize TikTok LIVE through working with creators to ensure a creative, fun and safe space for all of our users.<br><br>The Regional LIVE Operation Strategy Team leads various cross-functional projects. Our key initiatives include developing strategic plans to drive widespread adoption of LIVE at scale among creators, localizing new product features, creating user engagement strategies, ensuring a positive creator experience through education on the Community Guidelines and best practices, and providing ad hoc analysis and support to cross-functional partners.<br><br>Responsibilities:<br>- Analyzing local and global trends to help improve performance within the EU LIVE team<br>- Creating and preparing reports and dashboards to help us better identify areas of focus and trends within our ecosystem <br><br>Examples of Problems You'll Be Solving:<br>- What are the best content verticals for us to focus our creator recruitment on?<br>- Building a prediction model for identifying creators who may be destined for success on our platform<br>- Which metrics and leading and lagging indicators should we use for our key OKRs?<br>- How should we best segment our creators and users to have a more meaningful impact on their growth?<br>- What are the best touchpoints to educate our creators, and when should we activate this education?<br>- Using statistical tools to simplify complex data sets, helping us better diagnose issues and propose solutions
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-10-31,[]
+4081283430,https://uk.linkedin.com/jobs/view/graduate-data-analyst-london-at-grayce-4081283430?position=45&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=WNl9z8PBL06GI5k9VCQeRA%3D%3D,Graduate Data Analyst - London,GRAYCE,"London, England, United Kingdom","Job Position: Graduate Data Analyst (Engineer/Scientist) - via the Graduate Development Programme   
+
+Locations: London
+
+Starting Salary: £28,000  
+
+Application Requirements:
+
+
+Minimum 2:1 or above in a STEM (Science, Technology, Engineering, and Math) subject
+Experience in analysing data
+Right to work in the UK unsponsored for the duration of the programme
+Ability to work on site 5 days a week.
+
+
+
+Grayce is not on the UK Border Agency's Sponsor Register and is unable to sponsor work visas for international applicants. 
+
+Grayce specialises in driving change and transformation for some of the world's most ambitious organisations. For over a decade, we've partnered with FTSE 100 and 250 companies to deliver impactful results by developing and deploying high-performing talent in the UK and beyond.
+
+Our Accelerated Development Programme is designed to launch the careers of recent graduates eager to make an impact. We offer a fast-track route to expertise, allowing you to gain hands-on experience with one of our impressive clients in a variety of flexible roles such as Data Analysis, InfoSec, Software Testing and DevOps.
+
+Join Grayce and accelerate your career!
+
+Why Grayce?
+
+Our Analysts are actively involved in major global transformation programmes across diverse industries.
+
+Opportunity: You'll embark on a journey of continuous learning, gaining industry-accredited qualifications, whilst getting hands-on experience working full time on site directly with prestigious FTSE100, 250, and 500 organisations.
+
+Delivery: You will work with one client, delivering high quality outcomes during your Grayce tenure, before transitioning to working directly for them. The skills required for exceptional client delivery include natural curiosity, proactivity, adaptability, effective communication and problem solving.
+
+Mentoring: Thrive under the guidance of our experienced Delivery Managers and Technical Trainers. They'll be your go-to, offering support, insights, sharing experiences.
+
+Progression: Starting as an Analyst with the potential for significant salary progression, you will pick up invaluable skills and complete a minimum of 6 industry recognised accreditations during your time on the development programme.
+
+What Makes a Great Grayce Analyst
+
+2:1 Undergraduate Degree: An undergraduate degree with a minimum 2:1 within in a STEM field. A solid academic basis within data analysis and science through an additional MSc would be an advantage.
+
+Data Tools: Previous experience with tools such as Excel, R, SQL or Python are an essential for this role. If you have utilised visualisation programmes such as Tableau or Power BI in projects before, we are also keen to hear from you.
+
+Analytical Problem Solving: We're looking for analytical minds that can spot patterns and think creatively. Whether it's dissecting complex issues or finding fresh angles, we highly value critical thinking skills and their application.
+
+Soft Skills: From effective communication styles to planning, organisation and a learning development mindset, Grayce is committed to building core consultancy skills. Stakeholder and time management are core skills we utilise every day and we look for examples of those through our interview process.
+
+Why work for us?
+
+Competitive Salary: Starting at £28,000 with potential for significant growth
+
+Industry Recognition: We help you embark on your journey with fully funded, industry-recognised qualifications designed to maximise your experience and put you in control of your career
+
+Mentors and Coaches: Access a network of mentors and coaches dedicated to you, your experiences and development at Grayce
+
+Wellness Support: We are here for you 24/7 with our Employee Assistance Programme, offering confidential assistance ranging from financial and legal support to health and wellbeing
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Job Position:</strong> Graduate Data Analyst (Engineer/Scientist) - via the Graduate Development Programme   <br><br><strong>Locations:</strong> London<br><br><strong>Starting Salary:</strong> £28,000  <br><br><strong>Application Requirements: <br><br></strong><ul><li>Minimum 2:1 or above in a STEM (Science, Technology, Engineering, and Math) subject </li><li>Experience in analysing data </li><li>Right to work in the UK unsponsored for the duration of the programme </li><li>Ability to work on site 5 days a week. <br><br><br></li></ul><strong>Grayce is not on the UK Border Agency's Sponsor Register and is unable to sponsor work visas for international applicants.  <br><br></strong>Grayce specialises in driving change and transformation for some of the world's most ambitious organisations. For over a decade, we've partnered with FTSE 100 and 250 companies to deliver impactful results by developing and deploying high-performing talent in the UK and beyond.<br><br><strong>Our Accelerated Development Programme</strong> is designed to launch the careers of recent graduates eager to make an impact. We offer a fast-track route to expertise, allowing you to gain hands-on experience with one of our impressive clients in a variety of flexible roles such as Data Analysis, InfoSec, Software Testing and DevOps.<br><br><strong>Join Grayce and accelerate your career! <br><br></strong><strong>Why Grayce? <br><br></strong>Our Analysts are actively involved in major global transformation programmes across diverse industries.<br><br><strong>Opportunity:</strong> You'll embark on a journey of continuous learning, gaining industry-accredited qualifications, whilst getting hands-on experience working full time on site directly with prestigious FTSE100, 250, and 500 organisations.<br><br><strong>Delivery: </strong>You will work with one client, delivering high quality outcomes during your Grayce tenure, before transitioning to working directly for them. The skills required for exceptional client delivery include natural curiosity, proactivity, adaptability, effective communication and problem solving.<br><br><strong>Mentoring:</strong> Thrive under the guidance of our experienced Delivery Managers and Technical Trainers. They'll be your go-to, offering support, insights, sharing experiences.<br><br><strong>Progression: </strong>Starting as an Analyst with the potential for significant salary progression, you will pick up invaluable skills and complete a minimum of 6 industry recognised accreditations during your time on the development programme.<br><br><strong>What Makes a Great Grayce Analyst<br><br></strong><strong>2:1 Undergraduate Degree:</strong> An undergraduate degree with a minimum 2:1 within in a STEM field. A solid academic basis within data analysis and science through an additional MSc would be an advantage.<br><br><strong>Data Tools:</strong> Previous experience with tools such as Excel, R, SQL or Python are an essential for this role. If you have utilised visualisation programmes such as Tableau or Power BI in projects before, we are also keen to hear from you.<br><br><strong>Analytical Problem Solving:</strong> We're looking for analytical minds that can spot patterns and think creatively. Whether it's dissecting complex issues or finding fresh angles, we highly value critical thinking skills and their application.<br><br><strong>Soft Skills:</strong> From effective communication styles to planning, organisation and a learning development mindset, Grayce is committed to building core consultancy skills. Stakeholder and time management are core skills we utilise every day and we look for examples of those through our interview process.<br><br><strong>Why work for us? <br><br></strong><strong>Competitive Salary:</strong> Starting at £28,000 with potential for significant growth<br><br><strong>Industry Recognition: </strong>We help you embark on your journey with fully funded, industry-recognised qualifications designed to maximise your experience and put you in control of your career<br><br><strong>Mentors and Coaches: </strong>Access a network of mentors and coaches dedicated to you, your experiences and development at Grayce<br><br><strong>Wellness Support: </strong>We are here for you 24/7 with our Employee Assistance Programme, offering confidential assistance ranging from financial and legal support to health and wellbeing
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-20,[]
+4084770630,https://uk.linkedin.com/jobs/view/data-analyst-at-understanding-recruitment-4084770630?position=50&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=trHAH%2BOWC3AowEMsBaHdrA%3D%3D,Data Analyst,Understanding Recruitment,"London Area, United Kingdom","🌱 ClimateTech
+
+
+
+
+Data Analytics | London
+
+
+
+
+Looking to make a meaningful impact? We’re hiring a Data Analyst for a dynamic, data-driven startup on a mission to decarbonise the grid and advance electrification. Based in London with a hybrid model (2/3x per week), this team is pushing the boundaries of energy innovation.
+
+
+
+
+Backed by over $10M in funding, you'll work closely with our co-founders and a dedicated team of 8 engineers and scientists, plus 2 business ops, to drive our platform's growth and scalability.
+
+
+
+
+You will utilise your knowledge in SQL and Python (not essential), to manage and automate data workflows, and automate the team's core business processes! As an Analyst, you will have the opportunity to bid in electricity markets, handling energy settlements, remunerating users and clients, and much much more!
+
+
+
+
+Ready to make a difference? Apply today!
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>🌱 <strong>ClimateTech</strong></p><p><br></p><p><strong>Data Analytics | London</strong></p><p><br></p><p>Looking to make a meaningful impact? We’re hiring <strong>a Data Analyst</strong> for a dynamic, data-driven startup on a mission to decarbonise the grid and advance electrification. Based in London with a hybrid model (2/3x per week), this team is pushing the boundaries of energy innovation.</p><p><br></p><p>Backed by over $10M in funding, you'll work closely with our co-founders and a dedicated team of 8 engineers and scientists, plus 2 business ops, to drive our platform's growth and scalability.</p><p><br></p><p>You will utilise your knowledge in SQL and Python (not essential), to manage and automate data workflows, and automate the team's core business processes! As an Analyst, you will have the opportunity to bid in electricity markets, handling energy settlements, remunerating users and clients, and much much more!</p><p><br></p><p><strong>Ready to make a difference? Apply today!</strong></p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-29,[]
+4077182568,https://uk.linkedin.com/jobs/view/data-analyst-at-cubiq-recruitment-4077182568?position=57&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=viFFQjn3pyD9tOidEAPitA%3D%3D,Data Analyst,Cubiq Recruitment,"Oxford, England, United Kingdom","Job Title - Data Analyst
+
+Location - Oxford (Hybrid)
+
+
+
+
+About the client
+
+We are working with an established, well-funded AI drug discovery company at the forefront of revolutionising how treatments are discovered, tested, and developed. With a growing presence worldwide, they’re expanding their Oxford-based AI & Data team and looking for talented individuals passionate about combining data with life sciences to fuel breakthroughs in drug discovery, climate change, sustainable agriculture and government innovation.
+
+
+
+
+Role Overview
+
+The data analyst must have a love for attention to detail and be excited by data management. This is a hands-on role but will also contribute to strategic acquisition and platform positions, supporting business growth and decision-making. You will join an industry-leading team of AI researchers, applied AI scientists, and data and software engineers with a real passion for building a better tomorrow for us all.
+
+
+
+
+The ideal candidate will have strong analytical capabilities with deep industry experience and the ability to bridge the gap between business context and data analysis. As we are building out the team from scratch, we are open to speaking to candidates with varying levels of experience so please apply if your experience aligns with the requirements listed below.
+
+
+
+
+This is an incredibly unique opportunity to join a technology institute, on a mission to build sustainable change in the world, through accelerating innovation by driving scientific and technological advancements.
+
+
+
+
+Responsibilities
+
+Design, implement and optimise data collection processes to gather relevant and high-quality data for various projects within the domains of climate tech, health, energy, sustainable farming
+Collaborate with cross-functional teams to ensure data is accurately captured from multiple sources, including experimental, clinical, and public datasets
+Assess data quality and establish robust data validation procedures to ensure data integrity throughout the analysis pipeline
+Develop and apply data quality frameworks tailored to machine learning use cases, focusing on data completeness, accuracy, and reliability
+Act as a vital link between engineers, scientists, and the applied AI team, facilitating seamless communication and data flow across the entire drug discovery process
+Support interdisciplinary projects by translating complex data requirements into actionable insights and providing clear guidance on data use
+Guide the data acquisition strategy based on a comprehensive understanding of industry dynamics, emerging trends, and scientific advancements
+Identify new data sources and partnerships that can enhance the company’s data capabilities and contribute to strategic decision-making
+
+
+
+
+Requirements
+
+Bachelor’s or Master’s in Data Science, Statistics, Bioinformatics, Computational Biology, or a related field. A PhD is a plus
+Minimum of 3 years of experience as a data analyst within an elite organisation
+Proven track record in handling complex datasets, particularly in the context of drug discovery, biomedical research, agriculture, clean energy, government
+Proficiency in data analysis and manipulation tools such as Python, R, and SQL
+Experience with data visualisation platforms (e.g., Tableau, Power BI) to effectively communicate insights to stakeholders
+Experience with data visualisation platforms (e.g., TensorFlow, PyTorch) and data quality assessment techniques
+Excellent communication and collaboration skills, with the ability to translate complex data insights for non-technical stakeholders
+Strong problem-solving skills and a proactive approach to identifying and addressing data-related challenges
+
+
+
+
+What’s on offer
+
+Industry-leading salary compensation DOE
+An opportunity to work on projects that will make a difference in the world, all projects are multi-decade programs that are orientated to improve society and people’s lives
+A rare opportunity to shape and lead the AI Capability team from the ground up
+State-of-the-art resources, enabling you to push the boundaries of AI research and development quickly and ethically
+
+
+
+
+If you’re a data-driven professional passionate about innovation and real-world impact, we encourage you to apply!
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Job Title</strong> - Data Analyst</p><p><strong>Location</strong> - Oxford (Hybrid)</p><p><br></p><p><strong>About the client</strong></p><p>We are working with an established, well-funded AI drug discovery company at the forefront of revolutionising how treatments are discovered, tested, and developed. With a growing presence worldwide, they’re expanding their Oxford-based AI &amp; Data team and looking for talented individuals passionate about combining data with life sciences to fuel breakthroughs in drug discovery, climate change, sustainable agriculture and government innovation.</p><p><br></p><p><strong>Role Overview</strong></p><p>The data analyst must have a love for attention to detail and be excited by data management. This is a hands-on role but will also contribute to strategic acquisition and platform positions, supporting business growth and decision-making. You will join an industry-leading team of AI researchers, applied AI scientists, and data and software engineers with a real passion for building a better tomorrow for us all.</p><p><br></p><p>The ideal candidate will have strong analytical capabilities with deep industry experience and the ability to bridge the gap between business context and data analysis. As we are building out the team from scratch, we are open to speaking to candidates with varying levels of experience so please apply if your experience aligns with the requirements listed below.</p><p><br></p><p>This is an incredibly unique opportunity to join a technology institute, on a mission to build sustainable change in the world, through accelerating innovation by driving scientific and technological advancements.</p><p><br></p><p><strong>Responsibilities</strong></p><ul><li>Design, implement and optimise data collection processes to gather relevant and high-quality data for various projects within the domains of climate tech, health, energy, sustainable farming</li><li>Collaborate with cross-functional teams to ensure data is accurately captured from multiple sources, including experimental, clinical, and public datasets</li><li>Assess data quality and establish robust data validation procedures to ensure data integrity throughout the analysis pipeline</li><li>Develop and apply data quality frameworks tailored to machine learning use cases, focusing on data completeness, accuracy, and reliability</li><li>Act as a vital link between engineers, scientists, and the applied AI team, facilitating seamless communication and data flow across the entire drug discovery process</li><li>Support interdisciplinary projects by translating complex data requirements into actionable insights and providing clear guidance on data use</li><li>Guide the data acquisition strategy based on a comprehensive understanding of industry dynamics, emerging trends, and scientific advancements</li><li>Identify new data sources and partnerships that can enhance the company’s data capabilities and contribute to strategic decision-making</li></ul><p><br></p><p><strong>Requirements</strong></p><ul><li>Bachelor’s or Master’s in Data Science, Statistics, Bioinformatics, Computational Biology, or a related field. A PhD is a plus</li><li>Minimum of 3 years of experience as a data analyst within an elite organisation</li><li>Proven track record in handling complex datasets, particularly in the context of drug discovery, biomedical research, agriculture, clean energy, government</li><li>Proficiency in data analysis and manipulation tools such as Python, R, and SQL</li><li>Experience with data visualisation platforms (e.g., Tableau, Power BI) to effectively communicate insights to stakeholders</li><li>Experience with data visualisation platforms (e.g., TensorFlow, PyTorch) and data quality assessment techniques</li><li>Excellent communication and collaboration skills, with the ability to translate complex data insights for non-technical stakeholders</li><li>Strong problem-solving skills and a proactive approach to identifying and addressing data-related challenges</li></ul><p><br></p><p><strong>What’s on offer</strong></p><ul><li>Industry-leading salary compensation DOE</li><li>An opportunity to work on projects that will make a difference in the world, all projects are multi-decade programs that are orientated to improve society and people’s lives</li><li>A rare opportunity to shape and lead the AI Capability team from the ground up</li><li>State-of-the-art resources, enabling you to push the boundaries of AI research and development quickly and ethically</li></ul><p><br></p><p>If you’re a data-driven professional passionate about innovation and real-world impact, we encourage you to apply!</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-27,[]
+4079754609,https://uk.linkedin.com/jobs/view/people-data-analyst-at-red-bull-racing-red-bull-technology-4079754609?position=58&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=CnvEYvxJ9SDVhDLp3N1K9g%3D%3D,People Data Analyst,Red Bull Racing & Red Bull Technology,"Milton Keynes, England, United Kingdom","We are looking for a methodical and organised People Data Analyst to join our newly remodelled Data Team. You will enjoy working in a fast-paced environment and will be tasked with manipulating and analysing data to produce actionable insights and provide innovative solutions.
+
+
+
+
+In this People Data Analyst role, you will be managing the end-to-end process of data analytics projects across Human Resources. This role extends to working with the wider business delivering them tailored data solutions including dashboarding and KPI tracking to aid in HR management decisions.
+
+
+
+
+This People Data Analyst position offers a chance to have a large input into reviewing current data management and reporting processes. As part of this you will be able to implement improvements to systems and work-flow streams and identify opportunities for automation and accuracy of data.
+
+
+
+
+The ideal candidate for this People Data Analyst position will ideally have:
+
+Previous People Analytics experience preferably in a fast-paced organisation which uses a multitude of systems.
+You will have an inquisitive mind, always looking to explore and develop data to aid and support the department, as well as an eye for detail and the ability to deliver accurate and comprehensive data analysis
+Proficiency in SQL and SSMS
+Strong knowledge of Microsoft Excel including advanced formulae, pivot tables and vlookups
+Experience in Microsoft VBA preferable but not essential
+Proficiency in analysing and drawing insights from large datasets
+Proven experience of using Data Analytics & Visualisation tools such as Power BI or Tableau
+
+
+
+
+Not only is this a fantastic People Data Analyst role, it is also a fantastic team to work for. A good salary is just the start, there are many other benefits too such as our bonus scheme, private health care cover, life assurance scheme, workplace nursery, company contributed pension scheme, on site gym & fitness classes, free food & cycle to work scheme.
+
+
+
+
+Position Information
+
+Position: People Data Analyst
+
+Location: Red Bull Technology Campus, Milton Keynes (MK7)
+
+Workplace: Office based (4 days per week, 1 day from home)
+
+Hours: 08:30 – 17:30
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>We are looking for a methodical and organised People Data Analyst to join our newly remodelled Data Team. You will enjoy working in a fast-paced environment and will be tasked with manipulating and analysing data to produce actionable insights and provide innovative solutions.</p><p><br></p><p>In this People Data Analyst role, you will be managing the end-to-end process of data analytics projects across Human Resources. This role extends to working with the wider business delivering them tailored data solutions including dashboarding and KPI tracking to aid in HR management decisions.</p><p><br></p><p>This People Data Analyst position offers a chance to have a large input into reviewing current data management and reporting processes. As part of this you will be able to implement improvements to systems and work-flow streams and identify opportunities for automation and accuracy of data.</p><p><br></p><p>The ideal candidate for this People Data Analyst position will ideally have:</p><ul><li>Previous People Analytics experience preferably in a fast-paced organisation which uses a multitude of systems.</li><li>You will have an inquisitive mind, always looking to explore and develop data to aid and support the department, as well as an eye for detail and the ability to deliver accurate and comprehensive data analysis</li><li>Proficiency in SQL and SSMS</li><li>Strong knowledge of Microsoft Excel including advanced formulae, pivot tables and vlookups</li><li>Experience in Microsoft VBA preferable but not essential</li><li>Proficiency in analysing and drawing insights from large datasets</li><li>Proven experience of using Data Analytics &amp; Visualisation tools such as Power BI or Tableau</li></ul><p><br></p><p>Not only is this a fantastic People Data Analyst role, it is also a fantastic team to work for. A good salary is just the start, there are many other benefits too such as our bonus scheme, private health care cover, life assurance scheme, workplace nursery, company contributed pension scheme, on site gym &amp; fitness classes, free food &amp; cycle to work scheme.</p><p><br></p><p><strong><u>Position Information </u></strong></p><p>Position: People Data Analyst</p><p>Location: Red Bull Technology Campus, Milton Keynes (MK7)</p><p>Workplace: Office based (4 days per week, 1 day from home)</p><p>Hours: 08:30 – 17:30</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-21,[]
+4087298628,https://uk.linkedin.com/jobs/view/amazon-marketplace-data-analyst-at-petlab-co-4087298628?position=59&pageNum=0&refId=uRqZyX2Sl%2FlMaKf1MfpUeg%3D%3D&trackingId=E%2FuG7udQzsOdCmd1peXkkQ%3D%3D,Amazon Marketplace Data Analyst,PetLab Co.,United Kingdom,"Title: Amazon Marketplace Data Analyst
+
+Location: UK Remote or Hybrid
+
+Position: Perm
+
+About Petlab Co
+
+PetLab Co. is the world's fastest-growing pet supplement business. Launching in 2018, we successfully achieved a 9-figure revenue in 2023 without any external funding. We have a loyal community of loving pet parents and over 3 million happy dogs whose lives have been positively impacted by our innovative products. Our team is vibrant, fast-moving, and customer-driven where high-performers are valued and rewarded. And it is the ideal place for an ambitious, hardworking, animal lover who wants to progress their career rapidly.
+
+A Day In The Life...
+
+Reporting to the Head of Marketplaces and working closely with the Head of Data, you will be joining a small but rapidly growing team of talented data professionals. In this role, you will take the lead in analyzing and optimizing PetLab Co's Amazon activities. By working with large data sets, you will play a key role in driving data-informed decisions that enhance performance on the Amazon marketplace across multiple Geo's.
+
+As this is a newly created position, you'll have considerable autonomy and the opportunity to make a significant impact on the company's approach to data and decision-making
+
+We move and think fast so it's important that you are able to thrive in a fast-paced environment and are happy to roll up your sleeves to do whatever it takes to support the team in every way possible. If that sounds exciting - we would love you to join our pack!
+
+Our tech stack:
+
+
+Engineering -DBT/Fivetran & Google Cloud
+Data Warehouse - Big Query
+Visualisation - Power BI
+Languages- SQL/Python
+
+
+
+Your day to day will look a bit like this:
+
+
+Lead the development of Amazon analytics and associated data strategies
+Identify, analyse, and interpret trends or patterns in complex data sets
+Develop and maintain SQL scripts for data analysis and reporting
+Comprehend and utilise data points from the various Amazon APIs and Amazon Marketing Cloud (AMC)
+Use Python for data manipulation, cleaning, and visualization
+Collaborate with Product and Engineering teams to develop and implement new data-driven products and features
+Provide regular reports and insights to key stakeholders
+Analyse and identify opportunities for optimizing advertising spend for improving efficiency and performance
+Create dashboards to allow colleagues to self-serve
+
+
+
+Requirements
+
+What You Need...
+
+
+Previous experience utilising Amazon data, specifically Amazon Seller Central or Amazon sp-api or Amazon seller (Not AWS)
+Very strong expertise in SQL (There will be a live SQL test)
+Experience as a Data analyst in a DTC or a high growth e-commerce environment
+Experience taking the lead on projects
+Someone who is detail-oriented, precise with a proactive attitude
+Strong analytical and problem-solving skills
+Excellent ability to communicate complex data concepts to non-technical stakeholders and to be able to engage with Executives/Founders
+Ability to collaborate cross-functionally
+Experience in the e-commerce industry would be beneficial
+
+
+
+Benefits
+
+
+Private Health Care through Vitality
+Generous Annual Leave - 28 days + public and bank holidays
+Flexible Working Hours - We focus on results and trust people to manage their time, whether working from home, while travelling, or in the office!
+Help@Hand - Employee Assistance Programme
+Royal London Pension Scheme - We offer a workplace pension scheme with one of the UK's leading providers of group pensions. With an employer contribution of 5%!
+Enhanced Maternity / Paternity / Adoption Leave - because time with new family members is important!
+Puppy Therapy - working in partnership with Paws in Work to provide a boost of oxytocin twice a year
+Generous Learning and development budget - We always want you to keep learning
+Free breakfast, fruits and snacks - refuel and revitalise with free munchies in the office
+Working Environment - dogs are welcome!
+Life Assurance - In the event of your death, while employed by us, your chosen beneficiaries will be provided with a tax-free lump sum equivalent of four times your basic salary
+Gympass - All in one subscription bringing you the largest selection of gyms, studios and apps
+Electric Vehicle Scheme - Employees sacrifice salary in return for a new electric car, typically saving 30-40% of costs through income and tax and national insurance.
+Give Back Day - An extra day off in the year to volunteer plus a £50 contribution to your chosen charity.
+Health Cash Benefit - We offer the bronze package with enables you to claim a certain amount of cashback when you pay for something that is health related, i.e dental
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Title: Amazon Marketplace Data Analyst<br><br></strong><strong>Location: UK Remote or Hybrid<br><br></strong><strong>Position: Perm<br><br></strong><strong>About Petlab Co<br><br></strong>PetLab Co. is the world's fastest-growing pet supplement business. Launching in 2018, we successfully achieved a 9-figure revenue in 2023 without any external funding. We have a loyal community of loving pet parents and over 3 million happy dogs whose lives have been positively impacted by our innovative products. Our team is vibrant, fast-moving, and customer-driven where high-performers are valued and rewarded. And it is the ideal place for an ambitious, hardworking, animal lover who wants to progress their career rapidly.<br><br><strong>A Day In The Life...<br><br></strong>Reporting to the Head of Marketplaces and working closely with the Head of Data, you will be joining a small but rapidly growing team of talented data professionals. In this role, you will take the lead in analyzing and optimizing PetLab Co's Amazon activities. By working with large data sets, you will play a key role in driving data-informed decisions that enhance performance on the Amazon marketplace across multiple Geo's.<br><br>As this is a newly created position, you'll have considerable autonomy and the opportunity to make a significant impact on the company's approach to data and decision-making<br><br>We move and think fast so it's important that you are able to thrive in a fast-paced environment and are happy to roll up your sleeves to do whatever it takes to support the team in every way possible. If that sounds exciting - we would love you to join our pack!<br><br><strong>Our tech stack</strong>:<br><br><ul><li>Engineering -DBT/Fivetran &amp; Google Cloud</li><li>Data Warehouse - Big Query</li><li>Visualisation - Power BI</li><li>Languages- SQL/Python <br><br><br></li></ul><strong>Your day to day will look a bit like this:<br><br></strong><ul><li>Lead the development of Amazon analytics and associated data strategies</li><li>Identify, analyse, and interpret trends or patterns in complex data sets</li><li>Develop and maintain SQL scripts for data analysis and reporting</li><li>Comprehend and utilise data points from the various Amazon APIs and Amazon Marketing Cloud (AMC)</li><li>Use Python for data manipulation, cleaning, and visualization</li><li>Collaborate with Product and Engineering teams to develop and implement new data-driven products and features</li><li> Provide regular reports and insights to key stakeholders</li><li>Analyse and identify opportunities for optimizing advertising spend for improving efficiency and performance</li><li>Create dashboards to allow colleagues to self-serve<br><br><br></li></ul><strong>Requirements<br><br></strong><strong>What You Need...<br><br></strong><ul><li> Previous experience utilising Amazon data, specifically Amazon Seller Central or Amazon sp-api or Amazon seller (Not AWS)</li><li>Very strong expertise in SQL (There will be a live SQL test)</li><li>Experience as a Data analyst in a DTC or a high growth e-commerce environment</li><li>Experience taking the lead on projects</li><li>Someone who is detail-oriented, precise with a proactive attitude</li><li>Strong analytical and problem-solving skills</li><li>Excellent ability to communicate complex data concepts to non-technical stakeholders and to be able to engage with Executives/Founders</li><li>Ability to collaborate cross-functionally</li><li>Experience in the e-commerce industry would be beneficial<br><br><br></li></ul><strong>Benefits<br><br></strong><ul><li> Private Health Care through Vitality</li><li> Generous Annual Leave - 28 days + public and bank holidays</li><li> Flexible Working Hours - We focus on results and trust people to manage their time, whether working from home, while travelling, or in the office!</li><li> Help@Hand - Employee Assistance Programme</li><li> Royal London Pension Scheme - We offer a workplace pension scheme with one of the UK's leading providers of group pensions. With an employer contribution of 5%!</li><li> Enhanced Maternity / Paternity / Adoption Leave - because time with new family members is important!</li><li> Puppy Therapy - working in partnership with Paws in Work to provide a boost of oxytocin twice a year</li><li> Generous Learning and development budget - We always want you to keep learning</li><li> Free breakfast, fruits and snacks - refuel and revitalise with free munchies in the office</li><li> Working Environment - dogs are welcome!</li><li> Life Assurance - In the event of your death, while employed by us, your chosen beneficiaries will be provided with a tax-free lump sum equivalent of four times your basic salary</li><li> Gympass - All in one subscription bringing you the largest selection of gyms, studios and apps</li><li> Electric Vehicle Scheme - Employees sacrifice salary in return for a new electric car, typically saving 30-40% of costs through income and tax and national insurance. </li><li> Give Back Day - An extra day off in the year to volunteer plus a £50 contribution to your chosen charity. </li><li> Health Cash Benefit - We offer the bronze package with enables you to claim a certain amount of cashback when you pay for something that is health related, i.e dental</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-28,[]
