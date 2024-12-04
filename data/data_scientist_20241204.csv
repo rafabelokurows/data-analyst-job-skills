@@ -1,0 +1,646 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4071740031,https://es.linkedin.com/jobs/view/data-science-at-the-cocktail-4071740031?position=2&pageNum=0&refId=qBn7xMrMuM%2Bu6VTR38HSjg%3D%3D&trackingId=Cgb51WggI5D66ULjMhLjPQ%3D%3D,Data Science,The Cocktail,"Madrid, Community of Madrid, Spain","¿Quienes somos?
+
+Somos una consultora referente en el mundo de la transformación digital. Trabajamos en proyectos end to end con nuestros clientes, desde que surge una necesidad hasta todo el desarrollo y la implementación de los mismos. Nos gusta entender a fondo el reto de cada proyecto y, con todo el talento que tenemos en casa, nos aseguramos de llevarlo a cabo con éxito.
+
+
+
+
+El área de Data & Marketing
+
+Desde Data & Marketing, estamos buscando al mejor talento para incorporarse a nuestro equipo. En este área trabajamos más de 200 profesionales, abarcando todas las capacidades técnicas que engloban el mundo del dato y de marketing. Somos un área de pleno crecimiento y con grandes retos por delante.
+
+
+
+
+¿Por qué estamos creciendo tanto?
+
+Nos destacamos en el mercado por nuestro enfoque integral, mezclando disciplinas técnicas muy diversas para llegar a aportar soluciones con impacto real.
+Tomamos decisiones estratégicas basadas en datos, siempre centrados en el “para qué” y no solo en el “cómo”.
+Trabajamos habitualmente en entornos internacionales, y estamos preparados para escalar.
+Como partners del año de Salesforce, estamos a la vanguardia de la tecnología y ofrecemos las soluciones más innovadoras a nuestros clientes.
+Contamos con la ventaja de ser parte del grupo WPP, lo que nos aporta grandes sinergias en proyectos de Data & Marketing.ç
+
+
+
+
+¿Quieres ser parte de este crecimiento? Esto es lo que buscamos:
+
+¿Te apasionan los datos y cómo transformarlos en soluciones innovadoras? 🧠📊 Estamos buscando un Data Scientist creativo y orientado a resultados para unirse a nuestro equipo. En este rol, tendrás la oportunidad de trabajar con grandes volúmenes de datos, descubrir patrones clave y aportar insights valiosos que impulsarán nuestras decisiones estratégicas.
+
+
+
+
+Si disfrutas resolver problemas complejos, experimentar con algoritmos avanzados y convertir números en historias, ¡queremos conocerte! 🚀
+
+
+
+
+Responsabilidades
+
+Trabajamos en entorno cloud (GCP, AWS, Azure) y usamos las herramientas adecuadas para cada problema en concreto.
+Traducir las necesidades de negocio a modelos predictivos, su dimensionamiento y productivización, así como la activación y monitorización de estas predicciones en relación a los OKRs.
+Desarollar modelos matemáticos avanzados basados en técnicas de machine learning, especialmente en modelos predictivos de clasificación (i.e., bagging, boosting) y clusterización (i.e., K-means, Mean Shift).
+
+
+
+
+Requisitos:
+
+Experiencia de al menos 3 años en las funciones descritas.
+Tener conocimientos de desarrollo de software, Object Oriented Programing, y manejo avanzado de Python: estructuras de datos y principales librerías (i.e., numpy, pandas, sklearn, Keras, Tensorflow, Pytorch).
+Conocimientos de bases de datos relacionales y fuentes no relacionales/NoSQL.
+Experiencia en metodología DevOps, contribución a repositorios git, monitorización del código mediante builds (docker) y testing, así como despliegues en entornos de UAT y productivos.
+Experiencia en metodología MLOps, paquetización de modelos, módulos de entrenamiento y validación, módulos de inferencia, versionamiento de modelos y monitorización de data shift para el re-entrenamiento.
+Nivel alto de inglés.
+
+
+
+
+Nos encantaría si:
+
+Estás acostumbrado a trabajar con algunos de los siguientes paradigmas: series temporales, NLP, análisis geoespacial, reconocimiento de imágenes, etc.
+Tienes conocimientos sobre técnicas de optimización numérica: gradient descent, quasi-Newton, computación evolutiva, programación lineal, etc.
+Has trabajado con soluciones cloud orientadas a Inteligencia Artificial: GCP (Vertex), AWS (Amazon SageMaker), Azure (MLFlow). Y la realización de prototipos/productos web en frameworks ágiles.
+Tienes experiencia con entornos Big Data y haber tratado volúmenes de datos que requieran entornos distribuidos (pyspark y Databricks).
+Que poseas conocimientos en herramientas de visualización: Tableau, Power BI, Qlik Sense, Shiny, Spotfire, etc.
+
+
+
+
+Beneficios de trabajar en The Cocktail
+
+Flexibilidad horaria
+25 días de vacaciones al año + nochebuena y nochevieja
+Modelo híbrido, full remote o presencial.
+Plan de carrera personalizado y formación continua
+Mejora tu nivel de inglés con clases formativas
+No tenemos dress code. Ven como quieras a trabajar.
+Descuentos exclusivos y tiempo para tu crecimiento.
+Acceso a Cobee, el mejor sistema de retribución flexible
+Iniciativas de apoyo a la maternidad y políticas de igualdad y diversidad.
+
+
+
+
+Próximos pasos.
+
+Si has llegado hasta aquí es porque hemos conseguido llamar tu atención 😉
+
+Apúntate a la oferta y el equipo de People echará un vistazo a tu CV. Si coincide con lo que buscamos, recibirás una llamada para conocernos mejor y que podamos contarte más sobre The Cocktail y sobre el rol.
+
+
+
+
+Si te apasiona la excelencia, los desafíos, y quieres ser parte de un equipo que transforma ideas en realidad, ¡The Cocktail es para ti! 🙌
+
+Si necesitas un tip para el proceso: simplemente queremos que seas tú.
+
+¿Te vienes? 🚀
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>¿Quienes somos? </strong></p><p>Somos una consultora referente en el mundo de la transformación digital. Trabajamos en proyectos end to end con nuestros clientes, desde que surge una necesidad hasta todo el desarrollo y la implementación de los mismos. Nos gusta entender a fondo el reto de cada proyecto y, con todo el talento que tenemos en casa, nos aseguramos de llevarlo a cabo con éxito.</p><p><br></p><p><strong>El área de Data &amp; Marketing</strong></p><p>Desde Data &amp; Marketing, estamos buscando al mejor talento para incorporarse a nuestro equipo. En este área trabajamos más de 200 profesionales, abarcando todas las capacidades técnicas que engloban el mundo del dato y de marketing. Somos un área de pleno crecimiento y con grandes retos por delante.</p><p><br></p><p>¿Por qué estamos creciendo tanto? </p><ul><li>Nos destacamos en el mercado por nuestro enfoque integral, mezclando disciplinas técnicas muy diversas para llegar a aportar soluciones con impacto real.</li><li>Tomamos decisiones estratégicas basadas en datos, siempre centrados en el “para qué” y no solo en el “cómo”. </li><li>Trabajamos habitualmente en entornos internacionales, y estamos preparados para escalar.</li><li>Como partners del año de Salesforce, estamos a la vanguardia de la tecnología y ofrecemos las soluciones más innovadoras a nuestros clientes.</li><li>Contamos con la ventaja de ser parte del grupo WPP, lo que nos aporta grandes sinergias en proyectos de Data &amp; Marketing.ç</li></ul><p><br></p><p><strong>¿Quieres ser parte de este crecimiento? Esto es lo que buscamos:</strong></p><p>¿Te apasionan los datos y cómo transformarlos en soluciones innovadoras? 🧠📊 Estamos buscando un Data Scientist creativo y orientado a resultados para unirse a nuestro equipo. En este rol, tendrás la oportunidad de trabajar con grandes volúmenes de datos, descubrir patrones clave y aportar insights valiosos que impulsarán nuestras decisiones estratégicas.</p><p><br></p><p>Si disfrutas resolver problemas complejos, experimentar con algoritmos avanzados y convertir números en historias, ¡queremos conocerte! 🚀</p><p><br></p><p><strong>Responsabilidades</strong></p><ul><li>Trabajamos en entorno cloud (GCP, AWS, Azure) y usamos las herramientas adecuadas para cada problema en concreto.</li><li>Traducir las necesidades de negocio a modelos predictivos, su dimensionamiento y productivización, así como la activación y monitorización de estas predicciones en relación a los OKRs.</li><li>Desarollar modelos matemáticos avanzados basados en técnicas de machine learning, especialmente en modelos predictivos de clasificación (i.e., bagging, boosting) y clusterización (i.e., K-means, Mean Shift).</li></ul><p><br></p><p><strong>Requisitos:</strong></p><ul><li>Experiencia de<strong> al menos 3 años en las funciones descritas</strong>.</li><li>Tener conocimientos de desarrollo de software, Object Oriented Programing, y manejo avanzado de <strong>Python</strong>: estructuras de datos y principales librerías (i.e., numpy, pandas, sklearn, Keras, Tensorflow, Pytorch).</li><li>Conocimientos de bases de datos relacionales y fuentes no relacionales/NoSQL.</li><li>Experiencia en <strong>metodología DevOps</strong>, contribución a repositorios git, monitorización del código mediante builds (docker) y testing, así como despliegues en entornos de UAT y productivos.</li><li>Experiencia en <strong>metodología MLOps</strong>, paquetización de modelos, módulos de entrenamiento y validación, módulos de inferencia, versionamiento de modelos y monitorización de data shift para el re-entrenamiento.</li><li><strong>Nivel alto de inglés.</strong></li></ul><p><br></p><p><strong>Nos encantaría si:</strong></p><ul><li>Estás acostumbrado a trabajar con algunos de los siguientes paradigmas: series temporales, NLP, análisis geoespacial, reconocimiento de imágenes, etc.</li><li>Tienes <strong>conocimientos sobre técnicas de optimización numérica</strong>: gradient descent, quasi-Newton, computación evolutiva, programación lineal, etc.</li><li>Has trabajado con <strong>soluciones cloud orientadas a Inteligencia Artificial</strong>: GCP (Vertex), AWS (Amazon SageMaker), Azure (MLFlow). Y la realización de prototipos/productos web en frameworks ágiles.</li><li>Tienes experiencia con entornos Big Data y haber tratado <strong>volúmenes de datos que requieran entornos distribuidos</strong> (pyspark y Databricks).</li><li>Que poseas <strong>conocimientos en herramientas de visualización</strong>: Tableau, Power BI, Qlik Sense, Shiny, Spotfire, etc.</li></ul><p><br></p><p><strong>Beneficios de trabajar en The Cocktail</strong></p><ul><li>Flexibilidad horaria</li><li>25 días de vacaciones al año + nochebuena y nochevieja </li><li>Modelo híbrido, full remote o presencial.</li><li>Plan de carrera personalizado y formación continua</li><li>Mejora tu nivel de inglés con clases formativas</li><li>No tenemos dress code. Ven como quieras a trabajar.</li><li>Descuentos exclusivos y tiempo para tu crecimiento.</li><li>Acceso a Cobee, el mejor sistema de retribución flexible</li><li>Iniciativas de apoyo a la maternidad y políticas de igualdad y diversidad.</li></ul><p><br></p><p><strong>Próximos pasos.</strong></p><p>Si has llegado hasta aquí es porque hemos conseguido llamar tu atención 😉</p><p>Apúntate a la oferta y el equipo de People echará un vistazo a tu CV. Si coincide con lo que buscamos, recibirás una llamada para conocernos mejor y que podamos contarte más sobre The Cocktail y sobre el rol.</p><p><br></p><p>Si te apasiona la excelencia, los desafíos, y quieres ser parte de un equipo que transforma ideas en realidad, ¡The Cocktail es para ti! 🙌</p><p> </p><p>Si necesitas un <strong>tip para el proceso</strong>: simplemente <strong>queremos que seas tú</strong>.</p><p>¿Te vienes? 🚀</p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-11,[]
+4083282192,https://es.linkedin.com/jobs/view/data-scientist-cient%C3%ADfico-a-de-datos-at-seresco-4083282192?position=26&pageNum=0&refId=qBn7xMrMuM%2Bu6VTR38HSjg%3D%3D&trackingId=sEyOmFBBUCAORzZZ9nu%2Frg%3D%3D,Data Scientist (Científico/a de Datos),Seresco,"Oviedo, Principality of Asturias, Spain","En Seresco, empresa líder del sector TIC en Asturias, queremos acoger al mejor talento. Estamos presentes e involucrados en multitud de proyectos a nivel nacional e internacional, utilizando los medios y tecnologías más punteras del mercado.
+
+Para ayudar al proceso de expansión nacional e internacional que está viviendo la Compañía, seleccionamos un/a Data Scientist (Científico/a de Datos) para su incorporación al área de Producción de Software.
+
+¿Qué te ofrecemos?
+
+
+Puesto estable para proyecto de larga duración
+Integración en un equipo multidisciplinar
+Desarrollo de carrera profesional, en función de la valía aportada
+Modalidad híbrida de teletrabajo
+Jornada completa
+Centro de trabajo en Oviedo o Vigo
+Contrato indefinido
+
+
+Si te unes al equipo de SERESCO, podrás contar con beneficios como:
+
+
+Una política de RRHH que permitirá la integración perfecta de tu vida personal. Política de teletrabajo muy extendida en la Compañía, tendrás una modalidad de trabajo híbrido.
+Horario flexible, con jornada continua todos los viernes. Horario de verano durante 4 meses con jornada continua de L-V,
+Disfrutarás de 22 días laborables de vacaciones, más el día de nochebuena o nochevieja. El día que no disfrutes aprovecharemos para tomar algo y brindar a nuestra salud.
+Descuentos exclusivos en multitud de servicios y productos (viajes, automóvil, moda, tiempo libre, deporte, cultura, hogar, tecnología, gastronomía…) a través de la plataforma Corporate Benefits.
+En SERESCO tenemos la posibilidad de configurar qué queremos hacer con nuestro sueldo bruto (programa Serflex), pudiendo utilizar una parte de forma flexible. Podrás optar a los siguientes servicios:
+Seguro Médico (Sanitas, IMQ o Caser), incluyendo familiares.
+Cheque/Tarjeta Gourmet.
+Tarjeta Transporte.
+Cheque guardería.
+Existe también un plan de incentivos muy interesante si nos ayudas a encontrar a profesionales como tú.
+Como aquí ayudamos a buscar/inventar nuevos proyectos, también existe un plan de recompensa por captación de negocio.
+Bolsa de apoyo a estudios reglados.
+Te ayudamos con los idiomas, porque es muy posible que los necesites (inglés y francés).
+Formación presencial y online, para que puedas mantenerte al día y a tu ritmo.
+Organización donde todas las puertas están abiertas de verdad.
+
+
+En Seresco estamos comprometidos con el fomento de la Diversidad, la Inclusión, la Responsabilidad Social, la Igualdad entre hombres y mujeres y la Sostenibilidad en nuestro ambiente de trabajo. Valoramos las perspectivas únicas que cada persona de nuestro equipo aporta y nos esforzamos por crear una cultura que celebra y respeta la diversidad en todas sus formas. ¡Si buscas una empresa que valore la inclusión y la igualdad de oportunidades, esta es la tuya!
+
+Requisitos:
+
+
+Grado o máster en Estadística, Matemáticas, Ciencias de la Computación o áreas afines.
+Lenguajes de programación: Python, R, SQL.
+Estadística y machine learning: Experiencia con técnicas avanzadas (regresión, clustering, árboles de decisión, redes neuronales).
+Herramientas: Uso de librerías como Scikit-learn, TensorFlow, PyTorch, XGBoost.
+Visualización: Conocimientos de Matplotlib, Seaborn, Tableau, Power BI o similares.
+Modelos avanzados: Familiaridad con NLP, series temporales, computer vision.
+Data wrangling: Experiencia en limpieza y manipulación de datos usando Pandas, Numpy o similares.
+Experiencia con servicios en la nube para ML/AI como AWS Sagemaker o Google AI Platform.
+
+
+COMPETENCIAS
+
+
+Flexibilidad y gestión del cambio
+Trabajo en equipo y colaboración
+Capacidad de innovación
+Capacidad de comunicación
+Enfoque analítico para resolver problemas del negocio mediante datos.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          En <strong>Seresco</strong>, empresa líder del sector TIC en Asturias, queremos acoger al mejor talento. Estamos presentes e involucrados en multitud de proyectos a nivel nacional e internacional, utilizando los medios y tecnologías más punteras del mercado.<br><br>Para ayudar al proceso de expansión nacional e internacional que está viviendo la Compañía, seleccionamos un/a<strong> Data Scientist (Científico/a de Datos) </strong>para su incorporación al área de Producción de Software.<br><br><strong>¿Qué te ofrecemos?<br><br></strong><ul><li> Puesto estable para proyecto de larga duración</li><li> Integración en un equipo multidisciplinar</li><li> Desarrollo de carrera profesional, en función de la valía aportada</li><li> Modalidad híbrida de teletrabajo</li><li> Jornada completa</li><li> Centro de trabajo en Oviedo o Vigo</li><li> Contrato indefinido<br><br></li></ul>Si te unes al equipo de<strong> SERESCO</strong>, podrás contar con <strong>beneficios</strong> como:<br><br><ul><li> Una política de RRHH que permitirá la integración perfecta de tu vida personal. Política de teletrabajo muy extendida en la Compañía, tendrás una modalidad de trabajo híbrido.</li><li> Horario flexible, con jornada continua todos los viernes. Horario de verano durante 4 meses con jornada continua de L-V,</li><li> Disfrutarás de 22 días laborables de vacaciones, más el día de nochebuena o nochevieja. El día que no disfrutes aprovecharemos para tomar algo y brindar a nuestra salud.</li><li> Descuentos exclusivos en multitud de servicios y productos (viajes, automóvil, moda, tiempo libre, deporte, cultura, hogar, tecnología, gastronomía…) a través de la plataforma Corporate Benefits.</li><li> En SERESCO tenemos la posibilidad de configurar qué queremos hacer con nuestro sueldo bruto (programa Serflex), pudiendo utilizar una parte de forma flexible. Podrás optar a los siguientes servicios:</li><li>Seguro Médico (Sanitas, IMQ o Caser), incluyendo familiares.</li><li>Cheque/Tarjeta Gourmet.</li><li>Tarjeta Transporte.</li><li>Cheque guardería.</li><li> Existe también un plan de incentivos muy interesante si nos ayudas a encontrar a profesionales como tú.</li><li> Como aquí ayudamos a buscar/inventar nuevos proyectos, también existe un plan de recompensa por captación de negocio.</li><li> Bolsa de apoyo a estudios reglados.</li><li> Te ayudamos con los idiomas, porque es muy posible que los necesites (inglés y francés).</li><li> Formación presencial y online, para que puedas mantenerte al día y a tu ritmo.</li><li> Organización donde todas las puertas están abiertas de verdad.<br><br></li></ul>En Seresco estamos comprometidos con el fomento de la <strong>Diversidad, </strong>la <strong>Inclusión, </strong>la <strong>Responsabilidad Social, </strong>la <strong>Igualdad </strong>entre hombres y mujeres y la<strong> Sostenibilidad</strong> en nuestro ambiente de trabajo. Valoramos las perspectivas únicas que cada persona de nuestro equipo aporta y nos esforzamos por crear una cultura que celebra y respeta la diversidad en todas sus formas. ¡Si buscas una empresa que valore la inclusión y la igualdad de oportunidades, esta es la tuya!<br><br>Requisitos:<br><br><ul><li>Grado o máster en Estadística, Matemáticas, Ciencias de la Computación o áreas afines.</li><li>Lenguajes de programación: Python, R, SQL.</li><li>Estadística y machine learning: Experiencia con técnicas avanzadas (regresión, clustering, árboles de decisión, redes neuronales).</li><li>Herramientas: Uso de librerías como Scikit-learn, TensorFlow, PyTorch, XGBoost.</li><li>Visualización: Conocimientos de Matplotlib, Seaborn, Tableau, Power BI o similares.</li><li>Modelos avanzados: Familiaridad con NLP, series temporales, computer vision.</li><li>Data wrangling: Experiencia en limpieza y manipulación de datos usando Pandas, Numpy o similares.</li><li>Experiencia con servicios en la nube para ML/AI como AWS Sagemaker o Google AI Platform.<br><br></li></ul>COMPETENCIAS<br><br><ul><li>Flexibilidad y gestión del cambio</li><li>Trabajo en equipo y colaboración</li><li>Capacidad de innovación</li><li>Capacidad de comunicación</li><li>Enfoque analítico para resolver problemas del negocio mediante datos.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-27,[]
+4073644942,https://es.linkedin.com/jobs/view/data-scientist-programa-investigo-at-gobierno-de-cantabria-4073644942?position=41&pageNum=0&refId=qBn7xMrMuM%2Bu6VTR38HSjg%3D%3D&trackingId=piiEsSuN1R6UnAROdS2qpw%3D%3D,Data Scientist - Programa Investigo,Gobierno de Cantabria,"Santander, Cantabria, Spain","DEDUCE DATA SOLUTIONS SL CONVOCA PROCESO SELECTIVO PARA LA CONTRATACIÓN DE 1 DATA SCIENTIST FUNCIONES: - COMPRENSIÓN Y VISUALIZACIÓN DE DATOS - DESARROLLO DE MODELOS DE MACHINE LEARNING - DEFINICIÓN DE MODELOS Y EXTRACCIÓN DE INFORMACIÓN VALIOSA DE LOS DATOS - APLICACIÓN DE TÉCNICAS ESTADÍSTICAS A DISTINTOS TIPOS DE DATOS - PRESENTACIONES Y REDACCIÓN DE INFORMES. REQUISITOS: 1. ESTAR DESEMPLEADO E INSCRITO COMO DEMANDANTE DE EMPLEO EN EL SERVICIO CÁNTABRO DE EMPLEO EN EL MOMENTO DE LA CONTRATACIÓN, 2. TENER ENTRE 18 Y 29 AÑOS (NO HABER CUMPLIDO LOS 30 AÑOS EN EL MOMENTO DE LA CONTRATACIÓN), 3. FORMACIÓN ACADEMICA: GRADO EN FÍSICA, INFORMÁTICA O MATEMÁTICAS Y MÁSTER EN CIENCIA DE DATOS O SIMILAR. 4. SE VALORARÁN CONOCIMIENTOS DE PYTHON, HERRAMIENTAS DE MACHINE LEARNING, Y SE REQUIERE FLUIDEZ AVANZADA EN INGLÉS. CONTRATO SUBVENCIONADO POR LA UNIÓN EUROPEA-NEXT GENERATION UE, EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA (BOC 18-04-2024), DENTRO DEL PROGRAMA INVESTIGO. SE OFRECE CONTRATO TEMPORAL DE 12 MESES DE DURACIÓN A JORNADA COMPLETA EN HORARIO CONTINUO DE 9:00 A 17:00 HORAS DE LUNES A VIERNES. SALARIO SEGÚN ESTATUTO DE LOS DE LOS TRABAJADORES.
+
+Datos De Contacto
+
+CÓDIGO DE OFERTA: 062024003626 LAS PERSONAS INTERESADAS EN PARTICIPAR EN EL PROCESO SELECTIVO DE ESTA OFERTA Y QUE CUMPLAN CON LOS REQUISITOS, DEBERÁN ENVIAR SU CURRICULUM VITAE CIEGO A LA SIGUIENTE DIRECCIÓN DE CORREO ELECTRÓNICO ****** EL C.V. DEBE SER ANÓNIMO, SIN NINGÚN DATO PERSONAL Y SIN FOTOGRAFÍA, NI DATOS DE CONTACTO PARA QUE LA ENTIDAD REALICE LA VALORACIÓN CURRICULAR GARANTIZANDO EL PRINCIPIO DE NO DISCRIMINACIÓN POR NINGUNA RAZÓN). NO SE TENDRÁN POR PRESENTADOS AQUELLOS CVs QUE NO SEAN TOTALMENTE CIEGOS. IMPRESCINDIBLE INDICAR EN EL ASUNTO DE ENVÍO LA DENOMINACIÓN DEL PUESTO (DATA SCIENTIST) Y Nº DE OFERTA 3626 Y EN EL PROPIO CUERPO DEL CORREO INDICAR LOS DATOS PERSONALES OMITIDOS EN EL CURRICULUM VITAE CIEGO (DNI O NIE, NOMBRE Y APELLIDOS, FECHA DE NACIMIENTO, TELÉFONO Y CORREO ELECTRÓNICO DE CONTACTO). FINALIZADO EL PLAZO DE PRESENTACIÓN, EL DÍA 22/11/2024 A LAS 13 HORAS, LA OFICINA DE EMPLEO ENVIARÁ A LA EMPRESA LOS C.V. CIEGOS PARA SU BAREMACIÓN.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          DEDUCE DATA SOLUTIONS SL CONVOCA PROCESO SELECTIVO PARA LA CONTRATACIÓN DE 1 DATA SCIENTIST FUNCIONES: - COMPRENSIÓN Y VISUALIZACIÓN DE DATOS - DESARROLLO DE MODELOS DE MACHINE LEARNING - DEFINICIÓN DE MODELOS Y EXTRACCIÓN DE INFORMACIÓN VALIOSA DE LOS DATOS - APLICACIÓN DE TÉCNICAS ESTADÍSTICAS A DISTINTOS TIPOS DE DATOS - PRESENTACIONES Y REDACCIÓN DE INFORMES. REQUISITOS: 1. ESTAR DESEMPLEADO E INSCRITO COMO DEMANDANTE DE EMPLEO EN EL SERVICIO CÁNTABRO DE EMPLEO EN EL MOMENTO DE LA CONTRATACIÓN, 2. TENER ENTRE 18 Y 29 AÑOS (NO HABER CUMPLIDO LOS 30 AÑOS EN EL MOMENTO DE LA CONTRATACIÓN), 3. FORMACIÓN ACADEMICA: GRADO EN FÍSICA, INFORMÁTICA O MATEMÁTICAS Y MÁSTER EN CIENCIA DE DATOS O SIMILAR. 4. SE VALORARÁN CONOCIMIENTOS DE PYTHON, HERRAMIENTAS DE MACHINE LEARNING, Y SE REQUIERE FLUIDEZ AVANZADA EN INGLÉS. CONTRATO SUBVENCIONADO POR LA UNIÓN EUROPEA-NEXT GENERATION UE, EN EL MARCO DEL PLAN DE RECUPERACIÓN, TRANSFORMACIÓN Y RESILIENCIA (BOC 18-04-2024), DENTRO DEL PROGRAMA INVESTIGO. SE OFRECE CONTRATO TEMPORAL DE 12 MESES DE DURACIÓN A JORNADA COMPLETA EN HORARIO CONTINUO DE 9:00 A 17:00 HORAS DE LUNES A VIERNES. SALARIO SEGÚN ESTATUTO DE LOS DE LOS TRABAJADORES.<br><br><strong>Datos De Contacto<br><br></strong>CÓDIGO DE OFERTA: 062024003626 LAS PERSONAS INTERESADAS EN PARTICIPAR EN EL PROCESO SELECTIVO DE ESTA OFERTA Y QUE CUMPLAN CON LOS REQUISITOS, DEBERÁN ENVIAR SU CURRICULUM VITAE CIEGO A LA SIGUIENTE DIRECCIÓN DE CORREO ELECTRÓNICO ****** EL C.V. DEBE SER ANÓNIMO, SIN NINGÚN DATO PERSONAL Y SIN FOTOGRAFÍA, NI DATOS DE CONTACTO PARA QUE LA ENTIDAD REALICE LA VALORACIÓN CURRICULAR GARANTIZANDO EL PRINCIPIO DE NO DISCRIMINACIÓN POR NINGUNA RAZÓN). NO SE TENDRÁN POR PRESENTADOS AQUELLOS CVs QUE NO SEAN TOTALMENTE CIEGOS. IMPRESCINDIBLE INDICAR EN EL ASUNTO DE ENVÍO LA DENOMINACIÓN DEL PUESTO (DATA SCIENTIST) Y Nº DE OFERTA 3626 Y EN EL PROPIO CUERPO DEL CORREO INDICAR LOS DATOS PERSONALES OMITIDOS EN EL CURRICULUM VITAE CIEGO (DNI O NIE, NOMBRE Y APELLIDOS, FECHA DE NACIMIENTO, TELÉFONO Y CORREO ELECTRÓNICO DE CONTACTO). FINALIZADO EL PLAZO DE PRESENTACIÓN, EL DÍA 22/11/2024 A LAS 13 HORAS, LA OFICINA DE EMPLEO ENVIARÁ A LA EMPRESA LOS C.V. CIEGOS PARA SU BAREMACIÓN.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-13,[]
+4083282192,https://es.linkedin.com/jobs/view/data-scientist-cient%C3%ADfico-a-de-datos-at-seresco-4083282192?position=1&pageNum=2&refId=ZXkpc7MH7gcXoyIGdYC%2Frg%3D%3D&trackingId=uwGqQWRx%2FRAMqIflOMXmIg%3D%3D,Data Scientist (Científico/a de Datos),Seresco,"Oviedo, Principality of Asturias, Spain","En Seresco, empresa líder del sector TIC en Asturias, queremos acoger al mejor talento. Estamos presentes e involucrados en multitud de proyectos a nivel nacional e internacional, utilizando los medios y tecnologías más punteras del mercado.
+
+Para ayudar al proceso de expansión nacional e internacional que está viviendo la Compañía, seleccionamos un/a Data Scientist (Científico/a de Datos) para su incorporación al área de Producción de Software.
+
+¿Qué te ofrecemos?
+
+
+Puesto estable para proyecto de larga duración
+Integración en un equipo multidisciplinar
+Desarrollo de carrera profesional, en función de la valía aportada
+Modalidad híbrida de teletrabajo
+Jornada completa
+Centro de trabajo en Oviedo o Vigo
+Contrato indefinido
+
+
+Si te unes al equipo de SERESCO, podrás contar con beneficios como:
+
+
+Una política de RRHH que permitirá la integración perfecta de tu vida personal. Política de teletrabajo muy extendida en la Compañía, tendrás una modalidad de trabajo híbrido.
+Horario flexible, con jornada continua todos los viernes. Horario de verano durante 4 meses con jornada continua de L-V,
+Disfrutarás de 22 días laborables de vacaciones, más el día de nochebuena o nochevieja. El día que no disfrutes aprovecharemos para tomar algo y brindar a nuestra salud.
+Descuentos exclusivos en multitud de servicios y productos (viajes, automóvil, moda, tiempo libre, deporte, cultura, hogar, tecnología, gastronomía…) a través de la plataforma Corporate Benefits.
+En SERESCO tenemos la posibilidad de configurar qué queremos hacer con nuestro sueldo bruto (programa Serflex), pudiendo utilizar una parte de forma flexible. Podrás optar a los siguientes servicios:
+Seguro Médico (Sanitas, IMQ o Caser), incluyendo familiares.
+Cheque/Tarjeta Gourmet.
+Tarjeta Transporte.
+Cheque guardería.
+Existe también un plan de incentivos muy interesante si nos ayudas a encontrar a profesionales como tú.
+Como aquí ayudamos a buscar/inventar nuevos proyectos, también existe un plan de recompensa por captación de negocio.
+Bolsa de apoyo a estudios reglados.
+Te ayudamos con los idiomas, porque es muy posible que los necesites (inglés y francés).
+Formación presencial y online, para que puedas mantenerte al día y a tu ritmo.
+Organización donde todas las puertas están abiertas de verdad.
+
+
+En Seresco estamos comprometidos con el fomento de la Diversidad, la Inclusión, la Responsabilidad Social, la Igualdad entre hombres y mujeres y la Sostenibilidad en nuestro ambiente de trabajo. Valoramos las perspectivas únicas que cada persona de nuestro equipo aporta y nos esforzamos por crear una cultura que celebra y respeta la diversidad en todas sus formas. ¡Si buscas una empresa que valore la inclusión y la igualdad de oportunidades, esta es la tuya!
+
+Requisitos:
+
+
+Grado o máster en Estadística, Matemáticas, Ciencias de la Computación o áreas afines.
+Lenguajes de programación: Python, R, SQL.
+Estadística y machine learning: Experiencia con técnicas avanzadas (regresión, clustering, árboles de decisión, redes neuronales).
+Herramientas: Uso de librerías como Scikit-learn, TensorFlow, PyTorch, XGBoost.
+Visualización: Conocimientos de Matplotlib, Seaborn, Tableau, Power BI o similares.
+Modelos avanzados: Familiaridad con NLP, series temporales, computer vision.
+Data wrangling: Experiencia en limpieza y manipulación de datos usando Pandas, Numpy o similares.
+Experiencia con servicios en la nube para ML/AI como AWS Sagemaker o Google AI Platform.
+
+
+COMPETENCIAS
+
+
+Flexibilidad y gestión del cambio
+Trabajo en equipo y colaboración
+Capacidad de innovación
+Capacidad de comunicación
+Enfoque analítico para resolver problemas del negocio mediante datos.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          En <strong>Seresco</strong>, empresa líder del sector TIC en Asturias, queremos acoger al mejor talento. Estamos presentes e involucrados en multitud de proyectos a nivel nacional e internacional, utilizando los medios y tecnologías más punteras del mercado.<br><br>Para ayudar al proceso de expansión nacional e internacional que está viviendo la Compañía, seleccionamos un/a<strong> Data Scientist (Científico/a de Datos) </strong>para su incorporación al área de Producción de Software.<br><br><strong>¿Qué te ofrecemos?<br><br></strong><ul><li> Puesto estable para proyecto de larga duración</li><li> Integración en un equipo multidisciplinar</li><li> Desarrollo de carrera profesional, en función de la valía aportada</li><li> Modalidad híbrida de teletrabajo</li><li> Jornada completa</li><li> Centro de trabajo en Oviedo o Vigo</li><li> Contrato indefinido<br><br></li></ul>Si te unes al equipo de<strong> SERESCO</strong>, podrás contar con <strong>beneficios</strong> como:<br><br><ul><li> Una política de RRHH que permitirá la integración perfecta de tu vida personal. Política de teletrabajo muy extendida en la Compañía, tendrás una modalidad de trabajo híbrido.</li><li> Horario flexible, con jornada continua todos los viernes. Horario de verano durante 4 meses con jornada continua de L-V,</li><li> Disfrutarás de 22 días laborables de vacaciones, más el día de nochebuena o nochevieja. El día que no disfrutes aprovecharemos para tomar algo y brindar a nuestra salud.</li><li> Descuentos exclusivos en multitud de servicios y productos (viajes, automóvil, moda, tiempo libre, deporte, cultura, hogar, tecnología, gastronomía…) a través de la plataforma Corporate Benefits.</li><li> En SERESCO tenemos la posibilidad de configurar qué queremos hacer con nuestro sueldo bruto (programa Serflex), pudiendo utilizar una parte de forma flexible. Podrás optar a los siguientes servicios:</li><li>Seguro Médico (Sanitas, IMQ o Caser), incluyendo familiares.</li><li>Cheque/Tarjeta Gourmet.</li><li>Tarjeta Transporte.</li><li>Cheque guardería.</li><li> Existe también un plan de incentivos muy interesante si nos ayudas a encontrar a profesionales como tú.</li><li> Como aquí ayudamos a buscar/inventar nuevos proyectos, también existe un plan de recompensa por captación de negocio.</li><li> Bolsa de apoyo a estudios reglados.</li><li> Te ayudamos con los idiomas, porque es muy posible que los necesites (inglés y francés).</li><li> Formación presencial y online, para que puedas mantenerte al día y a tu ritmo.</li><li> Organización donde todas las puertas están abiertas de verdad.<br><br></li></ul>En Seresco estamos comprometidos con el fomento de la <strong>Diversidad, </strong>la <strong>Inclusión, </strong>la <strong>Responsabilidad Social, </strong>la <strong>Igualdad </strong>entre hombres y mujeres y la<strong> Sostenibilidad</strong> en nuestro ambiente de trabajo. Valoramos las perspectivas únicas que cada persona de nuestro equipo aporta y nos esforzamos por crear una cultura que celebra y respeta la diversidad en todas sus formas. ¡Si buscas una empresa que valore la inclusión y la igualdad de oportunidades, esta es la tuya!<br><br>Requisitos:<br><br><ul><li>Grado o máster en Estadística, Matemáticas, Ciencias de la Computación o áreas afines.</li><li>Lenguajes de programación: Python, R, SQL.</li><li>Estadística y machine learning: Experiencia con técnicas avanzadas (regresión, clustering, árboles de decisión, redes neuronales).</li><li>Herramientas: Uso de librerías como Scikit-learn, TensorFlow, PyTorch, XGBoost.</li><li>Visualización: Conocimientos de Matplotlib, Seaborn, Tableau, Power BI o similares.</li><li>Modelos avanzados: Familiaridad con NLP, series temporales, computer vision.</li><li>Data wrangling: Experiencia en limpieza y manipulación de datos usando Pandas, Numpy o similares.</li><li>Experiencia con servicios en la nube para ML/AI como AWS Sagemaker o Google AI Platform.<br><br></li></ul>COMPETENCIAS<br><br><ul><li>Flexibilidad y gestión del cambio</li><li>Trabajo en equipo y colaboración</li><li>Capacidad de innovación</li><li>Capacidad de comunicación</li><li>Enfoque analítico para resolver problemas del negocio mediante datos.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-27,[]
+4046609837,https://es.linkedin.com/jobs/view/data-scientist-at-quant-ai-lab-4046609837?position=2&pageNum=2&refId=ZXkpc7MH7gcXoyIGdYC%2Frg%3D%3D&trackingId=8wzjialVZAPzy7G1SVabVQ%3D%3D,Data Scientist,QUANT AI Lab,Spain,"En QUANT AI LAB, seguimos creciendo para desarrollar las más avanzadas soluciones de inteligencia artificial y analíticas del mercado, siempre desde la vanguardia y unos conocimientos técnicos asentados. Unirse a QUANT AI LAB significa unirse a una aventura donde cada miembro es una parte importante de este proyecto, y cada parte resulta esencial para hacerlo realidad.
+
+
+
+
+Somos una empresa de alto valor tecnológico dentro del Sector IT, nos caracterizamos por la especialización tecnológica en determinados sectores dentro de todo lo que supone el mundo Tech. Nuestro prestigio se basa en la excelencia y el impacto significativo de nuestras soluciones en diversos sectores, lo que nos convierte en una referencia en la industria de la IA.
+
+
+
+
+OBJETIVO PRINCIPAL Y RESPONSABILIDADES:
+
+
+
+
+Estamos buscando reforzar nuestra división de élite de Inteligencia Artificial con varios Data Scientist con +3 años de experiencia en las distintas verticales de IA con las que trabajamos:
+
+
+
+
+Aprendizaje automático
+Computer Vision
+Procesamiento del Lenguaje Natural
+Optimización
+IAGen (IA Generativa)
+Análisis de series temporales, forecasting, regresión, predicción de compras, etc.
+
+
+
+
+¡Entre otras!
+
+
+
+
+Buscamos profesionales que posean un sólido conocimiento de las técnicas de inteligencia artificial: diseño de algoritmos, conceptualización, desarrollo y puesta en producción. Estas personas se incorporarán a nuestro equipo para abordar proyectos avanzados de analítica e inteligencia artificial, trabajando con algunas de las tecnologías más avanzadas del momento, y con impacto internacional.
+
+
+
+
+Entre las funciones de este equipo se encuentran:
+
+
+
+
+Diseñar e implementar soluciones de IA con impacto en clientes de distintos sectores (retail, banca, telecomunicaciones...).
+Participar en el diseño y desarrollo de procesos analítico-cognitivos.
+Analizar datos y utilizar modelos predictivos para impulsar la optimización y la mejora del desarrollo de productos y experiencia de los clientes.
+Diseñar marcos de prueba A / B y determinar siempre una métrica para evaluar los modelos.
+Desarrollar procesos y herramientas para supervisar y analizar el rendimiento del modelo.
+Identificar nuevas tecnologías y tendencias.
+Colaborar con un equipo de expertos en Data e IA, incluyendo Data Scientists, Data Engineers e investigadores.
+Asegurar la calidad y limpieza del código (Clean Code) manteniendo altos estándares de calidad.
+
+
+
+
+
+
+
+¿QUÉ BUSCAMOS EN TÍ?
+
+
+
+
+Graduado en matemáticas, física, informática o titulación técnica superior similar (otras ingenierías).
+Se valorará tener máster o doctorado en Inteligencia Artificial.
+Experiencia trabajando en el desarrollo y puesta en producción de modelos analíticos y de inteligencia artificial.
+Alto nivel de SQL y Python.
+Valorable experiencia con PySpark/Spark
+Muy valorable experiencia en Cloud (Azure, AWS o GCP).
+
+
+
+
+BENEFICIOS POR ESTAR EN QUANT:
+
+
+
+
+Contrato indefinido con salario competitivo.
+Impacto significativo: La oportunidad de trabajar directamente con clientes de alcance internacional, algunas de las mayores compañías del país y del mundo.
+Desarrollo profesional: Formarás parte de un equipo de élite donde podrás aprender y crecer profesionalmente.
+Ambiente laboral: Un ambiente divertido y agradable, con eventos festivos (afterworks, seminarios...).
+
+
+
+
+Si crees que puedes aportar a nuestra unidad analítica de vanguardia estaremos encantados de conocerte.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>En QUANT AI LAB, seguimos creciendo para desarrollar las más avanzadas soluciones de inteligencia artificial y analíticas del mercado, siempre desde la vanguardia y unos conocimientos técnicos asentados. Unirse a QUANT AI LAB significa unirse a una aventura donde cada miembro es una parte importante de este proyecto, y cada parte resulta esencial para hacerlo realidad.</p><p><br></p><p>Somos una empresa de alto valor tecnológico dentro del Sector IT, nos caracterizamos por la especialización tecnológica en determinados sectores dentro de todo lo que supone el mundo Tech. Nuestro prestigio se basa en la excelencia y el impacto significativo de nuestras soluciones en diversos sectores, lo que nos convierte en una referencia en la industria de la IA.</p><p><br></p><p><strong>OBJETIVO PRINCIPAL Y RESPONSABILIDADES:</strong></p><p><br></p><p>Estamos buscando reforzar nuestra <u>división de élite de Inteligencia Artificial</u> con varios <strong><u>Data Scientist</u> con +3 años de experiencia </strong>en las distintas verticales de IA con las que trabajamos:</p><p><br></p><ul><li>Aprendizaje automático</li><li>Computer Vision</li><li>Procesamiento del Lenguaje Natural</li><li>Optimización</li><li>IAGen (IA Generativa)</li><li>Análisis de series temporales, forecasting, regresión, predicción de compras, etc.</li></ul><p><br></p><p>¡Entre otras!</p><p><br></p><p>Buscamos profesionales que posean un sólido conocimiento de las técnicas de inteligencia artificial: diseño de algoritmos, conceptualización, desarrollo y puesta en producción. Estas personas se incorporarán a nuestro equipo para abordar <strong>proyectos avanzados</strong> de analítica e inteligencia artificial, trabajando con algunas de las tecnologías más avanzadas del momento, y con <u>impacto internacional</u>.</p><p><br></p><p>Entre las funciones de este equipo se encuentran:</p><p><br></p><ul><li>Diseñar e implementar soluciones de IA con <u>impacto en clientes de distintos sectores</u> (retail, banca, telecomunicaciones...).</li><li>Participar en el diseño y desarrollo de procesos analítico-cognitivos.</li><li>Analizar datos y utilizar modelos predictivos para impulsar la optimización y la mejora del desarrollo de productos y experiencia de los clientes.</li><li>Diseñar marcos de prueba A / B y determinar siempre una métrica para evaluar los modelos.</li><li>Desarrollar procesos y herramientas para supervisar y analizar el rendimiento del modelo.</li><li>Identificar nuevas tecnologías y tendencias.</li><li>Colaborar con un equipo de expertos en Data e IA, incluyendo Data Scientists, Data Engineers e investigadores.</li><li>Asegurar la calidad y limpieza del código (Clean Code) manteniendo altos estándares de calidad.</li></ul><p><br></p><p><br></p><p><strong>¿QUÉ BUSCAMOS EN TÍ?</strong></p><p><br></p><ul><li><strong>Graduado en matemáticas, física, informática o titulación técnica superior similar (otras ingenierías).</strong></li><li><strong>Se valorará tener máster o doctorado en Inteligencia Artificial</strong>.</li><li>Experiencia trabajando en el desarrollo y <strong>puesta en producción de modelos analíticos</strong> <strong>y de inteligencia artificial.</strong></li><li>Alto nivel de <strong>SQL y Python.</strong></li><li>Valorable experiencia con <strong>PySpark</strong>/Spark</li><li>Muy valorable experiencia en<strong> Cloud (Azure, AWS o GCP).</strong></li></ul><p><br></p><p><strong>BENEFICIOS POR ESTAR EN QUANT:</strong></p><p><br></p><ul><li><strong>Contrato indefinido con salario competitivo.</strong></li><li><strong>Impacto significativo:</strong> La oportunidad de trabajar directamente con clientes de alcance internacional, algunas de las <u>mayores compañías del país y del mundo</u>.</li><li><strong>Desarrollo profesional:</strong> Formarás parte de un equipo de élite donde podrás aprender y crecer profesionalmente.</li><li><strong>Ambiente laboral: </strong>Un ambiente divertido y agradable, con eventos festivos (afterworks, seminarios...).</li></ul><p><br></p><p>Si crees que puedes aportar a nuestra unidad analítica de vanguardia estaremos encantados de conocerte.</p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-29,[]
+4061879142,https://es.linkedin.com/jobs/view/data-scientist-business-analyst-at-frigorifics-ferrer-s-a-u-4061879142?position=7&pageNum=2&refId=ZXkpc7MH7gcXoyIGdYC%2Frg%3D%3D&trackingId=FE%2BYCwBAdns7PBsr65MqAg%3D%3D,Data Scientist / Business analyst,FRIGORIFICS FERRER S. A.U.,"Vic, Catalonia, Spain","Busquem a una persona que s’incorporarà dintre del Departament de Finances a la nostra delegació de Vic. Les seves funcions principals seran:
+
+
+
+
+Fer ús de grans conjunts de dades per extreure patrons i desenvolupar models que permetin millorar i facilitar la presa de decisions.
+Fer un anàlisis de totes les dades disponibles, amb visió de negoci 360, fent ús dels sistemes de control i de gestió de dades disponibles.
+Redacció d’informes segons necessitats de Direcció.
+Identificació d’oportunitats i de punts de millora a través de l’anàlisis de dades, analitzant impactes i avaluant els riscos, viabilitat i alineació estratègica de cada necessitat o petició per tal d’impulsar allò que aporti valor als objectius de la companyia.
+Fer propostes de nous projectes o de solucions que contribueixin a la millora del negoci, i col·laborar i acompanyar en el desenvolupament d’aquests fins la seva implementació.
+Creació de visualitzacions efectives per tal de comunicar resultats i tendències.
+Establir una comunicació constant amb els diversos departaments per tal de conèixer les seves necessitats de negoci, essent el nexe entre ells i direcció.
+Identificar i entendre les necessitats i preocupacions dels diferents departaments
+
+
+
+
+Busquem a una persona amb capacitat analítica i resolutiva, habilitats comunicatives, visió de negoci, treball en equip, proactivitat i planificació i organització.
+
+
+
+
+Imprescindible tenir estudis universitaris de ADE, Economia o finances. Valorable formació específica en anàlisis de dades, tenir coneixements de SAP i nivell B1 d’anglès.
+
+
+
+
+Horari: 40h setmanals, de dilluns a dijous de 9h a 18h i els divendres de 8h a 15h.
+
+Tipus de contracte: Indefinit.
+
+Salari: Valorable segons vàlua.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Busquem a una persona que s’incorporarà dintre del Departament de Finances a la nostra delegació de Vic. Les seves funcions principals seran:</p><p><br></p><ul><li>Fer ús de grans conjunts de dades per extreure patrons i desenvolupar models que permetin millorar i facilitar la presa de decisions.</li><li>Fer un anàlisis de totes les dades disponibles, amb visió de negoci 360, fent ús dels sistemes de control i de gestió de dades disponibles.</li><li>Redacció d’informes segons necessitats de Direcció.</li><li>Identificació d’oportunitats i de punts de millora a través de l’anàlisis de dades, analitzant impactes i avaluant els riscos, viabilitat i alineació estratègica de cada necessitat o petició per tal d’impulsar allò que aporti valor als objectius de la companyia.</li><li>Fer propostes de nous projectes o de solucions que contribueixin a la millora del negoci, i col·laborar i acompanyar en el desenvolupament d’aquests fins la seva implementació.</li><li>Creació de visualitzacions efectives per tal de comunicar resultats i tendències.</li><li>Establir una comunicació constant amb els diversos departaments per tal de conèixer les seves necessitats de negoci, essent el nexe entre ells i direcció.</li><li>Identificar i entendre les necessitats i preocupacions dels diferents departaments</li></ul><p><br></p><p>Busquem a una persona amb capacitat analítica i resolutiva, habilitats comunicatives, visió de negoci, treball en equip, proactivitat i planificació i organització.</p><p><br></p><p>Imprescindible tenir estudis universitaris de ADE, Economia o finances. Valorable formació específica en anàlisis de dades, tenir coneixements de SAP i nivell B1 d’anglès.</p><p><br></p><p>Horari: 40h setmanals, de dilluns a dijous de 9h a 18h i els divendres de 8h a 15h.</p><p>Tipus de contracte: Indefinit.</p><p>Salari: Valorable segons vàlua.</p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""i18n_show_more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""i18n_show_less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2024-11-25,[]
