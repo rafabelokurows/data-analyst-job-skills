@@ -23,6 +23,7 @@ chromedriver_autoinstaller.install()  # Check if the current version of chromedr
 chrome_options = webdriver.ChromeOptions() 
 
 options = [
+  "--no-sandbox",
   # Define window size here
    "--window-size=1200,1200",
     "--ignore-certificate-errors",
@@ -31,8 +32,7 @@ options = [
     #"--window-size=1920,1200",
     #"--ignore-certificate-errors",
     #"--disable-extensions",
-    #"--no-sandbox",
-    #"--disable-dev-shm-usage",
+    "--disable-dev-shm-usage"
     #'--remote-debugging-port=9222'
 ]
 
