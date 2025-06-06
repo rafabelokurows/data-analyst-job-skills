@@ -1,0 +1,1713 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4237658639,https://nl.linkedin.com/jobs/view/data-scientist-at-geeksoft-consulting-4237658639?position=1&pageNum=0&refId=WKxgsXmqKLP7lStx5TX9ag%3D%3D&trackingId=IVQ0IrHtW6neAwNWX2IxSQ%3D%3D,Data Scientist,GeekSoft Consulting,"Amsterdam, North Holland, Netherlands","Help design, build and continuously improve the clients online platform.
+
+Research, suggest and implement new technology solutions following best practices/standards.
+
+Take responsibility for the resiliency and availability of different products.
+
+Be a productive member of the team.
+
+
+
+
+Requirements
+
+
+
+We are seeking a highly skilled Data Scientist with a strong foundation in Operations Research to join our team. This role requires experience in optimization, Python development, and the end-to-end deployment of analytics solutions in commercial or enterprise environments.
+Key Qualifications:
+
+
+Master’s degree in a relevant field with 4+ years of experience in Operations Research roles.
+
+Strong proficiency in Python (object-oriented programming, clean code principles).
+
+Hands-on experience with optimization solvers (Gurobi preferred, also CPLEX or COIN-OR).
+
+Familiarity with at least one SQL dialect (e.g., PostgreSQL, MySQL, MSSQL).
+
+Basic understanding of cloud platforms and tools such as Jira, Git, Docker, and CI/CD pipelines.
+
+Experience with visual debugging tools like VSCode or PyCharm.
+
+Proven track record in developing and deploying production-ready applications.
+
+Ability to explain complex technical concepts to both technical and non-technical audiences.
+
+Proactive, self-driven, and able to work independently.
+
+Bonus: Experience with simulation and data visualization tools.
+
+
+Preferred Skills:
+
+
+
+Ability to build and deploy Python-based REST APIs that interact with databases, perform data manipulation, and return results via endpoints.
+
+Strong understanding of coding best practices, including testing for business logic and endpoint functionality.
+
+Ability to justify and communicate design decisions clearly.
+
+
+Key Responsibilities:
+
+Engage with stakeholders to gather requirements and provide data-driven solutions.
+
+Analyze business problems and propose optimization-based approaches.
+
+Build, deploy, and monitor optimization models in production.
+
+Maintain and improve existing models and analytics tools.
+
+Perform ad hoc analyses to support business operations.
+
+
+
+
+Benefits
+
+
+A challenging, innovating environment.
+
+Opportunities for learning where needed.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <ul><li>Help design, build and continuously improve the clients online platform.<br> </li> <li>Research, suggest and implement new technology solutions following best practices/standards.<br> </li> <li>Take responsibility for the resiliency and availability of different products.<br> </li> <li>Be a productive member of the team.<br> <br><br><br></li></ul>Requirements<br><br><p>We are seeking a highly skilled Data Scientist with a strong foundation in Operations Research to join our team. This role requires experience in optimization, Python development, and the end-to-end deployment of analytics solutions in commercial or enterprise environments.<br>Key Qualifications:<br></p><ul> <li>Master’s degree in a relevant field with 4+ years of experience in Operations Research roles.<br> </li> <li>Strong proficiency in Python (object-oriented programming, clean code principles).<br> </li> <li>Hands-on experience with optimization solvers (Gurobi preferred, also CPLEX or COIN-OR).<br> </li> <li>Familiarity with at least one SQL dialect (e.g., PostgreSQL, MySQL, MSSQL).<br> </li> <li>Basic understanding of cloud platforms and tools such as Jira, Git, Docker, and CI/CD pipelines.<br> </li> <li>Experience with visual debugging tools like VSCode or PyCharm.<br> </li> <li>Proven track record in developing and deploying production-ready applications.<br> </li> <li>Ability to explain complex technical concepts to both technical and non-technical audiences.<br> </li> <li>Proactive, self-driven, and able to work independently.<br> </li> <li>Bonus: Experience with simulation and data visualization tools.<br> <br></li></ul>Preferred Skills:<br><br><br><ul> <li>Ability to build and deploy Python-based REST APIs that interact with databases, perform data manipulation, and return results via endpoints.<br> </li> <li>Strong understanding of coding best practices, including testing for business logic and endpoint functionality.<br> </li> <li>Ability to justify and communicate design decisions clearly.<br> <br></li></ul>Key Responsibilities:<br><ul> <li>Engage with stakeholders to gather requirements and provide data-driven solutions.<br> </li> <li>Analyze business problems and propose optimization-based approaches.<br> </li> <li>Build, deploy, and monitor optimization models in production.<br> </li> <li>Maintain and improve existing models and analytics tools.<br> </li> <li>Perform ad hoc analyses to support business operations.<br> <br><br><br></li></ul>Benefits<br><br><ul> <li>A challenging, innovating environment. <br> </li> <li>Opportunities for learning where needed.<br></li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-28,[]
+4243568804,https://nl.linkedin.com/jobs/view/machine-learning-engineer-at-oakwell-hampton-group-4243568804?position=2&pageNum=0&refId=WKxgsXmqKLP7lStx5TX9ag%3D%3D&trackingId=mF%2FhpSupNKXeHUwwMV0krw%3D%3D,Machine Learning Engineer,Oakwell Hampton Group,Amsterdam Area,"Machine Learning Engineer
+
+📍Hybrid – Amsterdam (Must be EU citizen)
+
+💰 Up to €75,000 per annum
+
+🌾 AgriTech | Forecasting | ML in Production
+
+🧠 Data Intelligence for Global Food Supply Chains
+
+
+
+
+We’re working exclusively with a well-backed AgTech startup building a next-generation data intelligence platform to transform food markets. Their goal?
+
+
+
+
+To eliminate opacity in agricultural pricing and give traders, processors and growers the tools to make smarter, data-led decisions — from field to supply chain. They’re now hiring a Machine Learning Engineer to drive the forecasting engine at the heart of this platform — where models meet real-world market volatility.
+
+
+
+
+
+
+
+🚀 Why join?
+
+
+
+
+✔️ Mission-led – Help stabilise food pricing and promote fairer agricultural supply chains
+
+✔️ Greenfield product – Build predictive systems from scratch: time series, demand signals, anomaly detection
+
+✔️ Core tech role – Own the design, deployment and evolution of machine learning in production
+
+✔️ Early-stage upside – Work directly with the founders and have real autonomy on an industry-defining product
+
+
+
+
+🔧 What you’ll be doing
+
+
+
+
+🔹 Build and deploy forecasting models to predict agricultural supply & demand
+
+🔹 Design pipelines for ingestion, training, validation and live inference
+
+🔹 Create robust benchmarking tools to evaluate model performance (backtesting, live scoring)
+
+🔹 Solve for data volatility, sparse signals, and seasonal cycles in pricing
+
+🔹 Collaborate with data engineers, economists and product leads to align models with user needs
+
+🔹 Explore LLMs, retrieval-augmented generation (RAG), and simulation techniques for decision tooling
+
+
+
+
+🧠 Ideal profile
+
+
+
+
+✔️ 4+ years working with ML models in production
+
+✔️ Strong Python skills (PyTorch, scikit-learn, XGBoost) and familiarity with ML Ops tooling (MLflow, W&B, Keras, Tensorflow)
+
+✔️ Production-level engineering skills — Docker, CI/CD, Azure, SQL, model monitoring
+
+✔️ Deep understanding of data reliability, explainability and model evaluation in noisy domains
+
+
+
+
+Interested?
+
+Apply today or call Will Aldred at Oakwell Hampton Nederland
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Machine Learning Engineer</strong></p><p><strong>📍Hybrid – Amsterdam (Must be EU citizen)</strong></p><p><strong>💰 Up to €75,000 per annum</strong></p><p><strong>🌾 AgriTech | Forecasting | ML in Production</strong></p><p><strong>🧠 Data Intelligence for Global Food Supply Chains</strong></p><p><br></p><p>We’re working exclusively with a well-backed AgTech startup building a next-generation data intelligence platform to transform food markets. Their goal?</p><p><br></p><p>To eliminate opacity in agricultural pricing and give traders, processors and growers the tools to make smarter, data-led decisions — from field to supply chain. They’re now hiring a Machine Learning Engineer to drive the forecasting engine at the heart of this platform — where models meet real-world market volatility.</p><p><br></p><p><br></p><p><strong>🚀 Why join?</strong></p><p><br></p><p>✔️ Mission-led – Help stabilise food pricing and promote fairer agricultural supply chains</p><p>✔️ Greenfield product – Build predictive systems from scratch: time series, demand signals, anomaly detection</p><p>✔️ Core tech role – Own the design, deployment and evolution of machine learning in production</p><p>✔️ Early-stage upside – Work directly with the founders and have real autonomy on an industry-defining product</p><p><br></p><p><strong>🔧 What you’ll be doing</strong></p><p><br></p><p>🔹 Build and deploy forecasting models to predict agricultural supply &amp; demand</p><p>🔹 Design pipelines for ingestion, training, validation and live inference</p><p>🔹 Create robust benchmarking tools to evaluate model performance (backtesting, live scoring)</p><p>🔹 Solve for data volatility, sparse signals, and seasonal cycles in pricing</p><p>🔹 Collaborate with data engineers, economists and product leads to align models with user needs</p><p>🔹 Explore LLMs, retrieval-augmented generation (RAG), and simulation techniques for decision tooling</p><p><br></p><p><strong>🧠 Ideal profile</strong></p><p><br></p><p>✔️ 4+ years working with ML models in production</p><p>✔️ Strong Python skills (PyTorch, scikit-learn, XGBoost) and familiarity with ML Ops tooling (MLflow, W&amp;B, Keras, Tensorflow)</p><p>✔️ Production-level engineering skills — Docker, CI/CD, Azure, SQL, model monitoring</p><p>✔️ Deep understanding of data reliability, explainability and model evaluation in noisy domains</p><p><br></p><p><strong>Interested?</strong></p><p>Apply today or call Will Aldred at Oakwell Hampton Nederland</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-03,[]
+4231167467,https://nl.linkedin.com/jobs/view/data-scientist-at-geeksoft-consulting-4231167467?position=3&pageNum=0&refId=WKxgsXmqKLP7lStx5TX9ag%3D%3D&trackingId=vmoSk2dgrBT4Ct8kVwch0g%3D%3D,Data Scientist,GeekSoft Consulting,"Amsterdam, North Holland, Netherlands","Help design, build and continuously improve the clients online platform.
+
+Research, suggest and implement new technology solutions following best practices/standards.
+
+Take responsibility for the resiliency and availability of different products.
+
+Be a productive member of the team.
+
+
+
+
+Requirements
+
+Role Overview:
+
+Design and deliver effective data processing solutions that align with both business objectives and project requirements.
+
+Migrate and refactor existing PL/SQL scripts into Java code, ensuring compatibility with current systems.
+
+Build and maintain automated testing frameworks to uphold high code quality and reliability standards.
+
+Work closely with cross-functional teams—architects, developers, and others—to ensure smooth integration of data services into broader application ecosystems.
+
+
+Required Skills:
+
+Strong expertise in Oracle SQL and PL/SQL
+
+Practical experience with Java development, particularly using Spring Boot
+
+Proven ability to refactor PL/SQL scripts into Java-based services
+
+Proficiency in automated testing within the Java ecosystem
+
+Experience in manual testing for PL/SQL script changes
+
+Dutch language proficiency at B2 level or higher
+
+Solid understanding of SOAP and REST protocols for service integration.
+
+
+Preferred Skills:
+
+Background in Oracle Forms development
+
+Familiarity with UML (Unified Modeling Language)
+
+Experience working within Agile and DevOps environments
+
+Ability to diagnose and resolve performance issues in databases and data retrieval
+
+Exposure to Java 21
+
+Understanding of message exchange patterns relevant to Java and Oracle SQL environments
+
+
+
+
+Benefits
+
+
+A challenging, innovating environment.
+
+Opportunities for learning where needed.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <ul><li>Help design, build and continuously improve the clients online platform.<br> </li> <li>Research, suggest and implement new technology solutions following best practices/standards.<br> </li> <li>Take responsibility for the resiliency and availability of different products.<br> </li> <li>Be a productive member of the team.<br> <br><br><br></li></ul>Requirements<br><br><strong>Role Overview:<br></strong><ul> <li>Design and deliver effective data processing solutions that align with both business objectives and project requirements.<br> </li> <li>Migrate and refactor existing PL/SQL scripts into Java code, ensuring compatibility with current systems.<br> </li> <li>Build and maintain automated testing frameworks to uphold high code quality and reliability standards.<br> </li> <li>Work closely with cross-functional teams—architects, developers, and others—to ensure smooth integration of data services into broader application ecosystems.<br> <br></li></ul><strong>Required Skills:<br></strong><ul> <li>Strong expertise in Oracle SQL and PL/SQL<br> </li> <li>Practical experience with Java development, particularly using Spring Boot<br> </li> <li>Proven ability to refactor PL/SQL scripts into Java-based services<br> </li> <li>Proficiency in automated testing within the Java ecosystem<br> </li> <li>Experience in manual testing for PL/SQL script changes<br> </li> <li>Dutch language proficiency at B2 level or higher<br> </li> <li>Solid understanding of SOAP and REST protocols for service integration.<br> <br></li></ul><strong>Preferred Skills:<br></strong><ul> <li>Background in Oracle Forms development<br> </li> <li>Familiarity with UML (Unified Modeling Language)<br> </li> <li>Experience working within Agile and DevOps environments<br> </li> <li>Ability to diagnose and resolve performance issues in databases and data retrieval<br> </li> <li>Exposure to Java 21<br> </li> <li>Understanding of message exchange patterns relevant to Java and Oracle SQL environments<br> <br><br><br></li></ul>Benefits<br><br><ul> <li>A challenging, innovating environment. <br> </li> <li>Opportunities for learning where needed.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-19,[]
+4219890231,https://de.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4219890231?position=1&pageNum=0&refId=9R%2FlKHABaF6Hu4dZ5KpcdQ%3D%3D&trackingId=LSF1E67JJorPxuMJYB6FZg%3D%3D,Data Scientist,Booz Allen Hamilton,"Stuttgart, Baden-Württemberg, Germany","Job Number: R0219220
+
+Data Scientist
+
+The Opportunity:
+
+As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors—from fraud detection to cancer research to national intelligence—we need you to help find the answers in the data.
+
+On our team, you’ll use your analytical skills and data science knowledge to create real-world impact. You’ll work closely with your clients to understand their questions and needs, and then dig into their data-rich environments to find the pieces of their information puzzle. You’ll develop algorithms and systems and use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to help clients make informed decisions. Ultimately, you’ll provide a deep understanding of the data, what it all means, and how it can be used.
+
+Work with us as we use data science for good.
+
+Join us. The world can’t wait.
+
+You Have:  
+
+
+2+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining
+2+ years of experience with statistical and general-purpose programming languages for data analysis
+Experience with analyzing structured and unstructured data sources
+Experience with briefing senior DoD leadership on technical deliveries
+Experience in working independently, including with the entire analytics development process
+Knowledge of Machine Learning, Artificial Intelligence, or Natural Language Processing
+Knowledge of Advana
+TS/SCI clearance
+Bachelor’s degree
+
+
+
+Nice If You Have:  
+
+
+2+ years of experience in the development of algorithms leveraging R, Python, or SQL and NoSQL
+2+ years of experience with Distributed data or computing tools, including MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL
+Experience with Palantir Products
+
+
+
+Clearance:
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
+
+Compensation
+
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $77,500.00 to $176,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.
+
+Identity Statement
+
+As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+
+Work Model
+
+Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.
+
+
+If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.
+If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.
+
+
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Job Number: R0219220<br><br></strong>Data Scientist<br><br><strong>The Opportunity: <br><br></strong>As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors—from fraud detection to cancer research to national intelligence—we need you to help find the answers in the data.<br><br>On our team, you’ll use your analytical skills and data science knowledge to create real-world impact. You’ll work closely with your clients to understand their questions and needs, and then dig into their data-rich environments to find the pieces of their information puzzle. You’ll develop algorithms and systems and use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to help clients make informed decisions. Ultimately, you’ll provide a deep understanding of the data, what it all means, and how it can be used.<br><br>Work with us as we use data science for good.<br><br>Join us. The world can’t wait.<br><br><strong>You Have:</strong>  <br><br><ul><li>2+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining </li><li>2+ years of experience with statistical and general-purpose programming languages for data analysis </li><li>Experience with analyzing structured and unstructured data sources </li><li>Experience with briefing senior DoD leadership on technical deliveries</li><li>Experience in working independently, including with the entire analytics development process</li><li>Knowledge of Machine Learning, Artificial Intelligence, or Natural Language Processing </li><li>Knowledge of Advana</li><li>TS/SCI clearance</li><li>Bachelor’s degree <br><br><br></li></ul><strong>Nice If You Have:</strong>  <br><br><ul><li>2+ years of experience in the development of algorithms leveraging R, Python, or SQL and NoSQL </li><li>2+ years of experience with Distributed data or computing tools, including MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL </li><li>Experience with Palantir Products<br><br><br></li></ul><strong>Clearance: <br><br></strong>Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.<br><br><strong>Compensation<br><br></strong>At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.<br><br>Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $77,500.00 to $176,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.<br><br><strong>Identity Statement<br><br></strong>As part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.<br><br><strong>Work Model<br><br></strong>Our people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.<br><br><ul><li>If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.</li><li>If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.<br><br><br></li></ul><strong>Commitment to Non-Discrimination<br><br></strong>All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-23,[]
+4213525192,https://de.linkedin.com/jobs/view/lead-data-scientist-stuttgart-area-germany-up-to-%E2%82%AC90-000-d-m-w-at-optimus-search-4213525192?position=2&pageNum=0&refId=9R%2FlKHABaF6Hu4dZ5KpcdQ%3D%3D&trackingId=0Ht2lRShYi7rZG6rY3vYdA%3D%3D,"Lead Data Scientist - Stuttgart Area, Germany - Up to €90,000 (d / m / w)",Optimus Search,Stuttgart Region,"Lead Data Scientist - Stuttgart Area, Germany - Up to €90,000 (d / m / w)
+
+
+
+
+Based in Engineering-hub of Germany, a pioneering, international, and ferociously expanding company is offering an unequaled Lead Data Scientist role.
+
+
+
+
+This specialist company develops world-leading measurement instruments for the environmental sector. During this exciting time, they urgently require a Lead Data Scientist to utilize their specialist skills to fuel the progression of the company.
+
+
+
+
+Responsibilities
+
+
+
+
+Leadership:
+
+
+
+
+Coordinate and implement team/product strategy in collaboration with the Director of AI/Data Science
+Work cross-functionally (Software, Business, etc.) to conform product goals
+Research and implement cutting-edge Data Science and AI trends/technologies
+Deliver technical leadership to a well-established Data Science team
+
+
+
+
+Technical:
+
+
+
+
+Identify and implement DL architectures
+Ensure cooperation and collaboration of multiple AI/Data Science projects within the business
+
+
+
+
+Desired Skills and Experience
+
+
+
+
+Completed a degree in Computer Science, Data Science, Mathematics, or similar
+6+ years of professional experience (post-grad) in Data Science
+2+ years of professional experience in a Team Lead, Technical Lead, or Managerial role
+Python programming
+Deep Learning frameworks (e.g. PyTorch, Tensorflow, Keras, etc.)
+Excellent knowledge & experience in designing and implementing DL architecture (e.g. CNN, RNN, etc.)
+Experience and involvement in MLOps
+Fluency in English, German is a bonus
+
+
+
+
+Do not miss your opportunity to propel your career in an established and stimulating organization. This role will not be open for long so apply immediately!
+
+
+
+
+Please email me with your CV and any other relevant information to arasulo@optimussearch.com
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Lead Data Scientist - Stuttgart Area, Germany - Up to €90,000 (d / m / w) </strong></p><p><br></p><p>Based in Engineering-hub of Germany, a pioneering, international, and ferociously expanding company is offering an unequaled Lead Data Scientist role.</p><p><br></p><p>This specialist company develops world-leading measurement instruments for the environmental sector. During this exciting time, they urgently require a Lead Data Scientist to utilize their specialist skills to fuel the progression of the company.</p><p><br></p><p><strong>Responsibilities</strong></p><p><br></p><p>Leadership:</p><p><br></p><ul><li>Coordinate and implement team/product strategy in collaboration with the Director of AI/Data Science</li><li>Work cross-functionally (Software, Business, etc.) to conform product goals</li><li>Research and implement cutting-edge Data Science and AI trends/technologies</li><li>Deliver technical leadership to a well-established Data Science team</li></ul><p><br></p><p>Technical:</p><p><br></p><ul><li>Identify and implement DL architectures</li><li>Ensure cooperation and collaboration of multiple AI/Data Science projects within the business</li></ul><p><br></p><p><strong>Desired Skills and Experience</strong></p><p><br></p><ul><li>Completed a degree in Computer Science, Data Science, Mathematics, or similar</li><li>6+ years of professional experience (post-grad) in Data Science</li><li>2+ years of professional experience in a Team Lead, Technical Lead, or Managerial role</li><li>Python programming</li><li>Deep Learning frameworks (e.g. PyTorch, Tensorflow, Keras, etc.)</li><li>Excellent knowledge &amp; experience in designing and implementing DL architecture (e.g. CNN, RNN, etc.)</li><li>Experience and involvement in MLOps</li><li>Fluency in English, German is a bonus</li></ul><p><br></p><p>Do not miss your opportunity to propel your career in an established and stimulating organization. This role will not be open for long so apply immediately!</p><p><br></p><p>Please email me with your CV and any other relevant information to <strong>arasulo@optimussearch.com</strong></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-08,[]
+4219064015,https://de.linkedin.com/jobs/view/data-scientist-all-genders-at-expleo-group-4219064015?position=3&pageNum=0&refId=9R%2FlKHABaF6Hu4dZ5KpcdQ%3D%3D&trackingId=2y44yaMpA6sCIvVnr06K3A%3D%3D,Data Scientist (all genders),Expleo Group,"Stuttgart, Baden-Württemberg, Germany","Unser Bereich Digital begleitet unsere Kunden auf ihrem Weg in die digitale Zukunft und entwickelt mit ihnen innovative Konzepte und Lösungen. Als Data Scientist arbeitest du an spannenden und zukunftsweisenden Projekten in verschiedenen Branchen wie Automotive, Banking, Versicherungen, Transportation und dem öffentlichen Sektor. Du transformierst komplexe Daten in wertvolle Erkenntnisse und unterstützt unsere Kunden dabei, datenbasierte Entscheidungen zu treffen und ihre Geschäftsprozesse zu optimieren.
+
+Verantwortlichkeiten
+
+
+Modellentwicklung: Entwicklung und Implementierung von datengetriebenen Modellen und Algorithmen, die teilweise auf künstlicher Intelligenz (KI) basieren.
+Datenverarbeitung: Erhebung, Verarbeitung und Bereinigung von großen und komplexen Datensätzen.
+Datenanalyse: Analyse von Daten zur Identifikation von Mustern, Trends und Zusammenhängen.
+Berichterstellung: Erstellung und Präsentation von Berichten und Dashboards zur Visualisierung von Daten und Ergebnissen.
+Teamarbeit: Zusammenarbeit mit verschiedenen Teams, um datenbasierte Entscheidungen zu unterstützen.
+Prozessverbesserung: Kontinuierliche Verbesserung bestehender Datenprozesse und -strukturen.
+
+
+Qualifikationen
+
+
+Studium: Du verfügst über ein abgeschlossenes Masterstudium (ggf. Promotion) im Bereich Wirtschafts­wissenschaften, Informatik, Physik oder einem vergleichbaren quantita­tiven Bereich
+Sprachkenntnisse: Du bringst verhandlungssichere Deutsch- und fließende Englischkenntnisse mit und weißt diese in der Zusammenarbeit mit Kunden einzusetzen
+
+
+Erforderliche Fähigkeiten
+
+
+Data Science: Du konntest bereits Erfahrungen in den Bereichen Data Science, Data Engineering und Data Analytics sammeln.
+Programmierkenntnisse: Du bringst fundierte Kenntnisse in Programmiersprachen wie Python, R oder SQL mit.
+Datenvisualisierung: Mit Datenvisualisierungstools wie Tableau, Power BI oder ähnlichen bist du vertraut.
+Big-Data-Technologien: Kenntnisse in Big-Data-Technologien wie Hadoop, Spark oder ähnliche sind von Vorteil.
+Analytische Fähigkeiten: Du bringst starke analytische und problemlösende Fähigkeiten mit und kannst komplexe technische Konzepte gegenüber Kunden verständlich kommunizieren.
+
+
+Leistungen
+
+
+Bei Expleo setzen wir auf Teamwork, Offenheit, Transparenz und Wertschätzung. Wir gehen unsere Aufgaben gemeinsam an
+Bei uns erwartet dich ein internationales und multikulturelles Team
+Bei uns sind alle gleich und wir tragen alle die gleiche Farbe: LILA!
+Wir bieten dir Gleitzeit, ein ausführliches Onboarding, Home-Office-Möglichkeiten und unzählige Mitarbeiter-Benefits. Wir bieten einen Arbeitsplatz, der deine persönlichen Lebensumstände berücksichtigt und dich absichert
+Man lernt nie aus: Deine Weiterentwicklung liegt uns sehr am Herzen. Wir bieten interne Aus- und Weiterbildungsmöglichkeiten und unterstützen dich und deine perspektivischen Ziele
+Wir haben Lust etwas zu bewegen, uns gegenseitig zu motivieren und freuen uns, wenn auch du deinen Teil zum großen Ganzen beitragen: Deine Erfahrung, deine Ideen und dein Engagement finden bei uns Gehör und werden honoriert
+Unsere Kunden können sich nicht nur sehen lassen; sie gehören zu den Top-Playern ihrer Branchen, in den Bereichen Banken und Versicherungen, Automotive, Luftfahrt, Transport, Life Science und viele mehr
+Das soziale Miteinander ist uns wichtig. Wir setzen auf Teambuilding und Identifikation
+
+
+Du willst mehr über uns wissen? Besuche einfach unseren Youtube-Kanal und schau Dir unsere Videos an. Wir freuen uns über Deine Bewerbung und darauf, Dich persönlich kennenzulernen.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Unser Bereich Digital begleitet unsere Kunden auf ihrem Weg in die digitale Zukunft und entwickelt mit ihnen innovative Konzepte und Lösungen. Als Data Scientist arbeitest du an spannenden und zukunftsweisenden Projekten in verschiedenen Branchen wie Automotive, Banking, Versicherungen, Transportation und dem öffentlichen Sektor. Du transformierst komplexe Daten in wertvolle Erkenntnisse und unterstützt unsere Kunden dabei, datenbasierte Entscheidungen zu treffen und ihre Geschäftsprozesse zu optimieren.<br><br><strong> Verantwortlichkeiten <br><br></strong><ul><li> Modellentwicklung: Entwicklung und Implementierung von datengetriebenen Modellen und Algorithmen, die teilweise auf künstlicher Intelligenz (KI) basieren. </li><li> Datenverarbeitung: Erhebung, Verarbeitung und Bereinigung von großen und komplexen Datensätzen. </li><li> Datenanalyse: Analyse von Daten zur Identifikation von Mustern, Trends und Zusammenhängen. </li><li> Berichterstellung: Erstellung und Präsentation von Berichten und Dashboards zur Visualisierung von Daten und Ergebnissen. </li><li> Teamarbeit: Zusammenarbeit mit verschiedenen Teams, um datenbasierte Entscheidungen zu unterstützen. </li><li> Prozessverbesserung: Kontinuierliche Verbesserung bestehender Datenprozesse und -strukturen. <br><br></li></ul><strong> Qualifikationen <br><br></strong><ul><li> Studium: Du verfügst über ein abgeschlossenes Masterstudium (ggf. Promotion) im Bereich Wirtschafts­wissenschaften, Informatik, Physik oder einem vergleichbaren quantita­tiven Bereich </li><li> Sprachkenntnisse: Du bringst verhandlungssichere Deutsch- und fließende Englischkenntnisse mit und weißt diese in der Zusammenarbeit mit Kunden einzusetzen <br><br></li></ul><strong> Erforderliche Fähigkeiten <br><br></strong><ul><li> Data Science: Du konntest bereits Erfahrungen in den Bereichen Data Science, Data Engineering und Data Analytics sammeln. </li><li> Programmierkenntnisse: Du bringst fundierte Kenntnisse in Programmiersprachen wie Python, R oder SQL mit. </li><li> Datenvisualisierung: Mit Datenvisualisierungstools wie Tableau, Power BI oder ähnlichen bist du vertraut. </li><li> Big-Data-Technologien: Kenntnisse in Big-Data-Technologien wie Hadoop, Spark oder ähnliche sind von Vorteil. </li><li> Analytische Fähigkeiten: Du bringst starke analytische und problemlösende Fähigkeiten mit und kannst komplexe technische Konzepte gegenüber Kunden verständlich kommunizieren. <br><br></li></ul><strong> Leistungen <br><br></strong><ul><li> Bei Expleo setzen wir auf Teamwork, Offenheit, Transparenz und Wertschätzung. Wir gehen unsere Aufgaben gemeinsam an </li><li> Bei uns erwartet dich ein internationales und multikulturelles Team </li><li> Bei uns sind alle gleich und wir tragen alle die gleiche Farbe: LILA! </li><li> Wir bieten dir Gleitzeit, ein ausführliches Onboarding, Home-Office-Möglichkeiten und unzählige Mitarbeiter-Benefits. Wir bieten einen Arbeitsplatz, der deine persönlichen Lebensumstände berücksichtigt und dich absichert </li><li> Man lernt nie aus: Deine Weiterentwicklung liegt uns sehr am Herzen. Wir bieten interne Aus- und Weiterbildungsmöglichkeiten und unterstützen dich und deine perspektivischen Ziele </li><li> Wir haben Lust etwas zu bewegen, uns gegenseitig zu motivieren und freuen uns, wenn auch du deinen Teil zum großen Ganzen beitragen: Deine Erfahrung, deine Ideen und dein Engagement finden bei uns Gehör und werden honoriert </li><li> Unsere Kunden können sich nicht nur sehen lassen; sie gehören zu den Top-Playern ihrer Branchen, in den Bereichen Banken und Versicherungen, Automotive, Luftfahrt, Transport, Life Science und viele mehr </li><li> Das soziale Miteinander ist uns wichtig. Wir setzen auf Teambuilding und Identifikation <br><br></li></ul>Du willst mehr über uns wissen? Besuche einfach unseren Youtube-Kanal und schau Dir unsere Videos an. Wir freuen uns über Deine Bewerbung und darauf, Dich persönlich kennenzulernen.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-20,[]
+4245252264,https://se.linkedin.com/jobs/view/ai-engineer-at-umain-4245252264?position=1&pageNum=0&refId=gbsHQ0Z3KvXgFF09N8rsOg%3D%3D&trackingId=DRPWfEyaLjW123oBApLixQ%3D%3D,AI Engineer,Umain,"Stockholm, Stockholm County, Sweden","At Umain, we're not just creating software; we're crafting the future, one innovative project at a time. With our motto ""Shape, Ship, Scale,"" we empower our team to not only envision the future but also play a pivotal role in building it. We're a dynamic team where you can shape the future, ship groundbreaking solutions, and scale your abilities in many different ways.
+
+We're on the lookout for developers ready to join us in this journey, bringing passion, creativity, and dedication along with them. The role is ideal for engineers with demonstrable skills in AI as well as for software engineers who have recently transitioned to AI and ML expertise, and offers an opportunity to develop your craft whilst working closely with clients on delivering AI solutions to real-world challenges.
+
+Job Summary
+
+We are seeking an AI Engineer with a strong intuition for AI and a genuine enthusiasm in building robust, scalable solutions to power innovative digital experiences. The ideal candidate combines technical expertise with a deep enthusiasm for advancing AI capabilities.
+
+What We Offer
+
+
+A chance to work closely with global brands on a range of diverse and unique projects that explore and truly push the boundaries of what's possible.
+A fun and fair work environment where you have the opportunity to expand your skills through unique challenges and fantastic colleagues.
+A personal coach, and a setting where you can grow professionally and personally.
+Being part of multidisciplinary teams, participating in agile teams, being an important player in a highly ambitious setting.
+
+
+As an AI Engineer at Umain, your role will involve:
+
+
+Assisting our clients in clarifying their questions and determining if using AI is a suitable solution for them
+You understand the limitations of a model and how to address them within the product’s UX
+Implementing AI-as-a-Service (e.g., OpenAI, Claude LLMs) in projects; you assess when these services are a good option and understand any potential limitations
+Being familiar with pre-trained models and available datasets and the ability to apply them if existing AI services fall short for the use case at hand
+Validating, deploying, monitoring, and maintaining built models, ensuring they can be used at scale
+Developing and maintaining end-to-end data pipelines and machine learning workflows, optimizing for performance and reliability
+Working with diverse, cross-functional teams on projects that deliver groundbreaking AI solutions for global brands
+
+
+It’s a plus (not a requirement) if you have additional experience in:
+
+
+PyTorch, Tensorflow
+Transfer learning, few-shot learning, PEFT and LoRa
+Multi-modal transformer models, RLHF
+
+
+Who You Are
+
+We Value Candidates Who Demonstrate
+
+
+Great delivery skills: Proven capability to deliver AI solutions
+Strong AI intuition: A deep understanding of AI concepts
+Curiosity: Enthusiasm for emerging technologies, creativity in problem-solving, and an eagerness to learn in a rapidly evolving AI landscape
+You're a developer with a passion for innovation and a knack for problem-solving.
+You're eager to learn, grow, and take on new challenges.
+You value collaboration, diversity, and the opportunity to make a significant impact.
+You believe in the power of technology to shape the future.
+
+
+Why Umain?
+
+Career Framework: We believe in fairness and clarity, which is why we've established a transparent career framework to ensure equal pay and equal opportunities for all. Your growth and success are as important to us as they are to you. Together with your coach, you will build your own development plan and grow in your career.
+
+Work-Life Balance: At Umain, diversity is our strength. We understand that life doesn’t pause when you walk into the office. That's why we've cultivated an environment that supports an excellent work-life balance. We welcome team members from all walks of life, recognizing the richness that different backgrounds, ages, and life stages bring to our team. We're committed to supporting each other, encouraging a healthy work-life balance that respects your needs, whether it's taking care of your family, your pets, or yourself.
+
+Innovations and Learning: Technology is always evolving, bringing new challenges and opportunities for collaboration and learning. Our developers work closely with designers, analysts, testers and more to tackle these challenges head-on, sharing knowledge and growing together.
+
+Skills Over Degrees: We’re more interested in what you can do than in the diplomas you hold. Talent, drive, and creativity are what count at Umain. Here, you’ll find opportunities to grow, learn, and excel in your career, regardless of your educational background. If you have the ambition and commitment to succeed, we have the environment and resources to support your journey.
+
+Are you ready to SHAPE, SHIP, and SCALE with us?
+
+If you're a developer who thrives on innovation, values a supportive and inclusive workplace, and is eager to make a tangible impact on the future, we’d love to hear from you. Let’s build something awesome together.
+
+Umain is a digital product consultancy. We shape, ship and scale digital products at speed. Founded in Stockholm in 2001, we are a growing team of 100+ experts in digital product strategy, design, and technology.
+
+We are a part of Eidra, a group of top-notch companies specializing in strategy, creativity, and engineering. As a collective we guide leaders in making meaningful and lasting change.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Umain, we're not just creating software; we're crafting the future, one innovative project at a time. With our motto ""Shape, Ship, Scale,"" we empower our team to not only envision the future but also play a pivotal role in building it. We're a dynamic team where you can shape the future, ship groundbreaking solutions, and scale your abilities in many different ways.<br><br>We're on the lookout for developers ready to join us in this journey, bringing passion, creativity, and dedication along with them. The role is ideal for engineers with demonstrable skills in AI as well as for software engineers who have recently transitioned to AI and ML expertise, and offers an opportunity to develop your craft whilst working closely with clients on delivering AI solutions to real-world challenges.<br><br><strong>Job Summary<br><br></strong>We are seeking an AI Engineer with a strong intuition for AI and a genuine enthusiasm in building robust, scalable solutions to power innovative digital experiences. The ideal candidate combines technical expertise with a deep enthusiasm for advancing AI capabilities.<br><br><strong>What We Offer<br><br></strong><ul><li>A chance to work closely with global brands on a range of diverse and unique projects that explore and truly push the boundaries of what's possible.</li><li>A fun and fair work environment where you have the opportunity to expand your skills through unique challenges and fantastic colleagues.</li><li>A personal coach, and a setting where you can grow professionally and personally.</li><li>Being part of multidisciplinary teams, participating in agile teams, being an important player in a highly ambitious setting.<br><br></li></ul>As an AI Engineer at Umain, your role will involve:<br><br><ul><li>Assisting our clients in clarifying their questions and determining if using AI is a suitable solution for them</li><li>You understand the limitations of a model and how to address them within the product’s UX</li><li>Implementing AI-as-a-Service (e.g., OpenAI, Claude LLMs) in projects; you assess when these services are a good option and understand any potential limitations</li><li>Being familiar with pre-trained models and available datasets and the ability to apply them if existing AI services fall short for the use case at hand</li><li>Validating, deploying, monitoring, and maintaining built models, ensuring they can be used at scale</li><li>Developing and maintaining end-to-end data pipelines and machine learning workflows, optimizing for performance and reliability</li><li>Working with diverse, cross-functional teams on projects that deliver groundbreaking AI solutions for global brands<br><br></li></ul>It’s a plus (not a requirement) if you have additional experience in:<br><br><ul><li>PyTorch, Tensorflow</li><li>Transfer learning, few-shot learning, PEFT and LoRa</li><li>Multi-modal transformer models, RLHF<br><br></li></ul>Who You Are<br><br><strong>We Value Candidates Who Demonstrate<br><br></strong><ul><li>Great delivery skills: Proven capability to deliver AI solutions</li><li>Strong AI intuition: A deep understanding of AI concepts </li><li>Curiosity: Enthusiasm for emerging technologies, creativity in problem-solving, and an eagerness to learn in a rapidly evolving AI landscape</li><li>You're a developer with a passion for innovation and a knack for problem-solving.</li><li>You're eager to learn, grow, and take on new challenges.</li><li>You value collaboration, diversity, and the opportunity to make a significant impact.</li><li>You believe in the power of technology to shape the future.<br><br></li></ul><strong>Why Umain?<br><br></strong><strong>Career Framework</strong>: We believe in fairness and clarity, which is why we've established a transparent career framework to ensure equal pay and equal opportunities for all. Your growth and success are as important to us as they are to you. Together with your coach, you will build your own development plan and grow in your career.<br><br><strong>Work-Life Balance</strong>: At Umain, diversity is our strength. We understand that life doesn’t pause when you walk into the office. That's why we've cultivated an environment that supports an excellent work-life balance. We welcome team members from all walks of life, recognizing the richness that different backgrounds, ages, and life stages bring to our team. We're committed to supporting each other, encouraging a healthy work-life balance that respects your needs, whether it's taking care of your family, your pets, or yourself.<br><br><strong>Innovations and Learning</strong>: Technology is always evolving, bringing new challenges and opportunities for collaboration and learning. Our developers work closely with designers, analysts, testers and more to tackle these challenges head-on, sharing knowledge and growing together.<br><br><strong>Skills Over Degrees</strong>: We’re more interested in what you can do than in the diplomas you hold. Talent, drive, and creativity are what count at Umain. Here, you’ll find opportunities to grow, learn, and excel in your career, regardless of your educational background. If you have the ambition and commitment to succeed, we have the environment and resources to support your journey.<br><br>Are you ready to SHAPE, SHIP, and SCALE with us?<br><br>If you're a developer who thrives on innovation, values a supportive and inclusive workplace, and is eager to make a tangible impact on the future, we’d love to hear from you. Let’s build something awesome together.<br><br>Umain is a digital product consultancy. We shape, ship and scale digital products at speed. Founded in Stockholm in 2001, we are a growing team of 100+ experts in digital product strategy, design, and technology.<br><br>We are a part of Eidra, a group of top-notch companies specializing in strategy, creativity, and engineering. As a collective we guide leaders in making meaningful and lasting change.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4242627870,https://se.linkedin.com/jobs/view/data-scientist-at-coody-4242627870?position=2&pageNum=0&refId=gbsHQ0Z3KvXgFF09N8rsOg%3D%3D&trackingId=O8stYthhgY47wbL0vfEiZQ%3D%3D,Data Scientist,Coody,"Stockholm, Stockholm County, Sweden","More independence, freedom, and better pay
+
+Coody believes in combining the freedom and flexibility of freelancing with the security of traditional employment.
+
+It's not rocket science.
+
+Overpaid managers, fancy offices, and heavily burdened organizations are history.
+
+The tech talent of tomorrow deserves a new, independent, and well-paid standard.
+
+Welcome to what we call Gravity Free Consulting.
+
+Why Coody
+
+At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a slimmed and efficient organization, meaning no overpaid managers, no fancy offices and no luxurious conferences. But, what does this mean in practice?
+
+Maximized Compensation - Typically a +40% salary increase.
+
+Freedom & Flexibility - No bosses. All digital. Fully remote for those who prefer.
+
+Employment Security - Fixed salary, pension, insurance, paid vacation and a big educational fund.
+
+Shaping the Future - Projects and assignments for digital game changes like Mojang, Spotify, Volumental, Volvo Cars, Varjo, Toca Boca, Hemnet, and exciting startups and scaleups.
+
+This is Coody
+
+We’re a diverse community of ambitious tech people from more than 14 nationalities working on exciting challenges with customers across Sweden, Finland, USA, and the UK in industries ranging from gaming, AR, EV, AI, Medtech and Fintech.
+
+Coody is more of a platform than a traditional consultancy. Everything we do, we do to make sure individuals working here can live according to their own priorities and unique ambitions. A consultant-first environment where you have better control over your career.
+
+Explore our Employee Handbook and discover a company that actually puts consultants first.
+
+What you’ll be doing
+
+As a Data Scientist Consultant at Coody, your role will involve helping interesting companies create value from their data. Everything from creating analyses, models, and insights from raw data, to improving and developing machine learning models in production. The work also involves driving product and design decisions based on data together with our clients.
+
+Since this is a senior position, you are expected to support the organization and the team by working in a data-driven way. As well as sharing your knowledge both within and outside the company.
+
+You’ll need to be adaptable and ready to hit the ground running in new environments. Typically, you’ll work on 1-2 assignments per year to tackle impactful projects with real-world results.
+
+Who you are
+
+We’re looking for a Data Scientist with 4+ years of experience and a proven ability to get things done. Here’s what we’re after:
+
+
+A solid track record working as a Data Scientist
+Hands-on experience with at least a couple of production-level data science projects - from prototyping to deployment and ongoing improvements
+Deep understanding of LLMs, Neural Networksone and tools such as Python, SQL, Numpy, Pandas, R, TensorFlow
+A degree in Statistics, Mathematics, Computer Science, or a related field
+Based in Sweden - You must have Swedish citizenship, a valid work visa, or permanent residency
+Fluent in English (spoken and written)
+
+
+How to apply
+
+Are you excited to take your career to the next level and meet the criterias? Apply now, and we'll be in touch shortly.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong><strong>More independence, freedom, and better pay<br><br></strong></strong>Coody believes in combining the freedom and flexibility of freelancing with the security of traditional employment.<br><br>It's not rocket science.<br><br>Overpaid managers, fancy offices, and heavily burdened organizations are history.<br><br>The tech talent of tomorrow deserves a new, independent, and well-paid standard.<br><br>Welcome to what we call Gravity Free Consulting.<br><br><strong><strong>Why Coody<br><br></strong></strong>At Coody, we cut out everything unnecessary to give more back to you as a consultant. And we have done it in the package of a slimmed and efficient organization, meaning no overpaid managers, no fancy offices and no luxurious conferences. But, what does this mean in practice?<br><br><strong>Maximized Compensation </strong>- Typically a +40% salary increase.<br><br><strong>Freedom &amp; Flexibility</strong> - No bosses. All digital. Fully remote for those who prefer.<br><br><strong>Employment Security </strong>- Fixed salary, pension, insurance, paid vacation and a big educational fund.<br><br><strong>Shaping the Future </strong>- Projects and assignments for digital game changes like Mojang, Spotify, Volumental, Volvo Cars, Varjo, Toca Boca, Hemnet, and exciting startups and scaleups.<br><br><strong><strong>This is Coody<br><br></strong></strong>We’re a diverse community of ambitious tech people from more than 14 nationalities working on exciting challenges with customers across Sweden, Finland, USA, and the UK in industries ranging from gaming, AR, EV, AI, Medtech and Fintech.<br><br>Coody is more of a platform than a traditional consultancy. Everything we do, we do to make sure individuals working here can live according to their own priorities and unique ambitions. A consultant-first environment where you have better control over your career.<br><br>Explore our <strong>Employee Handbook</strong> and discover a company that actually puts consultants first.<br><br><strong><strong>What you’ll be doing<br><br></strong></strong>As a Data Scientist Consultant at Coody, your role will involve helping interesting companies create value from their data. Everything from creating analyses, models, and insights from raw data, to improving and developing machine learning models in production. The work also involves driving product and design decisions based on data together with our clients.<br><br>Since this is a senior position, you are expected to support the organization and the team by working in a data-driven way. As well as sharing your knowledge both within and outside the company.<br><br>You’ll need to be adaptable and ready to hit the ground running in new environments. Typically, you’ll work on 1-2 assignments per year to tackle impactful projects with real-world results.<br><br><strong><strong>Who you are<br><br></strong></strong>We’re looking for a Data Scientist with<strong> 4+ years of experience</strong> and a proven ability to get things done. Here’s what we’re after:<br><br><ul><li>A solid track record working as a Data Scientist</li><li>Hands-on experience with at least a couple of production-level data science projects - from prototyping to deployment and ongoing improvements</li><li>Deep understanding of LLMs, Neural Networksone and tools such as Python, SQL, Numpy, Pandas, R, TensorFlow</li><li>A degree in Statistics, Mathematics, Computer Science, or a related field</li><li>Based in Sweden - You must have Swedish citizenship, a valid work visa, or permanent residency</li><li>Fluent in English (spoken and written)<br><br></li></ul><strong><strong>How to apply<br><br></strong></strong>Are you excited to take your career to the next level and meet the criterias? Apply now, and we'll be in touch shortly.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4234767151,https://se.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4234767151?position=3&pageNum=0&refId=gbsHQ0Z3KvXgFF09N8rsOg%3D%3D&trackingId=a7gObGAd1BqemzYTnFxIKQ%3D%3D,"Data Scientist - QuantumBlack, AI by McKinsey","QuantumBlack, AI by McKinsey",Greater Stockholm Metropolitan Area,"Who You'll Work With
+
+Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.
+
+In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.
+
+When you join us, you will have
+
+
+Continuous learning Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey.
+A voice that matters From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.
+Global community With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.
+World-class benefits On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package, which includes medical, dental, mental health, and vision coverage for you, your spouse/partner, and children.
+
+
+Your Impact
+
+You will work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using math, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.
+
+You will be a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritizing impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.
+
+As a Data Scientist, you will
+
+
+Partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions.
+Contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and client.
+Translate business problems into analytical problems and develop models aimed at solving our clients and users problems and ensure they are evaluated with the relevant metrics.
+Write highly optimized code to advance our internal Data Science Toolbox.
+You will do Machine Learning & statistical modelling as well as implementing generative AI and LLM use cases.
+Add real-world impact to your academic expertise, as you are encouraged to write papers and present at meetings and conferences should you wish.
+You will take part in R&D projects; attend conferences such as NIPS and ICML as well as data science retrospectives where you will have the opportunity to share and learn from your co-workers; work in one of the most advanced data science teams globally.
+Work on the frameworks and libraries that our teams of data scientists and data engineers use to progress from data to impact; you will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+
+
+Only at McKinsey
+
+Work on real-world, high-impact projects across a variety of industries– Identify micro patterns in data that our clients can exploit to maintain their competitive advantage and watch your technical solutions transform their day-to-day business.
+
+Experience the best environment to grow as a technologist and a leader– Develop a sought-after perspective connecting technology and business value by working on real-life problems across a variety of industries and technical challenges to serve our clients on their changing needs.
+
+Be surrounded by inspiring individuals as part of diverse multidisciplinary teams - Develop a holistic perspective of AI by partnering with the best design, technical, and business talent in the world as your team members.
+
+Our Tech Stack
+
+While we advocate for using the right tech for the right task, we often leverage the following technologies Python, PySpark, the PyData stack, SQL, Airflow, Databricks, our own open-source data pipelining framework called Kedro, Dask/RAPIDS, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP, and Azure, and more.
+
+Your Qualifications and Skills
+
+
+Bachelor's, master's or PhD level in a discipline such as computer science, machine learning, applied statistics, mathematics, engineering or artificial intelligence
+0-2 years of professional experience in applying machine learning and data mining techniques to real problems with copious amounts of data
+Programming experience (focus on machine learning) R and/or Python (must). Experience with PySpark/PyData is desirable
+Ability to prototype statistical analysis and modeling algorithms and apply these algorithms for data driven solutions to problems in new domains
+Ability to independently own and drive model development, balancing demands and deadlines
+Demonstrated aptitude for analytics
+Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields
+Willingness to travel
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Who You'll Work With<br><br></strong>Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.<br><br>In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.<br><br>When you join us, you will have<br><br><ul><li>Continuous learning Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey.</li><li>A voice that matters From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.</li><li>Global community With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.</li><li>World-class benefits On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package, which includes medical, dental, mental health, and vision coverage for you, your spouse/partner, and children.<br><br></li></ul><strong>Your Impact<br><br></strong>You will work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using math, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.<br><br>You will be a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritizing impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.<br><br>As a Data Scientist, you will<br><br><ul><li>Partner with our clients, from data owners and users to C-level executives, to understand their needs and build impactful analytics solutions.</li><li>Contribute to cross-functional problem-solving sessions with your team and deliver presentations to colleagues and client.</li><li>Translate business problems into analytical problems and develop models aimed at solving our clients and users problems and ensure they are evaluated with the relevant metrics.</li><li>Write highly optimized code to advance our internal Data Science Toolbox.</li><li>You will do Machine Learning &amp; statistical modelling as well as implementing generative AI and LLM use cases.</li><li>Add real-world impact to your academic expertise, as you are encouraged to write papers and present at meetings and conferences should you wish.</li><li>You will take part in R&amp;D projects; attend conferences such as NIPS and ICML as well as data science retrospectives where you will have the opportunity to share and learn from your co-workers; work in one of the most advanced data science teams globally.</li><li>Work on the frameworks and libraries that our teams of data scientists and data engineers use to progress from data to impact; you will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.<br><br></li></ul><strong>Only at McKinsey<br><br></strong><strong>Work on real-world, high-impact projects across a variety of industries</strong>– Identify micro patterns in data that our clients can exploit to maintain their competitive advantage and watch your technical solutions transform their day-to-day business.<br><br><strong>Experience the best environment to grow as a technologist and a leader</strong>– Develop a sought-after perspective connecting technology and business value by working on real-life problems across a variety of industries and technical challenges to serve our clients on their changing needs.<br><br><strong>Be surrounded by inspiring individuals as part of diverse multidisciplinary teams</strong> - Develop a holistic perspective of AI by partnering with the best design, technical, and business talent in the world as your team members.<br><br><strong>Our Tech Stack<br><br></strong>While we advocate for using the right tech for the right task, we often leverage the following technologies Python, PySpark, the PyData stack, SQL, Airflow, Databricks, our own open-source data pipelining framework called Kedro, Dask/RAPIDS, container technologies such as Docker and Kubernetes, cloud solutions such as AWS, GCP, and Azure, and more.<br><br><strong>Your Qualifications and Skills<br><br></strong><ul><li>Bachelor's, master's or PhD level in a discipline such as computer science, machine learning, applied statistics, mathematics, engineering or artificial intelligence</li><li>0-2 years of professional experience in applying machine learning and data mining techniques to real problems with copious amounts of data</li><li>Programming experience (focus on machine learning) R and/or Python (must). Experience with PySpark/PyData is desirable</li><li>Ability to prototype statistical analysis and modeling algorithms and apply these algorithms for data driven solutions to problems in new domains</li><li>Ability to independently own and drive model development, balancing demands and deadlines</li><li>Demonstrated aptitude for analytics</li><li>Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields</li><li>Willingness to travel</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-22,[]
+4235654183,https://dk.linkedin.com/jobs/view/data-scientist-at-audienceproject-4235654183?position=1&pageNum=0&refId=3QoJ1kbJTCjtFX9MKpkc%2FA%3D%3D&trackingId=BfniJoD%2Ba17TCmIXMdeE4w%3D%3D,Data Scientist,AudienceProject,Copenhagen Metropolitan Area,"Are you our new Data Scientist?
+
+AudienceProject is looking for a Data Scientist for our Copenhagen office to support our continued growth.
+
+—
+
+Are you an analyst at heart? And do you have an interest in data modeling and programming? Then we have an opportunity for a career in a fast-growing scale-up that directly cooperates with companies such as Meta, Google, Amazon, Netflix, Disney+ etc.
+
+
+
+
+AudienceProject is a leading SaaS company with 100+ employees delivering audience measurement and research solutions to major advertisers, agencies, and publishers across Europe.
+
+
+
+
+Our platform enables clients to better understand the reach and effect of their campaigns across channels, helping them make confident marketing decisions to reach and impact their audiences more effectively.
+
+
+
+
+Embarking on our second decade of audience measurement, we are now looking for a motivated Data Scientist to join our Data Science Research team.
+
+Joining AudienceProject will give you a front-row seat in the rapidly evolving marketing technology sector and an opportunity to work within a respected business, delivering insights about audiences across the world's largest media channels to top-tier clients and some of the world’s biggest brands.
+
+
+
+
+What you will do
+
+You will be tasked with developing and implementing new methodologies related to both our platform as well as work on bespoke solutions for top-tier clients.
+
+
+
+
+In the Data Science Research team, you will work with nine other team members and have close collaboration with the developers in our Tech department. The team is small and dynamic, and there is plenty of room for innovation and good ideas are quickly turned into action.
+
+
+
+
+You will use Databricks notebooks hosted on our cloud servers to interact with S3 for exploratory data analysis, visualizations and modeling. This is done in PySpark (or SparkR) since the vast amounts of data truly require distributed computing.
+
+
+
+
+Essential qualifications
+
+You have a Master's degree or higher education in a numerically oriented education (Computer Science, Mathematics, Statistics, Physics, etc.). Candidates with a social science background, specializing in statistics and data analysis, are also welcome to apply.
+You have experience with data wrangling and analysis of large datasets and have developed a good intuition for how data can be used to create business insights.
+You have a solid understanding of classical statistics techniques, including various regression analyses.
+You have programming/scripting skills. Our current toolbox includes Python and R. It is an advantage to have good knowledge of at least one of these languages, as the position is primarily programming-oriented.
+You are curious, structured, and goal-oriented. You enjoy diving into complex issues but understand that the goal is to find workable solutions.
+You can communicate your results in a non-technical manner and understand how to make complex data analysis useful for non-data scientists.
+
+
+
+
+Further qualifications
+
+Experience working with simulations, Bayesian statistics, and machine learning models.
+Experience with ""human-centered"" analysis and experience with analyzing attitudinal data, such as survey and/or online behavioral data.
+An ability to understand the business implications of data and how to use it to build a strategic story that engages customers.
+
+
+
+
+Relevant working experience is viewed as a plus but is not a strict requirement.
+
+
+
+
+What we offer
+
+A unique career opportunity in a fast-growing scale-up full of curious, intelligent and creative people where you can grow as we grow our company.
+
+Competitive salary
+Pension scheme and health insurance
+Home internet paid
+Central Copenhagen office
+Hybrid work model
+Daily breakfast
+Lunch made by an on-site chef
+Unlimited snacks, drinks and coffee
+Friday bars and quarterly company dinners
+International environment
+Friendly, supportive and helpful colleagues
+Innovative and market-leading products and services
+Exposure to a lot of data handling
+Technically/commercially challenging tasks
+Working directly with some of the most modern and successful companies of our time
+Mentorship from thought leaders in the industry
+
+
+
+
+Send us your application
+
+If you can see yourself in the above and want to work for a leading SaaS company, we want to hear from you.
+
+If you have any questions about the position, please contact Jacob Daniel Kirstejn Hansen at jacobh@audienceproject.com.
+
+
+
+
+We invite candidates for interviews on an ongoing basis, so please don’t hesitate to send your application. Apply via Linkedin attaching the following into one document:
+
+CV
+Cover letter
+Copy of (both) graduation certificates with grade transcripts
+
+
+
+
+The deadline for applications is June 15th, 2025. We will be inviting applicants for interviews on an ongoing basis.
+
+
+
+
+We look forward to receiving your application!
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Are you our new Data Scientist?</strong></p><p><em>AudienceProject is looking for a Data Scientist for our Copenhagen office to support our continued growth.</em></p><p>—</p><p>Are you an analyst at heart? And do you have an interest in data modeling and programming? Then we have an opportunity for a career in a fast-growing scale-up that directly cooperates with companies such as Meta, Google, Amazon, Netflix, Disney+ etc.</p><p><br></p><p>AudienceProject is a leading SaaS company with 100+ employees delivering audience measurement and research solutions to major advertisers, agencies, and publishers across Europe.</p><p><br></p><p>Our platform enables clients to better understand the reach and effect of their campaigns across channels, helping them make confident marketing decisions to reach and impact their audiences more effectively.</p><p><br></p><p>Embarking on our second decade of audience measurement, we are now looking for a motivated Data Scientist to join our Data Science Research team.</p><p>Joining AudienceProject will give you a front-row seat in the rapidly evolving marketing technology sector and an opportunity to work within a respected business, delivering insights about audiences across the world's largest media channels to top-tier clients and some of the world’s biggest brands.</p><p><br></p><p><strong>What you will do</strong></p><p>You will be tasked with developing and implementing new methodologies related to both our platform as well as work on bespoke solutions for top-tier clients.</p><p><br></p><p>In the Data Science Research team, you will work with nine other team members and have close collaboration with the developers in our Tech department. The team is small and dynamic, and there is plenty of room for innovation and good ideas are quickly turned into action.</p><p><br></p><p>You will use Databricks notebooks hosted on our cloud servers to interact with S3 for exploratory data analysis, visualizations and modeling. This is done in PySpark (or SparkR) since the vast amounts of data truly require distributed computing.</p><p><br></p><p><strong>Essential qualifications</strong></p><ul><li>You have a Master's degree or higher education in a numerically oriented education (Computer Science, Mathematics, Statistics, Physics, etc.). Candidates with a social science background, specializing in statistics and data analysis, are also welcome to apply.</li><li>You have experience with data wrangling and analysis of large datasets and have developed a good intuition for how data can be used to create business insights.</li><li>You have a solid understanding of classical statistics techniques, including various regression analyses.</li><li>You have programming/scripting skills. Our current toolbox includes Python and R. It is an advantage to have good knowledge of at least one of these languages, as the position is primarily programming-oriented.</li><li>You are curious, structured, and goal-oriented. You enjoy diving into complex issues but understand that the goal is to find workable solutions.</li><li>You can communicate your results in a non-technical manner and understand how to make complex data analysis useful for non-data scientists.</li></ul><p><br></p><p><strong>Further qualifications</strong></p><ul><li>Experience working with simulations, Bayesian statistics, and machine learning models.</li><li>Experience with ""human-centered"" analysis and experience with analyzing attitudinal data, such as survey and/or online behavioral data.</li><li>An ability to understand the business implications of data and how to use it to build a strategic story that engages customers.</li></ul><p><br></p><p>Relevant working experience is viewed as a plus but is not a strict requirement.</p><p><br></p><p><strong>What we offer</strong></p><p>A unique career opportunity in a fast-growing scale-up full of curious, intelligent and creative people where you can grow as we grow our company.</p><ul><li>Competitive salary</li><li>Pension scheme and health insurance</li><li>Home internet paid</li><li>Central Copenhagen office</li><li>Hybrid work model</li><li>Daily breakfast</li><li>Lunch made by an on-site chef</li><li>Unlimited snacks, drinks and coffee</li><li>Friday bars and quarterly company dinners</li><li>International environment</li><li>Friendly, supportive and helpful colleagues</li><li>Innovative and market-leading products and services</li><li>Exposure to a lot of data handling</li><li>Technically/commercially challenging tasks</li><li>Working directly with some of the most modern and successful companies of our time</li><li>Mentorship from thought leaders in the industry</li></ul><p><br></p><p><strong>Send us your application</strong></p><p>If you can see yourself in the above and want to work for a leading SaaS company, we want to hear from you.</p><p>If you have any questions about the position, please contact Jacob Daniel Kirstejn Hansen at <u>jacobh@audienceproject.com</u>.</p><p><br></p><p>We invite candidates for interviews on an ongoing basis, so please don’t hesitate to send your application. Apply via Linkedin attaching the following <strong>into one document</strong>:</p><ul><li>CV</li><li>Cover letter</li><li>Copy of (both) graduation certificates with grade transcripts</li></ul><p><br></p><p>The deadline for applications is <strong>June 15th, 2025</strong>. We will be inviting applicants for interviews on an ongoing basis.</p><p><br></p><p>We look forward to receiving your application!</p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-28,[]
+4229863550,https://dk.linkedin.com/jobs/view/machine-learning-engineer-at-triotech-recruitment-4229863550?position=2&pageNum=0&refId=3QoJ1kbJTCjtFX9MKpkc%2FA%3D%3D&trackingId=4ObpE6BauErxURqou1RvMQ%3D%3D,Machine Learning Engineer,TrioTech Recruitment,Copenhagen Metropolitan Area,"We're collaborating with a leading Global MarTech company that delivers AI-driven marketing and campaign solutions within the eCommerce space. We are looking for experienced Machine Learning Engineers to be part of a high-impact team shaping the future of data-driven marketing.
+
+
+
+
+In this role, you will:
+
+Lead projects from concept through to final implementation
+Help build and scale machine learning and data platforms
+Develop and deploy robust, production-ready machine learning models
+
+
+
+
+Requirements:
+
+Minimum 3 years of experience with Python and SQL
+Professional, hands-on experience with AWS
+Proven track record of deploying and maintaining ML models in production
+
+
+
+
+Preferred experience:
+
+Working knowledge of Docker and Kubernetes
+Experience using Airflow to automate and manage complex workflows
+
+
+
+
+Location: Hybrid working model (2–3 days per week in the office)
+
+
+
+
+Type: Permanent
+
+
+
+
+Interested in learning more? Apply directly to start the conversation.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>We're collaborating with a leading Global MarTech company that delivers AI-driven marketing and campaign solutions within the eCommerce space. We are looking for experienced Machine Learning Engineers to be part of a high-impact team shaping the future of data-driven marketing.</p><p><br></p><p><strong>In this role, you will:</strong></p><ul><li>Lead projects from concept through to final implementation</li><li>Help build and scale machine learning and data platforms</li><li>Develop and deploy robust, production-ready machine learning models</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li>Minimum 3 years of experience with Python and SQL</li><li>Professional, hands-on experience with AWS</li><li>Proven track record of deploying and maintaining ML models in production</li></ul><p><br></p><p><strong>Preferred experience:</strong></p><ul><li>Working knowledge of Docker and Kubernetes</li><li>Experience using Airflow to automate and manage complex workflows</li></ul><p><br></p><p><strong>Location:</strong> Hybrid working model (2–3 days per week in the office)</p><p><br></p><p><strong>Type:</strong> Permanent</p><p><br></p><p>Interested in learning more? Apply directly to start the conversation.</p><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-14,[]
+4226004652,https://dk.linkedin.com/jobs/view/data-scientist-marketing-at-too-good-to-go-4226004652?position=3&pageNum=0&refId=3QoJ1kbJTCjtFX9MKpkc%2FA%3D%3D&trackingId=Nb3boWG1rYx9dJcSLoj1QQ%3D%3D,Data Scientist (Marketing),Too Good To Go,"Copenhagen Municipality, Capital Region of Denmark, Denmark","At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together.
+
+40% of all food produced in the world is wasted. And that has a huge impact on the health of our planet, with 10% of greenhouse gas emissions coming from food waste.
+
+We’re more than an app: we are a certified B Corporation with a mission to empower everyone to take action against food waste, so alongside our marketplace app, we create educational tools, explore new business solutions - such as our Retail Technologies offering, and influence legislation to help reduce food waste.
+
+We’re growing fast: Our community of 118 million registered users and 243,000 active partners across 19 countries, have together already prevented 443+ million meals from going to waste - avoiding over 1.198.000 tonnes of CO2e!
+
+Your mission
+
+We are seeking a talented and driven Data Scientist to join our newly established Demand and Marketing Analytics team. In this role, you will play a pivotal role in enhancing marketing effectiveness through advanced analytics and supporting demand forecasting initiatives, ensuring our marketing strategies are data-driven and impactful.
+
+As a Marketplace, Marketing is one of Too Good To Go’s most powerful levers for driving demand. Consequently, a strong foundation in marketing metrics is essential for this role. The models and methodologies you will help develop are largely marketing-focused, emphasizing the importance of experience with causal impact modeling and econometric modeling.
+
+That said, your role may extend beyond marketing. We are looking for someone who can also contribute to broader analytical initiatives, such as demand forecasting and other data-driven projects.
+
+If you’re passionate about leveraging analytics to make a real-world impact and thrive in a dynamic, collaborative environment, we’d love to hear from you.
+
+Your role
+
+
+Support business leaders in identifying and defining key performance indicators (KPIs) to drive marketing and business performance.
+Provide data-driven guidance to business leaders to inform strategic marketing decisions.
+Design and develop self-service analytical tools to empower marketing and other functional teams for operational excellence.
+Create and implement statistical and machine learning models to evaluate marketing effectiveness and optimize campaign strategies.
+Collaborate with marketing teams to understand their needs and translate them into effective models and tools.
+Conduct in-depth analyses to identify drivers of demand and quantify the impact of marketing initiatives.
+Create advanced analytical tools and models to enhance demand forecasting accuracy.
+Contribute to broader data-driven projects, leveraging advanced analytics to support company-wide objectives.
+
+
+Requirements
+
+
+You have a minimum Master in econometrics, statistics, data science, or similar.
+Previous professional experience in data science, with a strong focus on statistical modeling and machine learning.
+Expertise in developing advanced models and analytical tools for time series forecasting and demand forecasting.
+Familiarity with marketing mix modeling is a plus.
+Understanding of marketing data and KPIs, or a strong appetite to learn this space.
+Proficient in SQL for data extraction, manipulation, and transformation, and Python for data preprocessing, statistical analysis, and model development; R is a plus.
+Hands-on experience collaborating with marketing teams, ideally in dynamic settings like hackathons, to deliver data-driven insights.
+Great communicator and storyteller, adept at helping non-technical marketing audiences understand data insights.
+Passionate about advancing analytical skills and fostering a data-driven culture.
+Fluent in English, with excellent written and verbal communication skills.
+
+
+Our values
+
+
+We win together: Food waste is a big beast to fight. We believe in a #oneteam.
+We raise the bar: We always push for more. We work smart, smash barriers and elevate one another.
+We keep it simple: Our ambitions are bold but our solutions are simple.
+We build a legacy: We’re proud of the change we’re driving.
+We care: We always look out for each other. Caring is also about the way we do business. We do the right thing.
+
+
+What We Have To Offer
+
+
+An opportunity to work in a global social-impact company and certified B Corporation! where you can see a real and tangible impact in your role.
+To be an integral part of our Data & Analytics team. We are eager for you to make an impact and contribute to the role of analytics across key decisions and our solution processes. Your insights are valuable, and we are here to listen.
+Work-life balance is important to us! Focus on the job to be done, not the hours spent, there is no need for overtime.
+We trust in our employees and encourage an autonomous environment that provides several opportunities for employees to contribute, develop and take ownership of their work in a way that works for them.
+To be part of an international company, with over 1,300+ colleagues across 19 countries that are on the same important mission.
+An informal environment, working alongside 170+ passionate people within Tech & Product
+We celebrate our differences and our successes and have a strong values-driven team culture.
+We work in a hybrid set-up and value in office work weekly.
+We may be able to support you with a working visa in Copenhagen, please be prepared to discuss this topic further as your first stage interview.
+
+
+How To Apply
+
+
+We take recruitment very seriously, so please carefully read everything we have written above. Please also check our website and international media in order to get a good overview of Too Good To Go.
+Submit your CV in English.
+Please note that we only accept applications coming through our platform. No CV will be accepted by email or LinkedIn direct messaging.
+
+
+Job Ref
+
+A Movement for Everyone
+
+We want to inspire and empower everyone to fight food waste together. With that mission, it’s only natural that we want to build a diverse and inclusive team of highly capable individuals who are passionate about doing things in a better way. We strongly believe we all excel and are more creative when we’re allowed to be ourselves, and we’re committed to a culture where all of us belong.
+
+We are an equal opportunity employer and all employment is decided on the basis of qualifications, merit and business need. If you need reasonable accommodation at any point in the application or interview process, please let us know.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Too Good To Go, we have an ambitious goal: to inspire and empower everyone to fight food waste together.<br><br>40% of all food produced in the world is wasted. And that has a huge impact on the health of our planet, with 10% of greenhouse gas emissions coming from food waste.<br><br>We’re more than an app: we are a certified B Corporation with a mission to empower everyone to take action against food waste, so alongside our marketplace app, we create educational tools, explore new business solutions - such as our Retail Technologies offering, and influence legislation to help reduce food waste.<br><br>We’re growing fast: Our community of 118 million registered users and 243,000 active partners across 19 countries, have together already prevented 443+ million meals from going to waste - avoiding over 1.198.000 tonnes of CO2e!<br><br><strong>Your mission<br><br></strong>We are seeking a talented and driven Data Scientist to join our newly established Demand and Marketing Analytics team. In this role, you will play a pivotal role in enhancing marketing effectiveness through advanced analytics and supporting demand forecasting initiatives, ensuring our marketing strategies are data-driven and impactful.<br><br>As a Marketplace, Marketing is one of Too Good To Go’s most powerful levers for driving demand. Consequently, a strong foundation in marketing metrics is essential for this role. The models and methodologies you will help develop are largely marketing-focused, emphasizing the importance of experience with causal impact modeling and econometric modeling.<br><br>That said, your role may extend beyond marketing. We are looking for someone who can also contribute to broader analytical initiatives, such as demand forecasting and other data-driven projects.<br><br>If you’re passionate about leveraging analytics to make a real-world impact and thrive in a dynamic, collaborative environment, we’d love to hear from you.<br><br><strong>Your role<br><br></strong><ul><li>Support business leaders in identifying and defining key performance indicators (KPIs) to drive marketing and business performance.</li><li>Provide data-driven guidance to business leaders to inform strategic marketing decisions.</li><li>Design and develop self-service analytical tools to empower marketing and other functional teams for operational excellence.</li><li>Create and implement statistical and machine learning models to evaluate marketing effectiveness and optimize campaign strategies.</li><li>Collaborate with marketing teams to understand their needs and translate them into effective models and tools.</li><li>Conduct in-depth analyses to identify drivers of demand and quantify the impact of marketing initiatives.</li><li>Create advanced analytical tools and models to enhance demand forecasting accuracy.</li><li>Contribute to broader data-driven projects, leveraging advanced analytics to support company-wide objectives.<br><br></li></ul><strong>Requirements<br><br></strong><ul><li>You have a minimum Master in econometrics, statistics, data science, or similar.</li><li>Previous professional experience in data science, with a strong focus on statistical modeling and machine learning.</li><li>Expertise in developing advanced models and analytical tools for time series forecasting and demand forecasting.</li><li>Familiarity with marketing mix modeling is a plus.</li><li>Understanding of marketing data and KPIs, or a strong appetite to learn this space.</li><li>Proficient in SQL for data extraction, manipulation, and transformation, and Python for data preprocessing, statistical analysis, and model development; R is a plus.</li><li>Hands-on experience collaborating with marketing teams, ideally in dynamic settings like hackathons, to deliver data-driven insights.</li><li>Great communicator and storyteller, adept at helping non-technical marketing audiences understand data insights.</li><li>Passionate about advancing analytical skills and fostering a data-driven culture.</li><li>Fluent in English, with excellent written and verbal communication skills.<br><br></li></ul><strong>Our values<br><br></strong><ul><li>We win together: Food waste is a big beast to fight. We believe in a #oneteam.</li><li>We raise the bar: We always push for more. We work smart, smash barriers and elevate one another.</li><li>We keep it simple: Our ambitions are bold but our solutions are simple.</li><li>We build a legacy: We’re proud of the change we’re driving. </li><li>We care: We always look out for each other. Caring is also about the way we do business. We do the right thing.<br><br></li></ul><strong>What We Have To Offer<br><br></strong><ul><li>An opportunity to work in a global social-impact company and certified B Corporation! where you can see a real and tangible impact in your role.</li><li>To be an integral part of our Data &amp; Analytics team. We are eager for you to make an impact and contribute to the role of analytics across key decisions and our solution processes. Your insights are valuable, and we are here to listen.</li><li>Work-life balance is important to us! Focus on the job to be done, not the hours spent, there is no need for overtime.</li><li>We trust in our employees and encourage an autonomous environment that provides several opportunities for employees to contribute, develop and take ownership of their work in a way that works for them.</li><li>To be part of an international company, with over 1,300+ colleagues across 19 countries that are on the same important mission.</li><li>An informal environment, working alongside 170+ passionate people within Tech &amp; Product</li><li>We celebrate our differences and our successes and have a strong values-driven team culture.</li><li>We work in a hybrid set-up and value in office work weekly.</li><li>We may be able to support you with a working visa in Copenhagen, please be prepared to discuss this topic further as your first stage interview.<br><br></li></ul><strong>How To Apply<br><br></strong><ul><li>We take recruitment very seriously, so please carefully read everything we have written above. Please also check our website and international media in order to get a good overview of Too Good To Go.</li><li>Submit your CV in English.</li><li>Please note that we only accept applications coming through our platform. No CV will be accepted by email or LinkedIn direct messaging.<br><br></li></ul><strong>Job Ref<br><br></strong><em>A Movement for Everyone<br><br></em><em>We want to inspire and empower everyone to fight food waste together. With that mission, it’s only natural that we want to build a diverse and inclusive team of highly capable individuals who are passionate about doing things in a better way. We strongly believe we all excel and are more creative when we’re allowed to be ourselves, and we’re committed to a culture where all of us belong.<br><br></em><em>We are an equal opportunity employer and all employment is decided on the basis of qualifications, merit and business need. If you need reasonable accommodation at any point in the application or interview process, please let us know.<br><br></em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-03,[]
+4244944081,https://uk.linkedin.com/jobs/view/ai-ml-engineers-at-awtg-ltd-4244944081?position=1&pageNum=0&refId=Gck4C9fByr859K6ZjAybsw%3D%3D&trackingId=y2MWUlDmXgFAPmprmP4Ung%3D%3D,AI / ML ENGINEERS,AWTG Ltd,"London, England, United Kingdom","We are looking for a goal oriented and driven AI/ML Engineers with relevant experiences.
+
+Key Responsibilities
+
+
+: Develop and train advanced neural network models to meet specific functional requirements.Neural Network Training
+: Efficiently deploy these neural networks on servers, ensuring optimal performance and scalability.Deployment and Integration
+: Create robust API endpoints for model access, enabling seamless integration with external systems or applications.API Development
+: Architect and develop a user-friendly platform where multiple AI models are accessible and can be utilised through API calls, facilitating a broad range of AI capabilities.Platform Development
+: Continuously monitor, update, and improve the models and the platform based on user feedback and evolving technological trends.Continuous Improvement
+
+
+Skills And Qualifications
+
+
+Minimum 3 years of experience in building AI/ML software.
+Strong expertise in machine learning, neural network algorithms and generative AI applications.
+Proficient in programming languages like Python, and libraries such as TensorFlow, PyTorch, NumPy, LangChain, FastApi and LangGraph
+Experience with RAG applications, server deployment, cloud computing environments, and API development.
+Good understanding of software engineering best practices.
+Excellent problem-solving abilities and a keen eye for detail.
+Strong communication skills to collaborate effectively in a team-oriented environment.
+
+
+Educational Requirements
+
+
+Bachelors or Masters degree in Computer Science, Engineering, or a related field, with a focus on AI/ML.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are looking for a goal oriented and driven AI/ML Engineers with relevant experiences.<br><br><strong>Key Responsibilities<br><br></strong><ul><li>: Develop and train advanced neural network models to meet specific functional requirements.Neural Network Training</li><li>: Efficiently deploy these neural networks on servers, ensuring optimal performance and scalability.Deployment and Integration</li><li>: Create robust API endpoints for model access, enabling seamless integration with external systems or applications.API Development</li><li>: Architect and develop a user-friendly platform where multiple AI models are accessible and can be utilised through API calls, facilitating a broad range of AI capabilities.Platform Development</li><li>: Continuously monitor, update, and improve the models and the platform based on user feedback and evolving technological trends.Continuous Improvement<br><br></li></ul><strong>Skills And Qualifications<br><br></strong><ul><li>Minimum 3 years of experience in building AI/ML software.</li><li>Strong expertise in machine learning, neural network algorithms and generative AI applications.</li><li>Proficient in programming languages like Python, and libraries such as TensorFlow, PyTorch, NumPy, LangChain, FastApi and LangGraph</li><li>Experience with RAG applications, server deployment, cloud computing environments, and API development.</li><li>Good understanding of software engineering best practices.</li><li>Excellent problem-solving abilities and a keen eye for detail.</li><li>Strong communication skills to collaborate effectively in a team-oriented environment.<br><br></li></ul><strong>Educational Requirements<br><br></strong><ul><li>Bachelors or Masters degree in Computer Science, Engineering, or a related field, with a focus on AI/ML.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-03,[]
+4245745686,https://uk.linkedin.com/jobs/view/front-end-developer-at-death-with-dignity-4245745686?position=2&pageNum=0&refId=Gck4C9fByr859K6ZjAybsw%3D%3D&trackingId=FraRagY0P40OpKtJYZ1%2Blw%3D%3D,Front End Developer,Death with Dignity,"City Of London, England, United Kingdom","Espire Infolabs is hiring for Front End Developer(React.js) for London, UK location.
+
+Role :Front End Developer(React.js)
+
+Location: London, UK(3 Days/Week onsite)
+
+Desired Industry Experience:5+ years
+
+Relevant Experience:React.Js, Typescript, Azure
+
+Job Description
+
+Proven experience as a Front-End Developer with a focus on React.js, and Typescript.
+
+Familiarity with C# and .Net.
+
+Strong proficiency in JavaScript, ES6/ES7, and related front-end technologies.
+
+Familiarity with state management libraries such as Redux.
+
+Experience with version control systems, such as Git.
+
+Experience with the Web Content Accessibility Guidelines.
+
+Knowledge of responsive web design principles and CSS frameworks.
+
+Understanding of RESTful APIs and asynchronous data retrieval.
+
+Experience with unit testing.
+
+Strong problem-solving and debugging skills.
+
+Excellent teamwork and communication skills.
+
+Attention to detail and an eye for design and user experience.
+
+A portfolio of past projects showcasing your React.js expertise.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Espire Infolabs is hiring for Front End Developer(React.js) for London, UK location.<br><br><strong>Role</strong> :Front End Developer(React.js)<br><br><strong>Location: </strong>London, UK(3 Days/Week onsite)<br><br><strong>Desired Industry Experience:</strong>5+ years<br><br><strong>Relevant Experience:</strong>React.Js, Typescript, Azure<br><br><strong>Job Description<br><br></strong>Proven experience as a Front-End Developer with a focus on React.js, and Typescript.<br><br>Familiarity with C# and .Net.<br><br>Strong proficiency in JavaScript, ES6/ES7, and related front-end technologies.<br><br>Familiarity with state management libraries such as Redux.<br><br>Experience with version control systems, such as Git.<br><br>Experience with the Web Content Accessibility Guidelines.<br><br>Knowledge of responsive web design principles and CSS frameworks.<br><br>Understanding of RESTful APIs and asynchronous data retrieval.<br><br>Experience with unit testing.<br><br>Strong problem-solving and debugging skills.<br><br>Excellent teamwork and communication skills.<br><br>Attention to detail and an eye for design and user experience.<br><br>A portfolio of past projects showcasing your React.js expertise.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4245881895,https://uk.linkedin.com/jobs/view/data-science-data-analytics-ml-consultant-international-consultancy-fintech-python-sql-gcp-2-days-hybrid-up-to-%C2%A370-000-%2Bbenefits-at-owen-thomas-pending-b-corp%E2%84%A2-4245881895?position=3&pageNum=0&refId=Gck4C9fByr859K6ZjAybsw%3D%3D&trackingId=kbkAlYJCMR1J2GoOGkYr5w%3D%3D,"Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits",Owen Thomas | Pending B Corp™,"London Area, United Kingdom","Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits
+
+
+
+
+The Company:
+
+
+
+
+We have partnered with a boutique consultancy that partners with high-profile enterprise clients across industries such as retail, financial services, biotech, and technology. They’re currently looking to bring an Analytics Consultant on board to support and deliver data-driven initiatives that have meaningful business impact.
+
+
+
+
+This is a brilliant opportunity for someone looking to apply both technical and strategic thinking in a dynamic, client-facing environment. The successful candidate will play a key role in shaping and delivering analytics and machine learning projects for major UK and European clients, including household names in retail and banking.
+
+
+
+
+Responsibilities for the Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits
+
+
+
+
+Design, develop, and maintain automated analytics tools and large-scale data pipelines.
+Conduct deep-dive analyses to generate actionable insights for clients.
+Present findings and recommendations to stakeholders with clarity and impact.
+Work collaboratively with data engineers, analysts, and client teams on end-to-end project delivery.
+Manipulate and clean large, complex datasets.
+Stay current with emerging data technologies and methodologies.
+
+
+
+
+Requirements for the Analytics Consultant role:
+
+
+
+
+1+ years of experience in a data-focused role (e.g. analytics, data science, engineering).
+Familiarity with cloud platforms (GCP preferred).
+Experience with CI/CD pipelines and version control.
+Proficiency in data visualisation tools (e.g. Tableau, PowerBI).
+Exposure to tools like DBT, Apache Airflow, Docker.
+Experience working with large-scale datasets (terabyte-level or higher).
+Excellent problem-solving capabilities.
+Strong communication and collaboration skills.
+Proficiency in Python and SQL (or similar programming languages).
+Passion for uncovering insights through data.
+Growth mindset and a proactive approach to learning.
+
+
+
+
+What will you get in return?
+
+Direct exposure to well-known enterprise clients and high-impact projects.
+Freedom to explore new tools, approaches, and technical solutions.
+A highly collaborative and transparent working culture.
+Opportunity to shape your own role within a growing, forward-thinking company.
+Work that balances strategic thinking with hands-on development.
+Up to £70,000 base
+Flexible remote working and 2 days in London Bridge office per week.
+
+
+
+
+If you are interested in the Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits apply to the role and we will give you a call if we think you are a good match!
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits</strong></p><p><br></p><p><strong>The Company:</strong></p><p><br></p><p>We have partnered with a boutique consultancy that partners with high-profile enterprise clients across industries such as retail, financial services, biotech, and technology. They’re currently looking to bring an <strong>Analytics Consultant</strong> on board to support and deliver data-driven initiatives that have meaningful business impact.</p><p><br></p><p>This is a brilliant opportunity for someone looking to apply both technical and strategic thinking in a dynamic, client-facing environment. The successful candidate will play a key role in shaping and delivering analytics and machine learning projects for major UK and European clients, including household names in retail and banking.</p><p><br></p><p><strong>Responsibilities for the</strong> <strong>Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits</strong></p><p><br></p><ul><li>Design, develop, and maintain automated analytics tools and large-scale data pipelines.</li><li>Conduct deep-dive analyses to generate actionable insights for clients.</li><li>Present findings and recommendations to stakeholders with clarity and impact.</li><li>Work collaboratively with data engineers, analysts, and client teams on end-to-end project delivery.</li><li>Manipulate and clean large, complex datasets.</li><li>Stay current with emerging data technologies and methodologies.</li></ul><p><br></p><p><strong>Requirements for the Analytics Consultant role:</strong></p><p><br></p><ul><li>1+ years of experience in a data-focused role (e.g. analytics, data science, engineering).</li><li>Familiarity with cloud platforms (GCP preferred).</li><li>Experience with CI/CD pipelines and version control.</li><li>Proficiency in data visualisation tools (e.g. Tableau, PowerBI).</li><li>Exposure to tools like DBT, Apache Airflow, Docker.</li><li>Experience working with large-scale datasets (terabyte-level or higher).</li><li>Excellent problem-solving capabilities.</li><li>Strong communication and collaboration skills.</li><li>Proficiency in Python and SQL (or similar programming languages).</li><li>Passion for uncovering insights through data.</li><li>Growth mindset and a proactive approach to learning.</li></ul><p><br></p><p><strong>What will you get in return?</strong></p><ul><li>Direct exposure to well-known enterprise clients and high-impact projects.</li><li>Freedom to explore new tools, approaches, and technical solutions.</li><li>A highly collaborative and transparent working culture.</li><li>Opportunity to shape your own role within a growing, forward-thinking company.</li><li>Work that balances strategic thinking with hands-on development.</li><li>Up to £70,000 base</li><li>Flexible remote working and 2 days in London Bridge office per week.</li></ul><p><br></p><p><strong>If you are interested in the Data Science/Data Analytics, ML Consultant | International Consultancy, Fintech, | Python, SQL, GCP, | 2 Days Hybrid, Up to £70,000 +Benefits apply to the role and we will give you a call if we think you are a good match!</strong></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-06,[]
