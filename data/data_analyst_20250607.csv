@@ -1,0 +1,1629 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4210301444,https://www.linkedin.com/jobs/view/sr-bi-data-analytics-engineer-at-nintendo-4210301444?position=1&pageNum=0&refId=1i96IKdUcB3M6I4FTEqGqg%3D%3D&trackingId=Gw1h6HZ9EcEKZDpNX3uEGA%3D%3D,Sr BI Data Analytics Engineer,Nintendo,"Redmond, WA","Nintendo of America Inc.
+
+About Nintendo of America: From the launch of the Nintendo Entertainment System™ more than 30 years ago, Nintendo’s mission has been to create smiles through unique entertainment experiences. Here at Nintendo of America Inc., we deliver on this mission by partnering closely with Nintendo Co., Ltd., to bring Nintendo’s iconic and cherished franchises including Mario™, Donkey Kong™, The Legend of Zelda™, Metroid™, Animal Crossing™, Pikmin™ and Splatoon™ across the Americas through our video games, hardware systems, and collaborations with partners on a range of other entertainment initiatives like feature films and theme parks.
+
+Based in Redmond, Wash., Nintendo of America serves as headquarters for Nintendo’s operations in the Americas. We are an equal opportunity employer offering a welcoming and inclusive environment in service to one another, our products, and the diverse consumers and communities we call home. For more information about Nintendo, please visit the company’s website at https://www.nintendo.com/.
+
+Develops and maintains medium to complex data warehouse ETL (Extraction, Transformation and Loading), reporting, and analytic tasks for Nintendo global consumer contact centers.
+
+Description Of Duties
+
+
+Designs, develops, and maintains ETL routines and reporting with agreed-upon Service Level Agreements (SLAs) using Microsoft SQL Server, Excel, and Tableau.
+Creates data extraction procedures and analytical products to measure, track and improve agent quality, contact center efficiency and outsourced vendor performance.
+Provides expertise working with existing team (contract and FTEs) to create business intelligence stored procedures and reports, including design, development and management of a data warehouse environment used for analytics and reporting.
+Understands the needs of the business and translates those into meaningful reporting that allows for actionable decisions.
+Ensures the generation of standard or custom reports summarizing operational and financial data and Key Performance Indicators (KPIs) for review by executives, managers, clients, and other stakeholders.
+Identifies and recommends changes to optimize the ETL environment, implement monitoring, quality and validation processes to ensure data accuracy and integrity.
+Conducts or coordinates unit and system tests ensuring intelligence is consistent with defined needs.
+Designs and deploys database table structures, reports, and queries.
+Supports implemented BI solutions by monitoring and tuning queries and data loads, addressing user questions concerning data integrity, monitoring performance, and communicating functional and technical issues.
+Documents specifications for Data Warehouse (DWH) extracts, reports, dashboards, or other outputs.
+Facilitates and leads project planning and execution with cross functional teams across the organization.
+Works with business and engineering managers to prioritize the project stream, aid roadmap definition and identify project dependencies.
+Administers reporting systems including user/role provisioning, deployments and change control.
+Conducts comparison processes to identify and develop process improvements; provides recommendations on next steps and manages deliverables.
+
+
+Summary Of Requirements
+
+
+Minimum of 5 years of relevant experience in developing data warehousing solutions, dashboards, scorecards, and analytics.
+Proficient in writing T-SQL code, SSIS packages, and Stored Procedures on Microsoft SQL Server.
+Proficient in writing C# routines to extract data from various physical and cloud databases/data lakes through API calls.
+Experience working as a database report developer to deliver BI to business users using Tableau or similar tool.
+Familiarity with Operations KPI's and contact center forecasting.
+Working knowledge of cloud data architectures like Snowflake.
+Experience designing and deploying normalized and dimensional database objects (eg. star schemas).
+Extensive reporting experience within an ETL based data migration paradigm.
+Excellent native SQL skills; comfortable using a data access tool such as Toad or SSMS.
+Share Point, Power BI, Excel macro, Windows script development experience (preferred).
+Ability to analyze trends in metrics and suggest Dashboard layouts (preferred).
+Customer Service, Operations, Retail, CRM, or B2C e-commerce background a plus.
+Requires in-depth conceptual and practical knowledge in own technical job family and basic knowledge of related technical job families; has worked with a range of technologies.
+Undergraduate degree or equivalent work experience in computer science, information systems, or other quantitative field.
+
+
+Applicants must be legally eligible to work in the United States to be considered. Visa sponsorship is not available for this role
+
+This position includes a base salary range of $137,000 - $246,500 annually, potential for a semi-annual discretionary performance bonus, and a comprehensive benefits package that includes medical, dental, vision, 401(k), and paid time off. Please see our Benefits & Perks page for more benefits information. Fixed term employees are eligible for all listed employee benefits except tuition reimbursement.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Nintendo of America Inc.<br><br></strong><strong>About Nintendo of America</strong>: From the launch of the Nintendo Entertainment System™ more than 30 years ago, Nintendo’s mission has been to create smiles through unique entertainment experiences. Here at Nintendo of America Inc., we deliver on this mission by partnering closely with Nintendo Co., Ltd., to bring Nintendo’s iconic and cherished franchises including <em>Mario</em>™, <em>Donkey Kong</em>™, <em>The Legend of Zelda</em>™, <em>Metroid</em>™, <em>Animal Crossing</em>™, <em>Pikmin</em>™ and <em>Splatoon</em>™ across the Americas through our video games, hardware systems, and collaborations with partners on a range of other entertainment initiatives like feature films and theme parks.<br><br>Based in Redmond, Wash., Nintendo of America serves as headquarters for Nintendo’s operations in the Americas. We are an equal opportunity employer offering a welcoming and inclusive environment in service to one another, our products, and the diverse consumers and communities we call home. For more information about Nintendo, please visit the company’s website at https://www.nintendo.com/.<br><br>Develops and maintains medium to complex data warehouse ETL (Extraction, Transformation and Loading), reporting, and analytic tasks for Nintendo global consumer contact centers.<br><br><strong>Description Of Duties<br><br></strong><ul><li>Designs, develops, and maintains ETL routines and reporting with agreed-upon Service Level Agreements (SLAs) using Microsoft SQL Server, Excel, and Tableau.</li><li>Creates data extraction procedures and analytical products to measure, track and improve agent quality, contact center efficiency and outsourced vendor performance.</li><li>Provides expertise working with existing team (contract and FTEs) to create business intelligence stored procedures and reports, including design, development and management of a data warehouse environment used for analytics and reporting.</li><li>Understands the needs of the business and translates those into meaningful reporting that allows for actionable decisions.</li><li>Ensures the generation of standard or custom reports summarizing operational and financial data and Key Performance Indicators (KPIs) for review by executives, managers, clients, and other stakeholders.</li><li>Identifies and recommends changes to optimize the ETL environment, implement monitoring, quality and validation processes to ensure data accuracy and integrity.</li><li>Conducts or coordinates unit and system tests ensuring intelligence is consistent with defined needs.</li><li>Designs and deploys database table structures, reports, and queries.</li><li>Supports implemented BI solutions by monitoring and tuning queries and data loads, addressing user questions concerning data integrity, monitoring performance, and communicating functional and technical issues.</li><li>Documents specifications for Data Warehouse (DWH) extracts, reports, dashboards, or other outputs.</li><li>Facilitates and leads project planning and execution with cross functional teams across the organization.</li><li>Works with business and engineering managers to prioritize the project stream, aid roadmap definition and identify project dependencies.</li><li>Administers reporting systems including user/role provisioning, deployments and change control.</li><li>Conducts comparison processes to identify and develop process improvements; provides recommendations on next steps and manages deliverables.<br><br></li></ul><strong>Summary Of Requirements<br><br></strong><ul><li>Minimum of 5 years of relevant experience in developing data warehousing solutions, dashboards, scorecards, and analytics.</li><li>Proficient in writing T-SQL code, SSIS packages, and Stored Procedures on Microsoft SQL Server.</li><li>Proficient in writing C# routines to extract data from various physical and cloud databases/data lakes through API calls.</li><li>Experience working as a database report developer to deliver BI to business users using Tableau or similar tool.</li><li>Familiarity with Operations KPI's and contact center forecasting.</li><li>Working knowledge of cloud data architectures like Snowflake.</li><li>Experience designing and deploying normalized and dimensional database objects (eg. star schemas).</li><li>Extensive reporting experience within an ETL based data migration paradigm.</li><li>Excellent native SQL skills; comfortable using a data access tool such as Toad or SSMS.</li><li>Share Point, Power BI, Excel macro, Windows script development experience (preferred).</li><li>Ability to analyze trends in metrics and suggest Dashboard layouts (preferred).</li><li>Customer Service, Operations, Retail, CRM, or B2C e-commerce background a plus.</li><li>Requires in-depth conceptual and practical knowledge in own technical job family and basic knowledge of related technical job families; has worked with a range of technologies.</li><li>Undergraduate degree or equivalent work experience in computer science, information systems, or other quantitative field.<br><br></li></ul><strong>Applicants must be legally eligible to work in the United States to be considered. Visa sponsorship is not available for this role<br><br></strong>This position includes a base salary range of $137,000 - $246,500 annually, potential for a semi-annual discretionary performance bonus, and a comprehensive benefits package that includes medical, dental, vision, 401(k), and paid time off. Please see our Benefits &amp; Perks page for more benefits information. Fixed term employees are eligible for all listed employee benefits except tuition reimbursement.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-28,[]
+4245999901,https://www.linkedin.com/jobs/view/ml-data-linguist-alexa-ai-at-amazon-4245999901?position=2&pageNum=0&refId=1i96IKdUcB3M6I4FTEqGqg%3D%3D&trackingId=55KJZ5hX8I07WEVxU7qbzA%3D%3D,"ML Data Linguist, Alexa AI",Amazon,"Seattle, WA","Description
+
+Amazon is seeking a Machine Learning Data Linguist to join our Alexa AI team. This role focuses on language data, primarily in the areas of text annotation and general data analysis deliverables.
+
+The ML Data Linguist must have a passion for data, efficiency, accuracy, and should be capable of:
+
+
+Handling unique data analysis requests from a range of data customers
+Providing data quality expertise to other team members and coaching improvements
+Delivering high quality work in a fast-paced environment
+Working autonomously with minimum direction
+Building a thorough understanding of conventions and providing support to global sites
+Understanding changes to conventions deployed in response to customers’ requests and modifying workflows accordingly
+Contributing to process improvements to reduce handling time and improve output
+Improving software tools by identifying bugs and suggesting enhancements
+Diving deep into issues and implementing solutions independently
+Proactively addressing issues and problems
+Keeping up with changing project conventions and priorities
+
+
+Key job responsibilities
+
+
+Label, generate, and ensure the quality of datasets.
+Work closely with ML Data Linguists and scientists to understand data ambiguities and resolve issues in annotation guidelines.
+Conduct in-depth qualitative error trend analysis, developing action plans to enhance data quality.
+Collaborate with ML Data Linguists, scientists, and Ops Managers to drive innovation in processes, tracking, and annotation workflows.
+
+
+A day in the life
+
+Most days are spent collecting requirements from customers, collaborating with peers and stakeholders to complete deliverables, and recommending process improvements.
+
+About The Team
+
+The work that we do is confidential, but we are a highly collaborative team who obsess over our internal and external customers.
+
+Basic Qualifications
+
+
+Bachelor’s degree
+Experience working with written language data, including experience with annotation and other forms of data markup
+Professional English language proficiency
+Working knowledge of Microsoft Office products (e.g. Word, Excel, Access, etc.)
+
+
+Preferred Qualifications
+
+
+Bachelor’s degree in Linguistics or Computational Linguistics
+Interest in semantics and related areas
+Ability to navigate a Unix terminal and use common command line tools
+Ability to perform basic scripting and data manipulation tasks in Python
+Ability to quickly grasp technical concepts and learn in-house data processing tools
+Strong analytical, problem-solving, and critical-thinking skills
+Practical knowledge of data processing needs and trade-offs
+Detail-oriented with excellent communication and strong organizational skills
+Team player with exceptional interpersonal skills and a solution-oriented attitude
+Comfortable working in a fast-paced, highly-collaborative, dynamic work environment
+Willingness to support several projects at one time and to accept reprioritization as necessary
+
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $40,400/year in our lowest geographic market up to $86,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+
+Company - Amazon.com Services LLC
+
+Job ID: A3002867
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Description<br><br></strong>Amazon is seeking a Machine Learning Data Linguist to join our Alexa AI team. This role focuses on language data, primarily in the areas of text annotation and general data analysis deliverables.<br><br>The ML Data Linguist must have a passion for data, efficiency, accuracy, and should be capable of:<br><br><ul><li> Handling unique data analysis requests from a range of data customers</li><li> Providing data quality expertise to other team members and coaching improvements</li><li> Delivering high quality work in a fast-paced environment</li><li> Working autonomously with minimum direction</li><li> Building a thorough understanding of conventions and providing support to global sites</li><li> Understanding changes to conventions deployed in response to customers’ requests and modifying workflows accordingly</li><li> Contributing to process improvements to reduce handling time and improve output</li><li> Improving software tools by identifying bugs and suggesting enhancements</li><li> Diving deep into issues and implementing solutions independently</li><li> Proactively addressing issues and problems</li><li> Keeping up with changing project conventions and priorities<br><br></li></ul>Key job responsibilities<br><br><ul><li> Label, generate, and ensure the quality of datasets.</li><li> Work closely with ML Data Linguists and scientists to understand data ambiguities and resolve issues in annotation guidelines.</li><li> Conduct in-depth qualitative error trend analysis, developing action plans to enhance data quality.</li><li> Collaborate with ML Data Linguists, scientists, and Ops Managers to drive innovation in processes, tracking, and annotation workflows.<br><br></li></ul>A day in the life<br><br>Most days are spent collecting requirements from customers, collaborating with peers and stakeholders to complete deliverables, and recommending process improvements.<br><br><strong>About The Team<br><br></strong>The work that we do is confidential, but we are a highly collaborative team who obsess over our internal and external customers.<br><br><strong>Basic Qualifications<br><br></strong><ul><li> Bachelor’s degree</li><li> Experience working with written language data, including experience with annotation and other forms of data markup</li><li> Professional English language proficiency</li><li> Working knowledge of Microsoft Office products (e.g. Word, Excel, Access, etc.)<br><br></li></ul><strong>Preferred Qualifications<br><br></strong><ul><li> Bachelor’s degree in Linguistics or Computational Linguistics</li><li> Interest in semantics and related areas</li><li> Ability to navigate a Unix terminal and use common command line tools</li><li> Ability to perform basic scripting and data manipulation tasks in Python</li><li> Ability to quickly grasp technical concepts and learn in-house data processing tools</li><li> Strong analytical, problem-solving, and critical-thinking skills</li><li> Practical knowledge of data processing needs and trade-offs</li><li> Detail-oriented with excellent communication and strong organizational skills</li><li> Team player with exceptional interpersonal skills and a solution-oriented attitude</li><li> Comfortable working in a fast-paced, highly-collaborative, dynamic work environment</li><li> Willingness to support several projects at one time and to accept reprioritization as necessary<br><br></li></ul>Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br><br>Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.<br><br>Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $40,400/year in our lowest geographic market up to $86,500/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.<br><br><br><strong>Company</strong> - Amazon.com Services LLC<br><br>Job ID: A3002867
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-07,[]
+4242960891,https://www.linkedin.com/jobs/view/data-analyst-construction-at-swinerton-4242960891?position=3&pageNum=0&refId=1i96IKdUcB3M6I4FTEqGqg%3D%3D&trackingId=8xeuLUDBx4jP%2B%2Fzbjk37bg%3D%3D,Data Analyst - Construction,Swinerton,"Bellevue, WA","Compensation Range
+
+$106,700.00 - $140,000.00 Annual Salary
+
+Job Description Summary
+
+Collect, process, and analyze data to help drive informed business decisions. Work with cross-functional teams to understand data requirements, develop analytical models, and ensure data accuracy and integrity. Key responsibilities include data cleaning and transformation, statistical analysis, and creating detailed reports to communicate findings effectively.
+
+Job Description
+
+POSITION RESPONSIBILITIES AND DUTIES:
+
+Data Analysis and Transformation
+
+
+Collect, clean, and process raw data from various sources
+Transform data into a suitable format for analysis
+Collaborate with data engineers to understand data sources and structures
+Ensure data accuracy and integrity in all analyses
+
+
+Statistical Analysis and Reporting
+
+
+Perform statistical analyses to uncover trends, patterns, and insights
+Develop and maintain analytical models to support business decisions
+Create detailed reports and presentations to communicate findings to stakeholders
+Use data-driven insights to inform decision-making and strategic planning
+
+
+Data Visualization and Communication
+
+
+Develop data visualizations to effectively communicate insights
+Understand stakeholder needs and tailor visualizations to meet those needs
+Use storytelling techniques to convey insights and recommendations clearly and compellingly
+
+
+Tool and Technology Management
+
+
+Utilize a comprehensive technology stack for data analysis, processing, analytics, visualization, and storytelling to achieve impactful results
+Stay updated on the latest tools and technologies in data analysis
+Recommend and implement new tools and technologies as needed
+Provide training and support to end-users on analytical tools and best practices
+
+
+Performance Metrics and Reporting
+
+
+Define and track key performance indicators (KPIs) related to data analysis projects
+Use data-driven insights to inform decision-making and improve the analytical user experience
+Present findings and recommendations to senior leadership
+
+
+Relationship Building and Stakeholder Management
+
+
+Build and maintain strong relationships with stakeholders across the organization
+Actively engage with stakeholders to understand their data needs and challenges
+Stay current on industry trends and technological advancements to provide innovative solutions
+Other responsibilities as assigned
+
+
+Minimum Skills Or Experience Requirements
+
+
+Bachelor’s degree in Information Management, Computer Science, Data Science, or a related field preferred.
+5+ years of experience in data analysis or a related role
+Proven experience in collecting, processing, and analyzing large datasets
+Strong understanding of analytical tools and best practices
+Proficiency in data analysis and statistical techniques
+Proficiency in Excel, R, Python, or SQL for data analysis
+Proficiency in Power BI, Tableau, or Looker for business intelligence
+Proficiency in Databricks, Snowflake, or Redshift for processing and analytics
+Excellent project management skills with the ability to handle multiple projects
+Strong problem-solving, decision-making, and critical thinking skills
+Excellent communication and collaboration abilities
+
+
+Preferred Certifications Include
+
+
+Certified Data Visualization Professional (CDVP)
+Certified Data Analyst (CDA)
+Microsoft Certified: Data Analyst Associate
+
+
+Summary Of Benefits
+
+This role is eligible for the following benefits: medical, dental, vision, 401(k) with company matching, Employee Stock Ownership Program (ESOP), individual stock ownership, paid vacation, paid sick leave, paid holidays, bereavement leave, employee assistance program, pre-tax flexible spending accounts, basic term life insurance and AD&D, business travel accident insurance, short and long term disability, financial wellness coaching, educational assistance, Care.com membership, ClassPass fitness membership, and DashPass delivery membership. Voluntary benefits include additional term life insurance, long term care insurance, critical illness and accidental injury insurance, pet insurance, legal plan, identity theft protection, and other voluntary benefit options.
+
+Anticipated Job Application Deadline
+
+06/12/2025
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Compensation Range<br><br></strong>$106,700.00 - $140,000.00 Annual Salary<br><br><strong>Job Description Summary<br><br></strong>Collect, process, and analyze data to help drive informed business decisions. Work with cross-functional teams to understand data requirements, develop analytical models, and ensure data accuracy and integrity. Key responsibilities include data cleaning and transformation, statistical analysis, and creating detailed reports to communicate findings effectively.<br><br><strong>Job Description<br><br></strong><strong>POSITION RESPONSIBILITIES AND DUTIES:<br><br></strong><strong>Data Analysis and Transformation<br><br></strong><ul><li>Collect, clean, and process raw data from various sources</li><li>Transform data into a suitable format for analysis</li><li>Collaborate with data engineers to understand data sources and structures</li><li>Ensure data accuracy and integrity in all analyses<br><br></li></ul><strong>Statistical Analysis and Reporting<br><br></strong><ul><li>Perform statistical analyses to uncover trends, patterns, and insights</li><li>Develop and maintain analytical models to support business decisions</li><li>Create detailed reports and presentations to communicate findings to stakeholders</li><li>Use data-driven insights to inform decision-making and strategic planning<br><br></li></ul><strong>Data Visualization and Communication<br><br></strong><ul><li>Develop data visualizations to effectively communicate insights</li><li>Understand stakeholder needs and tailor visualizations to meet those needs</li><li>Use storytelling techniques to convey insights and recommendations clearly and compellingly<br><br></li></ul><strong>Tool and Technology Management<br><br></strong><ul><li>Utilize a comprehensive technology stack for data analysis, processing, analytics, visualization, and storytelling to achieve impactful results</li><li>Stay updated on the latest tools and technologies in data analysis</li><li>Recommend and implement new tools and technologies as needed</li><li>Provide training and support to end-users on analytical tools and best practices<br><br></li></ul><strong>Performance Metrics and Reporting<br><br></strong><ul><li>Define and track key performance indicators (KPIs) related to data analysis projects</li><li>Use data-driven insights to inform decision-making and improve the analytical user experience</li><li>Present findings and recommendations to senior leadership<br><br></li></ul><strong>Relationship Building and Stakeholder Management<br><br></strong><ul><li>Build and maintain strong relationships with stakeholders across the organization</li><li>Actively engage with stakeholders to understand their data needs and challenges</li><li>Stay current on industry trends and technological advancements to provide innovative solutions</li><li>Other responsibilities as assigned<br><br></li></ul><strong>Minimum Skills Or Experience Requirements<br><br></strong><ul><li>Bachelor’s degree in Information Management, Computer Science, Data Science, or a related field preferred.</li><li>5+ years of experience in data analysis or a related role</li><li>Proven experience in collecting, processing, and analyzing large datasets</li><li>Strong understanding of analytical tools and best practices</li><li>Proficiency in data analysis and statistical techniques</li><li>Proficiency in Excel, R, Python, or SQL for data analysis</li><li>Proficiency in Power BI, Tableau, or Looker for business intelligence</li><li>Proficiency in Databricks, Snowflake, or Redshift for processing and analytics</li><li>Excellent project management skills with the ability to handle multiple projects</li><li>Strong problem-solving, decision-making, and critical thinking skills</li><li>Excellent communication and collaboration abilities <br><br></li></ul><strong>Preferred Certifications Include<br><br></strong><ul><li>Certified Data Visualization Professional (CDVP)</li><li>Certified Data Analyst (CDA)</li><li>Microsoft Certified: Data Analyst Associate<br><br></li></ul><strong>Summary Of Benefits<br><br></strong>This role is eligible for the following benefits: medical, dental, vision, 401(k) with company matching, Employee Stock Ownership Program (ESOP), individual stock ownership, paid vacation, paid sick leave, paid holidays, bereavement leave, employee assistance program, pre-tax flexible spending accounts, basic term life insurance and AD&amp;D, business travel accident insurance, short and long term disability, financial wellness coaching, educational assistance, Care.com membership, ClassPass fitness membership, and DashPass delivery membership. Voluntary benefits include additional term life insurance, long term care insurance, critical illness and accidental injury insurance, pet insurance, legal plan, identity theft protection, and other voluntary benefit options.<br><br><strong>Anticipated Job Application Deadline<br><br></strong>06/12/2025
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-06,[]
+4233942918,https://www.linkedin.com/jobs/view/data-analyst-at-monzo-bank-4233942918?position=1&pageNum=0&refId=c4kj1s%2FLJ9RvVMVHftcdVw%3D%3D&trackingId=yr3Yxx14LPmChT3FDtpIDQ%3D%3D,Data Analyst,Monzo Bank,"San Francisco, CA","🚀 We’re on a mission to make money work for everyone.
+
+We’re waving goodbye to the complicated and confusing ways of traditional banking.
+
+After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and combine their pensions with us.
+
+With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!
+
+We’re not about selling products - we want to solve problems and change lives through Monzo ❤️
+
+Hear from our UK team about what it's like working at Monzo ✨
+
+About Monzo US
+
+Monzo Group is a leading financial technology company, with over 9 million customers in the UK, committed to providing modern banking solutions. In the last few years, we’ve built a banking app that our customers love – with extremely high daily engagement, an industry leading net promoter score, and award-winning customer support. We’ve raised over $1 billion from Capital G, Google’s growth fund, Ribbit Capital, TenCent, YCombinator, Stripe, Coatue, Eric Schmidt, Mike Moritz, and others - most recently at a $5 billion valuation.
+
+We’re just getting started in the US. We’re an agile full stack team operating like an early stage startup but with the financial, operational, and engineering platform muscle of a larger company. We’re focused on building an amazing US product, shipping and iterating quickly, and deepening our product market fit. We’re looking for highly driven, enterprising people to help us achieve our mission to make money work for everyone.
+
+The Role
+
+We’re seeking business-savvy, impact-driven data analysts who can bridge the gap between data and decision-making. You’ll work across the business to proactively uncover insights, report performance trends, and enable self-serve analytics that empower stakeholders.
+
+This role is ideal for someone who enjoys working in a fast-paced environment, understands business drivers, and can turn raw data into actionable insights.
+
+You’ll Play a Key Role By
+
+
+Proactively analyzing business performance by identifying trends, behaviors, and patterns across key metrics.
+Developing self-serve analytics by building intuitive dashboards and reports that help teams access the data they need.
+Supporting decision-making with ad-hoc analysis, deep dives, and strategic recommendations.
+Optimizing data accessibility by improving data pipelines, maintaining data quality, and ensuring accuracy.
+Automating and scaling reporting to reduce manual effort and enhance speed-to-insight.
+Collaborating cross-functionally with teams such as Product, Operations, Risk, and Marketing to drive data-led initiatives.
+
+
+You Should Apply If
+
+
+You have demonstrated a business-first mindset at multiple companies, ability to frame problem statements from commercial, customer, and operational perspectives.
+Strong proficiency in SQL and experience working with large datasets in cloud-based data warehouses (BigQuery, Snowflake, Redshift, etc.).
+Experience with data visualization tools (e.g., Looker, Tableau, Power BI) to create self-serve dashboards.
+Comfortable with data modeling and designing efficient, scalable analytics solutions.
+A proactive, curious approach—someone who doesn’t just answer questions but finds the ones worth asking.
+Ability to communicate complex data in a clear, actionable way for non-technical stakeholders.
+Experience working in fintech, banking, or regulated industries is a plus.
+
+
+Bonus Points For Experience In
+
+
+LookML development
+dbt for data transformation
+Fintech, banking, or regulated industries
+
+
+🙌 What’s In It For You
+
+We offer a competitive salary and a pretty great benefits package (if we do say so ourselves!)
+
+💰 $135,000-175,000 + Equity
+
+📍 This role is hybrid based out of our San Francisco office
+
+📚 Learning budget of $1,500 a year for books, training courses and conferences
+
+💰 Generous 401k with 4% employer match
+
+Equal opportunities for everyone
+
+Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2024 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.
+
+We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.
+
+If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong><em>🚀 We’re on a mission to make money work for everyone.<br><br></em></strong>We’re waving goodbye to the complicated and confusing ways of traditional banking.<br><br>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts, accounts for 16-17 year olds, a free kids account and credit cards in the UK, with more exciting things to come beyond. Our UK customers can also save, invest and combine their pensions with us.<br><br>With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!<br><br>We’re not about selling products - we want to solve problems and change lives through Monzo ❤️<br><br>Hear from our UK team about what it's like working at Monzo ✨<br><br><strong>About Monzo US<br><br></strong>Monzo Group is a leading financial technology company, with over 9 million customers in the UK, committed to providing modern banking solutions. In the last few years, we’ve built a banking app that our customers love – with extremely high daily engagement, an industry leading net promoter score, and award-winning customer support. We’ve raised over $1 billion from Capital G, Google’s growth fund, Ribbit Capital, TenCent, YCombinator, Stripe, Coatue, Eric Schmidt, Mike Moritz, and others - most recently at a $5 billion valuation.<br><br>We’re just getting started in the US. We’re an agile full stack team operating like an early stage startup but with the financial, operational, and engineering platform muscle of a larger company. We’re focused on building an amazing US product, shipping and iterating quickly, and deepening our product market fit. We’re looking for highly driven, enterprising people to help us achieve our mission to make money work for everyone.<br><br><strong>The Role<br><br></strong>We’re seeking <strong>business-savvy, impact-driven data analysts</strong> who can bridge the gap between data and decision-making. You’ll work across the business to proactively <strong>uncover insights, report performance trends, and enable self-serve analytics</strong> that empower stakeholders.<br><br>This role is ideal for someone who enjoys working in a fast-paced environment, understands business drivers, and can <strong>turn raw data into actionable insights</strong>.<br><br><strong>You’ll Play a Key Role By<br><br></strong><ul><li>Proactively analyzing business performance by identifying trends, behaviors, and patterns across key metrics.</li><li>Developing self-serve analytics by building intuitive dashboards and reports that help teams access the data they need.</li><li>Supporting decision-making with ad-hoc analysis, deep dives, and strategic recommendations.</li><li>Optimizing data accessibility by improving data pipelines, maintaining data quality, and ensuring accuracy.</li><li>Automating and scaling reporting to reduce manual effort and enhance speed-to-insight.</li><li>Collaborating cross-functionally with teams such as Product, Operations, Risk, and Marketing to drive data-led initiatives.<br><br></li></ul><strong>You Should Apply If<br><br></strong><ul><li>You have demonstrated a business-first mindset at multiple companies, ability to frame problem statements from commercial, customer, and operational perspectives.</li><li>Strong proficiency in SQL and experience working with large datasets in cloud-based data warehouses (BigQuery, Snowflake, Redshift, etc.).</li><li>Experience with data visualization tools (e.g., Looker, Tableau, Power BI) to create self-serve dashboards.</li><li>Comfortable with data modeling and designing efficient, scalable analytics solutions.</li><li>A proactive, curious approach—someone who doesn’t just answer questions but finds the ones worth asking.</li><li>Ability to communicate complex data in a clear, actionable way for non-technical stakeholders.</li><li>Experience working in fintech, banking, or regulated industries is a plus.<br><br></li></ul><strong>Bonus Points For Experience In<br><br></strong><ul><li>LookML development</li><li>dbt for data transformation </li><li>Fintech, banking, or regulated industries <br><br></li></ul><strong>🙌 What’s In It For You<br><br></strong>We offer a competitive salary and a pretty great benefits package (if we do say so ourselves!)<br><br>💰 $135,000-175,000 + Equity<br><br>📍 This role is hybrid based out of our San Francisco office<br><br>📚 Learning budget of $1,500 a year for books, training courses and conferences<br><br>💰 Generous 401k with 4% employer match<br><br><strong>Equal opportunities for everyone<br><br></strong>Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our blog, 2024 Diversity and Inclusion Report and 2024 Gender Pay Gap Report.<br><br>We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.<br><br>If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-23,[]
+4241441029,https://www.linkedin.com/jobs/view/junior-data-analyst-at-lensa-4241441029?position=2&pageNum=0&refId=c4kj1s%2FLJ9RvVMVHftcdVw%3D%3D&trackingId=H2CcByMuvjFDeYFDw7t%2F7g%3D%3D,Junior Data Analyst,Lensa,"San Francisco, CA","Lensa is the leading career site for job seekers at every stage of their career. Our client, FocusKPI Inc., is seeking professionals in San Francisco, CA. Apply via Lensa today!
+
+FocusKPI is looking for aJunior Data Analystto join our client's growing team to spearhead analyses and provide meaningful insights into our users and product.
+
+The Data Analyst will leverage data on our users to build dashboards, answer key business questions, and tell compelling stories. This person will conduct in-depth analyses of our data, report on key metrics, and provide recommendations that will have a direct impact on shaping future product development and company initiatives. The ideal candidate is an intelligent, sharp, detail-oriented, and highly quantitative individual who loves working with and analyzing data.
+
+Work Location:Remote - anywhere in the US
+
+Duration:12-month contract
+
+Pay Range:$35+/hr
+
+Responsibilities
+
+
+Be constantly curious and continue to pursue in-depth explorations of our datasets
+Work with Product Managers and Engineers to uncover new business opportunities and better understand the levers of the business
+Support new product launches, A/B testing, ramp-up recommendations, and root cause investigation
+Leverage new techniques to investigate our data and incorporate external information to boost our knowledge of this market
+Communicate complicated data findings clearly and concisely to our multi-disciplined teams
+Collaborate with stakeholders,including product, marketing, finance, etc., on initiatives that improve our company-level KPIs and match our business priorities
+Ad-hoc analysis to address urgent high-impact analysis for business stakeholders
+
+
+Requirements
+
+
+Bachelor’s degree in any field that requires logical, creative thinking, STEM majors, MS degree preferred
+Minimum 2+ years of industry quantitative analysis experience to build data-driven products for solving business problems
+Experience withSQL
+Experience with a data visualization tool likeTableau
+Familiarity with Product Analytics - understanding and tracking customer and user behavior using lenses like adoption, churn, cohorts, and funnel analysis
+Experience collaborating with and understanding the needs of stakeholders from a variety of business functions, including product, marketing, finance and so on
+Experience in handling large-scale data with efficiency
+Strong analytical and problem-solving skills
+Experience in Financial Services or FinTech preferred
+Previous work on evaluating product iterations or experiments
+
+
+Thank you!
+
+FocusKPI Hiring Team
+
+Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California, with an East Coast office in Boston, Massachusetts.
+
+NOTICE: Please be aware of fraudulent emails regarding job postings, job offers and fake checks. FocusKPI's recruiting team will strictly reach out via @focuskpi.com email domain. If you have received fraudulent emails now or in the past, please report it to https://reportfraud.ftc.gov/ . The domain @focuskpijobs.com is fraudulent and not related to FocusKPI. Please do not not reply or communicate to anyone with @focuskpijobs.com.
+
+Powered by JazzHR
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Lensa is the leading career site for job seekers at every stage of their career. Our client, FocusKPI Inc., is seeking professionals in San Francisco, CA. Apply via Lensa today!<br><br>FocusKPI is looking for aJunior Data Analystto join our client's growing team to spearhead analyses and provide meaningful insights into our users and product.<br><br>The Data Analyst will leverage data on our users to build dashboards, answer key business questions, and tell compelling stories. This person will conduct in-depth analyses of our data, report on key metrics, and provide recommendations that will have a direct impact on shaping future product development and company initiatives. The ideal candidate is an intelligent, sharp, detail-oriented, and highly quantitative individual who loves working with and analyzing data.<br><br>Work Location:Remote - anywhere in the US<br><br>Duration:12-month contract<br><br>Pay Range:$35+/hr<br><br><strong>Responsibilities<br><br></strong><ul><li>Be constantly curious and continue to pursue in-depth explorations of our datasets </li><li>Work with Product Managers and Engineers to uncover new business opportunities and better understand the levers of the business </li><li>Support new product launches, A/B testing, ramp-up recommendations, and root cause investigation </li><li>Leverage new techniques to investigate our data and incorporate external information to boost our knowledge of this market </li><li>Communicate complicated data findings clearly and concisely to our multi-disciplined teams </li><li>Collaborate with stakeholders,including product, marketing, finance, etc., on initiatives that improve our company-level KPIs and match our business priorities </li><li>Ad-hoc analysis to address urgent high-impact analysis for business stakeholders <br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Bachelor’s degree in any field that requires logical, creative thinking, STEM majors, MS degree preferred </li><li>Minimum 2+ years of industry quantitative analysis experience to build data-driven products for solving business problems </li><li>Experience withSQL </li><li>Experience with a data visualization tool likeTableau </li><li>Familiarity with Product Analytics - understanding and tracking customer and user behavior using lenses like adoption, churn, cohorts, and funnel analysis </li><li>Experience collaborating with and understanding the needs of stakeholders from a variety of business functions, including product, marketing, finance and so on </li><li>Experience in handling large-scale data with efficiency </li><li>Strong analytical and problem-solving skills </li><li>Experience in Financial Services or FinTech preferred </li><li>Previous work on evaluating product iterations or experiments <br><br></li></ul>Thank you!<br><br>FocusKPI Hiring Team<br><br>Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California, with an East Coast office in Boston, Massachusetts.<br><br>NOTICE: Please be aware of fraudulent emails regarding job postings, job offers and fake checks. FocusKPI's recruiting team will strictly reach out via @focuskpi.com email domain. If you have received fraudulent emails now or in the past, please report it to https://reportfraud.ftc.gov/ . The domain @focuskpijobs.com is fraudulent and not related to FocusKPI. Please do not not reply or communicate to anyone with @focuskpijobs.com.<br><br>Powered by JazzHR
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-31,[]
+4193351793,https://www.linkedin.com/jobs/view/data-analyst-measurement-research-at-pinterest-4193351793?position=3&pageNum=0&refId=c4kj1s%2FLJ9RvVMVHftcdVw%3D%3D&trackingId=FTvpBfYwS9Nzq7KXWQZXNw%3D%3D,"Data Analyst, Measurement Research",Pinterest,"San Francisco, CA","About Pinterest
+
+Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.
+
+Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.
+
+We are looking for a Data Analyst II on our Measurement Research team within the Partner Measurement organization to develop and amplify research and tools that prove the value of Pinterest to our advertisers in the ever-changing industry landscape. The Measurement Research team’s mission is to communicate the value of the platform to advertisers and build insights and tools to optimize ad performance. The team focuses on analysis of advertising performance using a variety of measurement methodologies (eg MMM, MTA, MMT, Brand Lift), reporting tools, visualizations, proactive analytical insights, statistical insights, and support for the larger Partner Measurement team with our knowledge.
+
+What You’ll Do
+
+
+Conduct analyses of internal and third-party data to develop insights on advertising on the platform
+Access internal data and tools to facilitate research with providers
+Partner occasionally with outside partners to conduct research
+Develop tools used by Partner Measurement and Sellers to generate insights at scale
+Collaborate with cross-functional teams such as sales, product, business intelligence, product marketing, and business marketing to communicate findings both internally and externally
+
+
+
+What We’re Looking For
+
+
+Knowledge of various measurement research methodologies (MMM, MTA, Brand Lifts, Site Analytics, MMT)
+Bachelor’s degree in a relevant field such as Economics, Statistics, Mathematics or equivalent experience
+Experience using varied quantitative analysis to communicate advertising performance
+Demonstrated experience extracting, manipulating and analyzing data using SQL or comparable languages
+Facility with Python to manipulate and analyze data
+Curiosity of the changing advertising landscape
+Creativity in developing new research initiatives, conducting analyses, and packaging insights for different audiences
+Ability to communicate complex information to a range of measurement-literate audiences
+At Least 4+ years of relevant experience in the field of Advertising Measurement.
+
+
+
+Relocation Statement:
+
+
+This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.
+
+
+
+In-Office Requirement Statement
+
+
+We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.
+This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country.
+
+
+
+At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.
+
+Information regarding the culture at Pinterest and benefits available for this position can be found here.
+
+US based applicants only
+
+$100,937—$207,811 USD
+
+Our Commitment To Inclusion
+
+Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Pinterest<br><br></strong>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.<br><br>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other’s unique experiences and embrace the flexibility to do your best work. Creating a career you love? It’s Possible.<br><br>We are looking for a Data Analyst II on our Measurement Research team within the Partner Measurement organization to develop and amplify research and tools that prove the value of Pinterest to our advertisers in the ever-changing industry landscape. The Measurement Research team’s mission is to communicate the value of the platform to advertisers and build insights and tools to optimize ad performance. The team focuses on analysis of advertising performance using a variety of measurement methodologies (eg MMM, MTA, MMT, Brand Lift), reporting tools, visualizations, proactive analytical insights, statistical insights, and support for the larger Partner Measurement team with our knowledge.<br><br><strong>What You’ll Do<br><br></strong><ul><li>Conduct analyses of internal and third-party data to develop insights on advertising on the platform</li><li>Access internal data and tools to facilitate research with providers</li><li>Partner occasionally with outside partners to conduct research</li><li>Develop tools used by Partner Measurement and Sellers to generate insights at scale</li><li>Collaborate with cross-functional teams such as sales, product, business intelligence, product marketing, and business marketing to communicate findings both internally and externally<br><br><br></li></ul><strong>What We’re Looking For<br><br></strong><ul><li>Knowledge of various measurement research methodologies (MMM, MTA, Brand Lifts, Site Analytics, MMT)</li><li>Bachelor’s degree in a relevant field such as Economics, Statistics, Mathematics or equivalent experience</li><li>Experience using varied quantitative analysis to communicate advertising performance</li><li>Demonstrated experience extracting, manipulating and analyzing data using SQL or comparable languages</li><li>Facility with Python to manipulate and analyze data</li><li>Curiosity of the changing advertising landscape</li><li>Creativity in developing new research initiatives, conducting analyses, and packaging insights for different audiences</li><li>Ability to communicate complex information to a range of measurement-literate audiences</li><li>At Least 4+ years of relevant experience in the field of Advertising Measurement.<br><br><br></li></ul><strong>Relocation Statement:<br><br></strong><ul><li> This position is not eligible for relocation assistance. Visit our PinFlex page to learn more about our working model.<br><br><br></li></ul><strong>In-Office Requirement Statement<br><br></strong><ul><li>We let the type of work you do guide the collaboration style. That means we're not always working in an office, but we continue to gather for key moments of collaboration and connection.</li><li>This role will need to be in the office for in-person collaboration 1-2 times/quarter and therefore can be situated anywhere in the country. <br><br><br></li></ul>At Pinterest we believe the workplace should be equitable, inclusive, and inspiring for every employee. In an effort to provide greater transparency, we are sharing the base salary range for this position. The position is also eligible for equity. Final salary is based on a number of factors including location, travel, relevant prior experience, or particular skills and expertise.<br><br><em>Information regarding the culture at Pinterest and benefits available for this position can be found here.<br><br></em>US based applicants only<br><br>$100,937—$207,811 USD<br><br><strong>Our Commitment To Inclusion<br><br></strong>Pinterest is an equal opportunity employer and makes employment decisions on the basis of merit. We want to have the best qualified people in every job. All qualified applicants will receive consideration for employment without regard to race, color, ancestry, national origin, religion or religious creed, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, marital status, status as a protected veteran, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member) or any other consideration made unlawful by applicable federal, state or local laws. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you require a medical or religious accommodation during the job application process, please complete this form for support.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-04,[]
+4211388455,https://www.linkedin.com/jobs/view/business-data-analyst-at-meta-4211388455?position=1&pageNum=0&refId=dqPalhecotaQOsn2onGXeQ%3D%3D&trackingId=arZipcmOFOA6PmYnPRKmIQ%3D%3D,Business Data Analyst,Meta,"Fremont, CA","We are seeking a highly skilled and detail-oriented Business Data Analyst to join our Enterprise Solutions Supply Chain team. As a key member of the team, you will be responsible for analyzing and interpreting complex data sets to inform supply chain strategy, optimize operations, and drive business outcomes.
+
+Business Data Analyst Responsibilities:
+
+
+Collaborate with cross-functional teams to identify opportunities for end-to-end supply chain improvement and develop data-driven solutions
+Leverage understanding of supply chain principles and analytics techniques to identify critical control points and performance metrics
+Translate business problems into manageable analytics projects and lead execution across cross-functional teams
+Develop decision support systems, accessible tools, and models that are scalable and reproducible to guide run-the-business and transformational initiatives
+Partner with Data Engineers early to align on data foundation and data quality strategies
+Communicate at scale through multiple mediums: presentations, dashboards, company-wide datasets, bots and more
+
+
+Minimum Qualifications:
+
+
+5+ years of experience partnering with leadership team to identify problems with data, understand drivers, and establish analytics roadmaps to drive improvements
+3+ years of experience doing quantitative analysis within a large-scale company or fast-paced environment
+3+ years of SQL experience
+Experience in defining metrics/KPIs for end to end supply chain operations and building repeatable and reproducible analysis
+Fluent in communicating results of technical analyses with leadership team to influence strategy
+
+
+Preferred Qualifications:
+
+
+Experience transforming complex business problems into simple structured models and supply chain community stories
+Proven track record of successfully translating analytical insights into actionable recommendations that drive business outcomes
+Background in management consulting
+Experience with project management methodologies and tools to ensure timely delivery of analytical projects
+
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$104,000/year to $146,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are seeking a highly skilled and detail-oriented Business Data Analyst to join our Enterprise Solutions Supply Chain team. As a key member of the team, you will be responsible for analyzing and interpreting complex data sets to inform supply chain strategy, optimize operations, and drive business outcomes.<br><br>Business Data Analyst Responsibilities:<br><br><ul><li>Collaborate with cross-functional teams to identify opportunities for end-to-end supply chain improvement and develop data-driven solutions</li><li>Leverage understanding of supply chain principles and analytics techniques to identify critical control points and performance metrics</li><li>Translate business problems into manageable analytics projects and lead execution across cross-functional teams</li><li>Develop decision support systems, accessible tools, and models that are scalable and reproducible to guide run-the-business and transformational initiatives</li><li>Partner with Data Engineers early to align on data foundation and data quality strategies</li><li>Communicate at scale through multiple mediums: presentations, dashboards, company-wide datasets, bots and more<br><br></li></ul>Minimum Qualifications:<br><br><ul><li>5+ years of experience partnering with leadership team to identify problems with data, understand drivers, and establish analytics roadmaps to drive improvements</li><li>3+ years of experience doing quantitative analysis within a large-scale company or fast-paced environment</li><li>3+ years of SQL experience</li><li>Experience in defining metrics/KPIs for end to end supply chain operations and building repeatable and reproducible analysis</li><li>Fluent in communicating results of technical analyses with leadership team to influence strategy<br><br></li></ul>Preferred Qualifications:<br><br><ul><li>Experience transforming complex business problems into simple structured models and supply chain community stories</li><li>Proven track record of successfully translating analytical insights into actionable recommendations that drive business outcomes</li><li>Background in management consulting</li><li>Experience with project management methodologies and tools to ensure timely delivery of analytical projects<br><br></li></ul>About Meta:<br><br>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br><br>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br><br>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.<br><br>$104,000/year to $146,000/year + bonus + equity + benefits<br><br>Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4211808405,https://www.linkedin.com/jobs/view/business-intelligence-data-analyst-at-corsair-4211808405?position=2&pageNum=0&refId=dqPalhecotaQOsn2onGXeQ%3D%3D&trackingId=f0lgQCUnylglMRGQbzuhaA%3D%3D,Business Intelligence Data Analyst,Corsair,"Milpitas, CA","General Purpose
+
+JOB DESCRIPTION
+
+Corsair is seeking a Business Intelligence (BI) Data Analyst to join our innovative and high-impact analytics team at our headquarters. Our team plays a crucial role in enabling data-driven decision-making across the company. We collaborate with executives, channel marketing, and various Corsair departments, including technical teams – IT and engineering. This role involves developing insightful Power BI dashboards, creating corporate level reports, providing actionable insights, and driving strategic initiatives to support Corsair’s business growth in the dynamic gaming and technology industry.
+
+Responsibilities
+
+
+Develop and Maintain Dashboards: Create and evolve aesthetically pleasing and insightful BI dashboards that deliver business value.
+Cross-Functional Collaboration: Partner with global teams to understand business needs, gather insights, and track key business activities.
+Data Analysis and Reporting: Conduct data-driven analyses, combining both quantitative and qualitative methods, to inform business decisions.
+Data Management: Collaborate with data engineering team to resolve data issues, implement requests, and automate processes, ensuring a single source of truth.
+Data Quality Assurance: Maintain a high level of data integrity and accuracy. Audit data, debug issues, and ensure metrics are reliable.
+Support Business Initiatives: Provide ad-hoc analyses and recommendations to stakeholders using metrics and data visualizations.
+Stakeholder Communication: Act as a bridge between technical and business teams, translating complex data concepts into clear insights for various audiences.
+Continuous Learning: Stay up-to-date with the latest tools and best practices in BI, sharing knowledge and insights with team members.
+Time Management: Handle multiple projects simultaneously, meet tight deadlines, and respond to executive requests with agility.
+
+
+Qualifications
+
+Background:
+
+
+Bachelor’s degree in Analytics, Statistics, Economics, Data Science, Computer Science, Information Systems, Business, or a related quantitative field.
+2+ years of experience in business intelligence, data analysis, or a similar data-intensive role.
+Experience in the gaming industry is a plus.
+
+
+Skills
+
+
+Proficiency in Excel (advanced functions) and PowerPoint.
+Ability to build functional and insightful dashboards using Power BI; proficiency in DAX is a strong advantage.
+Strong analytical and visualization skills with the ability to translate data into actionable insights and recommendations.
+Knowledge of data structures, ETL processes, and SQL.
+Familiarity with or willingness to learn Python or R, with a focus on analytical and statistical packages.
+Understanding of statistical modeling and machine learning algorithms.
+Excellent communication skills across various mediums, including written reports, presentations, and verbal interactions.
+
+
+Mindset
+
+
+Strong attention to detail with high standards for data quality and accuracy.
+A proactive sense of ownership and accountability for your work.
+Ability to work independently and solve problems with a solutions-oriented mindset.
+Adaptability to new challenges and comfort with ambiguity.
+Openness to working with diverse teams across different cultures and time zones.
+A passion for learning and staying current with emerging technologies in analytics and visualization.
+
+
+For roles that are based at our headquarters in Milpitas, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future.
+
+Annual Salary Range $80,000—$95,000 USD
+
+About Us
+
+CORSAIR (NASDAQ:CRSR), founded in 1994, is a leading global developer and manufacturer of high-performance gaming and streaming gear. With 21 different product lines, CORSAIR offers a complete range of products that help digital athletes perform at their peak and enable streaming creators to produce studio-quality content for their fans. CORSAIR has built a passionate base of loyal customers due to its gamer- and creator-centric design philosophy, commitment to high performance, and professional quality.
+
+The company has received more than 4,000 product awards and has a footprint that reaches customers in more than 75 countries. CORSAIR also includes subsidiary brands Elgato, which provides premium studio equipment and accessories for content creators, SCUF Gaming, which builds custom-designed controllers for competitive gamers, and ORIGIN PC, a builder of custom gaming and workstation desktop PCs and laptops.
+
+Benefits
+
+
+Comprehensive medical, dental, and vision benefits
+Bonus
+401K Plan
+Tuition Assistance
+Employee Discount Purchase Program
+Paid Parental Leave
+Employee Stock Purchase Program
+Generous paid time off and holidays
+Pet Insurance
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>General Purpose<br><br></strong><strong> JOB DESCRIPTION <br><br></strong>Corsair is seeking a Business Intelligence (BI) Data Analyst to join our innovative and high-impact analytics team at our headquarters. Our team plays a crucial role in enabling data-driven decision-making across the company. We collaborate with executives, channel marketing, and various Corsair departments, including technical teams – IT and engineering. This role involves developing insightful Power BI dashboards, creating corporate level reports, providing actionable insights, and driving strategic initiatives to support Corsair’s business growth in the dynamic gaming and technology industry.<br><br><strong>Responsibilities<br><br></strong><ul><li>Develop and Maintain Dashboards: Create and evolve aesthetically pleasing and insightful BI dashboards that deliver business value.</li><li>Cross-Functional Collaboration: Partner with global teams to understand business needs, gather insights, and track key business activities.</li><li>Data Analysis and Reporting: Conduct data-driven analyses, combining both quantitative and qualitative methods, to inform business decisions.</li><li>Data Management: Collaborate with data engineering team to resolve data issues, implement requests, and automate processes, ensuring a single source of truth.</li><li>Data Quality Assurance: Maintain a high level of data integrity and accuracy. Audit data, debug issues, and ensure metrics are reliable.</li><li>Support Business Initiatives: Provide ad-hoc analyses and recommendations to stakeholders using metrics and data visualizations.</li><li>Stakeholder Communication: Act as a bridge between technical and business teams, translating complex data concepts into clear insights for various audiences.</li><li>Continuous Learning: Stay up-to-date with the latest tools and best practices in BI, sharing knowledge and insights with team members.</li><li>Time Management: Handle multiple projects simultaneously, meet tight deadlines, and respond to executive requests with agility.<br><br></li></ul><strong>Qualifications<br><br></strong>Background:<br><br><ul><li>Bachelor’s degree in Analytics, Statistics, Economics, Data Science, Computer Science, Information Systems, Business, or a related quantitative field.</li><li>2+ years of experience in business intelligence, data analysis, or a similar data-intensive role.</li><li>Experience in the gaming industry is a plus.<br><br></li></ul><strong>Skills<br><br></strong><ul><li>Proficiency in Excel (advanced functions) and PowerPoint.</li><li>Ability to build functional and insightful dashboards using Power BI; proficiency in DAX is a strong advantage.</li><li>Strong analytical and visualization skills with the ability to translate data into actionable insights and recommendations.</li><li>Knowledge of data structures, ETL processes, and SQL.</li><li>Familiarity with or willingness to learn Python or R, with a focus on analytical and statistical packages.</li><li>Understanding of statistical modeling and machine learning algorithms.</li><li>Excellent communication skills across various mediums, including written reports, presentations, and verbal interactions.<br><br></li></ul><strong>Mindset<br><br></strong><ul><li>Strong attention to detail with high standards for data quality and accuracy.</li><li>A proactive sense of ownership and accountability for your work.</li><li>Ability to work independently and solve problems with a solutions-oriented mindset.</li><li>Adaptability to new challenges and comfort with ambiguity.</li><li>Openness to working with diverse teams across different cultures and time zones.</li><li>A passion for learning and staying current with emerging technologies in analytics and visualization.<br><br></li></ul>For roles that are based at our headquarters in Milpitas, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay range is subject to change and may be modified in the future.<br><br>Annual Salary Range $80,000—$95,000 USD<br><br><strong>About Us<br><br></strong>CORSAIR (NASDAQ:CRSR), founded in 1994, is a leading global developer and manufacturer of high-performance gaming and streaming gear. With 21 different product lines, CORSAIR offers a complete range of products that help digital athletes perform at their peak and enable streaming creators to produce studio-quality content for their fans. CORSAIR has built a passionate base of loyal customers due to its gamer- and creator-centric design philosophy, commitment to high performance, and professional quality.<br><br>The company has received more than 4,000 product awards and has a footprint that reaches customers in more than 75 countries. CORSAIR also includes subsidiary brands Elgato, which provides premium studio equipment and accessories for content creators, SCUF Gaming, which builds custom-designed controllers for competitive gamers, and ORIGIN PC, a builder of custom gaming and workstation desktop PCs and laptops.<br><br><strong>Benefits<br><br></strong><ul><li> Comprehensive medical, dental, and vision benefits </li><li> Bonus</li><li> 401K Plan </li><li> Tuition Assistance </li><li> Employee Discount Purchase Program </li><li> Paid Parental Leave </li><li> Employee Stock Purchase Program </li><li> Generous paid time off and holidays </li><li> Pet Insurance</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-01,[]
+4241441029,https://www.linkedin.com/jobs/view/junior-data-analyst-at-lensa-4241441029?position=3&pageNum=0&refId=dqPalhecotaQOsn2onGXeQ%3D%3D&trackingId=hBbko3S8WfSW5dJvGFAyxg%3D%3D,Junior Data Analyst,Lensa,"San Francisco, CA","Lensa is the leading career site for job seekers at every stage of their career. Our client, FocusKPI Inc., is seeking professionals in San Francisco, CA. Apply via Lensa today!
+
+FocusKPI is looking for aJunior Data Analystto join our client's growing team to spearhead analyses and provide meaningful insights into our users and product.
+
+The Data Analyst will leverage data on our users to build dashboards, answer key business questions, and tell compelling stories. This person will conduct in-depth analyses of our data, report on key metrics, and provide recommendations that will have a direct impact on shaping future product development and company initiatives. The ideal candidate is an intelligent, sharp, detail-oriented, and highly quantitative individual who loves working with and analyzing data.
+
+Work Location:Remote - anywhere in the US
+
+Duration:12-month contract
+
+Pay Range:$35+/hr
+
+Responsibilities
+
+
+Be constantly curious and continue to pursue in-depth explorations of our datasets
+Work with Product Managers and Engineers to uncover new business opportunities and better understand the levers of the business
+Support new product launches, A/B testing, ramp-up recommendations, and root cause investigation
+Leverage new techniques to investigate our data and incorporate external information to boost our knowledge of this market
+Communicate complicated data findings clearly and concisely to our multi-disciplined teams
+Collaborate with stakeholders,including product, marketing, finance, etc., on initiatives that improve our company-level KPIs and match our business priorities
+Ad-hoc analysis to address urgent high-impact analysis for business stakeholders
+
+
+Requirements
+
+
+Bachelor’s degree in any field that requires logical, creative thinking, STEM majors, MS degree preferred
+Minimum 2+ years of industry quantitative analysis experience to build data-driven products for solving business problems
+Experience withSQL
+Experience with a data visualization tool likeTableau
+Familiarity with Product Analytics - understanding and tracking customer and user behavior using lenses like adoption, churn, cohorts, and funnel analysis
+Experience collaborating with and understanding the needs of stakeholders from a variety of business functions, including product, marketing, finance and so on
+Experience in handling large-scale data with efficiency
+Strong analytical and problem-solving skills
+Experience in Financial Services or FinTech preferred
+Previous work on evaluating product iterations or experiments
+
+
+Thank you!
+
+FocusKPI Hiring Team
+
+Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California, with an East Coast office in Boston, Massachusetts.
+
+NOTICE: Please be aware of fraudulent emails regarding job postings, job offers and fake checks. FocusKPI's recruiting team will strictly reach out via @focuskpi.com email domain. If you have received fraudulent emails now or in the past, please report it to https://reportfraud.ftc.gov/ . The domain @focuskpijobs.com is fraudulent and not related to FocusKPI. Please do not not reply or communicate to anyone with @focuskpijobs.com.
+
+Powered by JazzHR
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Lensa is the leading career site for job seekers at every stage of their career. Our client, FocusKPI Inc., is seeking professionals in San Francisco, CA. Apply via Lensa today!<br><br>FocusKPI is looking for aJunior Data Analystto join our client's growing team to spearhead analyses and provide meaningful insights into our users and product.<br><br>The Data Analyst will leverage data on our users to build dashboards, answer key business questions, and tell compelling stories. This person will conduct in-depth analyses of our data, report on key metrics, and provide recommendations that will have a direct impact on shaping future product development and company initiatives. The ideal candidate is an intelligent, sharp, detail-oriented, and highly quantitative individual who loves working with and analyzing data.<br><br>Work Location:Remote - anywhere in the US<br><br>Duration:12-month contract<br><br>Pay Range:$35+/hr<br><br><strong>Responsibilities<br><br></strong><ul><li>Be constantly curious and continue to pursue in-depth explorations of our datasets </li><li>Work with Product Managers and Engineers to uncover new business opportunities and better understand the levers of the business </li><li>Support new product launches, A/B testing, ramp-up recommendations, and root cause investigation </li><li>Leverage new techniques to investigate our data and incorporate external information to boost our knowledge of this market </li><li>Communicate complicated data findings clearly and concisely to our multi-disciplined teams </li><li>Collaborate with stakeholders,including product, marketing, finance, etc., on initiatives that improve our company-level KPIs and match our business priorities </li><li>Ad-hoc analysis to address urgent high-impact analysis for business stakeholders <br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Bachelor’s degree in any field that requires logical, creative thinking, STEM majors, MS degree preferred </li><li>Minimum 2+ years of industry quantitative analysis experience to build data-driven products for solving business problems </li><li>Experience withSQL </li><li>Experience with a data visualization tool likeTableau </li><li>Familiarity with Product Analytics - understanding and tracking customer and user behavior using lenses like adoption, churn, cohorts, and funnel analysis </li><li>Experience collaborating with and understanding the needs of stakeholders from a variety of business functions, including product, marketing, finance and so on </li><li>Experience in handling large-scale data with efficiency </li><li>Strong analytical and problem-solving skills </li><li>Experience in Financial Services or FinTech preferred </li><li>Previous work on evaluating product iterations or experiments <br><br></li></ul>Thank you!<br><br>FocusKPI Hiring Team<br><br>Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Silicon Valley, California, with an East Coast office in Boston, Massachusetts.<br><br>NOTICE: Please be aware of fraudulent emails regarding job postings, job offers and fake checks. FocusKPI's recruiting team will strictly reach out via @focuskpi.com email domain. If you have received fraudulent emails now or in the past, please report it to https://reportfraud.ftc.gov/ . The domain @focuskpijobs.com is fraudulent and not related to FocusKPI. Please do not not reply or communicate to anyone with @focuskpijobs.com.<br><br>Powered by JazzHR
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-31,[]
+4245298723,https://fr.linkedin.com/jobs/view/alternant-data-analyst-h-f-como-mercedes-benz-at-como-4245298723?position=1&pageNum=0&refId=3RKwTIwgBbkDcXORITVGQQ%3D%3D&trackingId=KXKkvqOdmgUeg11W0h2o%2Fg%3D%3D,Alternant DATA Analyst (H/F) COMO Mercedes-Benz,Como,"Stains, Île-de-France, France","Le groupe COMO est distributeur et réparateur agréé des marques Mercedes-Benz, Smart et Lexus sur Paris et en Ile de France.
+
+Nous assurons une qualité de service maximale pour toutes les opérations de Ventes, d’Après-Vente et de Pièces de rechange.
+
+La Passion, le Respect, l’Intégrité et la Satisfaction du client sont des valeurs qui animent au quotidien notre groupe.
+
+Nous recherchons un Alternant DATA Analyst (H/F) en contrat d'apprentissage pour notre site de Stains (93240).
+
+Nous vous prions de ne pas prendre contact par téléphone pour candidater ; mais de postuler directement en ligne.
+
+Drivé(e) par le Data Manager, au sein du service Data, vous serez chargé(e) de fiabiliser et consolider les données de nos différents outils en collaboration avec les pôles métiers.
+
+Concrètement, Vos Missions Seront De
+
+
+Participer à la création des bases de données nécessaires à l’entreprise ;
+Assurer une mise à jour et veiller à leur bon fonctionnement ;
+Participer à l’analyse et l’exploration des données provenant de différentes sources (CRM) ;
+Participer à la création et au maintien d’outils de pilotage ;
+Mettre en forme les données afin de faciliter la prise de décision (outil BI) ;
+
+
+Cette liste n’est pas exhaustive… elle pourra s’enrichir selon votre motivation et votre implication.
+
+
+De niveau Bac+3, à Bac+4 vous justifiez d’une première expérience dans l’analyse et le traitement de données (dominante technique avec des connaissances DMS,
+Expérience significative sur Power BI (Power Query, DAX, M)
+Vous êtes passionné(e) de data, de statistiques et d’analyse,
+Force de proposition, positif(ve), enthousiaste, vous aimez le travail en équipe,
+Vous êtes à l’aise avec l’informatique, et vous aimez chercher des solutions et maîtriser de nouveaux outils,
+Vous maîtrisez définitivement le Pack Office, et plus particulièrement Excel
+Une bonne connaissance du langage Python serait un plus à votre candidature.
+
+
+Les avantages à nous rejoindre
+
+
+Participation au transport
+Titre restaurant
+
+
+Vous souhaitez vous épanouir dans un environnement ou l’énergie, la bonne humeur et les valeurs humaines sont essentielles à votre réussite ? Vous possédez le sens du service afin de répondre au mieux aux demandes de vos clients ?
+
+Alors cette opportunité est faite pour vous !
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Le groupe COMO est distributeur et réparateur agréé des marques Mercedes-Benz, Smart et Lexus sur Paris et en Ile de France.<br><br>Nous assurons une qualité de service maximale pour toutes les opérations de Ventes, d’Après-Vente et de Pièces de rechange.<br><br>La Passion, le Respect, l’Intégrité et la Satisfaction du client sont des valeurs qui animent au quotidien notre groupe.<br><br>Nous recherchons un <strong>Alternant DATA Analyst (H/F)</strong> en contrat d'apprentissage pour notre site de Stains (93240).<br><br>Nous vous prions de ne pas prendre contact par téléphone pour candidater ; mais de postuler directement en ligne.<br><br>Drivé(e) par le Data Manager, au sein du service Data, vous serez chargé(e) de fiabiliser et consolider les données de nos différents outils en collaboration avec les pôles métiers.<br><br><strong>Concrètement, Vos Missions Seront De<br><br></strong><ul><li> Participer à la création des bases de données nécessaires à l’entreprise ;</li><li> Assurer une mise à jour et veiller à leur bon fonctionnement ;</li><li> Participer à l’analyse et l’exploration des données provenant de différentes sources (CRM) ;</li><li> Participer à la création et au maintien d’outils de pilotage ;</li><li> Mettre en forme les données afin de faciliter la prise de décision (outil BI) ;<br><br></li></ul>Cette liste n’est pas exhaustive… elle pourra s’enrichir selon votre motivation et votre implication.<br><br><ul><li>De niveau Bac+3, à Bac+4 vous justifiez d’une première expérience dans l’analyse et le traitement de données (dominante technique avec des connaissances DMS,</li><li>Expérience significative sur Power BI (Power Query, DAX, M)</li><li>Vous êtes passionné(e) de data, de statistiques et d’analyse,</li><li>Force de proposition, positif(ve), enthousiaste, vous aimez le travail en équipe,</li><li>Vous êtes à l’aise avec l’informatique, et vous aimez chercher des solutions et maîtriser de nouveaux outils,</li><li>Vous maîtrisez définitivement le Pack Office, et plus particulièrement Excel</li><li>Une bonne connaissance du langage Python serait un plus à votre candidature.<br><br></li></ul><strong>Les avantages à nous rejoindre<br><br></strong><ul><li>Participation au transport</li><li>Titre restaurant<br><br></li></ul><strong><em>Vous souhaitez vous épanouir dans un environnement ou l’énergie, la bonne humeur et les valeurs humaines sont essentielles à votre réussite ? Vous possédez le sens du service afin de répondre au mieux aux demandes de vos clients ? <br><br></em></strong><strong><em>Alors cette opportunité est faite pour vous !</em></strong>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4245933536,https://bg.linkedin.com/jobs/view/data-analyst-at-experian-4245933536?position=2&pageNum=0&refId=3RKwTIwgBbkDcXORITVGQQ%3D%3D&trackingId=gDLRmCgG2yDgZpWsXFseNg%3D%3D,Data Analyst,Experian,"Sofia, Sofia City, Bulgaria","Company Description
+
+Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, deliver digital marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realise their financial goals and help them to save time and money.
+
+We operate across a range of markets, from financial services to healthcare, automotive, agrifinance, insurance, and many more industry segments.
+
+We invest in talented people and new advanced technologies to unlock the power of data and to innovate. A FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 23,300 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at experianplc.com.
+
+Job Description
+
+You'll work with the Senior Analyst and collaborate across teams to deliver impactful insights through advanced data visualization and analysis. You'll design Tableau dashboards, ensuring data accuracy, explaining performance trends and aligning reporting standards across the business. You will report into the Analytics Manager.
+
+What You Will Do
+
+
+Work with the Senior analyst and provide guidance to any junior analyst
+Engage with stakeholders to gain deep understanding of business context
+Develop and maintain complex Tableau dashboards, ensuring they meet business needs
+Gather and prepare data for dashboard development
+Ensure high level of accuracy and high-quality delivery of dashboards to agreed timelines
+Co-ordinate with the wider analytics and data teams on best practices
+Align with the wider analytics team on metric definitions and ensure consistency in reporting
+Contribute to the creation and maintenance of data transformation layers
+
+
+Qualifications
+
+What you will bring:
+
+
+2+ years experience in data analytics role
+Experienced in SQL
+Intermediate/advanced proficiency in Tableau and data visualization
+Advanced data analysis skills
+Advanced data preparation and interrogation techniques
+Ability to communicate complex data to a variety of audiences
+Experience with git version management
+
+
+Additional Information
+
+What you will get:
+
+
+Personal Development - career pathway for professional growth supported by learning and development programs and unlimited access to online educational training courses, learning materials & book.
+Work environment - excellent work conditions with friendly environment, recognized team spirit, and fun and quality recreation time.
+Social benefit package including life insurance, food vouchers, additional health insurance, monthly flex allowance and internet coverage, corporate discounts, marriage and childbirth / adoption allowance, Multisport card, Sharesave plan, Employee assistance program, а birthday gift and many other benefits!
+Work-life balance - 25 days paid vacation, 1 additional day off for your birthday and extra 3 paid days for participation in Social responsibility event.
+Opportunity for Flexible working hours and Home Office.
+
+
+Experian is an Equal opportunity employer. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.
+
+This is a hybrid remote/in-office role.
+
+Experian Careers - Creating a better tomorrow together
+
+Find out what its like to work for Experian by clicking here
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Company Description<br><br></strong>Experian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare, deliver digital marketing solutions, and gain deeper insights into the automotive market, all using our unique combination of data, analytics and software. We also assist millions of people to realise their financial goals and help them to save time and money.<br><br>We operate across a range of markets, from financial services to healthcare, automotive, agrifinance, insurance, and many more industry segments.<br><br>We invest in talented people and new advanced technologies to unlock the power of data and to innovate. A FTSE 100 Index company listed on the London Stock Exchange (EXPN), we have a team of 23,300 people across 32 countries. Our corporate headquarters are in Dublin, Ireland. Learn more at <strong>experianplc.com</strong>.<br><br><strong>Job Description<br><br></strong>You'll work with the Senior Analyst and collaborate across teams to deliver impactful insights through advanced data visualization and analysis. You'll design Tableau dashboards, ensuring data accuracy, explaining performance trends and aligning reporting standards across the business. You will report into the Analytics Manager.<br><br><strong>What You Will Do<br><br></strong><ul><li>Work with the Senior analyst and provide guidance to any junior analyst</li><li>Engage with stakeholders to gain deep understanding of business context</li><li>Develop and maintain complex Tableau dashboards, ensuring they meet business needs</li><li>Gather and prepare data for dashboard development</li><li>Ensure high level of accuracy and high-quality delivery of dashboards to agreed timelines</li><li>Co-ordinate with the wider analytics and data teams on best practices</li><li>Align with the wider analytics team on metric definitions and ensure consistency in reporting</li><li>Contribute to the creation and maintenance of data transformation layers<br><br></li></ul><strong>Qualifications<br><br></strong><strong>What you will bring:<br><br></strong><ul><li>2+ years experience in data analytics role</li><li>Experienced in SQL</li><li>Intermediate/advanced proficiency in Tableau and data visualization</li><li>Advanced data analysis skills</li><li>Advanced data preparation and interrogation techniques</li><li>Ability to communicate complex data to a variety of audiences</li><li>Experience with git version management<br><br></li></ul><strong>Additional Information<br><br></strong><strong>What you will get:<br><br></strong><ul><li>Personal Development - career pathway for professional growth supported by learning and development programs and unlimited access to online educational training courses, learning materials &amp; book.</li><li>Work environment - excellent work conditions with friendly environment, recognized team spirit, and fun and quality recreation time.</li><li>Social benefit package including life insurance, food vouchers, additional health insurance, monthly flex allowance and internet coverage, corporate discounts, marriage and childbirth / adoption allowance, Multisport card, Sharesave plan, Employee assistance program, а birthday gift and many other benefits!</li><li>Work-life balance - 25 days paid vacation, 1 additional day off for your birthday and extra 3 paid days for participation in Social responsibility event.</li><li>Opportunity for Flexible working hours and Home Office.<br><br></li></ul>Experian is an Equal opportunity employer. Everyone can succeed at Experian and bring their whole self to work, irrespective of their gender, ethnicity, religion, colour, sexuality, physical ability or age. If you have a disability or special need that requires accommodation, please let us know at the earliest opportunity.<br><br>This is a hybrid remote/in-office role.<br><br>Experian Careers - Creating a better tomorrow together<br><br>Find out what its like to work for Experian by clicking here<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-06,[]
+4242995052,https://de.linkedin.com/jobs/view/data-analyst-payment-fintech-at-delivery-hero-4242995052?position=3&pageNum=0&refId=3RKwTIwgBbkDcXORITVGQQ%3D%3D&trackingId=tAEWTF7BhMam5nAr2881sA%3D%3D,"Data Analyst (Payment, Fintech)",Delivery Hero,"Berlin, Berlin, Germany","As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in over 70+ countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We enable creative minds to deliver solutions that create impact within our ecosystem. We move fast, take action and adapt. No matter where you're from or what you believe in, we build, we deliver, we lead. We are Delivery Hero.
+
+Job Description
+
+We are on the lookout for a Data Analyst (Payment) to join the Fintech team on our journey to always deliver amazing experiences.
+
+Be part of building the financial backbone of Delivery Hero. You’ll develop products that empower millions of customers and merchants, from seamless payments to innovative financial solutions like wallets and credit. Your work will support our path to profitability by creating financial flexibility for users and enabling smooth transactions across 70+ countries.
+
+In this role you will:
+
+
+Partner closely with Fintech Business and Product stakeholders to understand their analytical needs, and execute the roadmap for analytics work for Payment Analytics
+Develop and optimize monitoring tools, perform deep-dive analysis and provide insights to facilitate a data-driven decision making
+Exploit and analyze high volumes of data in order to quantify and answer questions to improve the business performance. Monitor KPIs, identify user behavior patterns and actively take actions to improve online payment performance across multiple regions
+Demonstrate proficiency in coding practices and analytic approaches
+Be able to answer the 'What?' question effectively and within reasonable deadlines, but also think about the 'So What?' and 'Now What' portions of the analysis
+Proactively bring new ideas and suggestions to the team and our internal clients to improve our Fintech set up
+
+
+Qualifications
+
+
+You have worked as a data analyst and delivered measurable impact on improving understanding of payments
+You have proven experience with daily practice of SQL, and visualization tools such as Tableau, and Looker
+You have experience working with online payments and deep knowledge of the PSP, issuer, acquirer, and card scheme data.
+You are eager on making business impact through analytics and you understand the product lifecycle
+You have strong analytical and problem solving skills
+You demonstrate excellent communication and presentation skills
+
+
+Nice To Have:
+
+
+Experience with BigQuery, Airflow, and Python
+Understanding of real-time data analytics
+Good understanding of mathematical and statistical data analysis techniques such as regression, extrapolation, time series analysis, forecasting, statistical hypothesis testing and econometric models
+
+
+Additional Information
+
+Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.
+
+
+Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week
+We offer 27 days holiday with an extra day on 2nd and 3rd year of service
+We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses.
+Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation, Yoga, Gym & Bicycle Subsidy
+Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank, Public Transportation Ticket Discount, Life & Accident Insurance, Corporate Pension Plan
+The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers, Food Vouchers, Corporate Discounts. Courses.
+
+
+
+
+Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!
+
+We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just include it in your application. You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in over 70+ countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We enable creative minds to deliver solutions that create impact within our ecosystem. We move fast, take action and adapt. No matter where you're from or what you believe in, we build, we deliver, we lead. We are Delivery Hero.<br><br><strong>Job Description<br><br></strong>We are on the lookout for a Data Analyst (Payment) to join the Fintech team on our journey to always deliver amazing experiences.<br><br>Be part of building the financial backbone of Delivery Hero. You’ll develop products that empower millions of customers and merchants, from seamless payments to innovative financial solutions like wallets and credit. Your work will support our path to profitability by creating financial flexibility for users and enabling smooth transactions across 70+ countries.<br><br><strong>In this role you will:<br><br></strong><ul><li>Partner closely with Fintech Business and Product stakeholders to understand their analytical needs, and execute the roadmap for analytics work for Payment Analytics</li><li>Develop and optimize monitoring tools, perform deep-dive analysis and provide insights to facilitate a data-driven decision making</li><li>Exploit and analyze high volumes of data in order to quantify and answer questions to improve the business performance. Monitor KPIs, identify user behavior patterns and actively take actions to improve online payment performance across multiple regions</li><li>Demonstrate proficiency in coding practices and analytic approaches</li><li>Be able to answer the 'What?' question effectively and within reasonable deadlines, but also think about the 'So What?' and 'Now What' portions of the analysis</li><li>Proactively bring new ideas and suggestions to the team and our internal clients to improve our Fintech set up<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>You have worked as a data analyst and delivered measurable impact on improving understanding of payments</li><li>You have proven experience with daily practice of SQL, and visualization tools such as Tableau, and Looker</li><li>You have experience working with online payments and deep knowledge of the PSP, issuer, acquirer, and card scheme data. </li><li>You are eager on making business impact through analytics and you understand the product lifecycle</li><li>You have strong analytical and problem solving skills</li><li>You demonstrate excellent communication and presentation skills<br><br></li></ul><strong>Nice To Have:<br><br></strong><ul><li>Experience with BigQuery, Airflow, and Python</li><li>Understanding of real-time data analytics</li><li>Good understanding of mathematical and statistical data analysis techniques such as regression, extrapolation, time series analysis, forecasting, statistical hypothesis testing and econometric models<br><br></li></ul><strong>Additional Information<br><br></strong>Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.<br><br><ul><li>Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week</li><li>We offer 27 days holiday with an extra day on 2nd and 3rd year of service</li><li>We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses. </li><li>Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation, Yoga, Gym &amp; Bicycle Subsidy</li><li>Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank, Public Transportation Ticket Discount, Life &amp; Accident Insurance, Corporate Pension Plan</li><li>The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers, Food Vouchers, Corporate Discounts. Courses. <br><br></li></ul><strong> <br><br></strong><strong>Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!<br><br></strong>We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just include it in your application. You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-06,[]
+4233423372,https://www.linkedin.com/jobs/view/data-analyst-at-intepros-4233423372?position=1&pageNum=0&refId=4kzzxR9VpIHbbgEUAyF5jw%3D%3D&trackingId=%2BmvX79NSsVoVAhoh%2F6jOvw%3D%3D,Data Analyst,IntePros,"North Reading, MA","About The Role
+
+We are seeking a highly analytical and detail-oriented Data Analyst I to support global operations through financial and market analysis. This role is ideal for someone who thrives in fast-paced environments, enjoys working on high-impact projects, and wants to contribute to a real-time, evolving global supply chain.
+
+Key Responsibilities
+
+
+Conduct financial and market analyses to inform hardware pricing, cost modeling, and scenario planning.
+Support detailed project planning and execution, operational reporting, and ad-hoc business analyses for leadership.
+Build evaluation frameworks to support cost-reduction initiatives.
+Design tools and systems to adapt to rapidly evolving business needs.
+Collaborate on tariff impact assessments and data-based recommendations.
+
+
+Required Skills & Experience
+
+
+Bachelor’s degree in Business, Finance, Engineering, or a related field.
+3+ years of related experience in financial modeling, business analysis, or operations planning.
+Advanced Excel skills (""Excel wizard"" level required).
+Strong written and verbal communication skills.
+Experience with cost calculations or hardware/operations analysis is highly preferred.
+Knowledge of SQL is a strong plus.
+Comfortable working independently in a dynamic, fast-changing environment.
+
+
+Preferred Traits
+
+
+Strong attention to detail and ability to manage multiple priorities.
+Ability to build repeatable models and provide insights quickly (target: 48-hour turnaround).
+Passion for continuous improvement and curiosity to explore new challenges.
+Familiarity with global supply chain topics and the impact of international tariffs.
+
+
+Performance Objectives
+
+
+Deliver weekly actionable insights based on data.
+Build repeatable Excel-based models for fast scenario analysis.
+Maintain 95% accuracy in forecasting cost impacts.
+
+
+Interview Process
+
+
+1st Round: 45–60 minute resume-based interview.
+2nd Round (if needed): Excel-based working session with team member.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About The Role<br><br></strong>We are seeking a highly analytical and detail-oriented Data Analyst I to support global operations through financial and market analysis. This role is ideal for someone who thrives in fast-paced environments, enjoys working on high-impact projects, and wants to contribute to a real-time, evolving global supply chain.<br><br><strong><strong>Key Responsibilities<br><br></strong></strong><ul><li>Conduct financial and market analyses to inform hardware pricing, cost modeling, and scenario planning.</li><li>Support detailed project planning and execution, operational reporting, and ad-hoc business analyses for leadership.</li><li>Build evaluation frameworks to support cost-reduction initiatives.</li><li>Design tools and systems to adapt to rapidly evolving business needs.</li><li>Collaborate on tariff impact assessments and data-based recommendations.<br><br></li></ul><strong><strong>Required Skills &amp; Experience<br><br></strong></strong><ul><li>Bachelor’s degree in Business, Finance, Engineering, or a related field.</li><li>3+ years of related experience in financial modeling, business analysis, or operations planning.</li><li>Advanced Excel skills (""Excel wizard"" level required).</li><li>Strong written and verbal communication skills.</li><li>Experience with cost calculations or hardware/operations analysis is highly preferred.</li><li>Knowledge of SQL is a strong plus.</li><li>Comfortable working independently in a dynamic, fast-changing environment.<br><br></li></ul><strong><strong>Preferred Traits<br><br></strong></strong><ul><li>Strong attention to detail and ability to manage multiple priorities.</li><li>Ability to build repeatable models and provide insights quickly (target: 48-hour turnaround).</li><li>Passion for continuous improvement and curiosity to explore new challenges.</li><li>Familiarity with global supply chain topics and the impact of international tariffs.<br><br></li></ul><strong><strong>Performance Objectives<br><br></strong></strong><ul><li>Deliver weekly actionable insights based on data.</li><li>Build repeatable Excel-based models for fast scenario analysis.</li><li>Maintain 95% accuracy in forecasting cost impacts.<br><br></li></ul><strong><strong>Interview Process<br><br></strong></strong><ul><li>1st Round: 45–60 minute resume-based interview.</li><li>2nd Round (if needed): Excel-based working session with team member.<br><br></li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-22,[]
+4221796120,https://www.linkedin.com/jobs/view/data-analyst-at-criteo-4221796120?position=2&pageNum=0&refId=4kzzxR9VpIHbbgEUAyF5jw%3D%3D&trackingId=LG0BN7AIsFyvrmV2jawQhA%3D%3D,Data Analyst,Criteo,"Boston, MA","What You'll Do:
+
+
+Partner with commercial teams to create and deliver Client Business Reviews, including custom analyses, optimization recommendations, media plans and forecasts to improve performance and drive incremental revenue
+Design, manage, analyze, and communicate results of controlled A/B tests
+Create and share market trends and benchmarks to support in strategic planning
+Collaborate with Product Analytics to execute on performance-improving initiatives
+Influence the Product Roadmap by sharing client needs and feedback with our product and R&D teams
+Leverage the partnership with our Global Client Operations Center to identify ways to improve efficiency in executing tasks through automation or delegation
+Develop expertise on a key growth area of the business.
+Take ownership over knowledge sharing within the team and building client facing collateral
+Troubleshoot campaign delivery and performance issues in time-sensitive, high-impact scenarios
+Stay informed on industry trends and advancements in AdTech, analytics, forecasting, and attribution
+Effectively communicate with teams and managers on project timelines and challenges
+
+
+
+Who You Are:
+
+
+Minimum 1 year full-time, analytics-relevant work experience with Python; previous experience with MySQL preferred
+Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences
+Bachelor’s degree or higher in a quantitative field (Mathematics, Computer Science, Engineering, etc.)
+Conceptual and practical understanding of statistics and real-world application of statistical concepts particularly in a testing context
+Experience with internet advertising technology (tagging, cookies, trafficking) and digital marketing concepts is preferred
+
+
+
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+
+Who We Are:
+
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.
+
+Why Join Us:
+
+At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks & benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.
+
+For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.
+
+The US base salary pay range for this position per year is:
+
+$79,700 - $98,000
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>What You'll Do:<br><br></strong><ul><li>Partner with commercial teams to create and deliver Client Business Reviews, including custom analyses, optimization recommendations, media plans and forecasts to improve performance and drive incremental revenue</li><li>Design, manage, analyze, and communicate results of controlled A/B tests</li><li>Create and share market trends and benchmarks to support in strategic planning</li><li>Collaborate with Product Analytics to execute on performance-improving initiatives</li><li>Influence the Product Roadmap by sharing client needs and feedback with our product and R&amp;D teams</li><li>Leverage the partnership with our Global Client Operations Center to identify ways to improve efficiency in executing tasks through automation or delegation</li><li>Develop expertise on a key growth area of the business.</li><li>Take ownership over knowledge sharing within the team and building client facing collateral</li><li>Troubleshoot campaign delivery and performance issues in time-sensitive, high-impact scenarios</li><li>Stay informed on industry trends and advancements in AdTech, analytics, forecasting, and attribution</li><li>Effectively communicate with teams and managers on project timelines and challenges<br><br><br></li></ul><strong>Who You Are:<br><br></strong><ul><li>Minimum 1 year full-time, analytics-relevant work experience with Python; previous experience with MySQL preferred</li><li>Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences </li><li>Bachelor’s degree or higher in a quantitative field (Mathematics, Computer Science, Engineering, etc.) </li><li>Conceptual and practical understanding of statistics and real-world application of statistical concepts particularly in a testing context </li><li>Experience with internet advertising technology (tagging, cookies, trafficking) and digital marketing concepts is preferred <br><br><br></li></ul>We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!<br><br><strong>Who We Are:<br><br></strong>Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.<br><br>At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.<br><br><strong>Why Join Us:<br><br></strong>At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks &amp; benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.<br><br>For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.<br><br>The US base salary pay range for this position per year is:<br><br>$79,700 - $98,000<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-24,[]
+4221792739,https://www.linkedin.com/jobs/view/data-analyst-at-criteo-4221792739?position=3&pageNum=0&refId=4kzzxR9VpIHbbgEUAyF5jw%3D%3D&trackingId=UPEqvBNPe%2FQJeIfLY5V8hg%3D%3D,Data Analyst,Criteo,"Boston, MA","What You'll Do:
+
+
+Partner with commercial teams to create and deliver Client Business Reviews, including custom analyses, optimization recommendations, media plans and forecasts to improve performance and drive incremental revenue
+Design, manage, analyze, and communicate results of controlled A/B tests
+Create and share market trends and benchmarks to support in strategic planning
+Collaborate with Product Analytics to execute on performance-improving initiatives
+Influence the Product Roadmap by sharing client needs and feedback with our product and R&D teams
+Leverage the partnership with our Global Client Operations Center to identify ways to improve efficiency in executing tasks through automation or delegation
+Develop expertise on a key growth area of the business.
+Take ownership over knowledge sharing within the team and building client facing collateral
+Troubleshoot campaign delivery and performance issues in time-sensitive, high-impact scenarios
+Stay informed on industry trends and advancements in AdTech, analytics, forecasting, and attribution
+Effectively communicate with teams and managers on project timelines and challenges
+
+
+
+Who You Are:
+
+
+Minimum 1 year full-time, analytics-relevant work experience with Python; previous experience with MySQL preferred
+Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences
+Bachelor’s degree or higher in a quantitative field (Mathematics, Computer Science, Engineering, etc.)
+Conceptual and practical understanding of statistics and real-world application of statistical concepts particularly in a testing context
+Experience with internet advertising technology (tagging, cookies, trafficking) and digital marketing concepts is preferred
+
+
+
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+
+Who We Are:
+
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.
+
+Why Join Us:
+
+At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks & benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.
+
+For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.
+
+The US base salary pay range for this position per year is:
+
+$79,700 - $98,000
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>What You'll Do:<br><br></strong><ul><li>Partner with commercial teams to create and deliver Client Business Reviews, including custom analyses, optimization recommendations, media plans and forecasts to improve performance and drive incremental revenue</li><li>Design, manage, analyze, and communicate results of controlled A/B tests</li><li>Create and share market trends and benchmarks to support in strategic planning</li><li>Collaborate with Product Analytics to execute on performance-improving initiatives</li><li>Influence the Product Roadmap by sharing client needs and feedback with our product and R&amp;D teams</li><li>Leverage the partnership with our Global Client Operations Center to identify ways to improve efficiency in executing tasks through automation or delegation</li><li>Develop expertise on a key growth area of the business.</li><li>Take ownership over knowledge sharing within the team and building client facing collateral</li><li>Troubleshoot campaign delivery and performance issues in time-sensitive, high-impact scenarios</li><li>Stay informed on industry trends and advancements in AdTech, analytics, forecasting, and attribution</li><li>Effectively communicate with teams and managers on project timelines and challenges<br><br><br></li></ul><strong>Who You Are:<br><br></strong><ul><li>Minimum 1 year full-time, analytics-relevant work experience with Python; previous experience with MySQL preferred</li><li>Native-level English fluency and strong presentation and public speaking skills, with the ability to present and defend complex analyses to both technical and non-technical audiences </li><li>Bachelor’s degree or higher in a quantitative field (Mathematics, Computer Science, Engineering, etc.) </li><li>Conceptual and practical understanding of statistics and real-world application of statistical concepts particularly in a testing context </li><li>Experience with internet advertising technology (tagging, cookies, trafficking) and digital marketing concepts is preferred <br><br><br></li></ul>We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!<br><br><strong>Who We Are:<br><br></strong>Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.<br><br>At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.<br><br><strong>Why Join Us:<br><br></strong>At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks &amp; benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.<br><br>For employees based in the US, certain roles at Criteo are eligible for additional rewards, including quarterly or annual bonus and restricted stock units. US-based employees receive access to healthcare, dental, and vision insurance, a 401(k) plan with company match, short-term and long-term disability coverage, life insurance, family forming and wellness benefits, Flexible Work financial support, learning opportunities, and a robust annual leave plan including volunteer time off and summer vacation days.<br><br>The US base salary pay range for this position per year is:<br><br>$79,700 - $98,000<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-05-24,[]
