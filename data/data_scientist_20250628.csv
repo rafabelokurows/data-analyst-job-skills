@@ -1,0 +1,931 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4114181679,https://www.linkedin.com/jobs/view/software-engineer-ai-ml-multiple-locations-at-microsoft-4114181679?position=1&pageNum=0&refId=aCFXZjc1IIPgJHKDgW%2F5jA%3D%3D&trackingId=7r49rHsCsONbBUsbE3Z9SA%3D%3D,"Software Engineer - AI/ML, Multiple Locations",Microsoft,"Redmond, WA","Come build community, explore your passions and do your best work at Microsoft. This opportunity will allow you to bring your aspirations, talent, potential - and excitement for the journey ahead.
+
+We’re a company of learn-it-alls rather than know-it-alls and our culture is centered around embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. Does this sound like you? Learn more about our cultural attributes.
+
+As a Software Engineer on AI and/or ML projects you will develop software, tools, and code to be used in support of design, infrastructure, and technology platforms including large and small language models (LLMs/SLMs). This opportunity will allow you to create and implement extensible and maintainable code and prompts for a product, service, or feature. You will partner with stakeholders to determine user requirements for a feature and consider a variety of feedback channels to incorporate insights into future designs or solution fixes. You will collaborate with others to create a clear and articulated plan for testing, assuring quality of solutions, while applying knowledge of debugging tools, logs, telemetry, and other methods to proactively flag issues. This opportunity will allow you to learn about customer scaling requirements and the application of best practices for meeting scaling needs and performance expectations, while ensuring the correct processes are followed to achieve a high degree of security, privacy, safety, and accessibility. You will also consider the impact of AI technology, including applying Microsoft’s responsible AI practices.
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Please note this application is only for roles based in our Redmond, Washington office and/or roles that are not tied to a specific Microsoft office location. For roles in other offices in the United States, please see our Careers site.
+
+Responsibilities
+
+
+Learns to review and break down work items into tasks with stakeholder collaboration, provide estimations, and escalate delays, while also supporting feature deployments to customers, considering user and service impacts, and adhering to best deployment practices for safety.
+Collaborates with key stakeholders to define feature requirements, integrates feedback to enhance design, and establishes feedback loops for continuous improvement based on customer metrics.
+Evaluates AI technologies (such as LLMs, SLMs, embeddings) and architectures (such as orchestration patterns, RAG, etc) when developing solutions. Specifies or implements AI platform improvements like fine-tuning or training custom ML models.
+Learns and applies coding standards and best practices through code reviews, developing maintainable and extensible code with guidance. Utilizes debugging tools to proactively and reactively address issues in product features, ensuring code quality and reliability.
+Supports the identification of dependencies and design documentation for product features, learns about system interactions and back-end dependencies, and contributes to architectural processes under guidance. Produces code to test hypotheses for technical solutions and assist with technical validation efforts. Collaborates on quality assurance plans, augments test cases, and integrates automation into testing, while understanding the implications of security and compliance in system architecture.
+Contributes to data analysis and feedback integration for product engineering decisions, acting as a Designated Responsible Individual (DRI) for monitoring and restoring system functionality within Service Level Agreement (SLA) timeframe. Participates in live service operations, and supports telemetry data integration for system behavior insights, with a focus on performance, reliability, and safety.
+Develops and applies best practices for reliable code building, understands global and local regulations, customer scaling requirements, and support communication with key partners across Microsoft for user experience enhancement and partner needs.
+Ensures compliance with security, privacy, safety, and accessibility standards, leverages developer tools for code creation and debugging, contributes to automation in production and deployment, and proactively seeks knowledge to improve product availability, reliability, efficiency, and performance at scale.
+Understands and applies Microsoft’s responsible AI practices to ensure systems meet our commitments to our customers.
+
+
+Qualifications
+
+Required Qualifications
+
+
+Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
+OR equivalent experience.
+
+Preferred Qualifications
+
+
+Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.
+OR Master's Degree (or currently pursuing a degree) in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
+Demonstrated interest in AI/ML technologies.
+
+Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $81,900 - $160,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $105,600 - $174,600 per year.
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay.
+
+Microsoft will accept applications and process offers for these roles on an ongoing basis.
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Come build community, explore your passions and do your best work at Microsoft. This opportunity will allow you to bring your aspirations, talent, potential - and excitement for the journey ahead.<br><br>We’re a company of learn-it-alls rather than know-it-alls and our culture is centered around embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. Does this sound like you? Learn more about our cultural attributes.<br><br>As a Software Engineer on AI and/or ML projects you will develop software, tools, and code to be used in support of design, infrastructure, and technology platforms including large and small language models (LLMs/SLMs). This opportunity will allow you to create and implement extensible and maintainable code and prompts for a product, service, or feature. You will partner with stakeholders to determine user requirements for a feature and consider a variety of feedback channels to incorporate insights into future designs or solution fixes. You will collaborate with others to create a clear and articulated plan for testing, assuring quality of solutions, while applying knowledge of debugging tools, logs, telemetry, and other methods to proactively flag issues. This opportunity will allow you to learn about customer scaling requirements and the application of best practices for meeting scaling needs and performance expectations, while ensuring the correct processes are followed to achieve a high degree of security, privacy, safety, and accessibility. You will also consider the impact of AI technology, including applying Microsoft’s responsible AI practices.<br><br>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.<br><br><strong>Please note this application is only for roles based in our Redmond, Washington office and/or roles that are not tied to a specific Microsoft office location. For roles in other offices in the United States, please see our Careers site. <br><br></strong><strong>Responsibilities<br><br></strong><ul><li>Learns to review and break down work items into tasks with stakeholder collaboration, provide estimations, and escalate delays, while also supporting feature deployments to customers, considering user and service impacts, and adhering to best deployment practices for safety.</li><li>Collaborates with key stakeholders to define feature requirements, integrates feedback to enhance design, and establishes feedback loops for continuous improvement based on customer metrics.</li><li>Evaluates AI technologies (such as LLMs, SLMs, embeddings) and architectures (such as orchestration patterns, RAG, etc) when developing solutions. Specifies or implements AI platform improvements like fine-tuning or training custom ML models.</li><li>Learns and applies coding standards and best practices through code reviews, developing maintainable and extensible code with guidance. Utilizes debugging tools to proactively and reactively address issues in product features, ensuring code quality and reliability.</li><li>Supports the identification of dependencies and design documentation for product features, learns about system interactions and back-end dependencies, and contributes to architectural processes under guidance. Produces code to test hypotheses for technical solutions and assist with technical validation efforts. Collaborates on quality assurance plans, augments test cases, and integrates automation into testing, while understanding the implications of security and compliance in system architecture.</li><li>Contributes to data analysis and feedback integration for product engineering decisions, acting as a Designated Responsible Individual (DRI) for monitoring and restoring system functionality within Service Level Agreement (SLA) timeframe. Participates in live service operations, and supports telemetry data integration for system behavior insights, with a focus on performance, reliability, and safety.</li><li>Develops and applies best practices for reliable code building, understands global and local regulations, customer scaling requirements, and support communication with key partners across Microsoft for user experience enhancement and partner needs.</li><li>Ensures compliance with security, privacy, safety, and accessibility standards, leverages developer tools for code creation and debugging, contributes to automation in production and deployment, and proactively seeks knowledge to improve product availability, reliability, efficiency, and performance at scale.</li><li>Understands and applies Microsoft’s responsible AI practices to ensure systems meet our commitments to our customers.<br><br></li></ul><strong>Qualifications<br><br></strong>Required Qualifications<br><br><ul><li>Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.</li><ul><li>OR equivalent experience. <br></li></ul></ul><strong>Preferred Qualifications<br><br></strong><ul><li>Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python OR equivalent experience.</li><ul><li>OR Master's Degree (or currently pursuing a degree) in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.</li></ul><li>Demonstrated interest in AI/ML technologies. <br></li></ul>Software Engineering IC2 - The typical base pay range for this role across the U.S. is USD $81,900 - $160,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $105,600 - $174,600 per year.<br><br>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay.<br><br>Microsoft will accept applications and process offers for these roles on an ongoing basis.<br><br>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-27,[]
+4255662475,https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-ai-ml-recommendations-personalization-at-microsoft-4255662475?position=2&pageNum=0&refId=aCFXZjc1IIPgJHKDgW%2F5jA%3D%3D&trackingId=BH5cYEIUPNw1bP4Mv%2BnLqw%3D%3D,Data Scientist – AI/ML Recommendations & Personalization,Microsoft,"Redmond, WA","Are you passionate about building intelligent systems that respond to users in real time? Do you thrive in environments where experimentation, iteration, and creativity are core to the product development process?
+
+At Xbox Gaming AI, we are exploring emerging technology trends to craft the next era of gaming. We are venturing beyond the horizon and charting a course forward with players and creators at the center. Our goal is to define the future of Xbox by advancing our mission of bringing joy and community to every player on the planet.
+
+We’re looking for a Data Scientist who can help us unlock the power of real-time user signals to drive personalization, engagement, and product insights. You’ll work closely with product, engineering, and design teams to shape the future of how people interact with games and game creation tools.
+
+You’ll be expected to bring analytical rigor, a deep understanding of user behavior, and a creative mindset to help us define what’s next.
+
+We Value
+
+
+Growth Mindset: You are always learning and seeking feedback to improve yourself and your work. You embrace challenges and see failures as opportunities to grow.
+Be Brave. Be Bold: You are not afraid to take risks and experiment with new ideas. You are confident in your abilities and willing to challenge the status quo.
+Collaborate: You value teamwork and collaboration. You seek diverse perspectives and feedback from others. You support your colleagues and celebrate their achievements.
+Diversity, Equity & Inclusion: You respect and appreciate the diversity of people, backgrounds, and experiences. You promote a culture of inclusion where everyone feels welcome, valued, and heard.
+
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+Responsibilities
+
+As a Data Scientist you will:
+
+
+Design and implement real-time data pipelines that capture and process user behavior at scale
+Build and evaluate machine learning models that drive personalized content, recommendations, and adaptive experiences
+Partner with product managers and designers to define success metrics, run experiments, and translate insights into strategy
+Develop frameworks for measuring user acquisition, activation, engagement, retention, churn, and ecosystem health across mobile and web platforms
+Conduct deep-dive analyses to uncover opportunities for product improvement and innovation
+Collaborate with engineering teams to ensure scalable deployment of models and data tools
+Stay current with data science research and apply new methodologies to improve product impact
+Contribute to a culture of experimentation, curiosity, and continuous learning
+
+
+Qualifications
+
+Required Qualifications (RQs) 
+
+
+Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field
+OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 1+ year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical tec
+OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 2+ years data-science experience (e.g., managing structured and unstructured data, applying statistical tec
+OR equivalent experience.
+1+ year(s) customer-facing, project-delivery experience, professional services, and/or consulting experience.
+Proficiency in SQL and Python (or R), with experience using data science libraries and tools
+Experience with real-time data processing frameworks (e.g., Spark Streaming, Flink, Kafka), ML infrastructure (e.g., model deployment, evaluation, optimization, debugging) and experience building deploying recommendation systems (retrieval, ranking, embedding, personalization)
+
+Preferred Qualifications (PQs)
+
+
+Experience in content platforms and/or social media
+Ability to work in ambiguous problem spaces and build analytical frameworks from scratch
+
+
+Data Science IC3 - The typical base pay range for this role across the U.S. is USD $100,600 - $199,000 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $131,400 - $215,400 per year.
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+Microsoft will accept applications for the role until July 11, 2025.
+
+Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Are you passionate about building intelligent systems that respond to users in real time? Do you thrive in environments where experimentation, iteration, and creativity are core to the product development process?<br><br>At Xbox Gaming AI, we are exploring emerging technology trends to craft the next era of gaming. We are venturing beyond the horizon and charting a course forward with players and creators at the center. Our goal is to define the future of Xbox by advancing our mission of bringing joy and community to every player on the planet.<br><br>We’re looking for a <strong>Data Scientist</strong> who can help us unlock the power of real-time user signals to drive personalization, engagement, and product insights. You’ll work closely with product, engineering, and design teams to shape the future of how people interact with games and game creation tools.<br><br>You’ll be expected to bring analytical rigor, a deep understanding of user behavior, and a creative mindset to help us define what’s next.<br><br><strong>We Value<br><br></strong><ul><li>Growth Mindset: You are always learning and seeking feedback to improve yourself and your work. You embrace challenges and see failures as opportunities to grow.</li><li>Be Brave. Be Bold: You are not afraid to take risks and experiment with new ideas. You are confident in your abilities and willing to challenge the status quo.</li><li>Collaborate: You value teamwork and collaboration. You seek diverse perspectives and feedback from others. You support your colleagues and celebrate their achievements.</li><li>Diversity, Equity &amp; Inclusion: You respect and appreciate the diversity of people, backgrounds, and experiences. You promote a culture of inclusion where everyone feels welcome, valued, and heard.<br><br></li></ul>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.<br><br><strong>Responsibilities<br><br></strong>As a Data Scientist you will:<br><br><ul><li>Design and implement real-time data pipelines that capture and process user behavior at scale</li><li>Build and evaluate machine learning models that drive personalized content, recommendations, and adaptive experiences</li><li>Partner with product managers and designers to define success metrics, run experiments, and translate insights into strategy</li><li>Develop frameworks for measuring user acquisition, activation, engagement, retention, churn, and ecosystem health across mobile and web platforms</li><li>Conduct deep-dive analyses to uncover opportunities for product improvement and innovation</li><li>Collaborate with engineering teams to ensure scalable deployment of models and data tools</li><li>Stay current with data science research and apply new methodologies to improve product impact</li><li>Contribute to a culture of experimentation, curiosity, and continuous learning<br><br></li></ul><strong>Qualifications<br><br></strong><strong>Required Qualifications (RQs)</strong> <br><br><ul><li>Doctorate in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field</li><ul><li>OR Master's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 1+ year(s) data-science experience (e.g., managing structured and unstructured data, applying statistical tec</li><li>OR Bachelor's Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field AND 2+ years data-science experience (e.g., managing structured and unstructured data, applying statistical tec</li><li>OR equivalent experience.</li></ul><li>1+ year(s) customer-facing, project-delivery experience, professional services, and/or consulting experience.</li><li>Proficiency in SQL and Python (or R), with experience using data science libraries and tools</li><li>Experience with real-time data processing frameworks (e.g., Spark Streaming, Flink, Kafka), ML infrastructure (e.g., model deployment, evaluation, optimization, debugging) and experience building deploying recommendation systems (retrieval, ranking, embedding, personalization)<br></li></ul><strong>Preferred Qualifications (PQs)<br><br></strong><ul><li>Experience in content platforms and/or social media</li><li>Ability to work in ambiguous problem spaces and build analytical frameworks from scratch<br><br></li></ul>Data Science IC3 - The typical base pay range for this role across the U.S. is USD $100,600 - $199,000 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $131,400 - $215,400 per year.<br><br>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay<br><br>Microsoft will accept applications for the role until July 11, 2025.<br><br>Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-24,[]
+4187599591,https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4187599591?position=3&pageNum=0&refId=aCFXZjc1IIPgJHKDgW%2F5jA%3D%3D&trackingId=QMG0nmsQhoXViAUT75kW7A%3D%3D,"Data Scientist, Product Analytics",Meta,"Bellevue, WA","As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development’s biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product’s ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won’t simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will strive to build credibility through structure and clarity, and be a trusted strategic partner.
+
+Data Scientist, Product Analytics Responsibilities:
+
+
+Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches.
+Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses.
+Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.
+Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations.
+Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions.
+
+
+Minimum Qualifications:
+
+
+Currently has or is pursuing a Bachelor's and/or Master’s degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.
+
+
+Preferred Qualifications:
+
+
+Experience in collaborating with individuals and organizations.
+Experience working with large scale dataset.
+Internship experience in solving analytical problems using quantitative approaches.
+
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$46.63/hour to $134,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development’s biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product’s ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won’t simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will strive to build credibility through structure and clarity, and be a trusted strategic partner.<br><br>Data Scientist, Product Analytics Responsibilities:<br><br><ul><li>Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches.</li><li>Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses.</li><li>Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends.</li><li>Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations.</li><li>Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions.<br><br></li></ul>Minimum Qualifications:<br><br><ul><li>Currently has or is pursuing a Bachelor's and/or Master’s degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.</li><li>Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)</li><li>Must obtain work authorization in country of employment at the time of hire, and maintain ongoing work authorization during employment</li><li>Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta.<br><br></li></ul>Preferred Qualifications:<br><br><ul><li>Experience in collaborating with individuals and organizations.</li><li>Experience working with large scale dataset.</li><li>Internship experience in solving analytical problems using quantitative approaches.<br><br></li></ul>About Meta:<br><br>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br><br>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br><br>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.<br><br>$46.63/hour to $134,000/year + bonus + equity + benefits<br><br>Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-18,[]
+4214365517,https://www.linkedin.com/jobs/view/data-scientist-gtm-at-notion-4214365517?position=1&pageNum=0&refId=agpT8wal2IyuZYposPiXdw%3D%3D&trackingId=bQNGxWLl98%2BL053OIUZzyw%3D%3D,"Data Scientist, GTM",Notion,"San Francisco, CA","About Us
+
+We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+
+We've been working on this together since 2016, and have customers like OpenAI, Toyota, Figma, Ramp, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+
+Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays & Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+
+About The Role
+
+As our Data Scientist for Go-to-Market, you will be a key business partner to our Sales and Revenue Operations team. Your work will be instrumental in shaping our data strategy as we design and implement a best-in-class Go-to-Market motion. From exploring what successful customer accounts look like to creating sales pipeline forecasts, your insights will directly impact business decisions and strategy. Each day will bring new challenges and opportunities to drive meaningful change with data.
+
+What You'll Achieve
+
+
+You will partner with Revenue Operations and Sales leads, driving forward all data science and analytics work in their functional areas
+You will transform complex data into compelling insights, synthesizing them into crisp narratives for senior leadership that drive measurable business change (Insights are useful. Impact is even better!)
+You will build and maintain KPI dashboards that teams rely on for critical decision-making, along with self-service tools that empower business partners
+You will develop models that become core to our operations, such as optimizing sales outreach strategies or building a sales forecasting model
+You will collaborate closely with our Data Engineering and Business Systems teams to build high-fidelity, canonical customer data pipelines that serve as the foundation for GTM analytics
+
+
+
+Skills You'll Need To Bring
+
+
+You've spent meaningful time as data scientist partnering with business functions such as Revenue Operations, Finance, Growth, Marketing
+You are comfortable with ambiguity and motivated by business results
+You have expertise in SQL, and least one scripting language (Python or R)
+You are comfortable transforming raw data to build your own data sets if they don't exist yet
+You can effectively communicate data insights and transform them into stories that drive business impact
+You have strong communication and collaboration skills while working in cross-functional environments
+You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy
+
+
+
+Nice To Haves
+
+
+Experience working directly with Sales, Customer Success, Revenue Operations, and/or Finance teams
+Background at a high-growth B2B SaaS startup
+Familiarity with our product (being a current Notion user would be great!)
+
+
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $140,000 - $170,000 per year.
+
+By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Us<br><br></strong>We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.<br><br>We've been working on this together since 2016, and have customers like OpenAI, Toyota, Figma, Ramp, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.<br><br>Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays &amp; Thursdays) and requests that employees spend the majority of their week in the office (including a third day).<br><br><strong>About The Role<br><br></strong>As our Data Scientist for Go-to-Market, you will be a key business partner to our Sales and Revenue Operations team. Your work will be instrumental in shaping our data strategy as we design and implement a <strong>best-in-class</strong> Go-to-Market motion. From exploring what successful customer accounts look like to creating sales pipeline forecasts, your insights will directly impact business decisions and strategy. Each day will bring new challenges and opportunities to drive meaningful change with data.<br><br><strong>What You'll Achieve<br><br></strong><ul><li>You will partner with Revenue Operations and Sales leads, driving forward all data science and analytics work in their functional areas</li><li>You will transform complex data into compelling insights, synthesizing them into crisp narratives for senior leadership that drive measurable business change (Insights are useful. Impact is even better!)</li><li>You will build and maintain KPI dashboards that teams rely on for critical decision-making, along with self-service tools that empower business partners</li><li>You will develop models that become core to our operations, such as optimizing sales outreach strategies or building a sales forecasting model</li><li>You will collaborate closely with our Data Engineering and Business Systems teams to build high-fidelity, canonical customer data pipelines that serve as the foundation for GTM analytics<br><br><br></li></ul><strong>Skills You'll Need To Bring<br><br></strong><ul><li>You've spent meaningful time as data scientist partnering with business functions such as Revenue Operations, Finance, Growth, Marketing</li><li>You are comfortable with ambiguity and motivated by business results</li><li>You have expertise in SQL, and least one scripting language (Python or R)</li><li>You are comfortable transforming raw data to build your own data sets if they don't exist yet</li><li>You can effectively communicate data insights and transform them into stories that drive business impact</li><li>You have strong communication and collaboration skills while working in cross-functional environments</li><li>You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy<br><br><br></li></ul><strong>Nice To Haves<br><br></strong><ul><li>Experience working directly with Sales, Customer Success, Revenue Operations, and/or Finance teams</li><li>Background at a high-growth B2B SaaS startup</li><li>Familiarity with our product (being a current Notion user would be great!)<br><br><br></li></ul>We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.<br><br>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.<br><br>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $140,000 - $170,000 per year.<br><br>By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-25,[]
+4243333492,https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-handshake-4243333492?position=2&pageNum=0&refId=agpT8wal2IyuZYposPiXdw%3D%3D&trackingId=Y0AZAafzcTFW3x0ZZRSpUg%3D%3D,"Data Scientist, Product Analytics",Handshake,"San Francisco, CA","Your impact
+
+Handshake is looking for a Data Scientist, Product Analytics to help shape how we measure and grow the impact of our products across students, employers, and university partners. In this role, you’ll partner with product, engineering, and analytics stakeholders to deliver actionable insights and experimentation frameworks that guide key product and growth decisions. You’ll be embedded in our Data team and report to the Senior Manager of Data & Analytics.
+
+Your role
+
+
+As a Data Scientist at Handshake, you will:
+Collaborate with product managers and engineers to identify key metrics and drive analytics workstreams
+Analyze user behavior to uncover trends, patterns, and opportunities for product improvement
+Contribute to experiment design, implementation, and analysis to guide feature development
+Build and maintain dashboards and reports to support ongoing tracking and decision-making
+Help define and refine data models in partnership with Analytics Engineering
+Translate complex data findings into clear, actionable insights for cross-functional stakeholders
+
+Your Experience
+
+
+3+ years of professional data science experience
+Experience using data to support product development, including working with cross-functional teams
+Proficiency in SQL and comfort working in Jupyter-style notebooks using Python or R
+Awareness with A/B testing and experimentation best practices
+Ability to conduct analysis across user cohorts, funnels, and time-series datasets
+Robust written and verbal communication skills, especially in summarizing insights for non-technical audiences
+Experience with BI tools such as Looker, Hex, or Mode
+
+
+Bonus areas of expertise
+
+
+Exposure to product analytics in a multi-sided marketplace
+Knowledge with dbt or similar data modeling frameworks
+Prior experience contributing to data-informed product strategies
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Your impact<br><br></strong>Handshake is looking for a Data Scientist, Product Analytics to help shape how we measure and grow the impact of our products across students, employers, and university partners. In this role, you’ll partner with product, engineering, and analytics stakeholders to deliver actionable insights and experimentation frameworks that guide key product and growth decisions. You’ll be embedded in our Data team and report to the Senior Manager of Data &amp; Analytics.<br><br><strong>Your role<br><br></strong><ul><li>As a Data Scientist at Handshake, you will:</li><ul><li>Collaborate with product managers and engineers to identify key metrics and drive analytics workstreams</li><li>Analyze user behavior to uncover trends, patterns, and opportunities for product improvement</li><li>Contribute to experiment design, implementation, and analysis to guide feature development</li><li>Build and maintain dashboards and reports to support ongoing tracking and decision-making</li><li>Help define and refine data models in partnership with Analytics Engineering</li><li>Translate complex data findings into clear, actionable insights for cross-functional stakeholders<br></li></ul></ul><strong>Your Experience<br><br></strong><ul><li>3+ years of professional data science experience</li><li>Experience using data to support product development, including working with cross-functional teams</li><li>Proficiency in SQL and comfort working in Jupyter-style notebooks using Python or R</li><li>Awareness with A/B testing and experimentation best practices</li><li>Ability to conduct analysis across user cohorts, funnels, and time-series datasets</li><li>Robust written and verbal communication skills, especially in summarizing insights for non-technical audiences</li><li>Experience with BI tools such as Looker, Hex, or Mode<br><br></li></ul><strong>Bonus areas of expertise<br><br></strong><ul><li>Exposure to product analytics in a multi-sided marketplace</li><li>Knowledge with dbt or similar data modeling frameworks</li><li>Prior experience contributing to data-informed product strategies</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-28,[]
+4256363925,https://www.linkedin.com/jobs/view/data-scientist-at-twitch-4256363925?position=3&pageNum=0&refId=agpT8wal2IyuZYposPiXdw%3D%3D&trackingId=X5nhnW77cvTmxkAee5qI%2Bw%3D%3D,Data Scientist,Twitch,"San Francisco County, CA","About Us
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
+
+About The Role
+
+We’re looking for a Data Scientist to join the Money team at Twitch, which supports the systems behind creator payouts, payments infrastructure, and fraud detection. In this role you’ll focus on Payouts. Payouts is a high-leverage area that shapes how and when creators are paid and payout eligibility.
+
+You’ll work closely with product, engineering, finance, legal, and data partners to measure and refine our payout-related programs like the Plus Program and support new monetization initiatives to expand who can monetize on Twitch. While many changes are policy driven rather than AB tested, they require thoughtful measurement, reporting, operations, and causal reasoning.
+
+This role is well suited for someone early on in their data science career who is eager to take ownership of high-impact, cross–functional projects and grow into a senior role. You’ll need to be comfortable with writing SQL, working with imperfect data, and flexing into data workflows when data engineering coverage is limited.
+
+You can work in San Francisco, CA; Irvine, CA; New York, NY; or Seattle, WA
+
+You Will:
+
+
+
+Analyze and evaluate policy and program changes that affect how creators are paid
+Own reporting and insights related to payout eligibility, earning, and program performance
+Partner with cross-functional stakeholders to inform product and business decisions
+Write, maintain, and validate pipelines to support recurring analytics and reporting
+Apply causal inference methods to estimate the impact of payout changes
+
+
+
+You Have:
+
+
+
+1+ years of experience as a data scientist, data analyst, or a related field
+Proficiency in SQL
+Proficiency with Python or R
+Understanding of Causal Inference concepts (ex/ DiD, matching, IPW, experiment design)
+Strong communication skills across technical and non-technical stakeholders
+High level of comfort creating dashboards
+
+
+
+Bonus Points
+
+
+
+Hands-on experience with Airflow, Sagemaker or deploying ML models in production environments
+Strong familiarity with econometrics
+Contribute to machine learning efforts in fraud or churn prediction
+Experience Ideating, executing, and analyzing A/B tests.
+
+
+
+Perks
+
+
+
+Medical, Dental, Vision & Disability Insurance
+401(k)
+Maternity & Parental Leave
+Flexible PTO
+Amazon Employee Discount
+
+
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Job ID: TW8811
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from our lowest geographic market up to our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. This position will remain open until filled. For more information, please visit https://www.twitch.tv/jobs/en/#learn-more. Applicants should apply via our internal or external career site.
+
+US Pay Per Year
+
+$97,500—$185,000 USD
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Us<br><br></strong>Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.<br><br>We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.<br><br><strong>About The Role<br><br></strong>We’re looking for a Data Scientist to join the Money team at Twitch, which supports the systems behind creator payouts, payments infrastructure, and fraud detection. In this role you’ll focus on Payouts. Payouts is a high-leverage area that shapes how and when creators are paid and payout eligibility.<br><br>You’ll work closely with product, engineering, finance, legal, and data partners to measure and refine our payout-related programs like the Plus Program and support new monetization initiatives to expand who can monetize on Twitch. While many changes are policy driven rather than AB tested, they require thoughtful measurement, reporting, operations, and causal reasoning.<br><br>This role is well suited for someone early on in their data science career who is eager to take ownership of high-impact, cross–functional projects and grow into a senior role. You’ll need to be comfortable with writing SQL, working with imperfect data, and flexing into data workflows when data engineering coverage is limited.<br><br>You can work in San Francisco, CA; Irvine, CA; New York, NY; or Seattle, WA<br><br><strong>You Will:<br><br><br></strong><ul><li>Analyze and evaluate policy and program changes that affect how creators are paid</li><li>Own reporting and insights related to payout eligibility, earning, and program performance</li><li>Partner with cross-functional stakeholders to inform product and business decisions</li><li>Write, maintain, and validate pipelines to support recurring analytics and reporting</li><li>Apply causal inference methods to estimate the impact of payout changes<br><br><br></li></ul><strong>You Have:<br><br><br></strong><ul><li>1+ years of experience as a data scientist, data analyst, or a related field</li><li>Proficiency in SQL</li><li>Proficiency with Python or R</li><li>Understanding of Causal Inference concepts (ex/ DiD, matching, IPW, experiment design)</li><li>Strong communication skills across technical and non-technical stakeholders</li><li>High level of comfort creating dashboards<br><br><br></li></ul><strong>Bonus Points<br><br><br></strong><ul><li>Hands-on experience with Airflow, Sagemaker or deploying ML models in production environments</li><li>Strong familiarity with econometrics </li><li>Contribute to machine learning efforts in fraud or churn prediction</li><li>Experience Ideating, executing, and analyzing A/B tests.<br><br><br></li></ul><strong>Perks<br><br><br></strong><ul><li>Medical, Dental, Vision &amp; Disability Insurance</li><li>401(k)</li><li>Maternity &amp; Parental Leave</li><li>Flexible PTO</li><li>Amazon Employee Discount<br><br><br></li></ul><em>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br></em><em>Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. <br><br></em>Job ID: TW8811<br><br><em>Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from our lowest geographic market up to our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. This position will remain open until filled. For more information, please visit https://www.twitch.tv/jobs/en/#learn-more. Applicants should apply via our internal or external career site.<br><br></em>US Pay Per Year<br><br>$97,500—$185,000 USD<br><br><em>Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br><br></em><em>Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4246273343,https://www.linkedin.com/jobs/view/data-scientist-at-lumafield-4246273343?position=1&pageNum=0&refId=nzO%2F3Yg4Xibgw61yN1s%2Bbg%3D%3D&trackingId=nG1TloE%2BOpXKV8am8N9dAQ%3D%3D,Data Scientist,Lumafield,"Boston, MA","About Lumafield: 
+
+
+
+
+Lumafield was founded in 2019 to upgrade manufacturing.
+
+
+
+
+We are engineers with deep experience across the product development cycle, from initial ideas to shipping hardware, across industries and specializations, who became frustrated by the cost and complexity of modern manufacturing. So we decided to upgrade it.
+
+
+
+
+Engineers make million-dollar decisions every day, and they need tools that give them the greatest possible insight into their products. By offering unprecedented visibility into products, as well as AI-driven tools that highlight problems and generate quantitative data, Lumafield promises to revolutionize the way complex products are created, manufactured, and used across industries. We started with industrial CT scanning, which for us was the most valuable but underutilized tool in the manufacturing toolbox, enabling us to rapidly inspect essential components non-destructively.
+
+
+
+
+We rebuilt the whole system, from X-ray capture, to computer vision analysis, to web-based collaboration, to the entire business model, making the most advanced manufacturing tech more accessible to every industry. Our company, like our platform, is designed for upgrades. We’re building for greater intelligence, autonomy, and speed. For deeper vision, operational excellence, and powerful insights. And then we'll upgrade it all again.
+
+
+
+
+Lumafield is headquartered in Cambridge, MA, and has an office in San Francisco, CA.
+
+
+
+
+About the role:
+
+
+
+
+The ideal candidate for this role comes from a Data Science background with startup experience working with systems. If you thrive on solving big business problems, love connecting the dots between technology and strategy, and want to see your ideas come to life across the entire organization, this is the opportunity you’ve been waiting for. This role will be focused on providing critical insights to the business, as well as building and maintaining the required business systems, workflows, processes, and connections necessary to get those analyses up and running. As such, the role will require being comfortable handling a “full stack” of tasks at a high level, ranging from systems implementation, translating process requirements into systems requirements and vice versa, data engineering, and data analysis.
+
+
+
+
+This role puts you at the heart of our company’s evolution, giving you the opportunity to shape how we work, make data-driven decisions, and deliver exceptional value to our customers and teams.
+
+
+
+
+What you'll do:
+Partner with leaders and teams across the business to uncover high-impact opportunities, translating real business needs into innovative system and data solutions that drive company growth and operational excellence
+Improve or build new capabilities in existing business systems and hand off to system owners throughout the company
+Champion process optimization by identifying and implementing both technology-driven and strategic improvements, ensuring our business stays agile and competitive
+Maintain a stack of business systems and build integrations and connections between them as needed
+Define and document these processes and workflows in process diagrams, wireframes, mapping documents, functional specifications, non-functional specifications, ERDs, use cases, user stories, and logical data models
+Serve as a trusted advisor and trainer, equipping end users and stakeholders with the knowledge and tools they need to maximize the impact of our systems and insights
+Project manage external systems consultants, where necessary
+
+
+
+
+About you:
+5-10 years of work experience in data analysis, business intelligence, and business systems
+Strong SQL and proficient Python knowledge
+Experience with data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools
+Experience in API integrations and data migration/data conversion.
+Experience with data visualization tools and packages (e.g. Looker, Tableau, Power BI)
+Experience implementing business systems, sometimes from scratch (including understanding business processes, gathering user requirements, design, testing, deployment, and training)
+Must have the ability to communicate, motivate and organize projects throughout the company
+Must have ability to work independently and handle end-to-end projects
+
+
+
+
+
+
+
+Lumafield offers both competitive cash and equity compensation, as well as a health & wellness stipend, 401k, parental leave, flexible PTO, commuter benefits, company wide events and more! 
+
+
+
+
+Lumafield is committed to building a team that represents a variety of backgrounds, perspectives, and skills, because the more inclusive we are, the better our work will be. Do you feel like your skills don’t meet every single requirement listed? We encourage you to apply anyway – If you’re excited about our technology, the opportunity, and are eager to learn more we’d love to hear from you!  
+
+
+
+
+In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability, genetic information or veteran status. 
+
+
+
+
+Reach out if you want to be a part of what we are building.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>About Lumafield:&nbsp;</strong></p><p><br></p><p>Lumafield was founded in 2019 to upgrade manufacturing. </p><p><br></p><p>We are engineers with deep experience across the product development cycle, from initial ideas to shipping hardware, across industries and specializations, who became frustrated by the cost and complexity of modern manufacturing. So we decided to upgrade it. </p><p><br></p><p>Engineers make million-dollar decisions every day, and they need tools that give them the greatest possible insight into their products. By offering unprecedented visibility into products, as well as AI-driven tools that highlight problems and generate quantitative data, Lumafield promises to revolutionize the way complex products are created, manufactured, and used across industries. We started with industrial CT scanning, which for us was the most valuable but underutilized tool in the manufacturing toolbox, enabling us to rapidly inspect essential components non-destructively. </p><p><br></p><p> We rebuilt the whole system, from X-ray capture, to computer vision analysis, to web-based collaboration, to the entire business model, making the most advanced manufacturing tech more accessible to every industry. Our company, like our platform, is designed for upgrades. We’re building for greater intelligence, autonomy, and speed. For deeper vision, operational excellence, and powerful insights. And then we'll upgrade it all again. </p><p><br></p><p>Lumafield is headquartered in Cambridge, MA, and has an office in San Francisco, CA. </p><p><br></p><p><strong>About the role: </strong></p><p><br></p><p><span>The ideal candidate for this role comes from a Data Science background with startup experience working with systems. If you thrive on solving big business problems, love connecting the dots between technology and strategy, and want to see your ideas come to life across the entire organization, this is the opportunity you’ve been waiting for. This role will be focused on providing critical insights to the business, as well as building and maintaining the required business systems, workflows, processes, and connections necessary to get those analyses up and running. As such, the role will require being comfortable handling a “full stack” of tasks at a high level, ranging from systems implementation, translating process requirements into systems requirements and vice versa, data engineering, and data analysis.</span></p><p><br></p><p><span>This role puts you at the heart of our company’s evolution, giving you the opportunity to shape how we work, make data-driven decisions, and deliver exceptional value to our customers and teams.</span></p><p></p><p><br></p><strong>What you'll do: </strong><ul><li>Partner with leaders and teams across the business to uncover high-impact opportunities, translating real business needs into innovative system and data solutions that drive company growth and operational excellence</li><li>Improve or build new capabilities in existing business systems and hand off to system owners throughout the company</li><li>Champion process optimization by identifying and implementing both technology-driven and strategic improvements, ensuring our business stays agile and competitive</li><li>Maintain a stack of business systems and build integrations and connections between them as needed</li><li>Define and document these processes and workflows in process diagrams, wireframes, mapping documents, functional specifications, non-functional specifications, ERDs, use cases, user stories, and logical data models</li><li>Serve as a trusted advisor and trainer, equipping end users and stakeholders with the knowledge and tools they need to maximize the impact of our systems and insights</li><li>Project manage external systems consultants, where necessary</li></ul><p><br></p><strong>About you: </strong><ul><li>5-10 years of work experience in data analysis, business intelligence, and business systems</li><li>Strong SQL and proficient Python knowledge</li><li>Experience with data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools</li><li>Experience in API integrations and data migration/data conversion.</li><li>Experience with data visualization tools and packages (e.g. Looker, Tableau, Power BI)</li><li>Experience implementing business systems, sometimes from scratch (including understanding business processes, gathering user requirements, design, testing, deployment, and training)</li><li>Must have the ability to communicate, motivate and organize projects throughout the company</li><li>Must have ability to work independently and handle end-to-end projects</li></ul><p></p><p><br></p><br><p>Lumafield offers both competitive cash and equity compensation, as well as a health &amp; wellness stipend, 401k, parental leave, flexible PTO, commuter benefits, company wide events and more!&nbsp;</p><p><br></p><p>Lumafield is committed to building a team that represents a variety of backgrounds, perspectives, and skills, because the more inclusive we are, the better our work will be. Do you feel like your skills don’t meet every single requirement listed? We encourage you to apply anyway – If you’re excited about our technology, the opportunity, and are eager to learn more we’d love to hear from you!&nbsp;&nbsp;</p><p><br></p><p>In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability, genetic information or veteran status.&nbsp;</p><p><br></p><p>Reach out if you want to be a part of what we are building.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-10,[]
+4240712913,https://www.linkedin.com/jobs/view/data-scientist-at-verily-4240712913?position=2&pageNum=0&refId=nzO%2F3Yg4Xibgw61yN1s%2Bbg%3D%3D&trackingId=ALILyKUEITeXpVL%2BhyBfXQ%3D%3D,Data Scientist,Verily,"Boston, MA","Who We Are
+
+Verily is a subsidiary of Alphabet that is using a data-driven approach to change the way people manage their health and the way healthcare is delivered. Launched from Google X in 2015, our purpose is to bring the promise of precision health to everyone, every day. We are focused on generating and activating data from a variety of sources, including clinical, social, behavioral and the real world, to arrive at the best solutions for a person based on a comprehensive view of the evidence. Our unique expertise and capabilities in technology, data science and healthcare enable the entire healthcare ecosystem to drive better health outcomes.
+
+Description
+
+As a Data Scientist at Verily, you will be supporting our core mission to drive innovation in evidence generation for research and care decisions. We are building new types of longitudinal datasets that have foundations of RWD sources, such as EHRs (electronic health records) and claims data, and are augmented with prospective data collection. You will develop and deploy models that enable scalable curation of RWD. This will include multi-source integrations and reconciliations, creating derived features from the source data (e.g., abstraction of clinical concepts from unstructured data), and facilitating data quality assessments. You will work with a diverse cross-functional team to build reusable and scalable tools and to deliver products that unlock information from structured and unstructured clinical data.
+
+Responsibilities
+
+
+Work closely with cross-functional partners to design and create longitudinal datasets integrating multiple data sources.
+Build and implement highly accurate machine learning models / AI tools using sparsely labeled healthcare datasets.
+Implement, build on and augment existing LLM/NLP tools to maximize the value of using unstructured medical data across a range of research and care applications.
+Become an expert in our data’s capabilities and limitations. Solve difficult, non-routine analysis problems, handling data challenges from a real-world setting.
+
+
+Qualifications
+
+Minimum qualifications
+
+
+Advanced degree in a quantitative discipline (e.g., data sciences, statistics, biomedical informatics, computer science, applied mathematics, or similar), or equivalent practical experience.
+2+ years experience applying advanced machine learning and AI techniques (supervised and unsupervised methods, LLMs, NLP) to clinical data.
+Direct experience working with and curating real-world data, such as EHR, including a deep understanding of the complexities of this structured and unstructured clinical data.
+Strong proficiency in Python.
+
+
+Preferred Qualifications
+
+
+Familiarity with medical terminologies and ontologies.
+Familiarity with software engineering practices and experience developing production software.
+Experience working with clinical subject matter experts.
+Ability to work cross-functionally on teams, with a tolerance for ambiguity.
+Creative and methodical problem solving: understand needs, identify options, form hypotheses, generate robust results, make informed decisions, and learn faster through feedback.
+
+
+This role is eligible for Verily-sponsored immigration support.
+
+The US base salary range for this full-time position is $119,000 - $169,000 + bonus + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Who We Are<br><br></strong>Verily is a subsidiary of Alphabet that is using a data-driven approach to change the way people manage their health and the way healthcare is delivered. Launched from Google X in 2015, our purpose is to bring the promise of precision health to everyone, every day. We are focused on generating and activating data from a variety of sources, including clinical, social, behavioral and the real world, to arrive at the best solutions for a person based on a comprehensive view of the evidence. Our unique expertise and capabilities in technology, data science and healthcare enable the entire healthcare ecosystem to drive better health outcomes.<br><br><strong>Description<br><br></strong>As a Data Scientist at Verily, you will be supporting our core mission to drive innovation in evidence generation for research and care decisions. We are building new types of longitudinal datasets that have foundations of RWD sources, such as EHRs (electronic health records) and claims data, and are augmented with prospective data collection. You will develop and deploy models that enable scalable curation of RWD. This will include multi-source integrations and reconciliations, creating derived features from the source data (e.g., abstraction of clinical concepts from unstructured data), and facilitating data quality assessments. You will work with a diverse cross-functional team to build reusable and scalable tools and to deliver products that unlock information from structured and unstructured clinical data.<br><br><strong>Responsibilities<br><br></strong><ul><li>Work closely with cross-functional partners to design and create longitudinal datasets integrating multiple data sources.</li><li>Build and implement highly accurate machine learning models / AI tools using sparsely labeled healthcare datasets.</li><li>Implement, build on and augment existing LLM/NLP tools to maximize the value of using unstructured medical data across a range of research and care applications.</li><li>Become an expert in our data’s capabilities and limitations. Solve difficult, non-routine analysis problems, handling data challenges from a real-world setting.<br><br></li></ul><strong>Qualifications<br><br></strong>Minimum qualifications<br><br><ul><li>Advanced degree in a quantitative discipline (e.g., data sciences, statistics, biomedical informatics, computer science, applied mathematics, or similar), or equivalent practical experience.</li><li>2+ years experience applying advanced machine learning and AI techniques (supervised and unsupervised methods, LLMs, NLP) to clinical data.</li><li>Direct experience working with and curating real-world data, such as EHR, including a deep understanding of the complexities of this structured and unstructured clinical data.</li><li>Strong proficiency in Python.<br><br></li></ul><strong>Preferred Qualifications<br><br></strong><ul><li>Familiarity with medical terminologies and ontologies.</li><li>Familiarity with software engineering practices and experience developing production software.</li><li>Experience working with clinical subject matter experts.</li><li>Ability to work cross-functionally on teams, with a tolerance for ambiguity.</li><li>Creative and methodical problem solving: understand needs, identify options, form hypotheses, generate robust results, make informed decisions, and learn faster through feedback.<br><br></li></ul>This role is eligible for Verily-sponsored immigration support.<br><br>The US base salary range for this full-time position is $119,000 - $169,000 + bonus + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br><br><em>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-03,[]
+4225367803,https://www.linkedin.com/jobs/view/data-science-specialist-at-franklin-fitch-4225367803?position=3&pageNum=0&refId=nzO%2F3Yg4Xibgw61yN1s%2Bbg%3D%3D&trackingId=vKQTFuZfThaJacOBLWMrCw%3D%3D,Data Science Specialist,Franklin Fitch,"Boston, MA","Senior Data Security Analyst | Boston, MA | $90,000-$130,000 + Bonus
+
+
+
+
+A leading professional services firm is seeking a Senior Data Security Analyst who will be joining a fast-growing team which has doubled in size over the last year and receiving consistent investment. You will take complete ownership over their iManage and Relativity application suite, and be operating in a cloud-first environment.
+
+
+
+
+You will be joining an organization which is highly collaborative and team-orientated. Despite the fast-paced nature of their environment, they are a people-first organization who encourage a strong work/life balance. They place a strong emphasis on growth and development and there will be several opportunities to work towards Director-level positions.
+
+
+
+
+They are willing to pay up to $130,000 + Bonus depending on experience as well as a strong benefits package. This will be a hybrid role in Boston, MA with an expectation of three days a week onsite.
+
+
+
+
+Key requirements for the role:
+
+
+
+
+Information Governance
+iManage
+Relativity
+
+
+
+
+The company is looking to begin conversations and interviews this week so to secure an interview slot, send in an application.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong><u>Senior Data Security Analyst | Boston, MA | $90,000-$130,000 + Bonus</u></strong></p><p><br></p><p>A leading professional services firm is seeking a Senior Data Security Analyst who will be joining a fast-growing team which has doubled in size over the last year and receiving consistent investment. You will take complete ownership over their iManage and Relativity application suite, and be operating in a cloud-first environment.</p><p><br></p><p>You will be joining an organization which is highly collaborative and team-orientated. Despite the fast-paced nature of their environment, they are a people-first organization who encourage a strong work/life balance. They place a strong emphasis on growth and development and there will be several opportunities to work towards Director-level positions.</p><p><br></p><p>They are willing to pay up to $130,000 + Bonus depending on experience as well as a strong benefits package. This will be a hybrid role in Boston, MA with an expectation of three days a week onsite.</p><p><br></p><p><strong><u>Key requirements for the role:</u></strong></p><p><br></p><ul><li>Information Governance</li><li>iManage</li><li>Relativity</li></ul><p><br></p><p><strong><u>The company is looking to begin conversations and interviews this week so to secure an interview slot, send in an application.</u></strong></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
