@@ -1,0 +1,1689 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4257950514,https://de.linkedin.com/jobs/view/data-scientist-linguist-logistics-service-ai-autopilot-at-delivery-hero-4257950514?position=1&pageNum=0&refId=Vt9ILYXJvSqeRSAMvNB8Lg%3D%3D&trackingId=KT6JdIQ9NGns%2BF622MktDQ%3D%3D,"Data Scientist, Linguist - (Logistics Service, AI Autopilot)",Delivery Hero,"Berlin, Berlin, Germany","As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in over 70+ countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We enable creative minds to deliver solutions that create impact within our ecosystem. We move fast, take action and adapt. No matter where you're from or what you believe in, we build, we deliver, we lead. We are Delivery Hero.
+
+Job Description
+
+We are on the lookout for a Data Scientist with linguistic expertise, to join our team and help us create outstanding customer service products. This is a unique opportunity to apply deep linguistic expertise to the challenges of building customer facing, conversational products using NLP, machine learning and generative AI.
+
+You will join the Service Data Science squad on our mission to automate and optimize interactions with customers, making sure they have a high quality experience that scales as our business grows. In this specialist role, you will be the team's expert on the analysis and evaluation of language data, focusing on the nuances of user intent, conversational context, and error analysis to drive the performance of our products. If you also have experience in applying modelling approaches to conversational or other language problems, even better!
+
+If you are a creative problem solver with a passion for language and technology, and you're hungry for a new adventure, a diverse, international and inclusive workplace is waiting for you in the heart of Berlin!
+
+Your mission:
+
+Lead Linguistic Analysis: Dive deep into user conversations to uncover the root causes of model underperformance, using your expertise in pragmatics, semantics, and syntax in multiple languages to identify opportunities for model improvement.
+
+Enhance Model Evaluation and Modelling Approaches: Design, build, and implement fine-grained evaluation datasets and observability tools that move beyond standard metrics to give us high-confidence insights into our models' linguistic capabilities. Use the learnings to improve our models.
+
+Drive Product Improvement: Translate your linguistic analysis into actionable data requirements and strategies that directly improve key business outcomes, such as first-contact resolution and customer satisfaction.
+
+Collaborate and Grow: Work closely with Data Scientists, ML Engineers, and Product Managers to solve practical problems, and have fun while growing together with your team.
+
+Qualifications
+
+
+A strong academic or professional background in Linguistics, Computational Linguistics, or a related field.
+Demonstrable expertise in linguistic analysis, particularly in areas like pragmatics, semantics, ambiguity resolution, and conversational analysis.
+Proficiency in Python for data analysis, including experience with libraries like Pandas and creating readable, reproducible analyses (e.g., in Jupyter notebooks).
+Experience with SQL for accessing and processing data.
+Proven ability to perform detailed error analysis on language data and a solid understanding of how to curate high-quality, annotated datasets.
+You are a highly autonomous problem solver, capable of leading projects and delivering results with minimal guidance.
+You are fluent in English.
+Bonus points: Experience with NLP technologies (e.g., LLMs, BERT, Transformer models) would be amazing, as would experience working on solving language tasks in multiple languages!
+
+
+Additional Information
+
+
+Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape.
+Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week
+We offer 27 days holiday with an extra day on 2nd and 3rd year of service
+We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses.
+Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation, Yoga, Gym & Bicycle Subsidy
+Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank, Public Transportation Ticket Discount, Life & Accident Insurance, Corporate Pension Plan
+The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers, Food Vouchers, Corporate Discounts. Courses.
+Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!
+
+
+We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just include it in your application. You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          As the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in over 70+ countries worldwide, powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We enable creative minds to deliver solutions that create impact within our ecosystem. We move fast, take action and adapt. No matter where you're from or what you believe in, we build, we deliver, we lead. We are Delivery Hero.<br><br><strong>Job Description<br><br></strong>We are on the lookout for a Data Scientist with linguistic expertise, to join our team and help us create outstanding customer service products. This is a unique opportunity to apply deep linguistic expertise to the challenges of building customer facing, conversational products using NLP, machine learning and generative AI.<br><br>You will join the Service Data Science squad on our mission to automate and optimize interactions with customers, making sure they have a high quality experience that scales as our business grows. In this specialist role, you will be the team's expert on the analysis and evaluation of language data, focusing on the nuances of user intent, conversational context, and error analysis to drive the performance of our products. If you also have experience in applying modelling approaches to conversational or other language problems, even better!<br><br>If you are a creative problem solver with a passion for language and technology, and you're hungry for a new adventure, a diverse, international and inclusive workplace is waiting for you in the heart of Berlin!<br><br><strong>Your mission:<br><br></strong><strong>Lead Linguistic Analysis</strong>: Dive deep into user conversations to uncover the root causes of model underperformance, using your expertise in pragmatics, semantics, and syntax in multiple languages to identify opportunities for model improvement.<br><br><strong>Enhance Model Evaluation and Modelling Approaches</strong>: Design, build, and implement fine-grained evaluation datasets and observability tools that move beyond standard metrics to give us high-confidence insights into our models' linguistic capabilities. Use the learnings to improve our models.<br><br><strong>Drive Product Improvement</strong>: Translate your linguistic analysis into actionable data requirements and strategies that directly improve key business outcomes, such as first-contact resolution and customer satisfaction.<br><br><strong>Collaborate and Grow</strong>: Work closely with Data Scientists, ML Engineers, and Product Managers to solve practical problems, and have fun while growing together with your team.<br><br><strong>Qualifications<br><br></strong><ul><li>A strong academic or professional background in Linguistics, Computational Linguistics, or a related field. </li><li>Demonstrable expertise in linguistic analysis, particularly in areas like pragmatics, semantics, ambiguity resolution, and conversational analysis. </li><li>Proficiency in Python for data analysis, including experience with libraries like Pandas and creating readable, reproducible analyses (e.g., in Jupyter notebooks). </li><li>Experience with SQL for accessing and processing data. </li><li>Proven ability to perform detailed error analysis on language data and a solid understanding of how to curate high-quality, annotated datasets. </li><li>You are a highly autonomous problem solver, capable of leading projects and delivering results with minimal guidance. </li><li>You are fluent in English. </li><li>Bonus points: Experience with NLP technologies (e.g., LLMs, BERT, Transformer models) would be amazing, as would experience working on solving language tasks in multiple languages!<br><br></li></ul><strong>Additional Information<br><br></strong><ul><li>Ensuring you and all our Heroes are looked after, happy, and healthy is always on the menu. Because if you’re in good shape, then we’re in good shape. </li><li>Make the most of our hybrid working model and join the team for face-to-face connection and collaboration in our beautiful Berlin campus 2 days a week</li><li>We offer 27 days holiday with an extra day on 2nd and 3rd year of service</li><li>We will support you in developing yourself and your career growth opportunities: 1.000 € Educational Budget, Language Courses, Parental Support and access to the Udemy Business platform to explore a variety of online courses. </li><li>Get moving and release those wonderful, mind-boosting endorphins: Health Checkups, Meditation, Yoga, Gym &amp; Bicycle Subsidy</li><li>Cash. Dough. Cheddar. Whatever you call it, we’ll help you with it: Employee Share Purchase Plan, Sabbatical Bank, Public Transportation Ticket Discount, Life &amp; Accident Insurance, Corporate Pension Plan</li><li>The power of getting together over some food is unrivaled. Here are a few ways to help you do that. All the yum: Digital Meal Vouchers, Food Vouchers, Corporate Discounts. Courses. </li><li>Ready to join our team? If you’re excited to grow, collaborate and be part of the world’s leading delivery platform, we’d love to hear from you. Apply today!<br><br></li></ul>We believe diversity and inclusion are key to creating not only an exciting product, but also an amazing customer and employee experience. Fostering this starts with hiring - therefore we do not discriminate on the basis of racial identities, religious beliefs, color, national origin, gender identities or expressions, sexual orientations, age, marital or disability statuses, or any other aspect that makes you, you. We encourage you to let us know if you need any accommodations or specific accessibility support to ensure a smooth interview experience—just include it in your application. You're welcome to share your pronouns (he/she/they) right from the start so we can address you respectfully from our first contact.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-30,[]
+4251281764,https://de.linkedin.com/jobs/view/data-scientist-at-thryve-4251281764?position=2&pageNum=0&refId=Vt9ILYXJvSqeRSAMvNB8Lg%3D%3D&trackingId=A0Ism5WOdhmtDjQVvLTtaQ%3D%3D,Data Scientist,THRYVE,"Berlin, Germany","My client is one of Berlin’s most exciting new AI startups — backed by top-tier investors and led by a visionary founding team with deep domain expertise. They're building intelligent systems that do more than just automate — they understand, adapt, and learn in real time. And now they’re looking for a Data Scientist to shape the next phase of their AI-driven product evolution.
+
+
+
+
+As a core member of the Data Science team, you won’t just be running models — you’ll be designing end-to-end data workflows, building and evaluating state-of-the-art AI systems, and working alongside engineers and product teams to translate insights into real-world impact. This is your opportunity to work on bleeding-edge ML with purpose — in an environment where experimentation and bold ideas are part of the DNA.
+
+
+
+
+What you’ll be working with:
+
+A modern data stack: Python, SQL, and TypeScript (for integration)
+Leading ML/AI frameworks: PyTorch, TensorFlow, ONNX, HuggingFace
+Scalable infrastructure: GCP, BigQuery, Cloud Functions, Firestore, AlloyDB
+Productionizing ML: from fine-tuning foundation models (OpenAI, Claude, Gemini, LLaMA, etc.) to optimizing deployment pipelines
+Cross-functional collaboration with engineers, designers, and domain experts to shape smart, adaptive AI products
+
+
+
+
+What they’re looking for:
+
+Strong proficiency in Python, SQL, and modern data science libraries (e.g., Pandas, NumPy)
+Hands-on experience with ML model development and deployment (bonus: exposure to LLMs and generative AI)
+A solid grasp of data architecture, experimentation, and performance evaluation
+A collaborative mindset with a track record of working across disciplines to solve complex problems
+Experience in startup or fast-paced environments is a plus
+
+
+
+
+Why this role?
+
+Autonomy & Ownership: You’ll shape how data science is done — from tools to strategy
+Impact: Your models and insights will directly influence core product experiences
+Real-world AI: Build systems that are used, not just published
+Growth: Join at an early stage with equity, a strong mission, and rapid professional growth
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>My client is one of Berlin’s most exciting new AI startups — backed by top-tier investors and led by a visionary founding team with deep domain expertise. They're building intelligent systems that do more than just automate — they understand, adapt, and learn in real time. And now they’re looking for a <strong>Data Scientist</strong> to shape the next phase of their AI-driven product evolution.</p><p><br></p><p>As a <strong>core member of the Data Science team</strong>, you won’t just be running models — you’ll be designing end-to-end data workflows, building and evaluating state-of-the-art AI systems, and working alongside engineers and product teams to translate insights into real-world impact. This is your opportunity to work on bleeding-edge ML with purpose — in an environment where experimentation and bold ideas are part of the DNA.</p><p><br></p><p>What you’ll be working with:</p><ul><li>A modern data stack: <strong>Python, SQL, and TypeScript</strong> (for integration)</li><li>Leading ML/AI frameworks: <strong>PyTorch, TensorFlow, ONNX, HuggingFace</strong></li><li>Scalable infrastructure: <strong>GCP, BigQuery, Cloud Functions, Firestore, AlloyDB</strong></li><li>Productionizing ML: from fine-tuning foundation models (OpenAI, Claude, Gemini, LLaMA, etc.) to optimizing deployment pipelines</li><li>Cross-functional collaboration with engineers, designers, and domain experts to shape smart, adaptive AI products</li></ul><p><br></p><p>What they’re looking for:</p><ul><li>Strong proficiency in <strong>Python</strong>, SQL, and modern data science libraries (e.g., Pandas, NumPy)</li><li>Hands-on experience with <strong>ML model development and deployment</strong> (bonus: exposure to LLMs and generative AI)</li><li>A solid grasp of data architecture, experimentation, and performance evaluation</li><li>A collaborative mindset with a track record of working across disciplines to solve complex problems</li><li>Experience in startup or fast-paced environments is a plus</li></ul><p><br></p><p>Why this role?</p><ul><li><strong>Autonomy &amp; Ownership</strong>: You’ll shape how data science is done — from tools to strategy</li><li><strong>Impact</strong>: Your models and insights will directly influence core product experiences</li><li><strong>Real-world AI</strong>: Build systems that are used, not just published</li><li><strong>Growth</strong>: Join at an early stage with equity, a strong mission, and rapid professional growth</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-15,[]
+4252603365,https://de.linkedin.com/jobs/view/machine-learning-engineer-python-rest-ml-ops-at-wasteer-4252603365?position=3&pageNum=0&refId=Vt9ILYXJvSqeRSAMvNB8Lg%3D%3D&trackingId=bn3Rt8IQEUCej4uZRlVlHw%3D%3D,"Machine Learning Engineer (Python, REST, ML Ops)",WASTEER,"Berlin, Berlin, Germany","At Wasteer, we’re pioneering AI-driven solutions to revolutionize waste management. Our goal is to turn waste into a resource through innovative digital platforms, empowering the shift to a circular economy. Backed by NEEW Ventures, we have the expertise and resources to make a lasting impact.
+
+
+
+
+We’re looking for a passionate Machine Learning Engineer to join our team in Berlin. If you’re excited about integrating AI/ML systems into real-world applications and delivering exceptional results, we want to hear from you.
+
+
+Tasks
+
+
+What you'll do
+
+
+
+
+
+Develop and integrate AI/ML systems to optimize processes in waste management.
+
+
+Manage the full lifecycle of machine learning models, from development to deployment, using ML Ops tools.
+
+
+Design and maintain RESTful APIs for seamless interaction with AI systems.
+
+
+Work with large datasets to create innovative, scalable solutions.
+
+
+Collaborate with developers and product managers to align AI solutions with business goals.
+
+
+
+Requirements
+
+
+What we're looking for
+
+
+
+
+
+Skills: Proficiency in Python, experience with REST APIs, and knowledge of ML Ops tools.
+
+
+Mindset: A passion for leveraging AI/ML to solve complex, real-world problems.
+
+
+Collaboration: A team player who thrives in a dynamic, fast-paced environment.
+
+
+Drive: A hunger for learning, improving, and delivering exceptional results.
+
+
+Focus: A commitment to building practical, scalable systems that deliver measurable impact.
+
+
+
+
+
+Why join us?
+
+
+
+
+
+Impact: Contribute to sustainable solutions that redefine waste management.
+
+
+Culture: Be part of an ambitious, international team in Berlin.
+
+
+Collaboration First: We prioritize in-person teamwork to foster creativity and innovation.
+
+
+Growth Opportunities: Shape the future of our AI/ML systems while growing your skills.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>At <strong>Wasteer</strong>, we’re pioneering AI-driven solutions to revolutionize waste management. Our goal is to turn waste into a resource through innovative digital platforms, empowering the shift to a circular economy. Backed by <strong>NEEW Ventures</strong>, we have the expertise and resources to make a lasting impact.</p><br><p>We’re looking for a passionate <strong>Machine Learning Engineer</strong> to join our team in Berlin. If you’re excited about integrating AI/ML systems into real-world applications and delivering exceptional results, we want to hear from you.</p><br>Tasks<br><p><strong>What you'll do</strong></p><br><ul><br><li>Develop and integrate AI/ML systems to optimize processes in waste management.</li><br><li>Manage the full lifecycle of machine learning models, from development to deployment, using ML Ops tools.</li><br><li>Design and maintain RESTful APIs for seamless interaction with AI systems.</li><br><li>Work with large datasets to create innovative, scalable solutions.</li><br><li>Collaborate with developers and product managers to align AI solutions with business goals.</li><br></ul><br>Requirements<br><p><strong>What we're looking for</strong></p><br><ul><br><li><strong>Skills</strong>: Proficiency in Python, experience with REST APIs, and knowledge of ML Ops tools.</li><br><li><strong>Mindset</strong>: A passion for leveraging AI/ML to solve complex, real-world problems.</li><br><li><strong>Collaboration</strong>: A team player who thrives in a dynamic, fast-paced environment.</li><br><li><strong>Drive</strong>: A hunger for learning, improving, and delivering exceptional results.</li><br><li><strong>Focus</strong>: A commitment to building practical, scalable systems that deliver measurable impact.</li><br></ul><br><p><strong>Why join us?</strong></p><br><ul><br><li><strong>Impact</strong>: Contribute to sustainable solutions that redefine waste management.</li><br><li><strong>Culture</strong>: Be part of an ambitious, international team in Berlin.</li><br><li><strong>Collaboration First</strong>: We prioritize in-person teamwork to foster creativity and innovation.</li><br><li><strong>Growth Opportunities</strong>: Shape the future of our AI/ML systems while growing your skills.</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-21,[]
+4255177124,https://uk.linkedin.com/jobs/view/data-scientist-at-gopuff-4255177124?position=1&pageNum=0&refId=MXvotOFpaMxsl5s4yH9FDw%3D%3D&trackingId=cgrJ6OxeoOon2XebKaHmFA%3D%3D,Data Scientist,Gopuff,"London, England, United Kingdom","At Gopuff, we’re not just delivering convenience, we’re redefining how the world shops. Since pioneering instant needs in 2013, we’ve empowered millions of customers across the U.S. and U.K. to reclaim their time through seamless, fast, and reliable delivery. Behind this transformative journey is our tech-first mindset, relentless obsession with customer experience and operational excellence.
+
+We’re looking for an exceptional Data Scientist to shape the future of quick commerce. This is not just a job, it’s a mission. As a Data Scientist in the UK Data team, you will support the rapid growth of our business by analysing our huge datasets to uncover insights that drive improvements across all departments performance.
+
+You’ll partner with cross-functional teams, challenge the status quo and make high-impact recommendations. With your mastery of SQL, Python and advanced modelling, you won’t just support decisions - you’ll lead them. We believe great work happens through collaboration, not competition. You foster a culture of curiosity, respect, and shared success, ensuring data is a tool for empowerment, not gatekeeping. No room for arrogance - just a commitment to helping others and making an impact together.
+
+If you’re a high-performer who thrives in fast-paced, high-impact environments, this is your chance to build, innovate, and leave a lasting mark on one of the most disruptive industries in the world.
+
+Are you ready to shape the future of commerce? Let’s go!
+
+You Will:
+
+
+Drive Business Efficiency through Analytics: Analyse and enhance key metrics across customer acquisition, retention, and revenue generation. Use statistical and machine learning methods to identify patterns, uncover opportunities, and recommend actions that improve business performance and cost efficiency.
+Develop and Maintain Strategic Data Models: Build scalable, well-documented data models using tools like dbt and databricks to support transparency and accuracy in tracking core KPIs. Ensure models are robust, maintainable, and aligned with evolving business needs.
+Deep Dive into Company Performance: Collaborate closely with cross-functional teams to align KPIs with business goals. Use data to identify performance gaps, root causes, and potential levers for improvement, with a focus on measurable business outcomes.
+Cross-Functional Data Partnering: Work alongside Category, Operations, and other teams to ensure insights are contextualised and actionable. Translate complex analyses into strategic recommendations that drive operational and commercial impact.
+Solve Business Problems with Data: Use a variety of analytical methods ranging from exploratory data analysis to predictive modelling to solve real-world business problems. Launch and report on various of A/B tests running across all business functions.
+Communicate Insights Effectively: Craft clear, compelling narratives with data. Present findings to both technical and non-technical audiences, ensuring data is accessible, trusted, and central to decision-making.
+
+
+You Have:
+
+
+3+ Years working as a Data Scientist: Proven experience in a data-driven environment, ideally in a high-growth e-commerce or retail setting.
+Expertise in SQL and Python: Advanced skills in SQL and Python for querying large datasets, developing complex reports, building data models.
+Tools Mastery: Familiarity with BI tools such as Looker, Tableau, or Power BI, with a strong ability to translate data into strategic insights.
+Problem-Solver: A passion for tackling business challenges, with the ability to identify issues and propose actionable, data-driven solutions.
+Strong Communicator: Ability to present data insights clearly and persuasively to both technical and non-technical stakeholders.
+Curiosity and Drive: A passion for problem-solving and the ability to thrive in a fast-paced, ambiguous environment. You’ll be excited to dive into our business performance data and uncover opportunities to drive growth.
+
+
+Benefits:
+
+
+Company RSU’s (Company Shares)
+Private Medical + Dental cover
+Annual performance appraisal and bonus
+Employee Discount + FAM membership
+Career growth opportunities
+
+
+Company Summary & EEOC Statement:
+
+At Gopuff, we know that life can be unpredictable. Sometimes you forget the milk at the store, run out of pet food for Fido, or just really need ice cream at 11 pm. We get it—stuff happens. But that’s where we come in, delivering all your wants and needs in just minutes.
+
+And now, we’re assembling a team of motivated people to help us drive forward that vision to bring a new age of convenience and predictability to an unpredictable world.
+
+Like what you’re hearing? Then join us on Team Blue.
+
+Gopuff is an equal employment opportunity employer, committed to an inclusive workplace where we do not discriminate on the basis of race, sex, gender, national origin, religion, sexual orientation, gender identity, marital or familial status, age, ancestry, disability, genetic information, or any other characteristic protected by applicable laws. We believe in diversity and encourage any qualified individual to apply.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Gopuff, we’re not just delivering convenience, we’re redefining how the world shops. Since pioneering instant needs in 2013, we’ve empowered millions of customers across the U.S. and U.K. to reclaim their time through seamless, fast, and reliable delivery. Behind this transformative journey is our tech-first mindset, relentless obsession with customer experience and operational excellence.<br><br>We’re looking for an exceptional Data Scientist to shape the future of quick commerce. This is not just a job, it’s a mission. As a Data Scientist in the UK Data team, you will support the rapid growth of our business by analysing our huge datasets to uncover insights that drive improvements across all departments performance.<br><br>You’ll partner with cross-functional teams, challenge the status quo and make high-impact recommendations. With your mastery of SQL, Python and advanced modelling, you won’t just support decisions - you’ll lead them. We believe great work happens through collaboration, not competition. You foster a culture of curiosity, respect, and shared success, ensuring data is a tool for empowerment, not gatekeeping. No room for arrogance - just a commitment to helping others and making an impact together.<br><br>If you’re a high-performer who thrives in fast-paced, high-impact environments, this is your chance to build, innovate, and leave a lasting mark on one of the most disruptive industries in the world.<br><br>Are you ready to shape the future of commerce? Let’s go!<br><br><strong>You Will: <br><br></strong><ul><li>Drive Business Efficiency through Analytics: Analyse and enhance key metrics across customer acquisition, retention, and revenue generation. Use statistical and machine learning methods to identify patterns, uncover opportunities, and recommend actions that improve business performance and cost efficiency. </li><li>Develop and Maintain Strategic Data Models: Build scalable, well-documented data models using tools like dbt and databricks to support transparency and accuracy in tracking core KPIs. Ensure models are robust, maintainable, and aligned with evolving business needs. </li><li>Deep Dive into Company Performance: Collaborate closely with cross-functional teams to align KPIs with business goals. Use data to identify performance gaps, root causes, and potential levers for improvement, with a focus on measurable business outcomes. </li><li>Cross-Functional Data Partnering: Work alongside Category, Operations, and other teams to ensure insights are contextualised and actionable. Translate complex analyses into strategic recommendations that drive operational and commercial impact. </li><li>Solve Business Problems with Data: Use a variety of analytical methods ranging from exploratory data analysis to predictive modelling to solve real-world business problems. Launch and report on various of A/B tests running across all business functions. </li><li>Communicate Insights Effectively: Craft clear, compelling narratives with data. Present findings to both technical and non-technical audiences, ensuring data is accessible, trusted, and central to decision-making. <br><br></li></ul><strong>You Have:<br><br></strong><ul><li>3+ Years working as a Data Scientist: Proven experience in a data-driven environment, ideally in a high-growth e-commerce or retail setting. </li><li>Expertise in SQL and Python: Advanced skills in SQL and Python for querying large datasets, developing complex reports, building data models. </li><li>Tools Mastery: Familiarity with BI tools such as Looker, Tableau, or Power BI, with a strong ability to translate data into strategic insights. </li><li>Problem-Solver: A passion for tackling business challenges, with the ability to identify issues and propose actionable, data-driven solutions. </li><li>Strong Communicator: Ability to present data insights clearly and persuasively to both technical and non-technical stakeholders. </li><li>Curiosity and Drive: A passion for problem-solving and the ability to thrive in a fast-paced, ambiguous environment. You’ll be excited to dive into our business performance data and uncover opportunities to drive growth. <br><br></li></ul><strong>Benefits: <br><br></strong><ul><li>Company RSU’s (Company Shares)</li><li>Private Medical + Dental cover </li><li>Annual performance appraisal and bonus</li><li>Employee Discount + FAM membership </li><li>Career growth opportunities<br><br></li></ul><strong>Company Summary &amp; EEOC Statement:<br><br></strong>At Gopuff, we know that life can be unpredictable. Sometimes you forget the milk at the store, run out of pet food for Fido, or just really need ice cream at 11 pm. We get it—stuff happens. But that’s where we come in, delivering all your wants and needs in just minutes.<br><br>And now, we’re assembling a team of motivated people to help us drive forward that vision to bring a new age of convenience and predictability to an unpredictable world.<br><br>Like what you’re hearing? Then join us on Team Blue.<br><br>Gopuff is an equal employment opportunity employer, committed to an inclusive workplace where we do not discriminate on the basis of race, sex, gender, national origin, religion, sexual orientation, gender identity, marital or familial status, age, ancestry, disability, genetic information, or any other characteristic protected by applicable laws. We believe in diversity and encourage any qualified individual to apply.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-23,[]
+4258991076,https://uk.linkedin.com/jobs/view/data-scientist-fraud-at-starling-bank-4258991076?position=2&pageNum=0&refId=MXvotOFpaMxsl5s4yH9FDw%3D%3D&trackingId=gZMvAbIXQQvPFZxVAJeBqw%3D%3D,Data Scientist (Fraud),Starling Bank,"London, England, United Kingdom","Starling is the UK's first and leading digital bank on a mission to fix banking! Our vision is fast technology, fair service, and honest values. All at the tap of a phone, all the time.
+
+We are about giving customers a new way to spend, save and manage their money while taking better care of the planet which has seen us become a multi-award winning bank that now employs over 2800 across five offices in London, Cardiff, Dublin, Southampton, and Manchester. Our journey started in 2014, and since then we have surpassed 3.5 million accounts (and four account types!) with 350,000 business customers. We are a fully licensed UK bank but at the heart, we are a tech first company, enabling our platform to deliver brilliant products.
+
+Our technologists are at the very heart of Starling and enjoy working in a fast-paced environment that is all about building things, creating new stuff, and disruptive technology that keeps us on the cutting edge of fintech. We operate a flat structure to empower you to make decisions regardless of what your primary responsibilities may be, innovation and collaboration will be at the core of everything you do. Help is never far away in our open culture, you will find support in your team and from across the business, we are in this together!
+
+The way to thrive and shine within Starling is to be a self-driven individual and be able to take full ownership of everything around you: From building things, designing, discovering, to sharing knowledge with your colleagues and making sure all processes are efficient and productive to deliver the best possible results for our customers. Our purpose is underpinned by five Starling values: Listen, Keep It Simple, Do The Right Thing, Own It, and Aim For Greatness.
+
+Hybrid Working
+
+We have a Hybrid approach to working here at Starling - our preference is that you're located within a commutable distance of one of our offices so that we're able to interact and collaborate in person. In Technology, we're asking that you attend the office a minimum of 1 day per week.
+
+Our Data Environment
+
+Our Data teams are excited about the value of data within the business, powers our product decisions to improve things for our customers and enhance effective and agile decision making, regardless of what their primary tech stack may be. Hear from the team in our latest blogs or our case studies with Women in Tech.
+
+We are looking for talented data professionals at all levels to join the team. We value people being engaged and caring about customers, caring about the code they write and the contribution they make to Starling. People with a broad ability to apply themselves to a multitude of problems and challenges, who can work across teams do great things here at Starling, to continue changing banking for good.
+
+Ways of Working:
+
+
+We value autonomy - you'll be trusted to manage your own projects, drive modelling initiatives, and take ideas from concept to production
+You'll be encouraged to propose new approaches and explore creative ways to detect and prevent fraud
+We debate and critique our ideas in a healthy, supportive team
+You'll have the chance to shape both models and how we think about fraud detection as a wider team
+
+
+Responsibilities:
+
+
+You will be part of a team that builds, evaluates and deploys machine learning models to improve and automate decision making
+Collaborate with technical and non-technical teams to understand problems, explore data, and develop effective fraud prevention tools and solutions
+Design and maintain robust feature engineering pipelines for modelling, working closely with analytics engineering teams
+Contribute to the development of end-to-end machine learning workflows and help embed models into production systems
+Analyse transaction and behavioural data to identify trends, anomalies, and fraud patterns
+
+
+Requirements
+
+
+Industry experience in data science or machine learning models, ideally in fraud, financial crime, or a related domain
+Experience working with large-scale, high-dimensional, and heavily imbalanced datasets
+Excellent skills in Python and SQL
+Solid understanding of classification algorithms such as gradient boosting decision trees, including pros and cons of different model architectures
+Strong feature engineering skills and experience in transforming raw data into useful model inputs
+Effective communication skills and able to explain complex findings clearly to both technical and non-technical stakeholders
+Demonstrable experience deploying machine learning solutions in a production environment, and familiarity with version controls systems (e.g. Git)
+
+
+Desirables:
+
+
+Experience with cloud-based ML infrastructure, particularly GCP (Vertex AI, BigQuery), or equivalent (e.g. AWS, Azure)
+Exposure to orchestration tools such as Kubeflow pipelines or Airflow
+Familiarity with DBT or similar tools for modelling data in data warehouses
+Desire to build interpretable and explainable ML models (using techniques such as SHAP)
+Desire to quantify the level of fairness and bias machine learning models
+Enthusiasm for improving fraud detection systems and a proactive, problem-solving mindset
+
+
+Interview process
+
+Interviewing is a two way process and we want you to have the time and opportunity to get to know us, as much as we are getting to know you! Our interviews are conversational and we want to get the best from you, so come with questions and be curious. In general you can expect the below, following a chat with one of our Talent Team:
+
+
+Stage 1 - 45 mins with one of the team
+Stage 2 - Take home challenge
+Stage 3 - 60 mins technical interview with two team members
+Stage 3 - 45 min final with an executive and a member of the people team
+
+
+Benefits
+
+
+33 days holiday (including public holidays, which you can take when it works best for you)
+An extra day's holiday for your birthday
+Annual leave is increased with length of service, and you can choose to buy or sell up to five extra days off
+16 hours paid volunteering time a year
+Salary sacrifice, company enhanced pension scheme
+Life insurance at 4x your salary & group income protection
+Private Medical Insurance with VitalityHealth including mental health support and cancer care. Partner benefits include discounts with Waitrose, Mr&Mrs Smith and Peloton
+Generous family-friendly policies
+Incentives refer a friend scheme
+Perkbox membership giving access to retail discounts, a wellness platform for physical and mental health, and weekly free and boosted perks
+Access to initiatives like Cycle to Work, Salary Sacrificed Gym partnerships and Electric Vehicle (EV) leasing
+
+
+About Us
+
+You may be put off applying for a role because you don't tick every box. Forget that! While we can't accommodate every flexible working request, we're always open to discussion. So, if you're excited about working with us, but aren't sure if you're 100% there yet, get in touch anyway. We're on a mission to radically reshape banking - and that starts with our brilliant team. Whatever came before, we're proud to bring together people of all backgrounds and experiences who love working together to solve problems.
+
+Starling Bank is an equal opportunity employer, and we're proud of our ongoing efforts to foster diversity & inclusion in the workplace. Individuals seeking employment at Starling Bank are considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law. When you provide us with this information, you are doing so at your own consent, with full knowledge that we will process this personal data in accordance with our Privacy Notice.
+
+By submitting your application, you agree that Starling Bank may collect your personal data for recruiting and related purposes. Our Privacy Notice explains what personal information we may process, where we may process your personal information, its purposes for processing your personal information, and the rights you can exercise over our use of your personal information.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Starling is the UK's first and leading digital bank on a mission to fix banking! Our vision is fast technology, fair service, and honest values. All at the tap of a phone, all the time.<br><br>We are about giving customers a new way to spend, save and manage their money while taking better care of the planet which has seen us become a multi-award winning bank that now employs over 2800 across five offices in London, Cardiff, Dublin, Southampton, and Manchester. Our journey started in 2014, and since then we have surpassed 3.5 million accounts (and four account types!) with 350,000 business customers. We are a fully licensed UK bank but at the heart, we are a tech first company, enabling our platform to deliver brilliant products.<br><br>Our technologists are at the very heart of Starling and enjoy working in a fast-paced environment that is all about building things, creating new stuff, and disruptive technology that keeps us on the cutting edge of fintech. We operate a flat structure to empower you to make decisions regardless of what your primary responsibilities may be, innovation and collaboration will be at the core of everything you do. Help is never far away in our open culture, you will find support in your team and from across the business, we are in this together!<br><br>The way to thrive and shine within Starling is to be a self-driven individual and be able to take full ownership of everything around you: From building things, designing, discovering, to sharing knowledge with your colleagues and making sure all processes are efficient and productive to deliver the best possible results for our customers. Our purpose is underpinned by five Starling values: Listen, Keep It Simple, Do The Right Thing, Own It, and Aim For Greatness.<br><br><strong>Hybrid Working<br><br></strong>We have a Hybrid approach to working here at Starling - our preference is that you're located within a commutable distance of one of our offices so that we're able to interact and collaborate in person. In Technology, we're asking that you attend the office a minimum of 1 day per week.<br><br><strong>Our Data Environment<br><br></strong>Our Data teams are excited about the value of data within the business, powers our product decisions to improve things for our customers and enhance effective and agile decision making, regardless of what their primary tech stack may be. Hear from the team in our latest blogs or our case studies with Women in Tech.<br><br>We are looking for talented data professionals at all levels to join the team. We value people being engaged and caring about customers, caring about the code they write and the contribution they make to Starling. People with a broad ability to apply themselves to a multitude of problems and challenges, who can work across teams do great things here at Starling, to continue changing banking for good.<br><br><strong>Ways of Working:<br><br></strong><ul><li>We value autonomy - you'll be trusted to manage your own projects, drive modelling initiatives, and take ideas from concept to production</li><li>You'll be encouraged to propose new approaches and explore creative ways to detect and prevent fraud</li><li>We debate and critique our ideas in a healthy, supportive team</li><li>You'll have the chance to shape both models and how we think about fraud detection as a wider team<br><br></li></ul><strong>Responsibilities:<br><br></strong><ul><li>You will be part of a team that builds, evaluates and deploys machine learning models to improve and automate decision making</li><li>Collaborate with technical and non-technical teams to understand problems, explore data, and develop effective fraud prevention tools and solutions</li><li>Design and maintain robust feature engineering pipelines for modelling, working closely with analytics engineering teams</li><li>Contribute to the development of end-to-end machine learning workflows and help embed models into production systems</li><li>Analyse transaction and behavioural data to identify trends, anomalies, and fraud patterns<br><br></li></ul><strong>Requirements<br><br></strong><ul><li>Industry experience in data science or machine learning models, ideally in fraud, financial crime, or a related domain</li><li>Experience working with large-scale, high-dimensional, and heavily imbalanced datasets</li><li>Excellent skills in Python and SQL</li><li>Solid understanding of classification algorithms such as gradient boosting decision trees, including pros and cons of different model architectures</li><li>Strong feature engineering skills and experience in transforming raw data into useful model inputs</li><li>Effective communication skills and able to explain complex findings clearly to both technical and non-technical stakeholders</li><li>Demonstrable experience deploying machine learning solutions in a production environment, and familiarity with version controls systems (e.g. Git)<br><br></li></ul><strong>Desirables:<br><br></strong><ul><li>Experience with cloud-based ML infrastructure, particularly GCP (Vertex AI, BigQuery), or equivalent (e.g. AWS, Azure)</li><li>Exposure to orchestration tools such as Kubeflow pipelines or Airflow</li><li>Familiarity with DBT or similar tools for modelling data in data warehouses</li><li>Desire to build interpretable and explainable ML models (using techniques such as SHAP)</li><li>Desire to quantify the level of fairness and bias machine learning models</li><li>Enthusiasm for improving fraud detection systems and a proactive, problem-solving mindset<br><br></li></ul><strong>Interview process<br><br></strong>Interviewing is a two way process and we want you to have the time and opportunity to get to know us, as much as we are getting to know you! Our interviews are conversational and we want to get the best from you, so come with questions and be curious. In general you can expect the below, following a chat with one of our Talent Team:<br><br><ul><li>Stage 1 - 45 mins with one of the team</li><li>Stage 2 - Take home challenge</li><li>Stage 3 - 60 mins technical interview with two team members</li><li>Stage 3 - 45 min final with an executive and a member of the people team<br><br></li></ul><strong>Benefits<br><br></strong><ul><li>33 days holiday (including public holidays, which you can take when it works best for you)</li><li>An extra day's holiday for your birthday</li><li>Annual leave is increased with length of service, and you can choose to buy or sell up to five extra days off</li><li>16 hours paid volunteering time a year</li><li>Salary sacrifice, company enhanced pension scheme</li><li>Life insurance at 4x your salary &amp; group income protection</li><li>Private Medical Insurance with VitalityHealth including mental health support and cancer care. Partner benefits include discounts with Waitrose, Mr&amp;Mrs Smith and Peloton</li><li>Generous family-friendly policies</li><li>Incentives refer a friend scheme</li><li>Perkbox membership giving access to retail discounts, a wellness platform for physical and mental health, and weekly free and boosted perks</li><li>Access to initiatives like Cycle to Work, Salary Sacrificed Gym partnerships and Electric Vehicle (EV) leasing<br><br></li></ul><strong>About Us<br><br></strong>You may be put off applying for a role because you don't tick every box. Forget that! While we can't accommodate every flexible working request, we're always open to discussion. So, if you're excited about working with us, but aren't sure if you're 100% there yet, get in touch anyway. We're on a mission to radically reshape banking - and that starts with our brilliant team. Whatever came before, we're proud to bring together people of all backgrounds and experiences who love working together to solve problems.<br><br>Starling Bank is an equal opportunity employer, and we're proud of our ongoing efforts to foster diversity &amp; inclusion in the workplace. Individuals seeking employment at Starling Bank are considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law. When you provide us with this information, you are doing so at your own consent, with full knowledge that we will process this personal data in accordance with our Privacy Notice.<br><br>By submitting your application, you agree that Starling Bank may collect your personal data for recruiting and related purposes. Our Privacy Notice explains what personal information we may process, where we may process your personal information, its purposes for processing your personal information, and the rights you can exercise over our use of your personal information.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-03,[]
+4246976070,https://uk.linkedin.com/jobs/view/data-scientist-battery-storage-at-masdar-abu-dhabi-future-energy-company-4246976070?position=3&pageNum=0&refId=MXvotOFpaMxsl5s4yH9FDw%3D%3D&trackingId=bPzpbkCfX2cfPweT0nJHvQ%3D%3D,Data Scientist (Battery Storage),Masdar (Abu Dhabi Future Energy Company),"London, England, United Kingdom","Company Description
+
+Masdar is the UAE’s clean energy champion and one of the largest companies of its kind in the world, advancing the development and deployment of renewable energy and green hydrogen technologies to address global sustainability challenges. Established in 2006, Masdar is today active in over 40 countries, helping them to achieve their clean energy objectives and advance sustainable development.
+
+Masdar is jointly owned by Abu Dhabi National Oil Company (ADNOC), Mubadala Investment Company (Mubadala), and Abu Dhabi National Energy Company (TAQA), and under this ownership the company is targeting a renewable energy portfolio capacity of at least 100 gigawatts (GW) by 2030 and an annual green hydrogen production capacity of up to 1 million tonnes by the same year.
+
+Job Description
+
+Purpose for the Job:
+
+To play a pivotal role in enhancing the performance, reliability, and profitability of our renewable energy assets. To leverage advanced analytics, machine learning, and data visualization techniques by driving data-driven strategies to optimize operations (and maintenance), forecast performance, and support strategic decision-making aligned with our goals.
+
+To work in close interface with Commercial Team supporting overall development of a data platform for Masdar’s London managed projects with a key ambition to set up a BESS Operations Control Desk. This desk will be responsible for the monitoring, analysis & scheduling of all assets and act as the key interface between all stakeholders (Masdar, O&M contractors, DNO, OEM and Optimiser). The Data Scientist will play a pivotal role in enabling this.
+
+Job Responsibilities:
+
+
+Work in cooperation with Commercial team on development of Data Platform.
+Integrate asset data into the platform and build new visualization and management tools.
+Integrate all BESS data (financial and technical) and develop Asset Management tools and dashboards.
+Document control management.
+
+
+Collaborate with the Masdar Control Desk to identify key performance indicators (KPIs) and areas for improvement:
+
+
+Support the Control Desk in their data and analysis needs to optimise battery availability and state of health.
+Creation and continued refinement of key dashboard tools used for portfolio management.
+Automate Battery scheduling and technical reporting
+Work with our cyber security partners to enhance protection of both our assets and data platform.
+Support on work to implement our BESS Cyber Security Policy, and Cyber Security in OFSW as appropriate
+Support on progressing towards full CAF and ENA DER Compliance.
+
+
+Asset Management data analysis and performance optimisation:
+
+
+Provide data-driven recommendations to enhance asset efficiency, reduce asset downtime and maximize commercial performance.
+Create intuitive dashboards and visualizations to communicate insights to stakeholders, including the asset management and commercial team.
+Prepare detailed reports and presentations to support operational and strategic decisions.
+
+
+Data Maintenance:
+
+
+Collect, clean, and process large datasets from various sources, including SCADA systems, IoT devices, and historical records.
+Ensure data integrity, consistency, and availability for analysis and reporting.
+
+
+Comply with information security policies, procedures and requirements at all times:
+
+
+Adhere to any applicable Masdar information security policies and procedures and identify and report security incidents and suspected weaknesses to the appropriate point(s) of contact.
+Protect assets under care (e.g. laptops and other devices) and information/credentials against unauthorized access, sharing, and/or damage/loss, in accordance with the Information Classification and Handling Procedure.
+Clear desks of all sensitive material and log off/ lock workstations at the end of the day and when leaving desk for a prolonged period in accordance with Acceptable Usage Policies.
+Ensure not installing, copying or modifying of any software on Masdar equipment without authorization.
+
+
+Qualifications
+
+Qualifications, Experience, & Skills
+
+Preferred Qualifications:
+
+
+Bachelor’s degree in data science, Computer Science, Engineering, Mathematics, or a related field.
+
+
+Preferred Experience:
+
+
+Experience with data visualization tools like Tableau, Power BI, or similar.
+Strong knowledge of time-series analysis, predictive modelling, and machine learning techniques.
+Familiarity with database management systems (e.g., SQL) and cloud platforms (e.g., AWS, Azure).
+
+
+Job-Specific Skills:
+
+
+Strong analytical and problem-solving abilities.
+Excellent communication and teamwork skills.
+Ability to translate complex data insights into actionable business recommendations.
+Proactive mindset with a passion for renewable energy and sustainability.
+A team player and attention to detail
+
+
+Additional Information
+
+Please note: All Applicants must be based in the UK.
+
+Masdar is one of the world’s fastest growing renewable energy companies and a green hydrogen leader, placing the UAE at the forefront of the energy transition.
+
+As a pioneer in advancing the clean energy sector and a key enabler of the UAE’s vision as a global leader in sustainability and climate action, Masdar has developed projects in more than 40 countries across six continents and has invested, or committed to invest, in worldwide projects with a combined value of more than US$30 billion.
+
+Masdar unites the UAE’s three energy champions – Mubadala, ADNOC and TAQA – and will utilize their combined expertise to fulfill its purpose as a global clean energy pioneer across renewables and green hydrogen.
+
+Promoting innovation in solar, wind, energy storage, waste-to-energy, and geothermal energy, Masdar has a proven record of delivering pioneering projects using cutting-edge clean energy technologies, that are commercially viable and bankable.
+
+As part of the application process, we will collect, store and process personal information about you.
+
+Masdar will use your personal information in accordance with our Candidate Privacy Notice, which provides details on the purposes for which your data is processed.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Company Description<br><br></strong><strong>Masdar is the UAE’s clean energy champion</strong> and one of the largest companies of its kind in the world, advancing the development and deployment of renewable energy and green hydrogen technologies to address global sustainability challenges. Established in 2006, Masdar is today active in over 40 countries, helping them to achieve their clean energy objectives and advance sustainable development.<br><br>Masdar is jointly owned by Abu Dhabi National Oil Company (ADNOC), Mubadala Investment Company (Mubadala), and Abu Dhabi National Energy Company (TAQA), and under this ownership the company is targeting a renewable energy portfolio capacity of at least 100 gigawatts (GW) by 2030 and an annual green hydrogen production capacity of up to 1 million tonnes by the same year.<br><br><strong>Job Description<br><br></strong><strong>Purpose for the Job:<br><br></strong>To play a pivotal role in enhancing the performance, reliability, and profitability of our renewable energy assets. To leverage advanced analytics, machine learning, and data visualization techniques by driving data-driven strategies to optimize operations (and maintenance), forecast performance, and support strategic decision-making aligned with our goals.<br><br>To work in close interface with Commercial Team supporting overall development of a data platform for Masdar’s London managed projects with a key ambition to set up a BESS Operations Control Desk. This desk will be responsible for the monitoring, analysis &amp; scheduling of all assets and act as the key interface between all stakeholders (Masdar, O&amp;M contractors, DNO, OEM and Optimiser). The Data Scientist will play a pivotal role in enabling this.<br><br><strong>Job Responsibilities:<br><br></strong><ul><li>Work in cooperation with Commercial team on development of Data Platform. </li><li>Integrate asset data into the platform and build new visualization and management tools. </li><li>Integrate all BESS data (financial and technical) and develop Asset Management tools and dashboards. </li><li>Document control management. <br><br></li></ul><strong>Collaborate with the Masdar Control Desk to identify key performance indicators (KPIs) and areas for improvement:<br><br></strong><ul><li>Support the Control Desk in their data and analysis needs to optimise battery availability and state of health. </li><li>Creation and continued refinement of key dashboard tools used for portfolio management. </li><li>Automate Battery scheduling and technical reporting</li><li>Work with our cyber security partners to enhance protection of both our assets and data platform. </li><li>Support on work to implement our BESS Cyber Security Policy, and Cyber Security in OFSW as appropriate</li><li>Support on progressing towards full CAF and ENA DER Compliance. <br><br></li></ul><strong>Asset Management data analysis and performance optimisation</strong>:<br><br><ul><li>Provide data-driven recommendations to enhance asset efficiency, reduce asset downtime and maximize commercial performance. </li><li>Create intuitive dashboards and visualizations to communicate insights to stakeholders, including the asset management and commercial team. </li><li>Prepare detailed reports and presentations to support operational and strategic decisions. <br><br></li></ul><strong>Data Maintenance:<br><br></strong><ul><li>Collect, clean, and process large datasets from various sources, including SCADA systems, IoT devices, and historical records. </li><li>Ensure data integrity, consistency, and availability for analysis and reporting. <br><br></li></ul><strong>Comply with information security policies, procedures and requirements at all times:<br><br></strong><ul><li>Adhere to any applicable Masdar information security policies and procedures and identify and report security incidents and suspected weaknesses to the appropriate point(s) of contact. </li><li>Protect assets under care (e.g. laptops and other devices) and information/credentials against unauthorized access, sharing, and/or damage/loss, in accordance with the Information Classification and Handling Procedure. </li><li>Clear desks of all sensitive material and log off/ lock workstations at the end of the day and when leaving desk for a prolonged period in accordance with Acceptable Usage Policies. </li><li> Ensure not installing, copying or modifying of any software on Masdar equipment without authorization. <br><br></li></ul>Qualifications<br><br><strong>Qualifications, Experience, &amp; Skills<br><br></strong><strong>Preferred Qualifications:<br><br></strong><ul><li>Bachelor’s degree in data science, Computer Science, Engineering, Mathematics, or a related field. <br><br></li></ul><strong>Preferred Experience:<br><br></strong><ul><li>Experience with data visualization tools like Tableau, Power BI, or similar. </li><li>Strong knowledge of time-series analysis, predictive modelling, and machine learning techniques. </li><li>Familiarity with database management systems (e.g., SQL) and cloud platforms (e.g., AWS, Azure). <br><br></li></ul><strong>Job-Specific Skills:<br><br></strong><ul><li>Strong analytical and problem-solving abilities. </li><li>Excellent communication and teamwork skills. </li><li>Ability to translate complex data insights into actionable business recommendations. </li><li>Proactive mindset with a passion for renewable energy and sustainability. </li><li>A team player and attention to detail<br><br></li></ul>Additional Information<br><br>Please note: All Applicants must be based in the UK.<br><br><strong><em>Masdar is one of the world’s fastest growing renewable energy companies and a green hydrogen leader, placing the UAE at the forefront of the energy transition.<br><br></em></strong><strong><em>As a pioneer in advancing the clean energy sector and a key enabler of the UAE’s vision as a global leader in sustainability and climate action, Masdar has developed projects in more than 40 countries across six continents and has invested, or committed to invest, in worldwide projects with a combined value of more than US$30 billion.<br><br></em></strong><strong><em>Masdar unites the UAE’s three energy champions – Mubadala, ADNOC and TAQA – and will utilize their combined expertise to fulfill its purpose as a global clean energy pioneer across renewables and green hydrogen.<br><br></em></strong><strong><em>Promoting innovation in solar, wind, energy storage, waste-to-energy, and geothermal energy, Masdar has a proven record of delivering pioneering projects using cutting-edge clean energy technologies, that are commercially viable and bankable.<br><br></em></strong>As part of the application process, we will collect, store and process personal information about you.<br><br>Masdar will use your personal information in accordance with our <strong>Candidate Privacy Notice</strong>, which provides details on the purposes for which your data is processed.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-08,[]
+4257853188,https://www.linkedin.com/jobs/view/data-scientist-at-fit-match-ai-4257853188?position=1&pageNum=0&refId=pEDDPqIgjAwi21PdsJqaDA%3D%3D&trackingId=3SFIGBCfbgLCCATqbZWiLA%3D%3D,Data Scientist,FIT:MATCH.ai,"Fort Lauderdale, FL","About The Role
+
+FIT:MATCH is seeking a highly skilled and innovative Data Scientist with 3D and Computer vision experience to join our team. In this role, you will play a key role in designing and optimizing 3D data collection, processing, and analytics. You will be at the forefront of cutting-edge technology, contributing to the development of systems with applications across various industries. All source code is written to formalized, detailed, coding standards.
+
+Key Responsibilities
+
+
+Collaborate with cross-functional teams to define project requirements and objectives
+Design and implement 3D technology using Python (and C++) to create software that interfaces with 3D camera systems or computer vision/ ML models.
+Develop and optimize computer vision algorithms for real-time data processing
+Create software components for data acquisition, analysis, and visualization
+Work on 3D point cloud processing, object recognition, and spatial mapping
+Conduct performance testing, debugging, and optimization of the system
+Stay up-to-date with the latest advancements in 3D technology and computer vision
+
+
+About You
+
+
+Bachelor's, Master's, or Ph.D. in Data Science, Computer Science, Electrical Engineering, Robotics, or a related field
+3-4 years of professional work experience in a similar role
+Proven experience in 3D technology integration
+Strong proficiency in computer vision, including feature detection, tracking, and 3D reconstruction
+Proficient in programming languages such as C++, Python, and relevant libraries (OpenCV, PCL)
+Experience with 3D data processing, point cloud manipulation, and object recognition
+Experience working with CT Scan (DICOM file format) and/or experience working in the medical device space is a plus
+Knowledge of machine learning and deep learning for computer vision tasks is a plus
+Familiarity with hardware design and sensor integration is advantageous
+Strong problem-solving skills and the ability to work independently and in a team
+Excellent communication and collaboration skills.
+
+
+Nice To Haves
+
+
+C++ working experience
+Startup experience
+
+
+We Work With
+
+
+Version Control: Git
+Bug Tracking and Project Management: JIRA, Confluence
+Deployment (CI/CD): Jenkins, Travis CI, CircleCI
+Test Management: RTM
+Programming Languages: C++, Python, Swift, Node.js
+API Testing: Postman, Insomnia
+Browser DevTools: Familiarity with browser developer tools for inspecting web elements, network traffic, and debugging
+Database Testing: Basic knowledge of SQL for writing queries to validate data integrity
+Browser and Device Compatibility: Knowledge of different browsers and devices to ensure cross-platform compatibility
+Performance Testing: Tools like JMeter or Gatling for load and performance testing
+
+
+Cloud Services: AWS Console, Amazon EC2, Amazon S3, AWS Lambda, Amazon RDS, DynamoDB
+
+Compensation, Perks & Benefits
+
+
+Generous PTO policy + 12 paid US holidays
+Medical, dental, and vision insurance for you and your family
+Paid Parental leave
+401k
+
+
+About Us
+
+Fit:match is a B2B2C technology company on a mission to revolutionize the apparel industry through data science to deliver increased relevance and satisfaction for shoppers, improve retail economics, and help the industry as a whole make significant strides towards sustainable apparel retail. We are looking for people who share the same passion.
+
+Fit: Match is backed by an investor group including experienced angel investors, institutional firms, and multi-billion dollar retailers. The best part of working at Fit:Match is without a doubt, the people. We pride ourselves on hiring team members who embody our people characteristics of low ego, collaboration, dependability, and proven domain expertise. At Fit:Match, you would work cross-functionally with another top global talent with experience in the technology, data science, apparel design and fit, marketing, and retail industries. We obsess over growth, speed, and accuracy. We love a scrappy idea, an out-of-the-box growth hack, and live for reimagining and trying new things.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About The Role<br><br></strong>FIT:MATCH is seeking a highly skilled and innovative Data Scientist with 3D and Computer vision experience to join our team. In this role, you will play a key role in designing and optimizing 3D data collection, processing, and analytics. You will be at the forefront of cutting-edge technology, contributing to the development of systems with applications across various industries. All source code is written to formalized, detailed, coding standards.<br><br><strong>Key Responsibilities<br><br></strong><ul><li>Collaborate with cross-functional teams to define project requirements and objectives</li><li>Design and implement 3D technology using Python (and C++) to create software that interfaces with 3D camera systems or computer vision/ ML models.</li><li>Develop and optimize computer vision algorithms for real-time data processing</li><li>Create software components for data acquisition, analysis, and visualization</li><li>Work on 3D point cloud processing, object recognition, and spatial mapping</li><li>Conduct performance testing, debugging, and optimization of the system</li><li>Stay up-to-date with the latest advancements in 3D technology and computer vision<br><br></li></ul><strong>About You<br><br></strong><ul><li>Bachelor's, Master's, or Ph.D. in Data Science, Computer Science, Electrical Engineering, Robotics, or a related field</li><li>3-4 years of professional work experience in a similar role </li><li>Proven experience in 3D technology integration </li><li>Strong proficiency in computer vision, including feature detection, tracking, and 3D reconstruction</li><li>Proficient in programming languages such as C++, Python, and relevant libraries (OpenCV, PCL)</li><li>Experience with 3D data processing, point cloud manipulation, and object recognition</li><li>Experience working with CT Scan (DICOM file format) and/or experience working in the medical device space is a plus</li><li>Knowledge of machine learning and deep learning for computer vision tasks is a plus</li><li>Familiarity with hardware design and sensor integration is advantageous</li><li>Strong problem-solving skills and the ability to work independently and in a team</li><li>Excellent communication and collaboration skills. <br><br></li></ul><strong>Nice To Haves<br><br></strong><ul><li>C++ working experience </li><li>Startup experience <br><br></li></ul><strong>We Work With<br><br></strong><ul><li>Version Control: Git</li><li>Bug Tracking and Project Management: JIRA, Confluence</li><li>Deployment (CI/CD): Jenkins, Travis CI, CircleCI</li><li>Test Management: RTM</li><li>Programming Languages: C++, Python, Swift, Node.js</li><li>API Testing: Postman, Insomnia</li><li>Browser DevTools: Familiarity with browser developer tools for inspecting web elements, network traffic, and debugging</li><li>Database Testing: Basic knowledge of SQL for writing queries to validate data integrity</li><li>Browser and Device Compatibility: Knowledge of different browsers and devices to ensure cross-platform compatibility</li><li>Performance Testing: Tools like JMeter or Gatling for load and performance testing<br><br></li></ul>Cloud Services: AWS Console, Amazon EC2, Amazon S3, AWS Lambda, Amazon RDS, DynamoDB<br><br><strong>Compensation, Perks &amp; Benefits<br><br></strong><ul><li>Generous PTO policy + 12 paid US holidays</li><li>Medical, dental, and vision insurance for you and your family</li><li>Paid Parental leave </li><li>401k<br><br></li></ul><strong>About Us<br><br></strong>Fit:match is a B2B2C technology company on a mission to revolutionize the apparel industry through data science to deliver increased relevance and satisfaction for shoppers, improve retail economics, and help the industry as a whole make significant strides towards sustainable apparel retail. We are looking for people who share the same passion.<br><br>Fit: Match is backed by an investor group including experienced angel investors, institutional firms, and multi-billion dollar retailers. The best part of working at Fit:Match is without a doubt, the people. We pride ourselves on hiring team members who embody our people characteristics of low ego, collaboration, dependability, and proven domain expertise. At Fit:Match, you would work cross-functionally with another top global talent with experience in the technology, data science, apparel design and fit, marketing, and retail industries. We obsess over growth, speed, and accuracy. We love a scrappy idea, an out-of-the-box growth hack, and live for reimagining and trying new things.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4245551287,https://www.linkedin.com/jobs/view/machine-learning-engineer-at-symvos%C2%AE-4245551287?position=2&pageNum=0&refId=pEDDPqIgjAwi21PdsJqaDA%3D%3D&trackingId=T%2B0NVp8rE7Ls8teXhXgCCw%3D%3D,Machine Learning Engineer,SYMVOS®,"Coral Springs, FL","This is a remote position.
+
+Job Role: Machine Learning Engineer
+
+Synergy in Solutions and Success. SYMVOS, transforming businesses for a better tomorrow.
+
+About us information: As a leading provider of business transformation services, SYMVOS is dedicated to driving innovation now to create a better tomorrow. Using cutting-edge digital technologies, we offer business solutions that assist our clients in solving problems and creating possibilities.
+
+Overview: As a Machine Learning Engineer, you will be responsible for designing, implementing, and deploying machine learning models and systems that drive business goals and improve operational efficiencies. You will collaborate with cross-functional teams to understand business requirements, collect and preprocess data, and develop scalable machine learning solutions. This role requires expertise in machine learning algorithms, programming, and software engineering practices.
+
+Key Responsibilities:
+
+
+Machine Learning Model Development:
+Design and develop machine learning models and algorithms to solve complex business problems.
+Implement state-of-the-art machine learning techniques and frameworks (e.g., TensorFlow, PyTorch) for training and evaluation.
+Data Collection and Preprocessing:
+Gather, clean, and preprocess large datasets to ensure data quality and suitability for modeling.
+Conduct exploratory data analysis (EDA) to understand data characteristics and patterns.
+Model Training and Evaluation:
+Build scalable pipelines for model training and evaluation using distributed computing frameworks (e.g., Spark).
+Evaluate model performance metrics and iteratively improve model accuracy and efficiency.
+Deployment and Integration:
+Deploy machine learning models into production environments and integrate them with existing systems and APIs.
+Implement monitoring and logging mechanisms to track model performance and health.
+Collaboration and Communication:
+Collaborate with data scientists, software engineers, and business stakeholders to understand requirements and align machine learning solutions with business objectives.
+Communicate technical concepts and solutions effectively to non-technical stakeholders.
+Continuous Learning and Improvement:
+Stay updated with advancements in machine learning algorithms, tools, and techniques.
+Experiment with new methodologies and technologies to enhance model performance and efficiency.
+
+Skills and Qualifications:
+
+
+5+ years of proven experience as a Machine Learning Engineer or in a similar role.
+Strong programming skills in languages such as Python, Java, or Scala.
+Experience with machine learning frameworks and libraries (e.g., scikit-learn, Keras, XGBoost).
+Proficiency in data manipulation and preprocessing techniques.
+Knowledge of distributed computing frameworks (e.g., Spark) and cloud platforms (e.g., AWS, Azure).
+Familiarity with software engineering practices (e.g., version control, testing, CI/CD pipelines).
+Excellent analytical and problem-solving skills.
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field (Master’s degree preferred).
+Relevant certifications (e.g., TensorFlow Developer Certificate) are a plus.
+
+
+EEO Employer:
+
+SYMVOS Corporation is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. SYMVOS Corporation will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require accommodation in using our website for a search or application, please contact info@symvos.com.
+
+SYMVOS Corporation is a tech consulting firm that partners with Software Development, Artificial Intelligence, Data Analytics, and Cybersecurity clients. When you join SYMVOS, you become part of a team that values Excellence Through Quality.
+
+Please follow our LinkedIn page to stay updated with our opportunities: https://www.linkedin.com/company/symvos/
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          This is a remote position.<br><br>Job Role: Machine Learning Engineer<br><br>Synergy in Solutions and Success. SYMVOS, transforming businesses for a better tomorrow.<br><br>About us information: As a leading provider of business transformation services, SYMVOS is dedicated to driving innovation now to create a better tomorrow. Using cutting-edge digital technologies, we offer business solutions that assist our clients in solving problems and creating possibilities.<br><br>Overview: As a Machine Learning Engineer, you will be responsible for designing, implementing, and deploying machine learning models and systems that drive business goals and improve operational efficiencies. You will collaborate with cross-functional teams to understand business requirements, collect and preprocess data, and develop scalable machine learning solutions. This role requires expertise in machine learning algorithms, programming, and software engineering practices.<br><br>Key Responsibilities:<br><br><ul><li>Machine Learning Model Development: </li><ul><li>Design and develop machine learning models and algorithms to solve complex business problems.  </li><li>Implement state-of-the-art machine learning techniques and frameworks (e.g., TensorFlow, PyTorch) for training and evaluation.  </li></ul><li>Data Collection and Preprocessing: </li><ul><li>Gather, clean, and preprocess large datasets to ensure data quality and suitability for modeling.  </li><li>Conduct exploratory data analysis (EDA) to understand data characteristics and patterns.  </li></ul><li>Model Training and Evaluation: </li><ul><li>Build scalable pipelines for model training and evaluation using distributed computing frameworks (e.g., Spark).  </li><li>Evaluate model performance metrics and iteratively improve model accuracy and efficiency.  </li></ul><li>Deployment and Integration: </li><ul><li>Deploy machine learning models into production environments and integrate them with existing systems and APIs.  </li><li>Implement monitoring and logging mechanisms to track model performance and health.  </li></ul><li>Collaboration and Communication: </li><ul><li>Collaborate with data scientists, software engineers, and business stakeholders to understand requirements and align machine learning solutions with business objectives.  </li><li>Communicate technical concepts and solutions effectively to non-technical stakeholders.  </li></ul><li>Continuous Learning and Improvement: </li><ul><li>Stay updated with advancements in machine learning algorithms, tools, and techniques.  </li><li>Experiment with new methodologies and technologies to enhance model performance and efficiency.  <br></li></ul></ul>Skills and Qualifications:<br><br><ul><li>5+ years of proven experience as a Machine Learning Engineer or in a similar role.  </li><li>Strong programming skills in languages such as Python, Java, or Scala.  </li><li>Experience with machine learning frameworks and libraries (e.g., scikit-learn, Keras, XGBoost).  </li><li>Proficiency in data manipulation and preprocessing techniques.  </li><li>Knowledge of distributed computing frameworks (e.g., Spark) and cloud platforms (e.g., AWS, Azure).  </li><li>Familiarity with software engineering practices (e.g., version control, testing, CI/CD pipelines).  </li><li>Excellent analytical and problem-solving skills.  </li><li>Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related field (Master’s degree preferred).  </li><li>Relevant certifications (e.g., TensorFlow Developer Certificate) are a plus.  <br><br></li></ul>EEO Employer:<br><br>SYMVOS Corporation is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. SYMVOS Corporation will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require accommodation in using our website for a search or application, please contact info@symvos.com.<br><br>SYMVOS Corporation is a tech consulting firm that partners with Software Development, Artificial Intelligence, Data Analytics, and Cybersecurity clients. When you join SYMVOS, you become part of a team that values Excellence Through Quality.<br><br>Please follow our LinkedIn page to stay updated with our opportunities: https://www.linkedin.com/company/symvos/<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4252523579,https://www.linkedin.com/jobs/view/sr-data-scientist-hybrid-onsite-at-inspyr-solutions-4252523579?position=3&pageNum=0&refId=pEDDPqIgjAwi21PdsJqaDA%3D%3D&trackingId=HbGVH3OH35YHNoNuPBK9Eg%3D%3D,"Sr. Data Scientist, hybrid onsite",INSPYR Solutions,"Deerfield Beach, FL","Title:  Sr. Data Scientist (Python, ML, Azure and supply chain data)
+Location: Deerfield Beach, Florida, 3 days hybrid onsite.
+Duration: 6+ months
+Compensation: $70.00 - 90.00
+Work Requirements: US Citizen, GC Holders or Authorized to Work in the U.S.
+
+Senior Data Scientist
+
+We are seeking a Senior Data Scientist with a strong background in supply chain management and expertise in developing and operationalizing machine learning models for end user consumption. The ideal candidate will have a proven ability to analyze complex data sets, discern actionable insights, and effectively communicate results to leadership and stakeholders.
+
+Key Responsibilities:
+Use Case Development: Understand various business opportunity areas and underlying data to assess potential value propositions. Including suitability for advanced analytics solutions and making recommendations on best approach.
+Data Analysis: Utilize statistical analysis and data mining techniques to interpret complex data sets, identifying trends, patterns, and anomalies.
+Model Development: Design, implement, and optimize machine learning models utilizing the Microsoft technology stack (Azure AI Foundry, Azure ML, Azure SQL Managed Instance, Azure Synapse Analytics) to solve supply chain challenges, including demand forecasting, optimization, and logistics planning.
+Collaboration: Work closely with cross-functional teams, including the business, end users and IT, to understand business needs and translate them into data-driven solutions.
+ Presentation: Prepare and present findings, complex models, and statistical outputs to leadership and stakeholders, ensuring clarity and actionable insights.
+Deployment: Work with architects to deploy machine learning models into production environments, ensuring scalability, performance, and integration with existing systems.
+Qualifications:
+Education: Degree and or certifications in Data Science, Statistics, Mathematics, Computer Science, or a similar quantitative field.
+5+ years of experience as a data scientist, with a strong focus on supply chain management and problem-solving.
+Technical Skills:
+Proficiency in Python and experience with data manipulation libraries (e.g., Pandas, NumPy).
+ Strong SQL and data modeling skills.
+ Experience with machine learning frameworks (e.g., TensorFlow, Scikit-learn, PyTorch).
+ Familiarity with Azure cloud platforms and data warehousing solutions. Experience with Azure Data Factory is helpful.
+Communication Skills: Ability to effectively present complex data insights and models to non-technical stakeholders
+Analytical Mindset: Proven problem-solving skills with a strong focus on data-driven decision-making.
+Preferred Qualifications:
+Experience in supply chain optimization tools and methodologies particularly in the Automotive Industry.
+Knowledge of data visualization tools (Power BI) to communicate findings effectively.
+ Experience with Microsoft Fabric
+Our benefits package includes:
+Comprehensive medical benefits
+Competitive pay
+401(k) retirement plan
+...and much more!
+
+About INSPYR Solutions
+Technology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients' business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.
+
+INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities
+
+ 
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Title: </strong>&nbsp;Sr. Data Scientist (Python, ML, Azure and supply chain data)<br><strong>Location:</strong> Deerfield Beach, Florida, 3 days hybrid onsite.<br><strong>Duration:</strong> 6+ months<br><strong>Compensation:</strong> $70.00 - 90.00<br><strong>Work Requirements:</strong> US Citizen, GC Holders or Authorized to Work in the U.S.<br><br><strong>Senior Data Scientist <br><br></strong>We are seeking a Senior Data Scientist with a strong background in supply chain management and expertise in developing and operationalizing machine learning models for end user consumption. The ideal candidate will have a proven ability to analyze complex data sets, discern actionable insights, and effectively communicate results to leadership and stakeholders.<br><br><strong>Key Responsibilities:</strong><ul><li>Use Case Development: Understand various business opportunity areas and underlying data to assess potential value propositions. Including suitability for advanced analytics solutions and making recommendations on best approach.</li><li>Data Analysis: Utilize statistical analysis and data mining techniques to interpret complex data sets, identifying trends, patterns, and anomalies.</li><li>Model Development: Design, implement, and optimize machine learning models utilizing the Microsoft technology stack (Azure AI Foundry, Azure ML, Azure SQL Managed Instance, Azure Synapse Analytics) to solve supply chain challenges, including demand forecasting, optimization, and logistics planning.</li><li>Collaboration: Work closely with cross-functional teams, including the business, end users and IT, to understand business needs and translate them into data-driven solutions.</li><li>&nbsp;Presentation: Prepare and present findings, complex models, and statistical outputs to leadership and stakeholders, ensuring clarity and actionable insights.</li><li>Deployment: Work with architects to deploy machine learning models into production environments, ensuring scalability, performance, and integration with existing systems.</li></ul><strong>Qualifications:</strong><ul><li>Education: Degree and or certifications in Data Science, Statistics, Mathematics, Computer Science, or a similar quantitative field.</li><li>5+ years of experience as a data scientist, with a strong focus on supply chain management and problem-solving.</li></ul><strong>Technical Skills:</strong><ul><li>Proficiency in Python and experience with data manipulation libraries (e.g., Pandas, NumPy).</li><li>&nbsp;Strong SQL and data modeling skills.</li><li>&nbsp;Experience with machine learning frameworks (e.g., TensorFlow, Scikit-learn, PyTorch).</li><li>&nbsp;Familiarity with Azure cloud platforms and data warehousing solutions. Experience with Azure Data Factory is helpful.</li><li>Communication Skills: Ability to effectively present complex data insights and models to non-technical stakeholders</li><li>Analytical Mindset: Proven problem-solving skills with a strong focus on data-driven decision-making.</li></ul><strong>Preferred Qualifications:</strong><ul><li>Experience in supply chain optimization tools and methodologies particularly in the Automotive Industry.</li><li>Knowledge of data visualization tools (Power BI) to communicate findings effectively.</li><li>&nbsp;Experience with Microsoft Fabric</li></ul><strong>Our benefits package includes:</strong><ul><li>Comprehensive medical benefits</li><li>Competitive pay</li><li>401(k) retirement plan</li><li>...and much more!<br></li></ul><strong>About INSPYR Solutions<br></strong>Technology is our focus and quality is our commitment. As a national expert in delivering flexible technology and talent solutions, we strategically align industry and technical expertise with our clients' business objectives and cultural needs. Our solutions are tailored to each client and include a wide variety of professional services, project, and talent solutions. By always striving for excellence and focusing on the human aspect of our business, we work seamlessly with our talent and clients to match the right solutions to the right opportunities. Learn more about us at inspyrsolutions.com.<br><br><em>INSPYR Solutions provides Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, INSPYR Solutions complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities<br><br></em>&nbsp;
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-17,[]
+4153442187,https://ca.linkedin.com/jobs/view/data-scientist-at-deloitte-4153442187?position=1&pageNum=0&refId=urjsxyDtmFbsNXVX0XkbOQ%3D%3D&trackingId=hbiDbyyOrfhebueTsnAfNQ%3D%3D,Data Scientist,Deloitte,"Toronto, Ontario, Canada","Job Type: PermanentWork Model: HybridReference code: 128450Primary Location: Toronto, ONAll Available Locations: Toronto, ON
+
+Our Purpose
+
+At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.
+
+By living our Purpose, we will make an impact that matters.
+
+
+Have an impact that matters through pro bono and significant volunteer opportunities.
+Be empowered to lead and have impact with clients, our communities and in the office.
+Be expected to share your ideas and to make them a reality.
+Be part of a firm that leads the way and pushes themselves to look like contemporary Canada.
+Grow your network and your knowledge by joining one of our many Employee Resource Groups.
+
+
+
+What will your typical day look like?
+
+As a Data Scientist, you would take a hands-on role in delivering advisory services to high growth organizations with a diverse team consisting of data scientists, data architects, software developers, information designers, and business/industry leaders. You will be responsible for performing statistical modelling, computations, and data ETL to deliver best-of-breed analytical solutions for clients’ business problems. You will work with large amounts of data on a granular level, from structured and unstructured data sources and participate in various structured and ad-hoc analysis projects. You will also perform data analysis and communicate insights on client projects, and provide support in planning, data collection, and assist in pitches and proposal bids.
+
+About The Team
+
+Deloitte's Artificial Intelligence practice is comprised of specialized experts with hands-on experience, and cutting-edge information assets that facilitate successful Artificial Intelligence (AI) transformations. We develop AI-enabled solutions to address all aspects of a client’s transformative journey with disciplined focus on business outcomes.
+
+Enough about us, let’s talk about you
+
+You are someone with:
+
+
+Data analysis and modelling experience using Python.
+Experience with one or more Cloud ML (AWS, GCP, Azure) or similar tools is an asset.
+1+ years relevant work experience with applying analytics or model development using data in a professional context.
+Significant experience with statistical analytical techniques, data mining, linear programing / optimization, and predictive models.
+Database and programming languages experience and data manipulation and integration skills using (one or more) SQL, Oracle, Hadoop, NoSQL Databases, or similar tools.
+Experience with (one or more of) demand forecasting, inventory optimization, customer segmentation, retail analytics or marketing analytics.
+Experience with natural language processing is an asset.
+Significant experience with Machine Learning Project management experience is an asset.
+Ability to work with data with significant ambiguity, develop creative approaches to analytical problems, and interpret data and results from a business/industry perspective.
+Enthusiasm for solving complex problems with a variety of analytical tools.
+Professional services, consulting, or advisory experience is an asset.
+Strong oral and written communication skills
+Interest in continuing to develop analytical and business development skills.
+Advanced degree (MA/MSc, equivalent or higher) in Applied Mathematics, Statistics, Computer Science, or related field is strongly preferred.
+BA/BSc degree in these fields will be considered if coupled with significant industry experience demonstrating independent ability to tackle complex problems.
+
+
+Total Rewards
+
+The salary range for this position is $57,000 - $102,000, and individuals may be eligible to participate in our bonus program. Deloitte is fair and competitive when it comes to the salaries of our people. We regularly benchmark across a variety of positions, industries, sectors, targets, and levels. Our approach is grounded on recognizing people's unique strengths and contributions and rewarding the value that they deliver.
+
+Our Total Rewards Package extends well beyond traditional compensation and benefit programs and is designed to recognize employee contributions, encourage personal wellness, and support firm growth. Along with a competitive base salary and variable pay opportunities, we offer a wide array of initiatives that differentiate us as a people-first organization. On top of our regular paid vacation days, some examples include: $4,000 per year for mental health support benefits, a $1,300 flexible benefit spending account, firm-wide closures known as ""Deloitte Days"", dedicated days of for learning (known as Development and Innovation Days), flexible work arrangements and a hybrid work structure.
+
+Our promise to our people: Deloitte is where potential comes to life.
+
+Be yourself, and more.
+
+We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.
+
+You Shape How We Make Impact.
+
+Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute.
+
+Be the leader you want to be
+
+Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.
+
+Have as many careers as you want.
+
+We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors.
+
+The next step is yours
+
+At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan , Reconciliation Action Plan and the BlackNorth Initiative .
+
+We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).
+
+By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.
+
+Deloitte Canada has 20 offices with representation across most of the country. We acknowledge that Deloitte offices stand on traditional, treaty, and unceded territories in what is now known as Canada. We recognize that Indigenous Peoples have been the caretakers of this land since time immemorial, nurturing its resources and preserving its natural beauty. We acknowledge this land is still home to many First Nations, Inuit, and Métis Peoples, who continue to maintain their deep connection to the land and its sacred teachings. We humbly acknowledge that we are all Treaty people, and we commit to fostering a relationship of respect, collaboration, and stewardship with Indigenous communities in our shared goal of reconciliation and environmental sustainability.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Job Type: </strong>Permanent<strong>Work Model: </strong>Hybrid<strong>Reference code: </strong>128450<strong>Primary Location: </strong>Toronto, ON<strong>All Available Locations: </strong>Toronto, ON<br><br><strong>Our Purpose<br><br></strong>At Deloitte, we are driven to inspire and help our people, organization, communities, and country to thrive. Our Purpose is to build a better future by accelerating and expanding access to knowledge. Purpose defines who we are and gives us reason to exist as an organization.<br><br>By living our Purpose, we will make an impact that matters.<br><br><ul><li>Have an impact that matters through pro bono and significant volunteer opportunities.</li><li>Be empowered to lead and have impact with clients, our communities and in the office.</li><li>Be expected to share your ideas and to make them a reality.</li><li>Be part of a firm that leads the way and pushes themselves to look like contemporary Canada.</li><li>Grow your network and your knowledge by joining one of our many Employee Resource Groups.</li></ul><li><br><br></li><strong><strong>What will your typical day look like?<br><br></strong></strong>As a Data Scientist, you would take a hands-on role in delivering advisory services to high growth organizations with a diverse team consisting of data scientists, data architects, software developers, information designers, and business/industry leaders. You will be responsible for performing statistical modelling, computations, and data ETL to deliver best-of-breed analytical solutions for clients’ business problems. You will work with large amounts of data on a granular level, from structured and unstructured data sources and participate in various structured and ad-hoc analysis projects. You will also perform data analysis and communicate insights on client projects, and provide support in planning, data collection, and assist in pitches and proposal bids.<br><br><strong>About The Team<br><br></strong>Deloitte's Artificial Intelligence practice is comprised of specialized experts with hands-on experience, and cutting-edge information assets that facilitate successful Artificial Intelligence (AI) transformations. We develop AI-enabled solutions to address all aspects of a client’s transformative journey with disciplined focus on business outcomes.<br><br><strong><strong>Enough about us, let’s talk about you<br><br></strong></strong>You are someone with:<br><br><ul><li> Data analysis and modelling experience using Python.</li><li> Experience with one or more Cloud ML (AWS, GCP, Azure) or similar tools is an asset.</li><li> 1+ years relevant work experience with applying analytics or model development using data in a professional context.</li><li> Significant experience with statistical analytical techniques, data mining, linear programing / optimization, and predictive models.</li><li> Database and programming languages experience and data manipulation and integration skills using (one or more) SQL, Oracle, Hadoop, NoSQL Databases, or similar tools.</li><li> Experience with (one or more of) demand forecasting, inventory optimization, customer segmentation, retail analytics or marketing analytics.</li><li> Experience with natural language processing is an asset.</li><li> Significant experience with Machine Learning Project management experience is an asset.</li><li> Ability to work with data with significant ambiguity, develop creative approaches to analytical problems, and interpret data and results from a business/industry perspective.</li><li> Enthusiasm for solving complex problems with a variety of analytical tools.</li><li> Professional services, consulting, or advisory experience is an asset.</li><li> Strong oral and written communication skills</li><li> Interest in continuing to develop analytical and business development skills.</li><li> Advanced degree (MA/MSc, equivalent or higher) in Applied Mathematics, Statistics, Computer Science, or related field is strongly preferred.</li><li> BA/BSc degree in these fields will be considered if coupled with significant industry experience demonstrating independent ability to tackle complex problems.<br><br></li></ul><strong><strong>Total Rewards<br><br></strong></strong>The salary range for this position is $57,000 - $102,000, and individuals may be eligible to participate in our bonus program. Deloitte is fair and competitive when it comes to the salaries of our people. We regularly benchmark across a variety of positions, industries, sectors, targets, and levels. Our approach is grounded on recognizing people's unique strengths and contributions and rewarding the value that they deliver.<br><br>Our Total Rewards Package extends well beyond traditional compensation and benefit programs and is designed to recognize employee contributions, encourage personal wellness, and support firm growth. Along with a competitive base salary and variable pay opportunities, we offer a wide array of initiatives that differentiate us as a people-first organization. On top of our regular paid vacation days, some examples include: $4,000 per year for mental health support benefits, a $1,300 flexible benefit spending account, firm-wide closures known as ""Deloitte Days"", dedicated days of for learning (known as Development and Innovation Days), flexible work arrangements and a hybrid work structure.<br><br><strong>Our promise to our people: Deloitte is where potential comes to life.<br><br></strong><strong>Be yourself, and more.<br><br></strong>We are a group of talented people who want to learn, gain experience, and develop skills. Wherever you are in your career, we want you to advance.<br><br><strong>You Shape How We Make Impact.<br><br></strong>Diverse perspectives and life experiences make us better. Whoever you are and wherever you’re from, we want you to feel like you belong here. We provide flexible working options to support you and how you can contribute.<br><br><strong>Be the leader you want to be <br><br></strong>Some guide teams, some change culture, some build essential expertise. We offer opportunities and experiences that support your continuing growth as a leader.<br><br><strong>Have as many careers as you want.<br><br></strong>We are uniquely able to offer you new challenges and roles – and prepare you for them. We bring together people with unique experiences and talents, and we are the place to develop a lasting network of friends, peers, and mentors.<br><br><strong>The next step is yours<br><br></strong>At Deloitte, we are all about doing business inclusively – that starts with having diverse colleagues of all abilities. Deloitte encourages applications from all qualified candidates who represent the full diversity of communities across Canada. This includes, but is not limited to, people with disabilities, candidates from Indigenous communities, and candidates from the Black community in support of living our values, creating a culture of Diversity Equity and Inclusion and our commitment to our AccessAbility Action Plan , Reconciliation Action Plan and the BlackNorth Initiative .<br><br>We encourage you to connect with us at accessiblecareers@deloitte.ca if you require an accommodation for the recruitment process (including alternate formats of materials, accessible meeting rooms or other accommodations) or indigenouscareers@deloitte.ca for any questions relating to careers for Indigenous peoples at Deloitte (First Nations, Inuit, Métis).<br><br>By applying to this job you will be assessed against the Deloitte Global Talent Standards. We’ve designed these standards to provide our clients with a consistent and exceptional Deloitte experience globally.<br><br>Deloitte Canada has 20 offices with representation across most of the country. We acknowledge that Deloitte offices stand on traditional, treaty, and unceded territories in what is now known as Canada. We recognize that Indigenous Peoples have been the caretakers of this land since time immemorial, nurturing its resources and preserving its natural beauty. We acknowledge this land is still home to many First Nations, Inuit, and Métis Peoples, who continue to maintain their deep connection to the land and its sacred teachings. We humbly acknowledge that we are all Treaty people, and we commit to fostering a relationship of respect, collaboration, and stewardship with Indigenous communities in our shared goal of reconciliation and environmental sustainability.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-25,[]
+4214828323,https://ca.linkedin.com/jobs/view/data-scientist-international-analytics-at-doordash-4214828323?position=2&pageNum=0&refId=urjsxyDtmFbsNXVX0XkbOQ%3D%3D&trackingId=FsfPe%2Bvb5xFzJJWEaSf2pA%3D%3D,"Data Scientist, International Analytics",DoorDash,"Toronto, Ontario, Canada","About the Team
+
+The Analytics team is looking for Data Analysts and Data Scientists to guide measurement, strategy, and tactical decision-making using Advanced Analytics approaches, as we expand our logistics platform across the globe. Data Scientists at DoorDash work to uncover insights and turn them into actionable recommendations, helping drive decisions for the entire organisation. Analytics is very integral to all operational areas at DoorDash.
+
+About the Role
+
+Data Science at DoorDash involves diving deeper into our data to solve crucial business problems, ideate & run experiments to solve for insights gleaned from this deep dive and work with a cross-functional team to drive real-world operational change. It is NOT just about building Machine Learning models and putting them into production. This is a rare operational and actionable data-driven experience.
+
+We solve many exciting challenges from all three sides of our marketplace including customer acquisition, balancing supply and demand, fraud and support, marketing, marketplace efficiency, and more. If you enjoy finding patterns amidst chaos, are excited to build a market from 0 to 1, and have experience using analytics to affect revenue, growth, operations or beyond, we're looking for someone like you!
+
+You're excited about this opportunity because you will…
+
+
+Be a first-class thought partner to our product, business, finance and executive teams and help them make decisions on what's next for DoorDash
+Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business
+Build full-cycle analytics experiments, reports, and dashboards using SQL, Python, R, or other scripting and statistical tools
+Produce recommendations and use statistical techniques and hypothesis testing and other experimentation techniques to validate your findings
+Provide insights to enable our cross-functional team to understand marketplace dynamics, user behaviours, and long-term trends
+Identify and measure levers to help move essential metrics and make recommendations
+Possess excellent stakeholder management skills, know how to effectively collaborate well with strategy, operations, product, finance and engineering and set priorities
+Be excited to travel to meet with business partners and the teams in each market
+
+
+We're excited about you because…
+
+
+3+ years of experience in data analytics, consulting, or related role
+The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way
+The determination to initiate and lead/own strategic projects to completion with a cross-functional team
+Experience working with experimentation techniques (A/B testing, Causal Inference) and interpreting hypothesis testing
+Proficiency in at least one programming language (Python, R,...)
+Expertise with SQL queries, ETLs, etc…
+Proficiency in one or more analytics & visualization tools
+Experience building and training statistical and machine learning models (classifiers, regression models...)
+
+
+Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only
+
+We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024.
+
+The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey
+
+About DoorDash
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.
+
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.
+
+Our Commitment to Diversity and Inclusion
+
+We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+
+About DoorDash
+
+At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.
+
+DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks.
+
+Our Commitment to Diversity and Inclusion
+
+We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.
+
+If you need any accommodations, please inform your recruiting contact upon initial connection.
+
+We use Covey as part of our hiring and/or promotional process for jobs in certain locations.
+
+The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: https://getcovey.com/nyc-local-law-144
+
+To request a reasonable accommodation under applicable law or alternate selection process, please inform your recruiting contact upon initial connection.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About the Team<br><br></strong>The Analytics team is looking for Data Analysts and Data Scientists to guide measurement, strategy, and tactical decision-making using Advanced Analytics approaches, as we expand our logistics platform across the globe. Data Scientists at DoorDash work to uncover insights and turn them into actionable recommendations, helping drive decisions for the entire organisation. Analytics is very integral to all operational areas at DoorDash.<br><br><strong>About the Role<br><br></strong>Data Science at DoorDash involves diving deeper into our data to solve crucial business problems, ideate &amp; run experiments to solve for insights gleaned from this deep dive and work with a cross-functional team to drive real-world operational change. It is <strong>NOT</strong> just about building Machine Learning models and putting them into production. This is a rare operational and actionable data-driven experience.<br><br>We solve many exciting challenges from all three sides of our marketplace including customer acquisition, balancing supply and demand, fraud and support, marketing, marketplace efficiency, and more. If you enjoy finding patterns amidst chaos, are excited to build a market from 0 to 1, and have experience using analytics to affect revenue, growth, operations or beyond, we're looking for someone like you!<br><br><strong>You're excited about this opportunity because you will…<br><br></strong><ul><li>Be a first-class thought partner to our product, business, finance and executive teams and help them make decisions on what's next for DoorDash</li><li>Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business</li><li>Build full-cycle analytics experiments, reports, and dashboards using SQL, Python, R, or other scripting and statistical tools</li><li>Produce recommendations and use statistical techniques and hypothesis testing and other experimentation techniques to validate your findings</li><li>Provide insights to enable our cross-functional team to understand marketplace dynamics, user behaviours, and long-term trends</li><li>Identify and measure levers to help move essential metrics and make recommendations</li><li>Possess excellent stakeholder management skills, know how to effectively collaborate well with strategy, operations, product, finance and engineering and set priorities</li><li>Be excited to travel to meet with business partners and the teams in each market<br><br></li></ul><strong>We're excited about you because… <br><br></strong><ul><li>3+ years of experience in data analytics, consulting, or related role</li><li>The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way</li><li>The determination to initiate and lead/own strategic projects to completion with a cross-functional team</li><li>Experience working with experimentation techniques (A/B testing, Causal Inference) and interpreting hypothesis testing</li><li>Proficiency in at least one programming language (Python, R,...)</li><li>Expertise with SQL queries, ETLs, etc… </li><li>Proficiency in one or more analytics &amp; visualization tools</li><li>Experience building and training statistical and machine learning models (classifiers, regression models...)<br><br></li></ul>Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only<br><br>We use Covey as part of our hiring and/or promotional process for jobs in NYC and certain features may qualify it as an AEDT in NYC. As part of the hiring and/or promotion process, we provide Covey with job requirements and candidate submitted applications. We began using Covey Scout for Inbound from August 21, 2023, through December 21, 2023, and resumed using Covey Scout for Inbound again on June 29, 2024.<br><br>The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: Covey<br><br><strong>About DoorDash<br><br></strong>At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.<br><br>DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.<br><br>If you need any accommodations, please inform your recruiting contact upon initial connection.<br><br><strong>About DoorDash<br><br></strong>At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to make impactful decisions that display empathy for our range of users—from Dashers to merchant partners to consumers. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods.<br><br>DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. We're committed to supporting employees' happiness, healthiness, and overall well-being by providing comprehensive benefits and perks.<br><br><strong>Our Commitment to Diversity and Inclusion<br><br></strong>We're committed to growing and empowering a more inclusive community within our company, industry, and cities. That's why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.<br><br>If you need any accommodations, please inform your recruiting contact upon initial connection.<br><br><em>We use Covey as part of our hiring and/or promotional process for jobs in certain locations.<br><br></em><em>The Covey tool has been reviewed by an independent auditor. Results of the audit may be viewed here: </em>https://getcovey.com/nyc-local-law-144<br><br><em>To request a reasonable accommodation under applicable law or alternate selection process, please inform your recruiting contact upon initial connection.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-27,[]
+4242414409,https://ca.linkedin.com/jobs/view/data-science-specialist-at-infotek-consulting-inc-4242414409?position=3&pageNum=0&refId=urjsxyDtmFbsNXVX0XkbOQ%3D%3D&trackingId=FMMRNHR9%2BrNICAWW%2BEcjzg%3D%3D,Data Science Specialist,Infotek Consulting Inc.,"Toronto, Ontario, Canada","Role Title: Senior Data Scientist
+
+Location: Toronto (Hybrid – 3 days onsite/week)
+
+Duration: 12 months
+
+Start Date: ASAP
+
+
+
+
+About the Role:
+
+Join a collaborative Data and AI team supporting Wealth Management initiatives. As a Senior Data Scientist, you'll contribute to research-driven proof-of-concept projects by developing and deploying predictive models, conducting data analysis, and delivering actionable insights.
+
+
+
+
+Key Responsibilities:
+
+Collaborate with lead data scientists on model development and deployment
+Clean, organize, and prepare large datasets for analysis
+Perform exploratory data analysis and communicate key findings
+Create visualizations and reports to support data-driven decisions
+
+
+
+
+Required Skills & Experience:
+
+Bachelor's degree in Computer Science, Software Engineering, Statistics, or a related STEM field (Master’s/PhD an asset)
+2+ years of professional experience in data science
+Solid and Strong proficiency in Python and SQL
+Ability to quickly understand new datasets and adapt to new tools
+Clear communicator with strong analytical thinking
+Experience with Agile development and DevOps tools (e.g., Jenkins, GitHub Actions)
+Banking experience
+
+
+
+
+Nice-to-Have:
+
+Experience with Agile development and DevOps tools (e.g., Jenkins, GitHub Actions)
+Exposure to Generative AI, Large Language Models (LLMs), and agentic systems
+Familiarity with deploying ML applications in hybrid/on-prem and cloud environments (AWS, Azure)
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Role Title: Senior Data Scientist</strong></p><p> Location: Toronto (Hybrid – 3 days onsite/week)</p><p> <strong>Duration: 12 months</strong></p><p> Start Date: ASAP</p><p> </p><p><br></p><p>About the Role:</p><p>Join a collaborative Data and AI team supporting Wealth Management initiatives. As a <strong>Senior Data Scientist</strong>, you'll contribute to research-driven proof-of-concept projects by developing and deploying predictive models, conducting data analysis, and delivering actionable insights.</p><p><br></p><p>Key Responsibilities:</p><ul><li>Collaborate with lead data scientists on model development and deployment</li><li>Clean, organize, and prepare large datasets for analysis</li><li>Perform exploratory data analysis and communicate key findings</li><li>Create visualizations and reports to support data-driven decisions</li></ul><p><br></p><p>Required Skills &amp; Experience:</p><ul><li>Bachelor's degree in Computer Science, Software Engineering, Statistics, or a related STEM field (Master’s/PhD an asset)</li><li><strong>2+ years of professional experience in data science</strong></li><li><strong>Solid and Strong proficiency in Python and SQL</strong></li><li>Ability to quickly understand new datasets and adapt to new tools</li><li>Clear communicator with strong analytical thinking</li><li>Experience with Agile development and DevOps tools (e.g., Jenkins, GitHub Actions)</li><li>Banking experience </li></ul><p><br></p><p>Nice-to-Have:</p><ul><li>Experience with Agile development and DevOps tools (e.g., Jenkins, GitHub Actions)</li><li>Exposure to Generative AI, Large Language Models (LLMs), and agentic systems</li><li>Familiarity with deploying ML applications in hybrid/on-prem and cloud environments (AWS, Azure)</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-05,[]
+4256648295,https://ca.linkedin.com/jobs/view/data-scientist-at-electronic-arts-ea-4256648295?position=1&pageNum=0&refId=CkJ6AUcMEx2WUvxwri95tQ%3D%3D&trackingId=nEz7ppIjFyPUYi5KVpKd8w%3D%3D,Data Scientist,Electronic Arts (EA),"Vancouver, British Columbia, Canada","Description & Requirements
+
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+As a part of the Data and Analytics team, you will be supporting some of the largest game titles on a cutting-edge project to find mathematically vigorous new ways of getting games in hands. This team is fast-paced, and passion driven, and requires a Data Scientist that is flexible to drive value, work in an agile environment, and who wants to make an immediate impact.
+
+You will report to a Senior Data Scientist under a Director, Data Science. Our team's mandate covers many parts of the player journey from acquisition to churn prevention, and together we will make a pioneering impact in these areas.
+
+This will evolve into a hybrid position with 3 days in office each week.
+
+Responsibilities
+
+
+Build statistical and machine learning models to predict the Life Time Value of player cohorts, and deploy said models through collaborating with data engineers.
+Produce dashboards or other visual reporting to share results with non-technical partners.
+Transform adhoc requests into well-defined technical problems which you will then solve.
+Support other team efforts, including the set up and analysis of incrementality, A/B tests.
+
+
+Qualifications
+
+
+3+ years relevant professional experience or a degree in a quantitative field, including but not limited to physics, engineering, mathematics, computer science, and economics.
+Proficient at git, Python and SQL.
+Experience working with cloud databases such as Google BigQuery and Snowflake.
+Experience building Looker and Tableau dashboards.
+Experience using xgboost, scikit-learn or other Python machine learning libraries.
+Comfortable working remotely with a multi-functional team, understanding the perspectives of each partner
+Experience working in an Agile development environment and familiar with process management tools such as JIRA, Target process, Trello or similar
+
+
+Nice-to-haves
+
+
+Experience with casual inference e.g., fixed effects, diff-in-diff and other machine learning methods.
+Experience with container technologies e.g., Docker and Kubernetes.
+
+
+Compensation And Benefits
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+
+PAY RANGES
+
+
+British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD
+
+
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+About Electronic Arts
+
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Description &amp; Requirements<br><br></strong>Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.<br><br>As a part of the Data and Analytics team, you will be supporting some of the largest game titles on a cutting-edge project to find mathematically vigorous new ways of getting games in hands. This team is fast-paced, and passion driven, and requires a Data Scientist that is flexible to drive value, work in an agile environment, and who wants to make an immediate impact.<br><br>You will report to a Senior Data Scientist under a Director, Data Science. Our team's mandate covers many parts of the player journey from acquisition to churn prevention, and together we will make a pioneering impact in these areas.<br><br>This will evolve into a hybrid position with 3 days in office each week.<br><br><strong>Responsibilities<br><br></strong><ul><li>Build statistical and machine learning models to predict the Life Time Value of player cohorts, and deploy said models through collaborating with data engineers.</li><li>Produce dashboards or other visual reporting to share results with non-technical partners.</li><li>Transform adhoc requests into well-defined technical problems which you will then solve.</li><li>Support other team efforts, including the set up and analysis of incrementality, A/B tests.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>3+ years relevant professional experience or a degree in a quantitative field, including but not limited to physics, engineering, mathematics, computer science, and economics.</li><li>Proficient at git, Python and SQL.</li><li>Experience working with cloud databases such as Google BigQuery and Snowflake.</li><li>Experience building Looker and Tableau dashboards.</li><li>Experience using xgboost, scikit-learn or other Python machine learning libraries.</li><li>Comfortable working remotely with a multi-functional team, understanding the perspectives of each partner</li><li>Experience working in an Agile development environment and familiar with process management tools such as JIRA, Target process, Trello or similar<br><br></li></ul><strong>Nice-to-haves<br><br></strong><ul><li>Experience with casual inference e.g., fixed effects, diff-in-diff and other machine learning methods.</li><li>Experience with container technologies e.g., Docker and Kubernetes.<br><br></li></ul><strong>Compensation And Benefits<br><br></strong>The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).<br><br><strong>PAY RANGES<br><br></strong><ul><li> British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD<br><br></li></ul>In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.<br><br><strong>About Electronic Arts<br><br></strong>We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.<br><br>We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.<br><br>Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-01,[]
+4256530190,https://ca.linkedin.com/jobs/view/data-scientist-at-ea-sports-4256530190?position=2&pageNum=0&refId=CkJ6AUcMEx2WUvxwri95tQ%3D%3D&trackingId=KO9BLmSAXs7n0B0Bcvx68Q%3D%3D,Data Scientist,EA SPORTS,"Vancouver, British Columbia, Canada","Description & Requirements
+
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.
+
+At the heart of EA SPORTS is the FC franchise. EA SPORTS FC is the world's #1 best-selling video game with over 200M engaged players across multiple platforms, including console, PC, and mobile. Innovation, passion, and teamwork are at the heart of everything we do. With studios in Vancouver, Bucharest, and Cologne, we're looking for the brightest talent, so we can continue to create experiences that connect with millions of hearts and minds the world over.
+
+Your Role
+
+As a Data Scientist, you will help us improve our FC franchise by building tools and models that help create and monitor live content. You are a technically oriented individual knowledgeable of how to use data and AI systems to solve product problems. You report to an embedded data science team in FC and will work with us, along with product managers, engineers, and technical leaders who bring EA Sports FC to life.
+
+What a Data Scientist Does At EA
+
+
+Build data-driven applications that support designers and producers in the creation of in-game content.
+Understand how to use principles of statistics and machine learning to help learn and tune in game experiences while staying aware of their consequences.
+Draft technical solutions when presented with a problem to a less technical audience.
+Prototype new technology that fits use cases/problems and validates against success criteria.
+Support peers with technical reviews, ensuring quality coding and deployment practices.
+
+
+Your Qualifications
+
+
+BS in Mathematics, Statistics, Economics, Computer Science, or related; or equivalent experience.
+2 or more years of experience in data science, analytics, or a related area in a consumer products-oriented industry.
+Experience developing a production-ready codebase alongside other contributors.
+Familiarity with SQL, including experience querying complex, semi-structured data sets in a data lake environment.
+Experience developing statistical and machine learning models using languages like Python or R and using tools like Sagemaker or Databricks.
+Knowledge of programming best practices, version control, and automation.
+Experience presenting to and gathering requirements from people at multiple levels of business and technical expertise.
+
+
+Compensation And Benefits
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+
+PAY RANGES
+
+
+British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD
+
+
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.
+
+About Electronic Arts
+
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Description &amp; Requirements<br><br></strong>Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.<br><br>EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.<br><br>At the heart of EA SPORTS is the FC franchise. EA SPORTS FC is the world's #1 best-selling video game with over 200M engaged players across multiple platforms, including console, PC, and mobile. Innovation, passion, and teamwork are at the heart of everything we do. With studios in Vancouver, Bucharest, and Cologne, we're looking for the brightest talent, so we can continue to create experiences that connect with millions of hearts and minds the world over.<br><br><strong>Your Role<br><br></strong>As a Data Scientist, you will help us improve our FC franchise by building tools and models that help create and monitor live content. You are a technically oriented individual knowledgeable of how to use data and AI systems to solve product problems. You report to an embedded data science team in FC and will work with us, along with product managers, engineers, and technical leaders who bring EA Sports FC to life.<br><br><strong>What a Data Scientist Does At EA<br><br></strong><ul><li>Build data-driven applications that support designers and producers in the creation of in-game content.</li><li>Understand how to use principles of statistics and machine learning to help learn and tune in game experiences while staying aware of their consequences.</li><li>Draft technical solutions when presented with a problem to a less technical audience.</li><li>Prototype new technology that fits use cases/problems and validates against success criteria.</li><li>Support peers with technical reviews, ensuring quality coding and deployment practices.<br><br></li></ul><strong>Your Qualifications<br><br></strong><ul><li>BS in Mathematics, Statistics, Economics, Computer Science, or related; or equivalent experience.</li><li>2 or more years of experience in data science, analytics, or a related area in a consumer products-oriented industry.</li><li>Experience developing a production-ready codebase alongside other contributors.</li><li>Familiarity with SQL, including experience querying complex, semi-structured data sets in a data lake environment.</li><li>Experience developing statistical and machine learning models using languages like Python or R and using tools like Sagemaker or Databricks.</li><li>Knowledge of programming best practices, version control, and automation.</li><li>Experience presenting to and gathering requirements from people at multiple levels of business and technical expertise.<br><br></li></ul><strong>Compensation And Benefits<br><br></strong>The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).<br><br><strong>PAY RANGES<br><br></strong><ul><li> British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD<br><br></li></ul>In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and equity.<br><br><strong>About Electronic Arts<br><br></strong>We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.<br><br>We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.<br><br>Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4256529330,https://ca.linkedin.com/jobs/view/data-scientist-at-ea-sports-4256529330?position=3&pageNum=0&refId=CkJ6AUcMEx2WUvxwri95tQ%3D%3D&trackingId=CZ5BCuDzJtOsd6NQom%2FP%2Fw%3D%3D,Data Scientist,EA SPORTS,"Vancouver, British Columbia, Canada","Description & Requirements
+
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.
+
+At the heart of EA SPORTS is the FC franchise. EA SPORTS FC is the world's #1 best-selling video game with over 200M engaged players across multiple platforms, including console, PC, and mobile. Innovation, passion, and teamwork are at the heart of everything we do. With studios in Vancouver, Bucharest, and Cologne, we're looking for the brightest talent, so we can continue to create experiences that connect with millions of hearts and minds the world over.
+
+Your Role
+
+As a Data Scientist, you will help us improve our FC franchise by designing experiments, measuring outcomes, and leveraging data-driven methods to deliver personalized and dynamic content to our players. You are a technically oriented individual knowledgeable of how to use data and AI systems to solve product problems. You report to an embedded data science team in FC and will work with us, along with product managers, engineers, and technical leaders who bring EA Sports FC to life.
+
+What a Data Scientist Does At EA
+
+
+Design experiments and measure their outcomes to determine optimal or preferred content.
+Maintain and develop new recommender models that help players navigate a broad and diverse array of content.
+Understand how to use principles of statistics and machine learning to help learn and tune in game experiences while staying aware of their consequences.
+Draft technical solutions when presented with a problem to a less technical audience.
+Prototype new technology that fits use cases/problems and validates against success criteria.
+Support peers with technical reviews, ensuring quality coding and deployment practices.
+
+
+Your Qualifications
+
+
+BS in Mathematics, Statistics, Economics, Computer Science, or related; or equivalent experience.
+1 year of work experience in data science, analytics, or a related area.
+Experience developing a production-ready codebase alongside other contributors.
+Familiarity with SQL, including experience querying complex, semi-structured data sets in a data lake environment.
+Experience developing statistical and machine learning models using languages like Python or R and using tools like Sagemaker or Databricks.
+Knowledge of programming best practices, version control, and automation.
+Experience presenting to and gathering requirements from people at multiple levels of business and technical expertise.
+
+
+Compensation And Benefits
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+
+PAY RANGES
+
+
+British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD
+
+
+In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance.
+
+About Electronic Arts
+
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Description &amp; Requirements<br><br></strong>Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.<br><br>EA SPORTS is one of the most iconic brands in entertainment – connecting hundreds of millions around the world to the sports they love through a portfolio of industry-leading video games.<br><br>At the heart of EA SPORTS is the FC franchise. EA SPORTS FC is the world's #1 best-selling video game with over 200M engaged players across multiple platforms, including console, PC, and mobile. Innovation, passion, and teamwork are at the heart of everything we do. With studios in Vancouver, Bucharest, and Cologne, we're looking for the brightest talent, so we can continue to create experiences that connect with millions of hearts and minds the world over.<br><br><strong>Your Role<br><br></strong>As a Data Scientist, you will help us improve our FC franchise by designing experiments, measuring outcomes, and leveraging data-driven methods to deliver personalized and dynamic content to our players. You are a technically oriented individual knowledgeable of how to use data and AI systems to solve product problems. You report to an embedded data science team in FC and will work with us, along with product managers, engineers, and technical leaders who bring EA Sports FC to life.<br><br><strong>What a Data Scientist Does At EA<br><br></strong><ul><li>Design experiments and measure their outcomes to determine optimal or preferred content.</li><li>Maintain and develop new recommender models that help players navigate a broad and diverse array of content. </li><li>Understand how to use principles of statistics and machine learning to help learn and tune in game experiences while staying aware of their consequences.</li><li>Draft technical solutions when presented with a problem to a less technical audience.</li><li>Prototype new technology that fits use cases/problems and validates against success criteria.</li><li>Support peers with technical reviews, ensuring quality coding and deployment practices.<br><br></li></ul><strong>Your Qualifications<br><br></strong><ul><li>BS in Mathematics, Statistics, Economics, Computer Science, or related; or equivalent experience.</li><li>1 year of work experience in data science, analytics, or a related area.</li><li>Experience developing a production-ready codebase alongside other contributors.</li><li>Familiarity with SQL, including experience querying complex, semi-structured data sets in a data lake environment.</li><li>Experience developing statistical and machine learning models using languages like Python or R and using tools like Sagemaker or Databricks.</li><li>Knowledge of programming best practices, version control, and automation.</li><li>Experience presenting to and gathering requirements from people at multiple levels of business and technical expertise.<br><br></li></ul><strong>Compensation And Benefits<br><br></strong>The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).<br><br><strong>PAY RANGES<br><br></strong><ul><li> British Columbia (depending on location e.g. Vancouver vs. Victoria) * $96,400 - $133,900 CAD<br><br></li></ul>In British Columbia, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, and extended health/dental/vision coverage and basic life insurance.<br><br><strong>About Electronic Arts<br><br></strong>We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.<br><br>We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.<br><br>Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
