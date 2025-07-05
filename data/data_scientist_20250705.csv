@@ -1,0 +1,1421 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4250657104,https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-uber-4250657104?position=1&pageNum=0&refId=J5ztlyjP10jVO0N%2B5OK6ng%3D%3D&trackingId=mf%2F9uBNYzD9Asti2OryA1Q%3D%3D,Machine Learning Engineer II,Uber,"Seattle, WA","The Marketplace Signals team at Uber is responsible for building and optimizing foundational marketplace signals that power user experiences and drive marketplace efficiency. Our team ensures that key signals-such as eyeball ETA, spinner time, and supply reliability indicators-are leveraged effectively across various Uber products and levers, enabling data-driven decision-making and seamless coordination across different business functions.
+
+What You'll Do
+
+
+Develop and optimize ML models to enhance key marketplace signals (e.g., ETA predictions, supply availability metrics, demand forecasts).
+Collaborate with cross-functional teams (Pricing, Matching, Driver Incentives, etc.) to ensure marketplace signals are effectively utilized.
+Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases.
+Leverage cutting-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, etc.) to continuously refine marketplace signals.
+
+
+What You'll Need
+
+
+Strong problem-solving skills, with expertise in ML methodologies
+Experience in applying ML, statistics, or optimization techniques to solve large-scale real-world problems (e.g. ads tech, recommender systems)
+Experience in ML frameworks (e.g. Tensorflow, Pytorch, or JAX) and complex data pipelines; programming languages such as Python, Spark SQL, Presto, Go, Java
+
+
+Why Join Us?
+
+
+Work on high-impact machine learning problems that directly improve Uber's marketplace efficiency.
+Influence key business levers that optimize Uber's pricing, matching, and rider/driver experience.
+Build centralized marketplace signals that reduce redundancy and improve operational efficiency.
+Join a high-caliber, innovative team tackling some of the hardest ML challenges in the industry.
+
+
+If you're passionate about using ML to optimize real-world systems at a massive scale, we'd love to hear from you!
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For Seattle, WA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          The Marketplace Signals team at Uber is responsible for building and optimizing foundational marketplace signals that power user experiences and drive marketplace efficiency. Our team ensures that key signals-such as eyeball ETA, spinner time, and supply reliability indicators-are leveraged effectively across various Uber products and levers, enabling data-driven decision-making and seamless coordination across different business functions.<br><br><strong>What You'll Do<br><br></strong><ul><li> Develop and optimize ML models to enhance key marketplace signals (e.g., ETA predictions, supply availability metrics, demand forecasts). </li><li> Collaborate with cross-functional teams (Pricing, Matching, Driver Incentives, etc.) to ensure marketplace signals are effectively utilized. </li><li> Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases. </li><li> Leverage cutting-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, etc.) to continuously refine marketplace signals. <br><br></li></ul><strong>What You'll Need<br><br></strong><ul><li> Strong problem-solving skills, with expertise in ML methodologies </li><li> Experience in applying ML, statistics, or optimization techniques to solve large-scale real-world problems (e.g. ads tech, recommender systems) </li><li> Experience in ML frameworks (e.g. Tensorflow, Pytorch, or JAX) and complex data pipelines; programming languages such as Python, Spark SQL, Presto, Go, Java <br><br></li></ul><strong>Why Join Us?<br><br></strong><ul><li> Work on high-impact machine learning problems that directly improve Uber's marketplace efficiency. </li><li> Influence key business levers that optimize Uber's pricing, matching, and rider/driver experience. </li><li> Build centralized marketplace signals that reduce redundancy and improve operational efficiency. </li><li> Join a high-caliber, innovative team tackling some of the hardest ML challenges in the industry. <br><br></li></ul>If you're passionate about using ML to optimize real-world systems at a massive scale, we'd love to hear from you!<br><br>For San Francisco, CA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For Seattle, WA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-05,[]
+4255905733,https://www.linkedin.com/jobs/view/data-scientist-energy-analytics-google-cloud-at-google-4255905733?position=2&pageNum=0&refId=J5ztlyjP10jVO0N%2B5OK6ng%3D%3D&trackingId=StxwVci4yzKwiiUaN%2B0Bfw%3D%3D,"Data Scientist, Energy Analytics, Google Cloud",Google,"Seattle, WA","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Seattle, WA, USA.Minimum qualifications:
+
+
+Master's degree in Electrical Engineering, Operations Research, Industrial Engineering, Economics, or a related field, or equivalent practical experience.
+5 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree
+2 years of experience as an Energy Analyst or equivalent, working with energy system data.
+Experience with optimization software (e.g., cvx, Gurobi), statistical software (e.g., R, Python), and database languages (e.g., SQL).
+
+
+Preferred qualifications:
+
+
+PhD in Electrical Engineering, Operations Research, Industrial Engineering, Economics, or a related field.
+4 years of work experience (e.g., Energy Analyst, Trader, System Operator), applying advanced analytics to energy systems, planning, control, and learning problems (university, national labs, electric utility companies).
+Experience designing performance-based energy systems optimization and control algorithms.
+Experience designing and building statistical forecasting models and machine learning models.
+Excellent problem-framing, problem-solving, project management, customer service, and team collaboration skills.
+
+
+About The Job
+
+At Google, data drives all of our decision-making. Our Data Scientists work across the organization, shaping Google's business and technical strategies by processing, analyzing, interpreting data sets, and developing new algorithmic and statistical approaches to improve system performance and efficiency.
+
+Our team delivers globally optimal solutions, reducing infrastructure investments, operating costs, and electricity-based CO2 emissions of Google’s fleet by optimizing network, compute, storage, power, and carbon together.
+
+In this role, you will leverage energy domain knowledge and versatile analytic skills to develop solutions for efficient, scalable, and carbon-aware management of Google-scale energy assets, with a primary focus on sustainable computing and AI. You will have an extensive optimization and statistics background, coding experience, and working knowledge of energy market data.
+
+You will be analyzing data, and also collaborate with Google’s Energy and Policy Strategists, Engineers, and Product Managers, adjusting compute, AI, and energy management systems based on findings. You are expected to apply your deep understanding of systems analysis and control, energy market dynamics, optimization, statistical knowledge, and coding to develop methods solving issues related to carbon-aware computing, optimal energy asset sizing, market participation, forecasting, and scalable control. You will work with different stakeholders, driving innovation of our computing and energy systems while improving efficiency and global environmental impact. You will also think critically and strategically about Google’s fleet-wide energy assets, cloud technology, business operations, and their environmental impact.
+
+The US base salary range for this full-time position is $166,000-$244,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+
+Responsibilities
+
+
+Lead projects on energy systems or market analysis and modeling or optimization, selecting appropriate investigative methods and complexity for business issues.
+Engage to identify, prioritize, frame, and structure complex, ambiguous energy issues where advanced analytics can have the biggest impact.
+Identify and communicate key issues and opportunities for the groups focus.
+Help define investigative direction and influence associated engineering and infrastructure work.
+Articulate business questions, use mathematical techniques with data to find answers, and translate analysis results into business recommendations.
+
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Sunnyvale, CA, USA; Seattle, WA, USA</strong>.<strong>Minimum qualifications:<br><br></strong><ul><li>Master's degree in Electrical Engineering, Operations Research, Industrial Engineering, Economics, or a related field, or equivalent practical experience.</li><li>5 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a PhD degree</li><li>2 years of experience as an Energy Analyst or equivalent, working with energy system data. </li><li>Experience with optimization software (e.g., cvx, Gurobi), statistical software (e.g., R, Python), and database languages (e.g., SQL).<br><br></li></ul><strong>Preferred qualifications:<br><br></strong><ul><li>PhD in Electrical Engineering, Operations Research, Industrial Engineering, Economics, or a related field.</li><li>4 years of work experience (e.g., Energy Analyst, Trader, System Operator), applying advanced analytics to energy systems, planning, control, and learning problems (university, national labs, electric utility companies).</li><li>Experience designing performance-based energy systems optimization and control algorithms.</li><li>Experience designing and building statistical forecasting models and machine learning models.</li><li>Excellent problem-framing, problem-solving, project management, customer service, and team collaboration skills.<br><br></li></ul><strong>About The Job<br><br></strong>At Google, data drives all of our decision-making. Our Data Scientists work across the organization, shaping Google's business and technical strategies by processing, analyzing, interpreting data sets, and developing new algorithmic and statistical approaches to improve system performance and efficiency.<br><br>Our team delivers globally optimal solutions, reducing infrastructure investments, operating costs, and electricity-based CO2 emissions of Google’s fleet by optimizing network, compute, storage, power, and carbon together.<br><br>In this role, you will leverage energy domain knowledge and versatile analytic skills to develop solutions for efficient, scalable, and carbon-aware management of Google-scale energy assets, with a primary focus on sustainable computing and AI. You will have an extensive optimization and statistics background, coding experience, and working knowledge of energy market data.<br><br>You will be analyzing data, and also collaborate with Google’s Energy and Policy Strategists, Engineers, and Product Managers, adjusting compute, AI, and energy management systems based on findings. You are expected to apply your deep understanding of systems analysis and control, energy market dynamics, optimization, statistical knowledge, and coding to develop methods solving issues related to carbon-aware computing, optimal energy asset sizing, market participation, forecasting, and scalable control. You will work with different stakeholders, driving innovation of our computing and energy systems while improving efficiency and global environmental impact. You will also think critically and strategically about Google’s fleet-wide energy assets, cloud technology, business operations, and their environmental impact.<br><br>The US base salary range for this full-time position is $166,000-$244,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br><br>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br><br><strong>Responsibilities<br><br></strong><ul><li>Lead projects on energy systems or market analysis and modeling or optimization, selecting appropriate investigative methods and complexity for business issues.</li><li>Engage to identify, prioritize, frame, and structure complex, ambiguous energy issues where advanced analytics can have the biggest impact.</li><li>Identify and communicate key issues and opportunities for the groups focus.</li><li>Help define investigative direction and influence associated engineering and infrastructure work.</li><li>Articulate business questions, use mathematical techniques with data to find answers, and translate analysis results into business recommendations.<br><br><br></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-24,[]
+4248772317,https://www.linkedin.com/jobs/view/business-data-scientist-global-affairs-at-google-4248772317?position=3&pageNum=0&refId=J5ztlyjP10jVO0N%2B5OK6ng%3D%3D&trackingId=l0zu5V1%2FTJnN35249Gq8Dg%3D%3D,"Business Data Scientist, Global Affairs",Google,"Seattle, WA","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Chicago, IL, USA; Austin, TX, USA; Kirkland, WA, USA; Seattle, WA, USA.Minimum qualifications:
+
+
+Master's degree in Statistics, Physics, Applied mathematics, Operations Research, Economics or equivalent practical experience.
+3 years of experience in solving product or business problems using advanced investigative, machine learning, artificial intelligence, or statistical methods including coding (e.g., Python, R, or SQL).
+
+
+Preferred qualifications:
+
+
+5 years of experience with applying quantitative methods to analyze structured and unstructured data, draw inferences, and answer investigative questions.
+Experience in Generative AI, machine learning, Natural Language Processing (NLP), and LLMs, including feature engineering, data pipelines, and causal inference.
+Experience in working with data infrastructure and databases (e.g., SQL) to gather, extract, and structure data for analysis.
+Ability to work with cross-functional teams to drive development and deployment of Generative AI and Large Language Model (LLM).
+Excellent communication skills, with the ability to present technical information to non-technical stakeholders.
+
+
+About the jobGlobal Affairs (GA) plays an important role in Google's priorities, including regulatory lifecycle work, external engagement with key stakeholders worldwide, efforts to ensure trustworthy products, and support of the incredible opportunities opening up in artificial intelligence and beyond. Global Affairs is composed of teams that lie at the intersection of public policy, regulation, compliance, user trust and safety, and legal.
+
+In this role, you will help the Business Intelligence Group enable more data-motivated/predictive Global Affairs organizations. You will leverage the GA data ecosystem to drive decisions for cross-GA initiatives and boost business operations.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+
+Responsibilities
+
+
+Support the development and implementation of data-motivated solutions, with large language models (LLMs) and Artificial Intelligence (AI), to address business tests in Global Affairs, including providing trusted advice to policymakers, building an industry leading regulatory and compliance system, and protecting the ability to provide quality products.
+Work with cross-functional teams to Artificial Intelligence/Machine (AI/ML) tests and opportunities, leveraging Large Language Models (LLMs) for text analysis and knowledge extraction, and translating business needs into analysis and evaluation metrics.
+Stay up to date with emerging trends and best practices in data science and business analytics.
+
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Chicago, IL, USA; Austin, TX, USA; Kirkland, WA, USA; Seattle, WA, USA</strong>.<strong>Minimum qualifications:<br><br></strong><ul><li>Master's degree in Statistics, Physics, Applied mathematics, Operations Research, Economics or equivalent practical experience.</li><li>3 years of experience in solving product or business problems using advanced investigative, machine learning, artificial intelligence, or statistical methods including coding (e.g., Python, R, or SQL).<br><br></li></ul><strong>Preferred qualifications:<br><br></strong><ul><li>5 years of experience with applying quantitative methods to analyze structured and unstructured data, draw inferences, and answer investigative questions.</li><li>Experience in Generative AI, machine learning, Natural Language Processing (NLP), and LLMs, including feature engineering, data pipelines, and causal inference.</li><li>Experience in working with data infrastructure and databases (e.g., SQL) to gather, extract, and structure data for analysis.</li><li>Ability to work with cross-functional teams to drive development and deployment of Generative AI and Large Language Model (LLM).</li><li>Excellent communication skills, with the ability to present technical information to non-technical stakeholders.<br><br></li></ul><strong>About the job</strong>Global Affairs (GA) plays an important role in Google's priorities, including regulatory lifecycle work, external engagement with key stakeholders worldwide, efforts to ensure trustworthy products, and support of the incredible opportunities opening up in artificial intelligence and beyond. Global Affairs is composed of teams that lie at the intersection of public policy, regulation, compliance, user trust and safety, and legal.<br><br>In this role, you will help the Business Intelligence Group enable more data-motivated/predictive Global Affairs organizations. You will leverage the GA data ecosystem to drive decisions for cross-GA initiatives and boost business operations.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br><br>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br><br><strong>Responsibilities<br><br></strong><ul><li>Support the development and implementation of data-motivated solutions, with large language models (LLMs) and Artificial Intelligence (AI), to address business tests in Global Affairs, including providing trusted advice to policymakers, building an industry leading regulatory and compliance system, and protecting the ability to provide quality products.</li><li>Work with cross-functional teams to Artificial Intelligence/Machine (AI/ML) tests and opportunities, leveraging Large Language Models (LLMs) for text analysis and knowledge extraction, and translating business needs into analysis and evaluation metrics.</li><li>Stay up to date with emerging trends and best practices in data science and business analytics.<br><br><br></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-05,[]
+4250949416,https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-uber-4250949416?position=1&pageNum=0&refId=%2FIBta2%2BNxtdn51FvVkldgQ%3D%3D&trackingId=QOqIYbkWvE5roP7p2QiAOA%3D%3D,Machine Learning Engineer II,Uber,"San Francisco, CA","The Marketplace Signals team at Uber is responsible for building and optimizing foundational marketplace signals that power user experiences and drive marketplace efficiency. Our team ensures that key signals-such as eyeball ETA, spinner time, and supply reliability indicators-are leveraged effectively across various Uber products and levers, enabling data-driven decision-making and seamless coordination across different business functions.
+
+What You'll Do
+
+
+Develop and optimize ML models to enhance key marketplace signals (e.g., ETA predictions, supply availability metrics, demand forecasts).
+Collaborate with cross-functional teams (Pricing, Matching, Driver Incentives, etc.) to ensure marketplace signals are effectively utilized.
+Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases.
+Leverage cutting-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, etc.) to continuously refine marketplace signals.
+
+
+What You'll Need
+
+
+Strong problem-solving skills, with expertise in ML methodologies
+Experience in applying ML, statistics, or optimization techniques to solve large-scale real-world problems (e.g. ads tech, recommender systems)
+Experience in ML frameworks (e.g. Tensorflow, Pytorch, or JAX) and complex data pipelines; programming languages such as Python, Spark SQL, Presto, Go, Java
+
+
+Why Join Us?
+
+
+Work on high-impact machine learning problems that directly improve Uber's marketplace efficiency.
+Influence key business levers that optimize Uber's pricing, matching, and rider/driver experience.
+Build centralized marketplace signals that reduce redundancy and improve operational efficiency.
+Join a high-caliber, innovative team tackling some of the hardest ML challenges in the industry.
+
+
+If you're passionate about using ML to optimize real-world systems at a massive scale, we'd love to hear from you!
+
+For San Francisco, CA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For Seattle, WA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          The Marketplace Signals team at Uber is responsible for building and optimizing foundational marketplace signals that power user experiences and drive marketplace efficiency. Our team ensures that key signals-such as eyeball ETA, spinner time, and supply reliability indicators-are leveraged effectively across various Uber products and levers, enabling data-driven decision-making and seamless coordination across different business functions.<br><br><strong>What You'll Do<br><br></strong><ul><li> Develop and optimize ML models to enhance key marketplace signals (e.g., ETA predictions, supply availability metrics, demand forecasts). </li><li> Collaborate with cross-functional teams (Pricing, Matching, Driver Incentives, etc.) to ensure marketplace signals are effectively utilized. </li><li> Improve operational efficiency by building a centralized, scalable system for marketplace signals that serves multiple use cases. </li><li> Leverage cutting-edge ML techniques (deep learning, probabilistic modeling, reinforcement learning, etc.) to continuously refine marketplace signals. <br><br></li></ul><strong>What You'll Need<br><br></strong><ul><li> Strong problem-solving skills, with expertise in ML methodologies </li><li> Experience in applying ML, statistics, or optimization techniques to solve large-scale real-world problems (e.g. ads tech, recommender systems) </li><li> Experience in ML frameworks (e.g. Tensorflow, Pytorch, or JAX) and complex data pipelines; programming languages such as Python, Spark SQL, Presto, Go, Java <br><br></li></ul><strong>Why Join Us?<br><br></strong><ul><li> Work on high-impact machine learning problems that directly improve Uber's marketplace efficiency. </li><li> Influence key business levers that optimize Uber's pricing, matching, and rider/driver experience. </li><li> Build centralized marketplace signals that reduce redundancy and improve operational efficiency. </li><li> Join a high-caliber, innovative team tackling some of the hardest ML challenges in the industry. <br><br></li></ul>If you're passionate about using ML to optimize real-world systems at a massive scale, we'd love to hear from you!<br><br>For San Francisco, CA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For Seattle, WA-based roles: The base salary range for this role is USD$167,000 per year - USD$185,500 per year. For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award &amp; other types of comp. You will also be eligible for various benefits. More details can be found at the following link https://www.uber.com/careers/benefits.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-05,[]
+4214365517,https://www.linkedin.com/jobs/view/data-scientist-gtm-at-notion-4214365517?position=2&pageNum=0&refId=%2FIBta2%2BNxtdn51FvVkldgQ%3D%3D&trackingId=KYc1fUSXNzM78xt5ngcceA%3D%3D,"Data Scientist, GTM",Notion,"San Francisco, CA","About Us
+
+We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.
+
+We've been working on this together since 2016, and have customers like OpenAI, Toyota, Figma, Ramp, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.
+
+Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays & Thursdays) and requests that employees spend the majority of their week in the office (including a third day).
+
+About The Role
+
+As our Data Scientist for Go-to-Market, you will be a key business partner to our Sales and Revenue Operations team. Your work will be instrumental in shaping our data strategy as we design and implement a best-in-class Go-to-Market motion. From exploring what successful customer accounts look like to creating sales pipeline forecasts, your insights will directly impact business decisions and strategy. Each day will bring new challenges and opportunities to drive meaningful change with data.
+
+What You'll Achieve
+
+
+You will partner with Revenue Operations and Sales leads, driving forward all data science and analytics work in their functional areas
+You will transform complex data into compelling insights, synthesizing them into crisp narratives for senior leadership that drive measurable business change (Insights are useful. Impact is even better!)
+You will build and maintain KPI dashboards that teams rely on for critical decision-making, along with self-service tools that empower business partners
+You will develop models that become core to our operations, such as optimizing sales outreach strategies or building a sales forecasting model
+You will collaborate closely with our Data Engineering and Business Systems teams to build high-fidelity, canonical customer data pipelines that serve as the foundation for GTM analytics
+
+
+
+Skills You'll Need To Bring
+
+
+You've spent meaningful time as data scientist partnering with business functions such as Revenue Operations, Finance, Growth, Marketing
+You are comfortable with ambiguity and motivated by business results
+You have expertise in SQL, and least one scripting language (Python or R)
+You are comfortable transforming raw data to build your own data sets if they don't exist yet
+You can effectively communicate data insights and transform them into stories that drive business impact
+You have strong communication and collaboration skills while working in cross-functional environments
+You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy
+
+
+
+Nice To Haves
+
+
+Experience working directly with Sales, Customer Success, Revenue Operations, and/or Finance teams
+Background at a high-growth B2B SaaS startup
+Familiarity with our product (being a current Notion user would be great!)
+
+
+
+We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.
+
+Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.
+
+Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $140,000 - $170,000 per year.
+
+By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.
+
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Us<br><br></strong>We're on a mission to make it possible for every person, team, and company to be able to tailor their software to solve any problem and take on any challenge. Computers may be our most powerful tools, but most of us can't build or modify the software we use on them every day. At Notion, we want to change this with focus, design, and craft.<br><br>We've been working on this together since 2016, and have customers like OpenAI, Toyota, Figma, Ramp, and thousands more on this journey with us. Today, we're growing fast and excited for new teammates to join us who are the best at what they do. We're passionate about building a company as diverse and creative as the millions of people Notion reaches worldwide.<br><br>Notion is an in person company, and currently requires its employees to come to the office for two Anchor Days (Mondays &amp; Thursdays) and requests that employees spend the majority of their week in the office (including a third day).<br><br><strong>About The Role<br><br></strong>As our Data Scientist for Go-to-Market, you will be a key business partner to our Sales and Revenue Operations team. Your work will be instrumental in shaping our data strategy as we design and implement a <strong>best-in-class</strong> Go-to-Market motion. From exploring what successful customer accounts look like to creating sales pipeline forecasts, your insights will directly impact business decisions and strategy. Each day will bring new challenges and opportunities to drive meaningful change with data.<br><br><strong>What You'll Achieve<br><br></strong><ul><li>You will partner with Revenue Operations and Sales leads, driving forward all data science and analytics work in their functional areas</li><li>You will transform complex data into compelling insights, synthesizing them into crisp narratives for senior leadership that drive measurable business change (Insights are useful. Impact is even better!)</li><li>You will build and maintain KPI dashboards that teams rely on for critical decision-making, along with self-service tools that empower business partners</li><li>You will develop models that become core to our operations, such as optimizing sales outreach strategies or building a sales forecasting model</li><li>You will collaborate closely with our Data Engineering and Business Systems teams to build high-fidelity, canonical customer data pipelines that serve as the foundation for GTM analytics<br><br><br></li></ul><strong>Skills You'll Need To Bring<br><br></strong><ul><li>You've spent meaningful time as data scientist partnering with business functions such as Revenue Operations, Finance, Growth, Marketing</li><li>You are comfortable with ambiguity and motivated by business results</li><li>You have expertise in SQL, and least one scripting language (Python or R)</li><li>You are comfortable transforming raw data to build your own data sets if they don't exist yet</li><li>You can effectively communicate data insights and transform them into stories that drive business impact</li><li>You have strong communication and collaboration skills while working in cross-functional environments</li><li>You have a bias for using the right tools to get a job done with maximum efficiency. You have experience making tradeoffs between speed and accuracy<br><br><br></li></ul><strong>Nice To Haves<br><br></strong><ul><li>Experience working directly with Sales, Customer Success, Revenue Operations, and/or Finance teams</li><li>Background at a high-growth B2B SaaS startup</li><li>Familiarity with our product (being a current Notion user would be great!)<br><br><br></li></ul>We hire talented and passionate people from a variety of backgrounds because we want our global employee base to represent the wide diversity of our customers. If you’re excited about a role but your past experience doesn’t align perfectly with every bullet point listed in the job description, we still encourage you to apply. If you’re a builder at heart, share our company values, and enthusiastic about making software toolmaking ubiquitous, we want to hear from you.<br><br>Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know.<br><br>Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco, the estimated base salary range for this role is $140,000 - $170,000 per year.<br><br>By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy.<br><br>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-25,[]
+4256363925,https://www.linkedin.com/jobs/view/data-scientist-at-twitch-4256363925?position=3&pageNum=0&refId=%2FIBta2%2BNxtdn51FvVkldgQ%3D%3D&trackingId=OC9CDnk5DijJnxDayRfIhQ%3D%3D,Data Scientist,Twitch,"San Francisco County, CA","About Us
+
+Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.
+
+We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.
+
+About The Role
+
+We’re looking for a Data Scientist to join the Money team at Twitch, which supports the systems behind creator payouts, payments infrastructure, and fraud detection. In this role you’ll focus on Payouts. Payouts is a high-leverage area that shapes how and when creators are paid and payout eligibility.
+
+You’ll work closely with product, engineering, finance, legal, and data partners to measure and refine our payout-related programs like the Plus Program and support new monetization initiatives to expand who can monetize on Twitch. While many changes are policy driven rather than AB tested, they require thoughtful measurement, reporting, operations, and causal reasoning.
+
+This role is well suited for someone early on in their data science career who is eager to take ownership of high-impact, cross–functional projects and grow into a senior role. You’ll need to be comfortable with writing SQL, working with imperfect data, and flexing into data workflows when data engineering coverage is limited.
+
+You can work in San Francisco, CA; Irvine, CA; New York, NY; or Seattle, WA
+
+You Will:
+
+
+
+Analyze and evaluate policy and program changes that affect how creators are paid
+Own reporting and insights related to payout eligibility, earning, and program performance
+Partner with cross-functional stakeholders to inform product and business decisions
+Write, maintain, and validate pipelines to support recurring analytics and reporting
+Apply causal inference methods to estimate the impact of payout changes
+
+
+
+You Have:
+
+
+
+1+ years of experience as a data scientist, data analyst, or a related field
+Proficiency in SQL
+Proficiency with Python or R
+Understanding of Causal Inference concepts (ex/ DiD, matching, IPW, experiment design)
+Strong communication skills across technical and non-technical stakeholders
+High level of comfort creating dashboards
+
+
+
+Bonus Points
+
+
+
+Hands-on experience with Airflow, Sagemaker or deploying ML models in production environments
+Strong familiarity with econometrics
+Contribute to machine learning efforts in fraud or churn prediction
+Experience Ideating, executing, and analyzing A/B tests.
+
+
+
+Perks
+
+
+
+Medical, Dental, Vision & Disability Insurance
+401(k)
+Maternity & Parental Leave
+Flexible PTO
+Amazon Employee Discount
+
+
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Job ID: TW8811
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from our lowest geographic market up to our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. This position will remain open until filled. For more information, please visit https://www.twitch.tv/jobs/en/#learn-more. Applicants should apply via our internal or external career site.
+
+US Pay Per Year
+
+$97,500—$185,000 USD
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Us<br><br></strong>Twitch is the world’s biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day.<br><br>We’re about community, inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our interview process.<br><br><strong>About The Role<br><br></strong>We’re looking for a Data Scientist to join the Money team at Twitch, which supports the systems behind creator payouts, payments infrastructure, and fraud detection. In this role you’ll focus on Payouts. Payouts is a high-leverage area that shapes how and when creators are paid and payout eligibility.<br><br>You’ll work closely with product, engineering, finance, legal, and data partners to measure and refine our payout-related programs like the Plus Program and support new monetization initiatives to expand who can monetize on Twitch. While many changes are policy driven rather than AB tested, they require thoughtful measurement, reporting, operations, and causal reasoning.<br><br>This role is well suited for someone early on in their data science career who is eager to take ownership of high-impact, cross–functional projects and grow into a senior role. You’ll need to be comfortable with writing SQL, working with imperfect data, and flexing into data workflows when data engineering coverage is limited.<br><br>You can work in San Francisco, CA; Irvine, CA; New York, NY; or Seattle, WA<br><br><strong>You Will:<br><br><br></strong><ul><li>Analyze and evaluate policy and program changes that affect how creators are paid</li><li>Own reporting and insights related to payout eligibility, earning, and program performance</li><li>Partner with cross-functional stakeholders to inform product and business decisions</li><li>Write, maintain, and validate pipelines to support recurring analytics and reporting</li><li>Apply causal inference methods to estimate the impact of payout changes<br><br><br></li></ul><strong>You Have:<br><br><br></strong><ul><li>1+ years of experience as a data scientist, data analyst, or a related field</li><li>Proficiency in SQL</li><li>Proficiency with Python or R</li><li>Understanding of Causal Inference concepts (ex/ DiD, matching, IPW, experiment design)</li><li>Strong communication skills across technical and non-technical stakeholders</li><li>High level of comfort creating dashboards<br><br><br></li></ul><strong>Bonus Points<br><br><br></strong><ul><li>Hands-on experience with Airflow, Sagemaker or deploying ML models in production environments</li><li>Strong familiarity with econometrics </li><li>Contribute to machine learning efforts in fraud or churn prediction</li><li>Experience Ideating, executing, and analyzing A/B tests.<br><br><br></li></ul><strong>Perks<br><br><br></strong><ul><li>Medical, Dental, Vision &amp; Disability Insurance</li><li>401(k)</li><li>Maternity &amp; Parental Leave</li><li>Flexible PTO</li><li>Amazon Employee Discount<br><br><br></li></ul><em>Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.<br><br></em><em>Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. <br><br></em>Job ID: TW8811<br><br><em>Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from our lowest geographic market up to our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. This position will remain open until filled. For more information, please visit https://www.twitch.tv/jobs/en/#learn-more. Applicants should apply via our internal or external career site.<br><br></em>US Pay Per Year<br><br>$97,500—$185,000 USD<br><br><em>Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.<br><br></em><em>Twitch values your privacy. Please consult our Candidate Privacy Notice, for information about how we collect, use, and disclose personal information of our candidates.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4249801145,https://uk.linkedin.com/jobs/view/data-scientist-at-pontoon-solutions-4249801145?position=1&pageNum=0&refId=HlEQWWDRJWOOjiQ2Fd5daw%3D%3D&trackingId=KuPDRk68hv8Y60zi%2ByOxRA%3D%3D,Data Scientist,Pontoon Solutions,"Warwick, England, United Kingdom","Data Scientist
+
+Initial 6 month contract (potential to extend)
+
+Hybrid working (2 days in Warwick office per week)
+
+
+
+
+
+
+
+Rate: Up to £500 per day via Umbrella Co.
+
+
+
+
+
+
+
+About the Role
+
+We are embarking on the development of a new system to manage our investment information in preparation for the upcoming regulatory period. This system will centralize and visualize critical investment data, ensuring it is accurate, consistent, and actionable.
+
+As a Data Scientist, you will play a key role in the system’s setup phase—supporting data accuracy, validation, and integration. Working closely with PMO teams across the business, you will help update and verify investment data to enable meaningful insights through system visualizations.
+
+Key Responsibilities
+
+Collaborate with PMO teams to organize and align data around key business processes.
+
+Support the development of data validation checks and quality control measures.
+
+Assist in shaping how data is modelled and structured in the new system for optimal visualization and usability.
+
+Provide technical expertise and insights to improve data reliability, traceability, and overall quality.
+
+Required Skills and Experience
+
+- Proficiency in Microsoft Excel and the broader Microsoft Office suite.
+
+- Strong background in data modelling and working with complex datasets.
+
+- Working knowledge of Python or another programming language for data analysis.
+
+- Familiarity with statistical methods and their application to real-world data problems.
+
+- Excellent attention to detail and ability to work with ambiguity or incomplete data.
+
+- Strong communication and collaboration skills to engage with cross functional teams.
+
+Desirable Attributes
+
+- Experience working in a regulated industry or with investment/financial data.
+
+- Exposure to data visualization tools (e.g., Power BI, Tableau).
+
+- Understanding of business process mapping and data governance practices
+
+
+
+
+
+
+
+Pontoon is an employment consultancy. We put expertise, energy, and enthusiasm into improving everyone’s chance of being part of the workplace. We respect and appreciate people of all ethnicities, generations, religious beliefs, sexual orientations, gender identities, and more. We do this by showcasing their talents, skills, and unique experience in an inclusive environment that helps them thrive. If you require reasonable adjustments at any stage, please let us know and we will be happy to support you.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>Data Scientist</strong></p><p><strong>Initial 6 month contract (potential to extend)</strong></p><p><strong>Hybrid working (2 days in Warwick office per week)</strong></p><p><br></p><p><br></p><p>Rate: Up to £500 per day via Umbrella Co.</p><p><br></p><p><br></p><p><strong>About the Role</strong></p><p>We are embarking on the development of a new system to manage our investment information in preparation for the upcoming regulatory period. This system will centralize and visualize critical investment data, ensuring it is accurate, consistent, and actionable.</p><p>As a Data Scientist, you will play a key role in the system’s setup phase—supporting data accuracy, validation, and integration. Working closely with PMO teams across the business, you will help update and verify investment data to enable meaningful insights through system visualizations.</p><p> </p><p> </p><p><strong>Key Responsibilities</strong></p><p>Collaborate with PMO teams to organize and align data around key business processes.</p><p> Support the development of data validation checks and quality control measures.</p><p> Assist in shaping how data is modelled and structured in the new system for optimal visualization and usability.</p><p> Provide technical expertise and insights to improve data reliability, traceability, and overall quality.</p><p> </p><p> </p><p><strong>Required Skills and Experience</strong></p><p>- Proficiency in Microsoft Excel and the broader Microsoft Office suite.</p><p>- Strong background in data modelling and working with complex datasets.</p><p>- Working knowledge of Python or another programming language for data analysis.</p><p>- Familiarity with statistical methods and their application to real-world data problems.</p><p>- Excellent attention to detail and ability to work with ambiguity or incomplete data.</p><p>- Strong communication and collaboration skills to engage with cross functional teams.</p><p> </p><p> </p><p><strong>Desirable Attributes</strong></p><p>- Experience working in a regulated industry or with investment/financial data.</p><p> - Exposure to data visualization tools (e.g., Power BI, Tableau).</p><p> - Understanding of business process mapping and data governance practices</p><p><br></p><p><br></p><p><em>Pontoon is an employment consultancy. We put expertise, energy, and enthusiasm into improving everyone’s chance of being part of the workplace. We respect and appreciate people of all ethnicities, generations, religious beliefs, sexual orientations, gender identities, and more. We do this by showcasing their talents, skills, and unique experience in an inclusive environment that helps them thrive. If you require reasonable adjustments at any stage, please let us know and we will be happy to support you.</em></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-12,[]
+4252889076,https://uk.linkedin.com/jobs/view/clinical-engineering-apprentice-data-scientist-clinical-engineering-at-popular-plumbing-and-heating-corp-4252889076?position=2&pageNum=0&refId=HlEQWWDRJWOOjiQ2Fd5daw%3D%3D&trackingId=OtOcp2AjuTnd4gEcAOu29A%3D%3D,"Clinical Engineering Apprentice (Data Scientist, Clinical Engineering)",Popular Plumbing and Heating Corp,"Wolverhampton, England, United Kingdom","Job Summary
+
+The successful candidate will be enrolled onto the Level 6 Apprenticeship Standard - Data scientist (integrated degree) and will undergo a 4-year Data Scientist Apprenticeship program of work-based learning combined with academic courses at either Keele University or University of Nottingham (provider to be finalised). The successful completion of which, will see the apprentice achieve a BSc (Hons)Data Science. Depending on the route of the successful candidate this may lead to a future progressive pathway within the CIS team, Clinical Engineering. Applicants should hold a minimum of an HNC/D in an Engineering subject. All successful candidates will be offered a position conditionally, subject to achieving the required grades alongside mandatory checks (e.g. Disclosure and Barring Service, references, and Occupational Health). It is also desirable that the apprentice is familiar and comfortable using Microsoft Word, Excel, and PowerPoint.
+
+Because of how the apprenticeship levy is accessed for training apprentices, applicants already with a relevant IT degree will not be considered/shortlisted.
+
+Main duties of the job
+
+To observe, learn and assist, under supervision, in the full range of work in the Clinical Engineering Department. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.
+
+To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.
+
+To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.
+
+To follow department technical procedures and safety standards applicable to medical devices.
+
+To conform to all departmental safe working practices, and departmental policies and procedures.
+
+About Us
+
+The Royal Wolverhampton NHS Trust is one of the largest NHS trusts in the West Midlands providing primary, acute and community services and we are incredibly proud of the diversity of both our staff and the communities we serve. We are building a workforce that can help us to fulfil our values, improve the quality of care for patients, and solve the health care problems of tomorrow. We're passionate about the value that diversity of thinking and lived experience brings in enabling us to become a learning organisation and leader in delivering compassionate care for our patients.
+
+We are delighted that we have been rated as ""Good"" by CQC. We have achieved numerous awards; The Nursing Times Best Diversity and Inclusion Practice and Best UK Employer of the Year for Nursing Staff in 2020.
+
+The Trust is a supportive working environment committed to creating flexible working arrangements that suit your needs and as such will consider all requests from applicants who wish to work flexibly.
+
+Details
+
+Date posted
+
+16 June 2025
+
+Pay scheme
+
+Agenda for change
+
+Band
+
+Band 2
+
+Salary
+
+£24,169 a year per annum
+
+Contract
+
+Apprenticeship
+
+Duration
+
+4 years
+
+Working pattern
+
+Full-time
+
+Reference number
+
+225-EST-6979475-A
+
+Job locations
+
+New Cross Hospital
+
+Wednesfield Road,
+
+Wolverhampton
+
+WV10 0QP
+
+Job Description
+
+Job responsibilities
+
+We have created an exciting opportunity for an enthusiastic Clinical Engineering Apprentice to work as part of the Clinical Information Systems (CIS) team in the Clinical Engineering section of the Medical Physics & Clinical Engineering Department within the Royal Wolverhampton NHS Trust and Walsall Healthcare NHS Trust.
+
+The recruitment process will involve a tabletop/practical assessment and interview.
+
+Main Duties & Responsibilities
+
+To be managerially and technically responsible to the Professional Technical Development Manager.
+
+To be committed to making full use of the academic and practical opportunities the post offers, to gain the qualifications and skills needed to become a Clinical Technologist.
+
+To observe, learn and assist, under supervision, in the full range of work of the Clinical Engineering Department, for the purpose of becoming competent in electronic and engineering activities. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.
+
+To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work with reducing supervision, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.
+
+To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.
+
+To follow department technical procedures and safety standards applicable to medical devices and immediately report any matters which may affect staff or patient safety to a qualified Clinical Technologist.
+
+Work-based learning will consist of spending time in all the 9 Clinical Engineering Sections at the Royal Wolverhampton NHS Trust (including West Park Hospital and Cannock Chase Hospital) and at Walsall Healthcare Trust, where they will gain experience and training, working alongside our experienced Clinical Technologists.
+
+To participate, as appropriate to AFC banding/job role, in relevant training given by manufacturers and technical staff.
+
+To understand the need to respond quickly and efficiently to all requests regarding medical devices, exercising own judgment in escalating to the appropriate clinical technologist.
+
+To conform to all Medical Physics and Clinical Engineering (MPCE) safe working practices, and departmental policies and procedures. This includes working to the departmental Quality Management Systems (QMS).
+
+To establish good working relationships with all technical, clinical and support staff that the apprentice will interact with.
+
+This Job Description is a guide to the tasks involved with the post and is not exhaustive.
+
+Job Description
+
+Job responsibilities
+
+We have created an exciting opportunity for an enthusiastic Clinical Engineering Apprentice to work as part of the Clinical Information Systems (CIS) team in the Clinical Engineering section of the Medical Physics & Clinical Engineering Department within the Royal Wolverhampton NHS Trust and Walsall Healthcare NHS Trust.
+
+The recruitment process will involve a tabletop/practical assessment and interview.
+
+Main Duties & Responsibilities
+
+To be managerially and technically responsible to the Professional Technical Development Manager.
+
+To be committed to making full use of the academic and practical opportunities the post offers, to gain the qualifications and skills needed to become a Clinical Technologist.
+
+To observe, learn and assist, under supervision, in the full range of work of the Clinical Engineering Department, for the purpose of becoming competent in electronic and engineering activities. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.
+
+To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work with reducing supervision, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.
+
+To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.
+
+To follow department technical procedures and safety standards applicable to medical devices and immediately report any matters which may affect staff or patient safety to a qualified Clinical Technologist.
+
+Work-based learning will consist of spending time in all the 9 Clinical Engineering Sections at the Royal Wolverhampton NHS Trust (including West Park Hospital and Cannock Chase Hospital) and at Walsall Healthcare Trust, where they will gain experience and training, working alongside our experienced Clinical Technologists.
+
+To participate, as appropriate to AFC banding/job role, in relevant training given by manufacturers and technical staff.
+
+To understand the need to respond quickly and efficiently to all requests regarding medical devices, exercising own judgment in escalating to the appropriate clinical technologist.
+
+To conform to all Medical Physics and Clinical Engineering (MPCE) safe working practices, and departmental policies and procedures. This includes working to the departmental Quality Management Systems (QMS).
+
+To establish good working relationships with all technical, clinical and support staff that the apprentice will interact with.
+
+This Job Description is a guide to the tasks involved with the post and is not exhaustive.
+
+Person Specification
+
+Qualifications
+
+Essential
+
+
+GCSE Maths and English Language Grade C/4 and above (or equivalent).
+Level 3 qualification in a relevant Engineering subject, (i.e. BTEC Level 3 Diploma or Extended Diploma) or A levels in Maths and a Science subject.
+Demonstrates a commitment to further learning and personal development.
+
+
+Experience/Skills
+
+Essential
+
+
+Must demonstrate a willingness to develop new skills and acquire additional qualifications.
+Must be motivated and able to organise personal study programme
+Must have a high level of manual dexterity.
+Must be able to follow and consistently apply safety instructions.
+Must be computer literate.
+
+
+Desirable
+
+
+Must be able to concentrate and pay attention to detail for prolonged periods.
+Must be able to follow intricate instruction.
+Must be able to keep accurate written and computer records.
+Must be able to demonstrate the ability to work on own initiative and organise own workload.
+Understands all the potential hazards posed by undertaking the duties of the role.
+Understands and works with the limits and scope of the job role.
+
+
+Communication
+
+Essential
+
+
+Work as part of a multidisciplinary team.
+Demonstrate good verbal, non-verbal and written skills.
+
+
+Desirable
+
+
+Deal with unpredictable situations.
+Demonstrate an ability to use information technology systems.
+Demonstrate an understanding of Information Governance and confidentiality.
+
+
+Flexibility With Working Arrangements
+
+Essential
+
+
+Must be able to travel to the various academic institutions, and work area placements.
+
+
+Desirable
+
+
+Required to work flexibly to meet unpredictable demands on the service.
+
+
+Person Specification
+
+Essential
+
+
+Must be able to travel to the various academic institutions, and work area placements.
+
+
+Desirable
+
+
+Required to work flexibly to meet unpredictable demands on the service.
+
+
+Disclosure and Barring Service Check
+
+This post is subject to the Rehabilitation of Offenders Act (Exceptions Order) 1975 and as such it will be necessary for a submission for Disclosure to be made to the Disclosure and Barring Service (formerly known as CRB) to check for any previous criminal convictions.
+
+Certificate of Sponsorship
+
+Applications from job seekers who require current Skilled worker sponsorship to work in the UK are welcome and will be considered alongside all other applications. For further information visit the UK Visas and Immigration website (Opens in a new tab).
+
+From 6 April 2017, skilled worker applicants, applying for entry clearance into the UK, have had to present a criminal record certificate from each country they have resided continuously or cumulatively for 12 months or more in the past 10 years. Adult dependants (over 18 years old) are also subject to this requirement. Guidance can be found here Criminal records checks for overseas applicants (Opens in a new tab).
+
+Additional information
+
+Disclosure and Barring Service Check
+
+This post is subject to the Rehabilitation of Offenders Act (Exceptions Order) 1975 and as such it will be necessary for a submission for Disclosure to be made to the Disclosure and Barring Service (formerly known as CRB) to check for any previous criminal convictions.
+
+Certificate of Sponsorship
+
+Applications from job seekers who require current Skilled worker sponsorship to work in the UK are welcome and will be considered alongside all other applications. For further information visit the UK Visas and Immigration website (Opens in a new tab).
+
+From 6 April 2017, skilled worker applicants, applying for entry clearance into the UK, have had to present a criminal record certificate from each country they have resided continuously or cumulatively for 12 months or more in the past 10 years. Adult dependants (over 18 years old) are also subject to this requirement. Guidance can be found here Criminal records checks for overseas applicants (Opens in a new tab).
+
+Employer details
+
+Employer name
+
+The Royal Wolverhampton NHS Trust
+
+Address
+
+New Cross Hospital
+
+Wednesfield Road,
+
+Wolverhampton
+
+WV10 0QP
+
+Employer's website
+
+https://www.royalwolverhampton.nhs.uk/ (Opens in a new tab)
+
+Employer details
+
+Employer name
+
+The Royal Wolverhampton NHS Trust
+
+Address
+
+New Cross Hospital
+
+Wednesfield Road,
+
+Wolverhampton
+
+WV10 0QP
+
+Employer's website
+
+https://www.royalwolverhampton.nhs.uk/ (Opens in a new tab)
+
+LNKD1_UKTJ
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Job Summary<br><br></strong>The successful candidate will be enrolled onto the Level 6 Apprenticeship Standard - Data scientist (integrated degree) and will undergo a 4-year Data Scientist Apprenticeship program of work-based learning combined with academic courses at either Keele University or University of Nottingham (provider to be finalised). The successful completion of which, will see the apprentice achieve a BSc (Hons)Data Science. Depending on the route of the successful candidate this may lead to a future progressive pathway within the CIS team, Clinical Engineering. Applicants should hold a minimum of an HNC/D in an Engineering subject. All successful candidates will be offered a position conditionally, subject to achieving the required grades alongside mandatory checks (e.g. Disclosure and Barring Service, references, and Occupational Health). It is also desirable that the apprentice is familiar and comfortable using Microsoft Word, Excel, and PowerPoint.<br><br>Because of how the apprenticeship levy is accessed for training apprentices, applicants already with a relevant IT degree will not be considered/shortlisted.<br><br>Main duties of the job<br><br>To observe, learn and assist, under supervision, in the full range of work in the Clinical Engineering Department. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.<br><br>To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.<br><br>To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.<br><br>To follow department technical procedures and safety standards applicable to medical devices.<br><br>To conform to all departmental safe working practices, and departmental policies and procedures.<br><br><strong>About Us<br><br></strong>The Royal Wolverhampton NHS Trust is one of the largest NHS trusts in the West Midlands providing primary, acute and community services and we are incredibly proud of the diversity of both our staff and the communities we serve. We are building a workforce that can help us to fulfil our values, improve the quality of care for patients, and solve the health care problems of tomorrow. We're passionate about the value that diversity of thinking and lived experience brings in enabling us to become a learning organisation and leader in delivering compassionate care for our patients.<br><br>We are delighted that we have been rated as ""Good"" by CQC. We have achieved numerous awards; The Nursing Times Best Diversity and Inclusion Practice and Best UK Employer of the Year for Nursing Staff in 2020.<br><br>The Trust is a supportive working environment committed to creating flexible working arrangements that suit your needs and as such will consider all requests from applicants who wish to work flexibly.<br><br>Details<br><br>Date posted<br><br>16 June 2025<br><br>Pay scheme<br><br>Agenda for change<br><br>Band<br><br>Band 2<br><br>Salary<br><br>£24,169 a year per annum<br><br>Contract<br><br>Apprenticeship<br><br>Duration<br><br>4 years<br><br>Working pattern<br><br>Full-time<br><br>Reference number<br><br>225-EST-6979475-A<br><br>Job locations<br><br>New Cross Hospital<br><br>Wednesfield Road,<br><br>Wolverhampton<br><br>WV10 0QP<br><br><strong>Job Description<br><br></strong>Job responsibilities<br><br>We have created an exciting opportunity for an enthusiastic Clinical Engineering Apprentice to work as part of the Clinical Information Systems (CIS) team in the Clinical Engineering section of the Medical Physics &amp; Clinical Engineering Department within the Royal Wolverhampton NHS Trust and Walsall Healthcare NHS Trust.<br><br>The recruitment process will involve a tabletop/practical assessment and interview.<br><br>Main Duties &amp; Responsibilities<br><br>To be managerially and technically responsible to the Professional Technical Development Manager.<br><br>To be committed to making full use of the academic and practical opportunities the post offers, to gain the qualifications and skills needed to become a Clinical Technologist.<br><br>To observe, learn and assist, under supervision, in the full range of work of the Clinical Engineering Department, for the purpose of becoming competent in electronic and engineering activities. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.<br><br>To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work with reducing supervision, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.<br><br>To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.<br><br>To follow department technical procedures and safety standards applicable to medical devices and immediately report any matters which may affect staff or patient safety to a qualified Clinical Technologist.<br><br>Work-based learning will consist of spending time in all the 9 Clinical Engineering Sections at the Royal Wolverhampton NHS Trust (including West Park Hospital and Cannock Chase Hospital) and at Walsall Healthcare Trust, where they will gain experience and training, working alongside our experienced Clinical Technologists.<br><br>To participate, as appropriate to AFC banding/job role, in relevant training given by manufacturers and technical staff.<br><br>To understand the need to respond quickly and efficiently to all requests regarding medical devices, exercising own judgment in escalating to the appropriate clinical technologist.<br><br>To conform to all Medical Physics and Clinical Engineering (MPCE) safe working practices, and departmental policies and procedures. This includes working to the departmental Quality Management Systems (QMS).<br><br>To establish good working relationships with all technical, clinical and support staff that the apprentice will interact with.<br><br>This Job Description is a guide to the tasks involved with the post and is not exhaustive.<br><br><strong>Job Description<br><br></strong>Job responsibilities<br><br>We have created an exciting opportunity for an enthusiastic Clinical Engineering Apprentice to work as part of the Clinical Information Systems (CIS) team in the Clinical Engineering section of the Medical Physics &amp; Clinical Engineering Department within the Royal Wolverhampton NHS Trust and Walsall Healthcare NHS Trust.<br><br>The recruitment process will involve a tabletop/practical assessment and interview.<br><br>Main Duties &amp; Responsibilities<br><br>To be managerially and technically responsible to the Professional Technical Development Manager.<br><br>To be committed to making full use of the academic and practical opportunities the post offers, to gain the qualifications and skills needed to become a Clinical Technologist.<br><br>To observe, learn and assist, under supervision, in the full range of work of the Clinical Engineering Department, for the purpose of becoming competent in electronic and engineering activities. This work will include medical device safety for patients and staff, planned preventative/corrective maintenance, inventory management, medical device lifecycle management, acceptance and safety testing, medical device decommissioning, assistance in maintenance of records, equipment evaluation, development, and audit.<br><br>To progress towards acquiring the academic knowledge and practical skills necessary to complete medical device maintenance work with reducing supervision, completing the Clinical Apprentice Logbook, feedback and reflective forms as required, to support CPD evidence and RCT registration.<br><br>To ensure that any cleaning, calibration, safety checks and maintenance of medical devices and test equipment is carried out as instructed and in strict compliance with agreed instructions, maintaining accurate records of work undertaken.<br><br>To follow department technical procedures and safety standards applicable to medical devices and immediately report any matters which may affect staff or patient safety to a qualified Clinical Technologist.<br><br>Work-based learning will consist of spending time in all the 9 Clinical Engineering Sections at the Royal Wolverhampton NHS Trust (including West Park Hospital and Cannock Chase Hospital) and at Walsall Healthcare Trust, where they will gain experience and training, working alongside our experienced Clinical Technologists.<br><br>To participate, as appropriate to AFC banding/job role, in relevant training given by manufacturers and technical staff.<br><br>To understand the need to respond quickly and efficiently to all requests regarding medical devices, exercising own judgment in escalating to the appropriate clinical technologist.<br><br>To conform to all Medical Physics and Clinical Engineering (MPCE) safe working practices, and departmental policies and procedures. This includes working to the departmental Quality Management Systems (QMS).<br><br>To establish good working relationships with all technical, clinical and support staff that the apprentice will interact with.<br><br>This Job Description is a guide to the tasks involved with the post and is not exhaustive.<br><br>Person Specification<br><br><strong>Qualifications<br><br></strong>Essential<br><br><ul><li>GCSE Maths and English Language Grade C/4 and above (or equivalent).</li><li>Level 3 qualification in a relevant Engineering subject, (i.e. BTEC Level 3 Diploma or Extended Diploma) or A levels in Maths and a Science subject.</li><li>Demonstrates a commitment to further learning and personal development.<br><br></li></ul><strong>Experience/Skills<br><br></strong>Essential<br><br><ul><li>Must demonstrate a willingness to develop new skills and acquire additional qualifications.</li><li>Must be motivated and able to organise personal study programme</li><li>Must have a high level of manual dexterity.</li><li>Must be able to follow and consistently apply safety instructions.</li><li>Must be computer literate.<br><br></li></ul>Desirable<br><br><ul><li>Must be able to concentrate and pay attention to detail for prolonged periods.</li><li>Must be able to follow intricate instruction.</li><li>Must be able to keep accurate written and computer records.</li><li>Must be able to demonstrate the ability to work on own initiative and organise own workload.</li><li>Understands all the potential hazards posed by undertaking the duties of the role.</li><li>Understands and works with the limits and scope of the job role.<br><br></li></ul>Communication<br><br><strong>Essential<br><br></strong><ul><li>Work as part of a multidisciplinary team.</li><li>Demonstrate good verbal, non-verbal and written skills.<br><br></li></ul>Desirable<br><br><ul><li>Deal with unpredictable situations.</li><li>Demonstrate an ability to use information technology systems.</li><li>Demonstrate an understanding of Information Governance and confidentiality.<br><br></li></ul>Flexibility With Working Arrangements<br><br><strong>Essential<br><br></strong><ul><li>Must be able to travel to the various academic institutions, and work area placements.<br><br></li></ul>Desirable<br><br><ul><li>Required to work flexibly to meet unpredictable demands on the service.<br><br></li></ul>Person Specification<br><br><strong>Essential<br><br></strong><ul><li>Must be able to travel to the various academic institutions, and work area placements.<br><br></li></ul>Desirable<br><br><ul><li>Required to work flexibly to meet unpredictable demands on the service.<br><br></li></ul>Disclosure and Barring Service Check<br><br>This post is subject to the Rehabilitation of Offenders Act (Exceptions Order) 1975 and as such it will be necessary for a submission for Disclosure to be made to the Disclosure and Barring Service (formerly known as CRB) to check for any previous criminal convictions.<br><br>Certificate of Sponsorship<br><br>Applications from job seekers who require current Skilled worker sponsorship to work in the UK are welcome and will be considered alongside all other applications. For further information visit the UK Visas and Immigration website (Opens in a new tab).<br><br>From 6 April 2017, skilled worker applicants, applying for entry clearance into the UK, have had to present a criminal record certificate from each country they have resided continuously or cumulatively for 12 months or more in the past 10 years. Adult dependants (over 18 years old) are also subject to this requirement. Guidance can be found here Criminal records checks for overseas applicants (Opens in a new tab).<br><br>Additional information<br><br>Disclosure and Barring Service Check<br><br>This post is subject to the Rehabilitation of Offenders Act (Exceptions Order) 1975 and as such it will be necessary for a submission for Disclosure to be made to the Disclosure and Barring Service (formerly known as CRB) to check for any previous criminal convictions.<br><br>Certificate of Sponsorship<br><br>Applications from job seekers who require current Skilled worker sponsorship to work in the UK are welcome and will be considered alongside all other applications. For further information visit the UK Visas and Immigration website (Opens in a new tab).<br><br>From 6 April 2017, skilled worker applicants, applying for entry clearance into the UK, have had to present a criminal record certificate from each country they have resided continuously or cumulatively for 12 months or more in the past 10 years. Adult dependants (over 18 years old) are also subject to this requirement. Guidance can be found here Criminal records checks for overseas applicants (Opens in a new tab).<br><br>Employer details<br><br>Employer name<br><br>The Royal Wolverhampton NHS Trust<br><br>Address<br><br>New Cross Hospital<br><br>Wednesfield Road,<br><br>Wolverhampton<br><br>WV10 0QP<br><br>Employer's website<br><br>https://www.royalwolverhampton.nhs.uk/ (Opens in a new tab)<br><br>Employer details<br><br>Employer name<br><br>The Royal Wolverhampton NHS Trust<br><br>Address<br><br>New Cross Hospital<br><br>Wednesfield Road,<br><br>Wolverhampton<br><br>WV10 0QP<br><br>Employer's website<br><br>https://www.royalwolverhampton.nhs.uk/ (Opens in a new tab)<br><br>LNKD1_UKTJ
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-17,[]
+4257654764,https://uk.linkedin.com/jobs/view/biology-research-scientist-ai-trainer-at-dataannotation-4257654764?position=3&pageNum=0&refId=HlEQWWDRJWOOjiQ2Fd5daw%3D%3D&trackingId=U%2BTbI7s7zaaTsJOghmIhng%3D%3D,Biology Research Scientist - AI Trainer,DataAnnotation,"Wolverhampton, England, United Kingdom","We are looking for a *biology research scientist* to join our team to train AI models. You will measure the progress of these AI chatbots, evaluate their logic, and solve problems to improve the quality of each model.
+
+Do not pass up this chance, apply quickly if your experience and skills match what is in the following description.
+
+In this role you will need to hold an expert understanding of biology- a completed or in progress Masters/PhD is preferred but not required. Other related fields include, but are not limited to: Microbiology, Cell Biology, Genetics, Physiology, Biochemistry, Molecular Biology, Biotechnology, Environmental Science.
+
+Benefits
+
+
+This is a full-time or part-time REMOTE position
+You’ll be able to choose which projects you want to work on
+You can work on your own schedule
+Projects are paid hourly starting at $40+ USD per hour, with bonuses on high-quality and high-volume work
+
+
+Responsibilities
+
+
+Give AI chatbots diverse and complex biology problems and evaluate their outputs
+Evaluate the quality produced by AI models for correctness and performance
+
+
+Qualifications
+
+
+A current, in progress, or completed Masters and/or PhD is preferred but not required
+Fluency in English (native or bilingual level)
+Detail-oriented
+Proficient in biology and inductive/deductive reasoning, experimental design, data interpretation, and systems-level thinking.
+
+
+Note: Payment is made via PayPal. We will never ask for any money from you.
+
+#INDUKBIO
+
+Job Types: Full-time, Part-time
+
+Pay: From £29.06 per hour
+
+Location:
+
+
+Wolverhampton (preferred)
+
+
+Work Location: Remote
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We are looking for a *biology research scientist* to join our team to train AI models. You will measure the progress of these AI chatbots, evaluate their logic, and solve problems to improve the quality of each model.<br><br>Do not pass up this chance, apply quickly if your experience and skills match what is in the following description.<br><br>In this role you will need to hold an expert understanding of biology- a completed or in progress Masters/PhD is preferred but not required. Other related fields include, but are not limited to: Microbiology, Cell Biology, Genetics, Physiology, Biochemistry, Molecular Biology, Biotechnology, Environmental Science.<br><br><strong>Benefits<br><br></strong><ul><li> This is a full-time or part-time REMOTE position</li><li> You’ll be able to choose which projects you want to work on</li><li> You can work on your own schedule</li><li> Projects are paid hourly starting at $40+ USD per hour, with bonuses on high-quality and high-volume work<br><br></li></ul><strong>Responsibilities<br><br></strong><ul><li> Give AI chatbots diverse and complex biology problems and evaluate their outputs</li><li> Evaluate the quality produced by AI models for correctness and performance<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li> A current, in progress, or completed Masters and/or PhD is preferred but not required</li><li> Fluency in English (native or bilingual level)</li><li> Detail-oriented</li><li> Proficient in biology and inductive/deductive reasoning, experimental design, data interpretation, and systems-level thinking.<br><br></li></ul>Note: Payment is made via PayPal. We will never ask for any money from you.<br><br>#INDUKBIO<br><br>Job Types: Full-time, Part-time<br><br>Pay: From £29.06 per hour<br><br>Location:<br><br><ul><li> Wolverhampton (preferred)<br><br></li></ul>Work Location: Remote
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-03,[]
+4254843460,https://www.linkedin.com/jobs/view/staff-data-scientist-research-search-platforms-at-google-4254843460?position=1&pageNum=0&refId=xCjj6ZG%2FZYxGP2ghg9%2Bjew%3D%3D&trackingId=MHOS8mkCGF9Q5o0c0FW3iQ%3D%3D,"Staff Data Scientist, Research, Search Platforms",Google,"Cambridge, MA","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Mountain View, CA, USA; Cambridge, MA, USA.Minimum qualifications:
+
+
+Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.
+8 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 6 years of work experience with a PhD degree.
+
+
+Preferred qualifications:
+
+
+10 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 8 years of work experience with a PhD degree.
+
+
+About the jobThe Search Platform Data Science team works on understanding and measuring Search systems, including but not limited to Experiment, Reliability, Velocity, Latency, Capacity, Content, Logs Quality and Search Infrastructure.In Google Search, we're re-imagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally.
+
+The US base salary range for this full-time position is $197,000-$291,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+
+Responsibilities
+
+
+Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into analysis, evaluation metrics, or mathematical models.
+Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.
+Research and develop analysis, forecasting, and optimization methods to improve the quality of Google's user-facing products.
+Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.
+
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Mountain View, CA, USA; Cambridge, MA, USA</strong>.<strong>Minimum qualifications:<br><br></strong><ul><li>Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field.</li><li>8 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 6 years of work experience with a PhD degree.<br><br></li></ul><strong>Preferred qualifications:<br><br></strong><ul><li>10 years of work experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or 8 years of work experience with a PhD degree.<br><br></li></ul><strong>About the job</strong>The Search Platform Data Science team works on understanding and measuring Search systems, including but not limited to Experiment, Reliability, Velocity, Latency, Capacity, Content, Logs Quality and Search Infrastructure.In Google Search, we're re-imagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally.<br><br>The US base salary range for this full-time position is $197,000-$291,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br><br>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br><br><strong>Responsibilities<br><br></strong><ul><li>Collaborate with stakeholders in cross-projects and team settings to identify and clarify business or product questions to answer. Provide feedback to translate and refine business questions into analysis, evaluation metrics, or mathematical models.</li><li>Use custom data infrastructure or existing data models as appropriate, using specialized knowledge. Design and evaluate models to mathematically express and solve defined problems with limited precedent.</li><li>Research and develop analysis, forecasting, and optimization methods to improve the quality of Google's user-facing products.</li><li>Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python). Format, re-structure, or validate data to ensure quality, and review the dataset to ensure it is ready for analysis.<br><br><br></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4246273343,https://www.linkedin.com/jobs/view/data-scientist-at-lumafield-4246273343?position=2&pageNum=0&refId=xCjj6ZG%2FZYxGP2ghg9%2Bjew%3D%3D&trackingId=9f3D83YQC41584j17a1ImA%3D%3D,Data Scientist,Lumafield,"Boston, MA","About Lumafield: 
+
+
+
+
+Lumafield was founded in 2019 to upgrade manufacturing.
+
+
+
+
+We are engineers with deep experience across the product development cycle, from initial ideas to shipping hardware, across industries and specializations, who became frustrated by the cost and complexity of modern manufacturing. So we decided to upgrade it.
+
+
+
+
+Engineers make million-dollar decisions every day, and they need tools that give them the greatest possible insight into their products. By offering unprecedented visibility into products, as well as AI-driven tools that highlight problems and generate quantitative data, Lumafield promises to revolutionize the way complex products are created, manufactured, and used across industries. We started with industrial CT scanning, which for us was the most valuable but underutilized tool in the manufacturing toolbox, enabling us to rapidly inspect essential components non-destructively.
+
+
+
+
+We rebuilt the whole system, from X-ray capture, to computer vision analysis, to web-based collaboration, to the entire business model, making the most advanced manufacturing tech more accessible to every industry. Our company, like our platform, is designed for upgrades. We’re building for greater intelligence, autonomy, and speed. For deeper vision, operational excellence, and powerful insights. And then we'll upgrade it all again.
+
+
+
+
+Lumafield is headquartered in Cambridge, MA, and has an office in San Francisco, CA.
+
+
+
+
+About the role:
+
+
+
+
+The ideal candidate for this role comes from a Data Science background with startup experience working with systems. If you thrive on solving big business problems, love connecting the dots between technology and strategy, and want to see your ideas come to life across the entire organization, this is the opportunity you’ve been waiting for. This role will be focused on providing critical insights to the business, as well as building and maintaining the required business systems, workflows, processes, and connections necessary to get those analyses up and running. As such, the role will require being comfortable handling a “full stack” of tasks at a high level, ranging from systems implementation, translating process requirements into systems requirements and vice versa, data engineering, and data analysis.
+
+
+
+
+This role puts you at the heart of our company’s evolution, giving you the opportunity to shape how we work, make data-driven decisions, and deliver exceptional value to our customers and teams.
+
+
+
+
+What you'll do:
+Partner with leaders and teams across the business to uncover high-impact opportunities, translating real business needs into innovative system and data solutions that drive company growth and operational excellence
+Improve or build new capabilities in existing business systems and hand off to system owners throughout the company
+Champion process optimization by identifying and implementing both technology-driven and strategic improvements, ensuring our business stays agile and competitive
+Maintain a stack of business systems and build integrations and connections between them as needed
+Define and document these processes and workflows in process diagrams, wireframes, mapping documents, functional specifications, non-functional specifications, ERDs, use cases, user stories, and logical data models
+Serve as a trusted advisor and trainer, equipping end users and stakeholders with the knowledge and tools they need to maximize the impact of our systems and insights
+Project manage external systems consultants, where necessary
+
+
+
+
+About you:
+5-10 years of work experience in data analysis, business intelligence, and business systems
+Strong SQL and proficient Python knowledge
+Experience with data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools
+Experience in API integrations and data migration/data conversion.
+Experience with data visualization tools and packages (e.g. Looker, Tableau, Power BI)
+Experience implementing business systems, sometimes from scratch (including understanding business processes, gathering user requirements, design, testing, deployment, and training)
+Must have the ability to communicate, motivate and organize projects throughout the company
+Must have ability to work independently and handle end-to-end projects
+
+
+
+
+
+
+
+Lumafield offers both competitive cash and equity compensation, as well as a health & wellness stipend, 401k, parental leave, flexible PTO, commuter benefits, company wide events and more! 
+
+
+
+
+Lumafield is committed to building a team that represents a variety of backgrounds, perspectives, and skills, because the more inclusive we are, the better our work will be. Do you feel like your skills don’t meet every single requirement listed? We encourage you to apply anyway – If you’re excited about our technology, the opportunity, and are eager to learn more we’d love to hear from you!  
+
+
+
+
+In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability, genetic information or veteran status. 
+
+
+
+
+Reach out if you want to be a part of what we are building.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>About Lumafield:&nbsp;</strong></p><p><br></p><p>Lumafield was founded in 2019 to upgrade manufacturing. </p><p><br></p><p>We are engineers with deep experience across the product development cycle, from initial ideas to shipping hardware, across industries and specializations, who became frustrated by the cost and complexity of modern manufacturing. So we decided to upgrade it. </p><p><br></p><p>Engineers make million-dollar decisions every day, and they need tools that give them the greatest possible insight into their products. By offering unprecedented visibility into products, as well as AI-driven tools that highlight problems and generate quantitative data, Lumafield promises to revolutionize the way complex products are created, manufactured, and used across industries. We started with industrial CT scanning, which for us was the most valuable but underutilized tool in the manufacturing toolbox, enabling us to rapidly inspect essential components non-destructively. </p><p><br></p><p> We rebuilt the whole system, from X-ray capture, to computer vision analysis, to web-based collaboration, to the entire business model, making the most advanced manufacturing tech more accessible to every industry. Our company, like our platform, is designed for upgrades. We’re building for greater intelligence, autonomy, and speed. For deeper vision, operational excellence, and powerful insights. And then we'll upgrade it all again. </p><p><br></p><p>Lumafield is headquartered in Cambridge, MA, and has an office in San Francisco, CA. </p><p><br></p><p><strong>About the role: </strong></p><p><br></p><p><span>The ideal candidate for this role comes from a Data Science background with startup experience working with systems. If you thrive on solving big business problems, love connecting the dots between technology and strategy, and want to see your ideas come to life across the entire organization, this is the opportunity you’ve been waiting for. This role will be focused on providing critical insights to the business, as well as building and maintaining the required business systems, workflows, processes, and connections necessary to get those analyses up and running. As such, the role will require being comfortable handling a “full stack” of tasks at a high level, ranging from systems implementation, translating process requirements into systems requirements and vice versa, data engineering, and data analysis.</span></p><p><br></p><p><span>This role puts you at the heart of our company’s evolution, giving you the opportunity to shape how we work, make data-driven decisions, and deliver exceptional value to our customers and teams.</span></p><p></p><p><br></p><strong>What you'll do: </strong><ul><li>Partner with leaders and teams across the business to uncover high-impact opportunities, translating real business needs into innovative system and data solutions that drive company growth and operational excellence</li><li>Improve or build new capabilities in existing business systems and hand off to system owners throughout the company</li><li>Champion process optimization by identifying and implementing both technology-driven and strategic improvements, ensuring our business stays agile and competitive</li><li>Maintain a stack of business systems and build integrations and connections between them as needed</li><li>Define and document these processes and workflows in process diagrams, wireframes, mapping documents, functional specifications, non-functional specifications, ERDs, use cases, user stories, and logical data models</li><li>Serve as a trusted advisor and trainer, equipping end users and stakeholders with the knowledge and tools they need to maximize the impact of our systems and insights</li><li>Project manage external systems consultants, where necessary</li></ul><p><br></p><strong>About you: </strong><ul><li>5-10 years of work experience in data analysis, business intelligence, and business systems</li><li>Strong SQL and proficient Python knowledge</li><li>Experience with data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools</li><li>Experience in API integrations and data migration/data conversion.</li><li>Experience with data visualization tools and packages (e.g. Looker, Tableau, Power BI)</li><li>Experience implementing business systems, sometimes from scratch (including understanding business processes, gathering user requirements, design, testing, deployment, and training)</li><li>Must have the ability to communicate, motivate and organize projects throughout the company</li><li>Must have ability to work independently and handle end-to-end projects</li></ul><p></p><p><br></p><br><p>Lumafield offers both competitive cash and equity compensation, as well as a health &amp; wellness stipend, 401k, parental leave, flexible PTO, commuter benefits, company wide events and more!&nbsp;</p><p><br></p><p>Lumafield is committed to building a team that represents a variety of backgrounds, perspectives, and skills, because the more inclusive we are, the better our work will be. Do you feel like your skills don’t meet every single requirement listed? We encourage you to apply anyway – If you’re excited about our technology, the opportunity, and are eager to learn more we’d love to hear from you!&nbsp;&nbsp;</p><p><br></p><p>In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability, genetic information or veteran status.&nbsp;</p><p><br></p><p>Reach out if you want to be a part of what we are building.</p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-10,[]
+4225367803,https://www.linkedin.com/jobs/view/data-science-specialist-at-franklin-fitch-4225367803?position=3&pageNum=0&refId=xCjj6ZG%2FZYxGP2ghg9%2Bjew%3D%3D&trackingId=4h7YKFswIefB6bOkwi9oQg%3D%3D,Data Science Specialist,Franklin Fitch,"Boston, MA","Senior Data Security Analyst | Boston, MA | $90,000-$130,000 + Bonus
+
+
+
+
+A leading professional services firm is seeking a Senior Data Security Analyst who will be joining a fast-growing team which has doubled in size over the last year and receiving consistent investment. You will take complete ownership over their iManage and Relativity application suite, and be operating in a cloud-first environment.
+
+
+
+
+You will be joining an organization which is highly collaborative and team-orientated. Despite the fast-paced nature of their environment, they are a people-first organization who encourage a strong work/life balance. They place a strong emphasis on growth and development and there will be several opportunities to work towards Director-level positions.
+
+
+
+
+They are willing to pay up to $130,000 + Bonus depending on experience as well as a strong benefits package. This will be a hybrid role in Boston, MA with an expectation of three days a week onsite.
+
+
+
+
+Key requirements for the role:
+
+
+
+
+Information Governance
+iManage
+Relativity
+
+
+
+
+The company is looking to begin conversations and interviews this week so to secure an interview slot, send in an application.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong><u>Senior Data Security Analyst | Boston, MA | $90,000-$130,000 + Bonus</u></strong></p><p><br></p><p>A leading professional services firm is seeking a Senior Data Security Analyst who will be joining a fast-growing team which has doubled in size over the last year and receiving consistent investment. You will take complete ownership over their iManage and Relativity application suite, and be operating in a cloud-first environment.</p><p><br></p><p>You will be joining an organization which is highly collaborative and team-orientated. Despite the fast-paced nature of their environment, they are a people-first organization who encourage a strong work/life balance. They place a strong emphasis on growth and development and there will be several opportunities to work towards Director-level positions.</p><p><br></p><p>They are willing to pay up to $130,000 + Bonus depending on experience as well as a strong benefits package. This will be a hybrid role in Boston, MA with an expectation of three days a week onsite.</p><p><br></p><p><strong><u>Key requirements for the role:</u></strong></p><p><br></p><ul><li>Information Governance</li><li>iManage</li><li>Relativity</li></ul><p><br></p><p><strong><u>The company is looking to begin conversations and interviews this week so to secure an interview slot, send in an application.</u></strong></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-04,[]
