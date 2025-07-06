@@ -1,0 +1,1609 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4257982437,https://de.linkedin.com/jobs/view/product-data-analyst-f-m-d-at-enpal-4257982437?position=1&pageNum=0&refId=bvpKyTZcIa0zqEIWkwTaTg%3D%3D&trackingId=2DNBJzrGq7xg5i7y1Ty71w%3D%3D,(Product) Data Analyst (f/m/d),Enpal,"Berlin, Berlin, Germany","Company Description
+
+Our goal is a solar power system on every roof, a storage unit in every house, and an e-car in every garage. How are we achieving this? Enpal makes solar easy: we rent out solar power systems, electricity storage and wallboxes at an all-inclusive rate, supplemented by a low-cost green electricity tariff, and intelligently networked into an integrated overall solution.
+
+We are just at the beginning of our journey to becoming Europe's largest energy company. That's why we're looking for talented people to accompany us on this journey, leave their footprint and celebrate successes together with us. At Enpal, you will find a dynamic working environment as well as the space to develop yourself personally and professionally and to use your strengths effectively.
+
+As the first green unicorn in Germany and the fastest-growing energy company in Europe (FT1000 Ranking 2022 by Financial Times & Statista), we continue to advance our mission of green energy for everyone. Be part of this success story and change the world with us!
+
+About The Team
+
+Are you ready for one of the great infrastructure challenges of the 2100s? To truly transform into a decentralized power grid that can support a fully electrified, renewable future, millions of homes need to be equipped with smart meters and control systems. At Enpal MSB, we are performing the fastest roll-out in the German market at unprecedented scale, shaping the way this digitally transformed grid will operate.
+
+Join our energetic and driven team as we turn our internal solutions into backbone infrastructure products to enable utilities, grid operators, and emerging energy providers to install and operate smart meters at scale. We achieve this by being a fast and independent unit built on interdisciplinary collaboration, where we work cross-functionally across technical and non-technical roles, putting a passion for the problems above traditional role boundaries.
+
+Job Description
+
+We are looking for a (Product) Data Analyst (f/m/d) to join our Smart Metering (MSB) team and play a key role in shaping our digital products and operational infrastructure through data. In this role, you will work at the intersection of energy data, regulation, and product development – turning raw metering and operational data into insights, models, and scalable data services. You’ll be embedded in a cross-functional team alongside Product Managers, Engineers, and Operations specialists, enabling our rollout from tens of thousands to millions of smart meters.
+
+This is a high-impact role for someone who loves solving messy data problems, automating manual workflows, and enabling decision-making through clean, reliable data pipelines.
+
+Responsibilities
+
+
+You will build and maintain core datasets that power our digital smart metering products and operational reporting
+You will design, implement, and validate data models that support regulatory market communication, device operations, and forecasting models
+You will analyze data quality, detect anomalies, and propose improvements to our metering and backend processes
+You will support PMs with ad-hoc analysis, business case modelling, and KPI tracking; and you will work closely with engineering and data platform teams to define and improve data interfaces (e.g. APIs, ETL pipelines)
+You will ensure data consistency and lineage across multiple systems
+You will develop dashboards and self-service tools for internal users
+You will translate regulatory requirements into data logic that can be operationalized and audited
+
+
+
+Qualifications
+
+
+You have at least 2 years of hands-on experience in data analysis or analytics engineering, ideally in an infrastructure-heavy or regulated environment.
+You bring hands-on experience with SQL and large, complex datasets, including raw time series data. You know how to clean and transform data into actionable insights, and have built dashboards and reports using BI tools (Tableau, Metabase, or Power BI).
+Familiarity with Python, Snowflake, dbt, or data modeling concepts (e.g., dimensional modeling, staging layers) is a nice-to-have, as is experience with energy market data flows or smart metering.
+You communicate clearly in English. Knowledge of German is a plus.
+You enjoy working in agile, cross-functional teams and take ownership beyond writing queries, contributing to the design and improvement of data systems as a whole.
+
+
+
+Benefits
+
+Additional Information
+
+
+Work in Germany's first green unicorn and actively shape the solar energy revolution.
+The sun shines all over the world - at Enpal you will find a highly motivated and diverse team with more than 65 different nationalities.
+Would you rather keep your pet company at home or your colleagues at the office? Even after the pandemic, we offer you a hybrid working model
+We fulfill every start-up cliché - in our modern office in Berlin-Friedrichshain, you'll find everything your heart desires, from a ping-pong table and yoga corner to a roof terrace and stocked drinks fridges.
+Your kick-start at Enpal - Get to know the company, your team colleagues and our founder Mario on your onboarding day.
+Stay up to date - Whether it's company figures at our monthly all-hands meetings or how a photovoltaic system works at the Lunch & Learn, you'll always know exactly what's going on.
+Energy transition only works together - At Enpal, you can expect a legendary team spirit and unforgettable team events.
+No mistakes, no progress - We live a strong feedback culture and grow with your input, either personally or anonymously via our feedback tool Culture Amp.
+
+
+
+At Enpal, we are proud of the diversity of our team. No decisions are made on the basis of skin colour, religion or religious belief, ethnic or national origin, nationality, gender identity, sexual orientation, disability or age, either during recruitment or employment. Enpal stands for a safe workplace and takes action against discrimination and harassment of any kind.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Company Description<br><br></strong>Our goal is a solar power system on every roof, a storage unit in every house, and an e-car in every garage. How are we achieving this? Enpal makes solar easy: we rent out solar power systems, electricity storage and wallboxes at an all-inclusive rate, supplemented by a low-cost green electricity tariff, and intelligently networked into an integrated overall solution.<br><br>We are just at the beginning of our journey to becoming Europe's largest energy company. That's why we're looking for talented people to accompany us on this journey, leave their footprint and celebrate successes together with us. At Enpal, you will find a dynamic working environment as well as the space to develop yourself personally and professionally and to use your strengths effectively.<br><br>As the first green unicorn in Germany and the fastest-growing energy company in Europe (FT1000 Ranking 2022 by Financial Times &amp; Statista), we continue to advance our mission of green energy for everyone. Be part of this success story and change the world with us!<br><br><strong>About The Team<br><br></strong>Are you ready for one of the great infrastructure challenges of the 2100s? To truly transform into a decentralized power grid that can support a fully electrified, renewable future, millions of homes need to be equipped with smart meters and control systems. At Enpal MSB, we are performing the fastest roll-out in the German market at unprecedented scale, shaping the way this digitally transformed grid will operate.<br><br>Join our energetic and driven team as we turn our internal solutions into backbone infrastructure products to enable utilities, grid operators, and emerging energy providers to install and operate smart meters at scale. We achieve this by being a fast and independent unit built on interdisciplinary collaboration, where we work cross-functionally across technical and non-technical roles, putting a passion for the problems above traditional role boundaries.<br><br><strong>Job Description<br><br></strong>We are looking for a <strong>(Product) Data Analyst (f/m/d)</strong> to join our Smart Metering (MSB) team and play a key role in shaping our digital products and operational infrastructure through data. In this role, you will work at the intersection of energy data, regulation, and product development – turning raw metering and operational data into insights, models, and scalable data services. You’ll be embedded in a cross-functional team alongside Product Managers, Engineers, and Operations specialists, enabling our rollout from tens of thousands to millions of smart meters.<br><br>This is a high-impact role for someone who loves solving messy data problems, automating manual workflows, and enabling decision-making through clean, reliable data pipelines.<br><br><strong>Responsibilities<br><br></strong><ul><li>You will build and maintain core datasets that power our digital smart metering products and operational reporting </li><li>You will design, implement, and validate data models that support regulatory market communication, device operations, and forecasting models </li><li>You will analyze data quality, detect anomalies, and propose improvements to our metering and backend processes </li><li>You will support PMs with ad-hoc analysis, business case modelling, and KPI tracking; and you will work closely with engineering and data platform teams to define and improve data interfaces (e.g. APIs, ETL pipelines) </li><li>You will ensure data consistency and lineage across multiple systems </li><li>You will develop dashboards and self-service tools for internal users </li><li>You will translate regulatory requirements into data logic that can be operationalized and audited <br><br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>You have at least 2 years of hands-on experience in data analysis or analytics engineering, ideally in an infrastructure-heavy or regulated environment. </li><li>You bring hands-on experience with SQL and large, complex datasets, including raw time series data. You know how to clean and transform data into actionable insights, and have built dashboards and reports using BI tools (Tableau, Metabase, or Power BI). </li><li>Familiarity with Python, Snowflake, dbt, or data modeling concepts (e.g., dimensional modeling, staging layers) is a nice-to-have, as is experience with energy market data flows or smart metering. </li><li>You communicate clearly in English. Knowledge of German is a plus. </li><li>You enjoy working in agile, cross-functional teams and take ownership beyond writing queries, contributing to the design and improvement of data systems as a whole. <br><br><br></li></ul><strong>Benefits<br><br></strong><strong>Additional Information<br><br></strong><ul><li>Work in Germany's first green unicorn and actively shape the solar energy revolution. </li><li>The sun shines all over the world - at Enpal you will find a highly motivated and diverse team with more than 65 different nationalities. </li><li>Would you rather keep your pet company at home or your colleagues at the office? Even after the pandemic, we offer you a hybrid working model </li><li>We fulfill every start-up cliché - in our modern office in Berlin-Friedrichshain, you'll find everything your heart desires, from a ping-pong table and yoga corner to a roof terrace and stocked drinks fridges. </li><li>Your kick-start at Enpal - Get to know the company, your team colleagues and our founder Mario on your onboarding day. </li><li>Stay up to date - Whether it's company figures at our monthly all-hands meetings or how a photovoltaic system works at the Lunch &amp; Learn, you'll always know exactly what's going on. </li><li>Energy transition only works together - At Enpal, you can expect a legendary team spirit and unforgettable team events. </li><li>No mistakes, no progress - We live a strong feedback culture and grow with your input, either personally or anonymously via our feedback tool Culture Amp. <br><br><br></li></ul>At Enpal, we are proud of the diversity of our team. No decisions are made on the basis of skin colour, religion or religious belief, ethnic or national origin, nationality, gender identity, sexual orientation, disability or age, either during recruitment or employment. Enpal stands for a safe workplace and takes action against discrimination and harassment of any kind.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-30,[]
+4251551967,https://de.linkedin.com/jobs/view/data-analyst-m-f-x-en-at-visable-4251551967?position=2&pageNum=0&refId=bvpKyTZcIa0zqEIWkwTaTg%3D%3D&trackingId=j7ZmufMe81cg31Y3h%2BDytg%3D%3D,Data Analyst (m/f/x)- EN,Visable,"Berlin, Berlin, Germany","Shape the future of B2B with us
+
+
+Identify, analyze, and interpret patterns and trends in complex data sets
+Collaborate closely with cross-functional teams (e.g., Product) and our Data teams (Data Engineering, Data Science, Web Analytics)
+Act as a trusted analytics partner and point of contact for internal stakeholders
+Support product and business decisions with a data-first approach
+Define and evolve new KPIs and sustainable, scalable reporting structures
+Develop and implement automated reports and dashboards using Tableau
+Champion a data-driven mindset across the company and mentor power users
+
+
+What we offer
+
+
+The opportunity to actively shape the future of the online B2B business and build an European champion 
+You can expect an established traditional company with the advantages of a dynamic start-up culture: flat hierarchies, relaxed, informal atmosphere and a great team spirit 
+An agile and supportive environment where success is always a team effort 
+Benefit from our fitness cooperation with Urban Sports Club and train flexibly in over 7,500 studios across Germany
+Optimal work-life balance with 30 vacation days (plus Christmas Eve & New Year's Eve) and flexible working hours
+We believe in the best of both worlds: flexibility and collaboration. Thus, you'll enjoy the benefits of working from home while also experiencing the team spirit in our offices (approx. 50%)
+We promote your professional and personal skills with individual training opportunities (e.g. Visable Online-Academy & Trainings), regular feedback discussions and team-building measures 
+Take advantage of our “Workation” offer and work where others spend their holiday
+
+
+This is how you can impress us
+
+
+At least 3 years of proven experience as a Data Analyst, ideally in Product Analytics
+A degree in Mathematics, Statistics, Computer Science, or a related field
+Solid understanding of data processes and business needs
+Very strong SQL skills; confident working with transactional databases and data models (Star and Snowflake schema)
+Proficiency in Tableau or similar data visualization tools
+Excellent analytical thinking and creative problem-solving skills
+Strong communication skills and the ability to collaborate with a wide range of stakeholders
+A proactive, team-oriented mindset with a passion for driving change
+Business fluency in English (written and spoken); German skills are a plus
+
+
+Bonus Points
+
+
+Experience with Python or R
+Familiarity with A/B testing, experimentation frameworks, or AWS
+Passion for improving data infrastructure, streamlining workflows, and enabling scalable solutions
+
+
+We live and love diversity! That's why we signed the „Diversity Charter“ to promote equal opportunities and diversity in all its components. By signing the Diversity Charter we guarantee that all qualified applicants are considered for employment without regard to age, ethnicity, religion, sexual orientation gender identity or physical abilities. A culture of respectful interaction is deeply rooted in our corporate values and therefore we want every employee to feel included, accepted and valued. With over 50 different nationalities and more than 20 spoken languages among Visable’s workforce, we can already be proud of being a culturally varied and truly international company.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Shape the future of B2B with us<br><br><ul><li>Identify, analyze, and interpret patterns and trends in complex data sets</li><li>Collaborate closely with cross-functional teams (e.g., Product) and our Data teams (Data Engineering, Data Science, Web Analytics)</li><li>Act as a trusted analytics partner and point of contact for internal stakeholders</li><li>Support product and business decisions with a data-first approach</li><li>Define and evolve new KPIs and sustainable, scalable reporting structures</li><li>Develop and implement automated reports and dashboards using Tableau</li><li>Champion a data-driven mindset across the company and mentor power users<br><br></li></ul>What we offer<br><br><ul><li>The opportunity to actively shape the future of the online B2B business and build an European champion  </li><li>You can expect an established traditional company with the advantages of a dynamic start-up culture: flat hierarchies, relaxed, informal atmosphere and a great team spirit  </li><li>An agile and supportive environment where success is always a team effort  </li><li>Benefit from our fitness cooperation with Urban Sports Club and train flexibly in over 7,500 studios across Germany</li><li>Optimal work-life balance with 30 vacation days (plus Christmas Eve &amp; New Year's Eve) and flexible working hours</li><li>We believe in the best of both worlds: flexibility and collaboration. Thus, you'll enjoy the benefits of working from home while also experiencing the team spirit in our offices (approx. 50%)</li><li>We promote your professional and personal skills with individual training opportunities (e.g. Visable Online-Academy &amp; Trainings), regular feedback discussions and team-building measures  </li><li>Take advantage of our “Workation” offer and work where others spend their holiday<br><br></li></ul>This is how you can impress us<br><br><ul><li>At least 3 years of proven experience as a Data Analyst, ideally in Product Analytics</li><li>A degree in Mathematics, Statistics, Computer Science, or a related field</li><li>Solid understanding of data processes and business needs</li><li>Very strong SQL skills; confident working with transactional databases and data models (Star and Snowflake schema)</li><li>Proficiency in Tableau or similar data visualization tools</li><li>Excellent analytical thinking and creative problem-solving skills</li><li>Strong communication skills and the ability to collaborate with a wide range of stakeholders</li><li>A proactive, team-oriented mindset with a passion for driving change</li><li>Business fluency in English (written and spoken); German skills are a plus<br><br></li></ul><strong>Bonus Points<br><br></strong><ul><li>Experience with Python or R</li><li>Familiarity with A/B testing, experimentation frameworks, or AWS</li><li>Passion for improving data infrastructure, streamlining workflows, and enabling scalable solutions<br><br></li></ul>We live and love diversity! That's why we signed the „Diversity Charter“ to promote equal opportunities and diversity in all its components. By signing the Diversity Charter we guarantee that all qualified applicants are considered for employment without regard to age, ethnicity, religion, sexual orientation gender identity or physical abilities. A culture of respectful interaction is deeply rooted in our corporate values and therefore we want every employee to feel included, accepted and valued. With over 50 different nationalities and more than 20 spoken languages among Visable’s workforce, we can already be proud of being a culturally varied and truly international company.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-18,[]
+4262495992,https://de.linkedin.com/jobs/view/business-intelligence-analyst-all-genders-at-zalando-4262495992?position=3&pageNum=0&refId=bvpKyTZcIa0zqEIWkwTaTg%3D%3D&trackingId=lSBmss%2FkNMckzZjGqOM3kQ%3D%3D,Business Intelligence Analyst (all genders),Zalando,"Berlin, Berlin, Germany","We as the Partner Platform Business Analytics Engineering team connect our stakeholders to the data landscape of Zalando from a partner program perspective. Working closely together with partner consultants, commercial and operational teams & analysts, data teams in- and outside of the partner program, it is your mission to create data and reporting products that will enable our stakeholders to monitor and improve internal processes and drive our partners' success on Zalando's ecommerce platform. Leveraging our enterprise reporting solution MicroStrategy alongside technologies such as Starburst, Airflow, Databricks and Redshift, you will be responsible for developing and improving the data landscape, data governance, data pipelines, and reporting landscape for our department.
+
+
+INCLUSIVE BY DESIGN
+
+
+At Zalando, our vision is to be inclusive by design. And this vision starts with our hiring - we do not discriminate on the basis of gender identity, sexual orientation, personal expression, ethnicity, religious belief, or disability status. You are welcome to leave out your picture, age, or marital status from your application. We only assess candidates on their qualifications and merit.
+
+We want to provide you with a great candidate experience. Feel free to inform us of any accommodations you may need, so we can best support you throughout the hiring process.
+
+do.BETTER - our diversity & inclusion strategy https //corporate.zalando.com/en/our-impact/dobetter-our-diversity-and-inclusion-strategy
+
+Our employee resource groups https //corporate.zalando.com/en/our-impact/our-employee-resource-groups
+
+What We'd Love You To Do (and Love Doing)
+
+Business
+
+
+
+You identify data requirements and translate them into functional requirements for data engineers following best practices, and develop new data products acting as the data steward for core data domains
+You support the design, data modeling, maintenance, and stewardship of key data layers and metrics together with our engineering and product teams
+You enable our teams to generate insights from data and use it for steering and decision making
+
+
+
+Data Enablement & Governance
+
+
+
+You design data pipelines to integrate datasets in our existing reporting landscape and enable seamless reporting workflows
+You educate end users and data professionals on key data topics, including new datasets, data modeling best practices, reporting principles, and the broader data landscape
+You act as a champion for scalable and efficient data practices, balancing business needs with long-term platform sustainability
+
+
+
+
+WE'D LOVE TO MEET YOU IF...
+
+
+
+
+A degree in Business, Economics, Computer Science, Data Analytics or similar areas
+Proven track record of >3 years experience in Business Intelligence or Business Analytics in an enterprise environment
+Good understanding of data warehousing and analytical methods (e.g. databases and data structures, descriptive and diagnostic data analysis)
+Solid knowledge of SQL and data modeling
+Excellent root cause analysis and data related problem-solving skills are your strengths
+You are a driver for change and enthusiastic about data, people and processes
+Good project management and stakeholder management skills
+Exposure to MicroStrategy, Databricks and Apache Airflow and data integration is a strong plus
+
+
+
+
+OUR OFFER
+
+
+Zalando provides a range of benefits, here’s an overview of what you can expect. Ask your Talent Acquisition Partner to learn more about what we offer.
+
+
+
+Employee shares program
+40% off fashion and beauty products sold and shipped by Zalando, 30% off Zalando Lounge, discounts from external partners
+2 paid volunteering days a year
+Hybrid working model with up to 60% remote per week, actual practice is up to each team to best support their collaboration
+Work from abroad for up to 30 working days a year
+27 days of vacation a year (for Zalando SE)
+Relocation assistance available (subject to prior agreement)
+Family services, including counseling and support
+Health and wellbeing options (including Gympass)
+Mental health support and coaching available
+
+
+
+Learn all about Zalando and our values here https //jobs.zalando.com/en/?gh_src=22377bdd1us
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We as the Partner Platform Business Analytics Engineering team connect our stakeholders to the data landscape of Zalando from a partner program perspective. Working closely together with partner consultants, commercial and operational teams &amp; analysts, data teams in- and outside of the partner program, it is your mission to create data and reporting products that will enable our stakeholders to monitor and improve internal processes and drive our partners' success on Zalando's ecommerce platform. Leveraging our enterprise reporting solution MicroStrategy alongside technologies such as Starburst, Airflow, Databricks and Redshift, you will be responsible for developing and improving the data landscape, data governance, data pipelines, and reporting landscape for our department.<br><br><br><strong><strong><strong>INCLUSIVE BY DESIGN<br><br><br></strong></strong></strong>At Zalando, our vision is to be inclusive by design. And this vision starts with our hiring - we do not discriminate on the basis of gender identity, sexual orientation, personal expression, ethnicity, religious belief, or disability status. You are welcome to leave out your picture, age, or marital status from your application. We only assess candidates on their qualifications and merit.<br><br>We want to provide you with a great candidate experience. Feel free to inform us of any accommodations you may need, so we can best support you throughout the hiring process.<br><br>do.BETTER - our diversity &amp; inclusion strategy https //corporate.zalando.com/en/our-impact/dobetter-our-diversity-and-inclusion-strategy<br><br>Our employee resource groups https //corporate.zalando.com/en/our-impact/our-employee-resource-groups<br><br><strong>What We'd Love You To Do (and Love Doing)<br><br></strong><strong> Business <br><br><br></strong><ul><li> You identify data requirements and translate them into functional requirements for data engineers following best practices, and develop new data products acting as the data steward for core data domains </li><li> You support the design, data modeling, maintenance, and stewardship of key data layers and metrics together with our engineering and product teams </li><li> You enable our teams to generate insights from data and use it for steering and decision making <br><br><br></li></ul><strong> Data Enablement &amp; Governance <br><br><br></strong><ul><li> You design data pipelines to integrate datasets in our existing reporting landscape and enable seamless reporting workflows </li><li> You educate end users and data professionals on key data topics, including new datasets, data modeling best practices, reporting principles, and the broader data landscape </li><li> You act as a champion for scalable and efficient data practices, balancing business needs with long-term platform sustainability <br><br><br><br></li></ul><strong><strong><strong>WE'D LOVE TO MEET YOU IF...<br><br><br><br></strong></strong></strong><ul><li> A degree in Business, Economics, Computer Science, Data Analytics or similar areas </li><li> Proven track record of &gt;3 years experience in Business Intelligence or Business Analytics in an enterprise environment </li><li> Good understanding of data warehousing and analytical methods (e.g. databases and data structures, descriptive and diagnostic data analysis) </li><li> Solid knowledge of SQL and data modeling </li><li> Excellent root cause analysis and data related problem-solving skills are your strengths </li><li> You are a driver for change and enthusiastic about data, people and processes </li><li> Good project management and stakeholder management skills </li><li> Exposure to MicroStrategy, Databricks and Apache Airflow and data integration is a strong plus <br><br><br><br></li></ul><strong><strong>OUR OFFER<br><br><br></strong></strong>Zalando provides a range of benefits, here’s an overview of what you can expect. Ask your Talent Acquisition Partner to learn more about what we offer.<br><br><br><ul><li> Employee shares program </li><li> 40% off fashion and beauty products sold and shipped by Zalando, 30% off Zalando Lounge, discounts from external partners </li><li> 2 paid volunteering days a year </li><li> Hybrid working model with up to 60% remote per week, actual practice is up to each team to best support their collaboration </li><li> Work from abroad for up to 30 working days a year </li><li> 27 days of vacation a year (for Zalando SE) </li><li> Relocation assistance available (subject to prior agreement) </li><li> Family services, including counseling and support </li><li> Health and wellbeing options (including Gympass) </li><li> Mental health support and coaching available <br><br><br></li></ul>Learn all about Zalando and our values here https //jobs.zalando.com/en/?gh_src=22377bdd1us
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-04,[]
+4261729606,https://uk.linkedin.com/jobs/view/data-analyst-at-prima-4261729606?position=1&pageNum=0&refId=Q9cNCb2Ylq4E%2FOpoFXjeVA%3D%3D&trackingId=rtnZQAGqnm2VsVYyPLC%2BpQ%3D%3D,Data Analyst,Prima,"London, England, United Kingdom","Are you looking for a new challenge?
+
+Fancy helping us shape the future of car insurance?
+
+Prima could be the place for you.
+
+Since 2015, we’ve been using our love of data and tech to rethink car insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 4 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.
+
+To help fuel that growth, we need a Data Analyst to join our Online Sales Team.
+
+This team serves both our business and our customers.
+
+As part of this team, you’ll optimise our online products, making sure they meet user needs and convert. You’ll also help strengthen our relationship with third party partners, such as price comparison websites, so we can better connect with our audience and turn more clicks into sales.
+
+Excited to make an impact? Here are the details
+
+What You'll Do
+
+
+Analyse data from various business areas, including online conversion, operational efficiency, trading reports and strategic projects.
+Identify improvement opportunities and support data-driven decision making in collaboration with teams like Pricing, Underwriting, Product & Engineering, UX, Customer Care and Claims.
+Design and maintain dashboards in Tableau to monitor performance of the metrics that matter, as well as impact of initiatives to enable deeper analysis.
+Participate in the integration and automation of data exchange between local and global teams.
+Collaborate with other Data Analysts and Data Scientists to share best practices and strengthen Prima’s data-driven culture.
+Support and lead key business initiatives, including the launch of new channels and propositions.
+Manage successful relationships with 3rd party commercial partners.
+
+
+What We're Looking For
+
+
+A minimum of 2–3 years of professional experience is required in data analytics, management consulting, or other roles that are analytically driven.
+A Bachelor’s or Master’s degree in a quantitative or analytical field such as Statistics, Mathematics, Engineering, Computer Science, Business Administration, or Economics.
+A solid understanding of business in regulated industries
+Excellent analytical mindset and problem solving skills
+A keenness and confidence in stakeholder management, both internally and externally.
+
+
+Nice to Have
+
+
+Proficiency with SQL, Python, Excel & Tableau
+Experience with cloud data platforms (e.g., Databricks)
+Understanding of or interest in UK Motor Insurance
+
+
+Why You’ll Love It Here
+
+We want to make Prima a happy and empowering place to work. So if you decide to join us, you can expect plenty of perks.
+
+🤸 Work Your Way: Enjoy hybrid working, with a mix of home and office days. Plus, for up to 30 days per year, work from anywhere.
+
+🏁 Grow with us: We may move fast at Prima, but we move together. Get access to learning resources, mentorship and a growth plan tailored to you.
+
+🌈 Thrive and perform: Your best work begins when you feel your best. Enjoy private healthcare, gym discounts, wellbeing programs and mental health support.
+
+Think you’re a match? Apply now.
+
+At Prima, we celebrate uniqueness. If you don’t meet every requirement but are passionate about this role, we still want to hear from you. Innovation thrives on diverse perspectives.
+
+Prima is proud to be an equal opportunity employer. Need accommodations during the process? Email us at talent.acquisition@prima.it. Let’s build the future of insurance, together.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Are you looking for a new challenge?<br><br>Fancy helping us shape the future of car insurance?<br><br>Prima could be the place for you.<br><br>Since 2015, we’ve been using our love of data and tech to rethink car insurance and bring drivers a great experience at a great price. Our story began in Italy, where we’ve quickly become the number one online motor insurance provider. In fact, we’re trusted by over 4 million drivers. And now we’re expanding to help millions more drivers in the UK and Spain.<br><br>To help fuel that growth, we need a <strong>Data Analyst </strong> to join our <strong>Online Sales Team. <br><br></strong>This team serves both our business and our customers.<br><br>As part of this team, you’ll optimise our online products, making sure they meet user needs and convert. You’ll also help strengthen our relationship with third party partners, such as price comparison websites, so we can better connect with our audience and turn more clicks into sales.<br><br><strong>Excited to make an impact? Here are the details<br><br></strong><strong>What You'll Do<br><br></strong><ul><li>Analyse data from various business areas, including online conversion, operational efficiency, trading reports and strategic projects.</li><li>Identify improvement opportunities and support data-driven decision making in collaboration with teams like Pricing, Underwriting, Product &amp; Engineering, UX, Customer Care and Claims.</li><li>Design and maintain dashboards in Tableau to monitor performance of the metrics that matter, as well as impact of initiatives to enable deeper analysis.</li><li>Participate in the integration and automation of data exchange between local and global teams.</li><li>Collaborate with other Data Analysts and Data Scientists to share best practices and strengthen Prima’s data-driven culture.</li><li>Support and lead key business initiatives, including the launch of new channels and propositions.</li><li>Manage successful relationships with 3rd party commercial partners.<br><br></li></ul><strong>What We're Looking For<br><br></strong><ul><li>A minimum of 2–3 years of professional experience is required in data analytics, management consulting, or other roles that are analytically driven.</li><li>A Bachelor’s or Master’s degree in a quantitative or analytical field such as Statistics, Mathematics, Engineering, Computer Science, Business Administration, or Economics.</li><li>A solid understanding of business in regulated industries</li><li>Excellent analytical mindset and problem solving skills</li><li>A keenness and confidence in stakeholder management, both internally and externally.<br><br></li></ul><strong>Nice to Have<br><br></strong><ul><li>Proficiency with SQL, Python, Excel &amp; Tableau</li><li>Experience with cloud data platforms (e.g., Databricks)</li><li>Understanding of or interest in UK Motor Insurance<br><br></li></ul><strong>Why You’ll Love It Here<br><br></strong>We want to make Prima a happy and empowering place to work. So if you decide to join us, you can expect plenty of perks.<br><br>🤸 <strong>Work Your Way:</strong> Enjoy hybrid working, with a mix of home and office days. Plus, for up to 30 days per year, work from anywhere.<br><br>🏁<strong> Grow with us:</strong> We may move fast at Prima, but we move together. Get access to learning resources, mentorship and a growth plan tailored to you.<br><br>🌈 <strong>Thrive and perform:</strong> Your best work begins when you feel your best. Enjoy private healthcare, gym discounts, wellbeing programs and mental health support.<br><br>Think you’re a match? <strong>Apply now</strong>.<br><br>At Prima, we celebrate uniqueness. If you don’t meet every requirement but are passionate about this role, we still want to hear from you. Innovation thrives on diverse perspectives.<br><br><em>Prima is proud to be an equal opportunity employer. Need accommodations during the process? Email us at talent.acquisition@prima.it. Let’s build the future of insurance, together.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-03,[]
+4257899244,https://uk.linkedin.com/jobs/view/data-analyst-at-zoopla-4257899244?position=2&pageNum=0&refId=Q9cNCb2Ylq4E%2FOpoFXjeVA%3D%3D&trackingId=P1OWzmURP9Kfoutl1Pwarw%3D%3D,Data Analyst,Zoopla,"London, England, United Kingdom","Zoopla is one of the UK's most instantly recognisable property brands. In fact, we're known and loved by over 91% of the nation (and we're working hard on the other 9%). Our mission is to help the nation make better home decisions - by connecting everyone to their home and giving them personalised insights to help with moving, managing or financing. Over 50 million people visit Zoopla every month to access exclusive data and information on every UK property, search over 500,000 homes for sale and rent, find the best agents and secure the latest mortgage deals.
+
+We're a growing, dynamic team that embraces innovation and isn't afraid to push the boundaries. We're only just starting our journey to redefine the digital property landscape, with much more to explore and achieve. Join us, and transform the way the nation makes home decisions.
+
+We're a growing, dynamic team that embraces innovation and isn't afraid to push the boundaries. We're only just starting our journey to redefine the digital property landscape, with much more to explore and achieve. Join us, and transform the way the nation makes home decisions.
+
+
+Position Overview
+
+
+
+Every month millions of people visit Zoopla searching over 500,000 homes for sale and rent, finding the best agents and securing the latest mortgage deals looking for help on one of the biggest decisions in life. Where's my next home going to be?
+
+We want to help even more people make better property decisions, and that's why we care so much about data. Whether someone is looking for their next home or an estate agent is looking to list, we need a best-in-class journey for both. Measurement, experimentation, and insights are the keys to unlocking this.
+
+
+Responsibilities
+
+
+Taking ownership of the data relationship with business stakeholders
+With support from the rest of the Analytics team
+Reporting on our baseline performance and trends. Keeping our finger on the pulse.
+Driving us towards a self-serve first culture
+Reporting on complex experimentation
+Close analyst-stakeholder relationships are the most crucial component of a well-functioning data team. Stakeholders should consider you part of their team.
+Varied work across other data disciplines, e.g. dashboarding, AE modelling, business unit level deep dives and data sprints, supporting ML projects.
+We make time for innovation, so if you have an idea, shout, and we'll make the space.
+
+
+What does a great candidate look like
+
+
+Demonstrates curiosity and a proactive approach to learning, constantly seeking opportunities to deepen understanding and explore new ideas
+Exhibits a strong desire for ownership and accountability, taking the initiative to drive projects forward and deliver impactful results
+Skilled at translating complex business challenges into actionable data insights, driving meaningful outcomes and business impact
+Excellent communication skills, able to convey ideas clearly and effectively to both technical and non-technical stakeholders
+While recognising the value of experience, greater emphasis is placed on finding the right cultural fit and individual capabilities for the role.
+Strives to set high standards and continually seeks opportunities for personal and team growth, fostering an environment of continuous improvement
+Inspired by the prospect of contributing to industry innovation and eager to participate in reimagining the future landscape
+
+
+Technical Skills
+
+
+
+Essential
+
+Proficient in SQL with a proven track record of handling complex data queries and manipulation
+Demonstrable experience with Tableau or similar data visualisation tools, including the ability to create insightful and user-friendly dashboards and reports
+Experience with DBT (Data Build Tool) or similar data transformation technologies, with a keen understanding of data modelling and ETL processes
+
+Desirable
+
+A background in statistics and/or programming, with the ability to apply statistical methods and algorithms to extract insights from data
+Especially surrounding experimentation
+Familiarity with machine learning (ML) and artificial intelligence (AI) techniques, preferably in Python, R, or another programming language, enabling the development and implementation of predictive models and data-driven solutions
+
+
+
+Benefits
+
+
+Everyday Flex - greater flexibility over where and when you work
+25 days annual leave + extra days for years of service
+Day off for volunteering & Digital detox day
+Festive Closure - business closed for period between Christmas and New Year
+Cycle to work and electric car schemes
+Free Calm App membership
+Enhanced Parental leave
+Fertility Treatment Financial Support
+Group Income Protection and private medical insurance
+Gym on-site in London - or membership in regional offices
+7.5% pension contribution by the company
+Discretionary annual bonus up to 10% of base salary
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>Zoopla is one of the UK's most instantly recognisable property brands. In fact, we're known and loved by over 91% of the nation (and we're working hard on the other 9%). Our mission is to help the nation make better home decisions - by connecting everyone to their home and giving them personalised insights to help with moving, managing or financing. Over 50 million people visit Zoopla every month to access exclusive data and information on every UK property, search over 500,000 homes for sale and rent, find the best agents and secure the latest mortgage deals.</p><p>We're a growing, dynamic team that embraces innovation and isn't afraid to push the boundaries. We're only just starting our journey to redefine the digital property landscape, with much more to explore and achieve. Join us, and transform the way the nation makes home decisions.</p><p>We're a growing, dynamic team that embraces innovation and isn't afraid to push the boundaries. We're only just starting our journey to redefine the digital property landscape, with much more to explore and achieve. Join us, and transform the way the nation makes home decisions.<br></p><strong>Position Overview<br><br></strong><p>Every month millions of people visit Zoopla searching over 500,000 homes for sale and rent, finding the best agents and securing the latest mortgage deals looking for help on one of the biggest decisions in life. Where's my next home going to be?</p><p>We want to help even more people make better property decisions, and that's why we care so much about data. Whether someone is looking for their next home or an estate agent is looking to list, we need a best-in-class journey for both. Measurement, experimentation, and insights are the keys to unlocking this.<br></p><strong>Responsibilities<br><br></strong><ul> <li>Taking ownership of the data relationship with business stakeholders</li> <ul><li>With support from the rest of the Analytics team</li></ul> <li>Reporting on our baseline performance and trends. Keeping our finger on the pulse.</li> <li>Driving us towards a self-serve first culture</li> <li>Reporting on complex experimentation</li> <li>Close analyst-stakeholder relationships are the most crucial component of a well-functioning data team. Stakeholders should consider you part of their team.</li> <li>Varied work across other data disciplines, e.g. dashboarding, AE modelling, business unit level deep dives and data sprints, supporting ML projects.</li> <li>We make time for innovation, so if you have an idea, shout, and we'll make the space.</li> <br></ul><strong>What does a great candidate look like<br><br></strong><ul> <li>Demonstrates curiosity and a proactive approach to learning, constantly seeking opportunities to deepen understanding and explore new ideas</li> <li>Exhibits a strong desire for ownership and accountability, taking the initiative to drive projects forward and deliver impactful results</li> <li>Skilled at translating complex business challenges into actionable data insights, driving meaningful outcomes and business impact</li> <li>Excellent communication skills, able to convey ideas clearly and effectively to both technical and non-technical stakeholders</li> <li>While recognising the value of experience, greater emphasis is placed on finding the right cultural fit and individual capabilities for the role.</li> <li>Strives to set high standards and continually seeks opportunities for personal and team growth, fostering an environment of continuous improvement</li> <li>Inspired by the prospect of contributing to industry innovation and eager to participate in reimagining the future landscape<br><br> </li> </ul><strong>Technical Skills<br><br></strong><p><strong>Essential</strong></p><ul> <li>Proficient in SQL with a proven track record of handling complex data queries and manipulation</li> <li>Demonstrable experience with Tableau or similar data visualisation tools, including the ability to create insightful and user-friendly dashboards and reports</li> <li>Experience with DBT (Data Build Tool) or similar data transformation technologies, with a keen understanding of data modelling and ETL processes</li> </ul><p><strong>Desirable</strong></p><ul> <li>A background in statistics and/or programming, with the ability to apply statistical methods and algorithms to extract insights from data</li> <ul><li>Especially surrounding experimentation</li></ul> <li>Familiarity with machine learning (ML) and artificial intelligence (AI) techniques, preferably in Python, R, or another programming language, enabling the development and implementation of predictive models and data-driven solutions</li> <br><br></ul><strong>Benefits<br><br></strong><ul> <li>Everyday Flex - greater flexibility over where and when you work</li> <li>25 days annual leave + extra days for years of service</li> <li>Day off for volunteering &amp; Digital detox day</li> <li>Festive Closure - business closed for period between Christmas and New Year</li> <li>Cycle to work and electric car schemes</li> <li>Free Calm App membership</li> <li>Enhanced Parental leave</li> <li>Fertility Treatment Financial Support</li> <li>Group Income Protection and private medical insurance</li> <li>Gym on-site in London - or membership in regional offices</li> <li>7.5% pension contribution by the company</li> <li>Discretionary annual bonus up to 10% of base salary</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4256908595,https://uk.linkedin.com/jobs/view/business-data-analyst-at-mondrian-alpha-4256908595?position=3&pageNum=0&refId=Q9cNCb2Ylq4E%2FOpoFXjeVA%3D%3D&trackingId=nDJGnYWVhTxs5mH%2B0UhZFg%3D%3D,Business Data Analyst,Mondrian Alpha,"London Area, United Kingdom","A leading multi-manager investment firm is seeking a Business Data Analyst to join its discretionary macro and fixed income COO team. This is a high-impact, cross-functional role that combines technical skill with business insight to drive strategic decision-making and operational efficiency.
+
+
+
+
+You’ll collaborate closely with Portfolio Managers, Analysts, Quants, and internal teams such as Technology, Risk, Analytics, and Business Development to:
+
+
+
+
+Build data-driven tools and dashboards to support investment and business decisions.
+Develop performance analytics using Python, SQL, Power BI, and APIs.
+Design and manage technology solutions alongside internal developers and market data teams.
+Prepare dashboards and presentations for internal stakeholders and senior leadership.
+Support automation and process improvement initiatives across the platform.
+Analyze investment performance and generate insights to inform strategy.
+Define, prioritize, and manage system requirements and development workflows.
+
+
+
+
+What We’re Looking For:
+
+
+
+
+Experience in the investment management or investment banking industry.
+Strong understanding of global financial markets and investment processes.
+Hands-on experience with Python, SQL, Power BI, and REST APIs.
+Ability to build and communicate performance analytics.
+Strong written and verbal communication skills.
+A process-driven, collaborative mindset with the ability to work across teams.
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>A leading multi-manager investment firm is seeking a Business Data Analyst to join its discretionary macro and fixed income COO team. This is a high-impact, cross-functional role that combines technical skill with business insight to drive strategic decision-making and operational efficiency. </p><p><br></p><p>You’ll collaborate closely with Portfolio Managers, Analysts, Quants, and internal teams such as Technology, Risk, Analytics, and Business Development to:</p><p><br></p><ul><li>Build data-driven tools and dashboards to support investment and business decisions.</li><li>Develop performance analytics using Python, SQL, Power BI, and APIs.</li><li>Design and manage technology solutions alongside internal developers and market data teams.</li><li>Prepare dashboards and presentations for internal stakeholders and senior leadership.</li><li>Support automation and process improvement initiatives across the platform.</li><li>Analyze investment performance and generate insights to inform strategy.</li><li>Define, prioritize, and manage system requirements and development workflows.</li></ul><p><br></p><p>What We’re Looking For:</p><p><br></p><ul><li>Experience in the investment management or investment banking industry.</li><li>Strong understanding of global financial markets and investment processes.</li><li>Hands-on experience with Python, SQL, Power BI, and REST APIs.</li><li>Ability to build and communicate performance analytics.</li><li>Strong written and verbal communication skills.</li><li>A process-driven, collaborative mindset with the ability to work across teams.</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-01,[]
+4250777389,https://www.linkedin.com/jobs/view/data-analyst-ii-at-fanatics-4250777389?position=1&pageNum=0&refId=BQ1j%2BP7RDNw28ifekB0gaA%3D%3D&trackingId=7wDA3nLd9799Awd4VINcrg%3D%3D,Data Analyst II,Fanatics,United States,"Overview
+
+JOB DESCRIPTION
+
+We are seeking a Data Analyst II to join our growing Data organization and help set up our Risk & Governance Analytics team. The role reports into the Financial Analytics Senior Manager and will focus on creating insight to drive the growth of the business, partnering closely with the Accounting, Tax, and Finance functions.
+
+Building product, financial, and marketing reporting will be a top priority for this analyst, as well as providing ongoing analysis and recommendations to stakeholders.
+
+Responsibilities
+
+
+Develop a strong understanding of Fanatics Betting and Gaming, as well as related products and operations.
+Build strong relationships with internal stakeholders in Finance, Tax & Data.
+Design and build insightful metric definitions, KPIs, and reporting.
+Become a key voice in driving performance in a number of business areas (Product, Acquisition, Marketing, & CRM) across both Sportsbook & Casino.
+Collaboration with other Analysts and Data Scientists to find solutions to business problems.
+Gather and present insights metrics and activities to key stakeholders, becoming a trusted source of intelligence over time.
+Remain current on technology and trends in data analytics and the sports betting & gaming world.
+Must be open to occasional travel to Fanatics Betting & Gaming offices and other locations for conferences, events, meetings, and team building activities.
+
+
+Qualifications
+
+
+Strong analytical skills, with ability to extract data and transform it into both ad-hoc and structured continuous insights.
+Demonstrated ability to partner closely with stakeholders, earning trust and prioritizing relationships.
+Experienced with building dashboards and reporting tools (e.g. Tableau, Microstrategy, Power BI, Looker).
+Customer obsessed and experience focused; highly outcome-oriented and data-driven; experienced in working in high-growth environments.
+Strong skills in SQL and Tableau.
+Excellent at influencing and problem solving.
+Positive and flexible attitude, a willingness to embrace new initiatives.
+Experience or interest in the sports/betting industry are a bonus but not required.
+Experience with SOX and internal controls are a plus.
+
+
+If you possess some of these skills but not all of them, we still encourage you to apply!
+
+The expected salary range for this role is based on job-related knowledge, skills, and experience. This role is eligible for the Fanatics Betting and Gaming annual bonus program and an equity award. *Salary range is listed in USD; actual salary will vary based on location. *Salary Range: $88,000 - $144,000 per year (actual salary will be determined in part by a successful candidate’s geographic location). In addition to base salary, bonus, and equity, full-time employees are eligible for Medical, Dental, Vision, 401K, paid time off, and other benefits like GymPass, Pet Insurance, Family Care Benefits, and more. We’ll also give you $700 to set up your home office! Please note that visa sponsorship is not available for this position. This is a remote position; however, candidates must reside in one of the following states: AL, AZ, GA, IA, IN, KY, LA, MI, MN, MO, NE, NH, NC, OH, OK, OR, PA, SC, SD, TN, TX, UT, VT, VA, WA, WI, WV. Alternatively, we are open to a hybrid role based in Denver, CO.
+
+For information about our benefits, please visit https://benefitsatfanatics.com/
+
+About Us
+
+Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting & Gaming, allowing sports fans to Buy, Collect, and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans; a global partner network with approximately 900 sports properties, including major national and international professional sports leagues, players associations, teams, colleges, college conferences and retail partners, 2,500 athletes and celebrities, and 200 exclusive athletes; and over 2,000 retail locations, including its Lids retail stores. Our more than 22,000 employees are committed to relentlessly enhancing the fan experience and delighting sports fans globally.
+
+About The Team
+
+Launched in 2021, Fanatics Betting and Gaming is the online and retail sports betting subsidiary of Fanatics, a global digital sports platform. The Fanatics Sportsbook is available to 95% of the addressable online sports bettor market in the U.S. Fanatics Casino is currently available online in Michigan, New Jersey, Pennsylvania and West Virginia. Fanatics Betting and Gaming operates twenty-two retail sports betting locations, including the only sportsbook inside an NFL stadium at Northwest Stadium. Fanatics Betting and Gaming is headquartered in New York with offices in Denver, Leeds and Dublin.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>Overview<br><br></strong><strong> JOB DESCRIPTION <br><br></strong>We are seeking a Data Analyst II to join our growing Data organization and help set up our Risk &amp; Governance Analytics team. The role reports into the Financial Analytics Senior Manager and will focus on creating insight to drive the growth of the business, partnering closely with the Accounting, Tax, and Finance functions.<br><br>Building product, financial, and marketing reporting will be a top priority for this analyst, as well as providing ongoing analysis and recommendations to stakeholders.<br><br><strong>Responsibilities<br><br></strong><ul><li>Develop a strong understanding of Fanatics Betting and Gaming, as well as related products and operations.</li><li>Build strong relationships with internal stakeholders in Finance, Tax &amp; Data.</li><li>Design and build insightful metric definitions, KPIs, and reporting.</li><li>Become a key voice in driving performance in a number of business areas (Product, Acquisition, Marketing, &amp; CRM) across both Sportsbook &amp; Casino.</li><li>Collaboration with other Analysts and Data Scientists to find solutions to business problems.</li><li>Gather and present insights metrics and activities to key stakeholders, becoming a trusted source of intelligence over time.</li><li>Remain current on technology and trends in data analytics and the sports betting &amp; gaming world.</li><li>Must be open to occasional travel to Fanatics Betting &amp; Gaming offices and other locations for conferences, events, meetings, and team building activities.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>Strong analytical skills, with ability to extract data and transform it into both ad-hoc and structured continuous insights.</li><li>Demonstrated ability to partner closely with stakeholders, earning trust and prioritizing relationships.</li><li>Experienced with building dashboards and reporting tools (e.g. Tableau, Microstrategy, Power BI, Looker).</li><li>Customer obsessed and experience focused; highly outcome-oriented and data-driven; experienced in working in high-growth environments.</li><li>Strong skills in SQL and Tableau.</li><li>Excellent at influencing and problem solving.</li><li>Positive and flexible attitude, a willingness to embrace new initiatives.</li><li>Experience or interest in the sports/betting industry are a bonus but not required.</li><li>Experience with SOX and internal controls are a plus.<br><br></li></ul>If you possess some of these skills but not all of them, we still encourage you to apply!<br><br>The expected salary range for this role is based on job-related knowledge, skills, and experience. This role is eligible for the Fanatics Betting and Gaming annual bonus program and an equity award. *Salary range is listed in USD; actual salary will vary based on location. *Salary Range: $88,000 - $144,000 per year (actual salary will be determined in part by a successful candidate’s geographic location). In addition to base salary, bonus, and equity, full-time employees are eligible for Medical, Dental, Vision, 401K, paid time off, and other benefits like GymPass, Pet Insurance, Family Care Benefits, and more. We’ll also give you $700 to set up your home office! Please note that visa sponsorship is not available for this position. This is a remote position; however, candidates must reside in one of the following states: AL, AZ, GA, IA, IN, KY, LA, MI, MN, MO, NE, NH, NC, OH, OK, OR, PA, SC, SD, TN, TX, UT, VT, VA, WA, WI, WV. Alternatively, we are open to a hybrid role based in Denver, CO.<br><br>For information about our benefits, please visit https://benefitsatfanatics.com/<br><br><strong>About Us<br><br></strong>Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles, and Fanatics Betting &amp; Gaming, allowing sports fans to Buy, Collect, and Bet. Through the Fanatics platform, sports fans can buy licensed fan gear, jerseys, lifestyle and streetwear products, headwear, and hardgoods; collect physical and digital trading cards, sports memorabilia, and other digital assets; and bet as the company builds its Sportsbook and iGaming platform. Fanatics has an established database of over 100 million global sports fans; a global partner network with approximately 900 sports properties, including major national and international professional sports leagues, players associations, teams, colleges, college conferences and retail partners, 2,500 athletes and celebrities, and 200 exclusive athletes; and over 2,000 retail locations, including its Lids retail stores. Our more than 22,000 employees are committed to relentlessly enhancing the fan experience and delighting sports fans globally.<br><br><strong>About The Team<br><br></strong>Launched in 2021, Fanatics Betting and Gaming is the online and retail sports betting subsidiary of Fanatics, a global digital sports platform. The Fanatics Sportsbook is available to 95% of the addressable online sports bettor market in the U.S. Fanatics Casino is currently available online in Michigan, New Jersey, Pennsylvania and West Virginia. Fanatics Betting and Gaming operates twenty-two retail sports betting locations, including the only sportsbook inside an NFL stadium at Northwest Stadium. Fanatics Betting and Gaming is headquartered in New York with offices in Denver, Leeds and Dublin.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-19,[]
+4253848534,https://www.linkedin.com/jobs/view/jr-analyst-people-data-animation-at-netflix-4253848534?position=2&pageNum=0&refId=BQ1j%2BP7RDNw28ifekB0gaA%3D%3D&trackingId=2iTYUHlveGmxgkxW5XuVrw%3D%3D,"Jr. Analyst, People Data (Animation)",Netflix,"Burbank, CA","Netflix Animation Studios is on a mission to entertain the world with bold, immersive animated films that are timeless and impactful. We are paving the way for the future of animation by building a community of amazing artists and talent across three vibrant locations globally. Come join us!
+
+Role Overview
+
+The Jr. Analyst, People Data (Animation) will support Netflix Animation Studios’ global talent team by supporting Global Talent initiatives centered on people analytics and data integrity/quality control for Talent Acquisition, Artist Management, and Talent Development.
+
+Reporting to the Talent Development & Ops Manager, this role will partner with Talent Acquisition and Artist Management to focus on Data Quality Control (QC) and integrated systems, Airtable & Talent systems support, building and maintaining crew databases, talent data workflows, and collaboration.
+
+The ideal candidate has a passion for Animation, an analytical and operational mindset, while partnering with a dynamic/ever-growing team. Excellent written and verbal communication skills are critical, as well as impeccable attention to detail, for effectively managing internal data and optimizing workflows.
+
+Key Responsibilities
+
+Data Quality Control and Integrated Systems
+
+
+Maintain data accuracy and integrity across interconnected systems and operating tools, focusing on rigorous data quality control (QC) practices for clean and reliable data.
+
+
+Tools Management and Product Support/Discovery
+
+
+Act as a junior product manager for Airtable, supporting technical needs, and enhancements to meet team objectives.
+Build and maintain the crew database for internal talent movement, housing detailed information on specific skill sets, capabilities, and portfolios to optimize the recasting process and potential placements.
+Produce reports on project needs and actualized crew assignments for effective production planning on behalf of Talent.
+Support with discovery of new tools to optimize current workflows and tools.
+
+
+Talent Workflows and Notifications
+
+
+Design, build, and test solutions to streamline and optimize talent workflows, considering international complexities, multi-system environments, and administrative demands.
+Implement and refine notification systems to enhance communication and efficiency within talent operations.
+
+
+Communication and Cross-Functional Collaboration
+
+
+Communicate complex data insights effectively through excellent written and verbal skills.
+Collaborate with cross-functional teams to support strategic decisions and data requirements, fostering an environment of growth and adaptability within a dynamic team setting.
+
+
+Qualifications
+
+
+Data Management and Analysis:
+Experience with data quality control, data management, and ensuring accuracy across multiple systems.
+Proficiency in working with complex data sets to solve analytical problems.
+
+
+Product Management:
+Basic experience or exposure to product management principles, particularly in managing and enhancing workflow tools like Airtable.
+Experience working with a team in an Agile/SCRUM environment
+
+
+Industry Knowledge (Preferred):
+Passion for and understanding of the Animation or Entertainment industry, particularly within talent acquisition, management, and development contexts.
+
+
+Communication and Collaboration:
+Excellent written and verbal communication skills, capable of translating complex data insights for a variety of stakeholders.
+Experience working collaboratively with cross-functional teams in a dynamic environment.
+
+
+Problem-Solving:
+Strong analytical and problem-solving skills to tackle non-routine analysis issues.
+Ability to design and implement process solutions for streamlining workflows.
+
+
+Tools & Systems:
+Airtable
+Workday
+Production Tracking Tools
+Google Sheets
+Eightfold
+Zendesk
+Educational Background: A degree in a relevant field such as Data Analytics, Data Science, Computer Science, Business Analytics, or a related discipline is preferred but not required.
+
+
+This role is based in the US.
+
+At NAS, we carefully consider a wide range of compensation factors to determine your compensation. We rely on market indicators and consider your specific job family, background, location, skills, and experience. The overall market range for this role is typically $79k - 133k. This reflects total compensation; we do not have stock options.
+
+NAS benefits can include medical/dental/vision plans, mental health support, retirement programs, and family-forming benefits, paid leave of absence programs, and paid time away programs to be used for vacation and sick paid time off. See more detail about our benefits here.
+
+Inclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Netflix Animation Studios is on a mission to entertain the world with bold, immersive animated films that are timeless and impactful. We are paving the way for the future of animation by building a community of amazing artists and talent across three vibrant locations globally. Come join us!<br><br><strong>Role Overview<br><br></strong>The <strong>Jr. Analyst, People Data (Animation)</strong> will support Netflix Animation Studios’ global talent team by supporting Global Talent initiatives centered on people analytics and data integrity/quality control for Talent Acquisition, Artist Management, and Talent Development.<br><br>Reporting to the <strong>Talent Development &amp; Ops Manager</strong>, this role will partner with Talent Acquisition and Artist Management to focus on Data Quality Control (QC) and integrated systems, Airtable &amp; Talent systems support, building and maintaining crew databases, talent data workflows, and collaboration.<br><br>The ideal candidate has a passion for Animation, an analytical and operational mindset, while partnering with a dynamic/ever-growing team. Excellent written and verbal communication skills are critical, as well as impeccable attention to detail, for effectively managing internal data and optimizing workflows.<br><br><strong>Key Responsibilities<br><br></strong><strong>Data Quality Control and Integrated Systems<br><br></strong><ul><li>Maintain data accuracy and integrity across interconnected systems and operating tools, focusing on rigorous data quality control (QC) practices for clean and reliable data.<br><br></li></ul><strong>Tools Management and Product Support/Discovery<br><br></strong><ul><li>Act as a junior product manager for Airtable, supporting technical needs, and enhancements to meet team objectives.</li><li>Build and maintain the crew database for internal talent movement, housing detailed information on specific skill sets, capabilities, and portfolios to optimize the recasting process and potential placements.</li><li>Produce reports on project needs and actualized crew assignments for effective production planning on behalf of Talent. </li><li>Support with discovery of new tools to optimize current workflows and tools. <br><br></li></ul><strong>Talent Workflows and Notifications<br><br></strong><ul><li>Design, build, and test solutions to streamline and optimize talent workflows, considering international complexities, multi-system environments, and administrative demands.</li><li>Implement and refine notification systems to enhance communication and efficiency within talent operations.<br><br></li></ul><strong>Communication and Cross-Functional Collaboration<br><br></strong><ul><li>Communicate complex data insights effectively through excellent written and verbal skills.</li><li>Collaborate with cross-functional teams to support strategic decisions and data requirements, fostering an environment of growth and adaptability within a dynamic team setting.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>Data Management and Analysis:</li><ul><li>Experience with data quality control, data management, and ensuring accuracy across multiple systems.</li><li>Proficiency in working with complex data sets to solve analytical problems.<br><br></li></ul></ul><ul><li>Product Management:</li><ul><li>Basic experience or exposure to product management principles, particularly in managing and enhancing workflow tools like Airtable.</li><li>Experience working with a team in an Agile/SCRUM environment<br><br></li></ul></ul><ul><li>Industry Knowledge (Preferred):</li><ul><li>Passion for and understanding of the Animation or Entertainment industry, particularly within talent acquisition, management, and development contexts.<br><br></li></ul></ul><ul><li>Communication and Collaboration:</li><ul><li>Excellent written and verbal communication skills, capable of translating complex data insights for a variety of stakeholders.</li><li>Experience working collaboratively with cross-functional teams in a dynamic environment.<br><br></li></ul></ul><ul><li>Problem-Solving:</li><ul><li>Strong analytical and problem-solving skills to tackle non-routine analysis issues.</li><li>Ability to design and implement process solutions for streamlining workflows.<br><br></li></ul></ul><li>Tools &amp; Systems: </li><ul><li>Airtable </li><li>Workday </li><li>Production Tracking Tools </li><li>Google Sheets </li><li>Eightfold </li><li>Zendesk</li><li>Educational Background: A degree in a relevant field such as Data Analytics, Data Science, Computer Science, Business Analytics, or a related discipline is preferred but not required. <br><br></li></ul><em>This role is based in the US.<br><br></em><em>At NAS, we carefully consider a wide range of compensation factors to determine your compensation. We rely on market indicators and consider your specific job family, background, location, skills, and experience. The overall market range for this role is typically $79k - 133k. This reflects total compensation; we do not have stock options.<br><br></em><em>NAS benefits can include medical/dental/vision plans, mental health support, retirement programs, and family-forming benefits, paid leave of absence programs, and paid time away programs to be used for vacation and sick paid time off. See more detail about our benefits </em>here<em>. <br><br></em>Inclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.<br><br>We are an equal-opportunity employer and celebrate diversity, recognizing that diversity builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-20,[]
+4254135086,https://www.linkedin.com/jobs/view/sql-data-analyst-at-finthrive-4254135086?position=3&pageNum=0&refId=BQ1j%2BP7RDNw28ifekB0gaA%3D%3D&trackingId=YfbwvBYjIpRfa1bMxabdtw%3D%3D,SQL Data analyst,FinThrive,United States,"About the Role
+
+
+
+
+🚨 SQL TEST REQUIRED | Must be highly proficient in SQL | Healthcare Experience Preferred
+
+
+
+
+Impact you will make
+
+The Insurance Discover for Payers product helps payers identify other insurance coverage responsibility for their members and claims. This allows health plans to accurately manage costs and denials, which also helps reduce payer-provider abrasion. As a key member of the high-growth Insurance Discover for Payers Operations team at FinThrive, you will drive operational excellence and efficiency, ensuring positive customer relationships and client product satisfaction. You will ensure customer / product issues are mitigated. Your efforts will directly contribute to optimizing payer processes, reducing costs, and enhancing service quality for our clients. By leveraging your expertise in operations, you will identify and implement innovative solutions that improve workflow and productivity. Your collaboration with cross-functional teams will foster a culture of continuous improvement and operational innovation. Ultimately, your impact will be seen in the improved financial performance and customer satisfaction of our clients, solidifying FinThrive's position as a leader in the healthcare industry and payer market.
+
+
+
+
+🔹 What You’ll Be Doing
+
+Analyze healthcare data to solve real-world payer problems and deliver actionable insights
+Conduct ad hoc reporting and deep-dive investigations for internal teams and clients
+Build Excel dashboards and visualizations using advanced formulas and trend analysis
+Partner with Product and Engineering to recommend improvements that enhance the customer experience and reduce support costs
+Manage multiple priorities in a fast-paced, high-growth environment with quick turnaround expectations
+Lead resolution of critical customer issues, including Root Cause and Corrective Action (RCCA) efforts
+
+🔹 What You’ll Bring
+
+Bachelor’s degree in a related field
+2+ years of experience with healthcare software, payer systems, or healthcare operations
+1+ years of hands-on experience with advanced SQL and Excel in a corporate environment
+Excellent problem-solving, communication, and collaboration skills
+Willingness to travel a few times per year (minimal)
+
+🔹 Bonus Points For
+
+Experience with Tableau or Power BI
+Prior work in a customer-facing or cross-functional role
+Passion for data, process optimization, and healthcare innovation
+
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p><strong>About the Role</strong></p><p><br></p><p>🚨 SQL TEST REQUIRED | Must be highly proficient in SQL | Healthcare Experience Preferred</p><p><br></p><p><strong>Impact you will make </strong></p><p>The Insurance Discover for Payers product helps payers identify other insurance coverage responsibility for their members and claims. This allows health plans to accurately manage costs and denials, which also helps reduce payer-provider abrasion. As a key member of the high-growth Insurance Discover for Payers Operations team at FinThrive, you will drive operational excellence and efficiency, ensuring positive customer relationships and client product satisfaction. You will ensure customer / product issues are mitigated. Your efforts will directly contribute to optimizing payer processes, reducing costs, and enhancing service quality for our clients. By leveraging your expertise in operations, you will identify and implement innovative solutions that improve workflow and productivity. Your collaboration with cross-functional teams will foster a culture of continuous improvement and operational innovation. Ultimately, your impact will be seen in the improved financial performance and customer satisfaction of our clients, solidifying FinThrive's position as a leader in the healthcare industry and payer market.</p><p><br></p><p>🔹 <strong>What You’ll Be Doing</strong></p><ul><li>Analyze healthcare data to solve real-world payer problems and deliver actionable insights</li><li>Conduct ad hoc reporting and deep-dive investigations for internal teams and clients</li><li>Build Excel dashboards and visualizations using advanced formulas and trend analysis</li><li>Partner with Product and Engineering to recommend improvements that enhance the customer experience and reduce support costs</li><li>Manage multiple priorities in a fast-paced, high-growth environment with quick turnaround expectations</li><li>Lead resolution of critical customer issues, including Root Cause and Corrective Action (RCCA) efforts</li></ul><p>🔹 <strong>What You’ll Bring</strong></p><ul><li>Bachelor’s degree in a related field</li><li>2+ years of experience with healthcare software, payer systems, or healthcare operations</li><li>1+ years of hands-on experience with <strong>advanced SQL and Excel</strong> in a corporate environment</li><li>Excellent problem-solving, communication, and collaboration skills</li><li>Willingness to travel a few times per year (minimal)</li></ul><p>🔹 <strong>Bonus Points For</strong></p><ul><li>Experience with Tableau or Power BI</li><li>Prior work in a customer-facing or cross-functional role</li><li>Passion for data, process optimization, and healthcare innovation</li></ul><p></p>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-20,[]
+3847778634,https://ca.linkedin.com/jobs/view/data-analyst-at-stripe-3847778634?position=1&pageNum=0&refId=YY5%2BRjBYpNXgMIKjM1ugVg%3D%3D&trackingId=lxd34tqRjvuR7kTUy%2Bb4Gw%3D%3D,Data Analyst,Stripe,"Toronto, Ontario, Canada","About Stripe
+
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+
+About The Team
+
+Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.
+
+What you'll do
+
+In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.
+
+Who you are
+
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+Minimum Requirements
+
+
+2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problems
+Proficiency in SQL and Python
+Strong statistical knowledge
+Expertise in visualization and using data insights to make recommendations and achieve goals
+Proven ability to manage and deliver on multiple projects with great attention to detail
+Ability to clearly communicate results and drive impact
+Comfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.
+
+
+
+Preferred Qualifications
+
+
+Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.
+Prior experience at a growth stage internet or software company.
+Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.
+Good understanding of development processes and best practices like engineering standards, code reviews, and testing.
+
+
+
+Hybrid work at Stripe
+
+Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.
+
+Pay and benefits
+
+The annual salary range for this role in the primary location is C$121,100 - C$221,900. This range may change if you are hired in another location. For sales roles, the range provided is the role’s On Target Earnings (“OTE”) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and specific location. Applicants interested in this role and who are not located in the primary location may request the annual salary range for their location during the interview process.
+
+Specific benefits and details about what compensation is included in the salary range listed above will vary depending on the applicant’s location and can be discussed in more detail during the interview process. Benefits/additional compensation for this role may include: equity, company bonus or sales commissions/bonuses; retirement plans; health benefits; and wellness stipends.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <strong>About Stripe<br><br></strong>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.<br><br><strong>About The Team<br><br></strong>Data Science at Stripe is a vibrant community where data analysts, data scientists and engineers learn and grow together. You will work with some of Stripe’s most fundamental and exciting data, and use that data to help drive company-wide initiatives. We have a variety of Data Analytics roles and teams across Stripe and will seek to align you to the most relevant team based on your background.<br><br>What you'll do<br><br>In this role, you will partner deeply with teams across Stripe to ensure that our users, our products, and our business have the models, data products, and insights needed to make decisions and grow responsibly. You will work closely with partners to extract insights from Stripe's rich and complex data. You will also work with leaders to translate business needs into data problems. You will build metrics, scalable data pipelines, dashboards, and reports to inform and run the business. You will deliver actionable business recommendations through analyses and data storytelling.<br><br>Who you are<br><br>We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.<br><br><strong>Minimum Requirements<br><br></strong><ul><li>2-8+ years experience in Business Intelligence Engineering, Data Engineering, Data Analysis or Data Science roles, building data pipelines and analyzing large datasets to solve problems</li><li>Proficiency in SQL and Python</li><li>Strong statistical knowledge</li><li>Expertise in visualization and using data insights to make recommendations and achieve goals</li><li>Proven ability to manage and deliver on multiple projects with great attention to detail</li><li>Ability to clearly communicate results and drive impact</li><li>Comfortable collaborating across functions to identify data analytics problems and execute solutions with technical rigor and data-driven insights.<br><br><br></li></ul><strong>Preferred Qualifications<br><br></strong><ul><li>Master’s degree in Mathematics, Statistics, Economics, Engineering, or a related technical field.</li><li>Prior experience at a growth stage internet or software company.</li><li>Experience with distributed data frameworks like Hadoop and Spark to write and debug data pipelines.</li><li>Good understanding of development processes and best practices like engineering standards, code reviews, and testing.<br><br><br></li></ul>Hybrid work at Stripe<br><br>Office-assigned Stripes spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.<br><br>Pay and benefits<br><br>The annual salary range for this role in the primary location is C$121,100 - C$221,900. This range may change if you are hired in another location. For sales roles, the range provided is the role’s On Target Earnings (“OTE”) range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role. This salary range may be inclusive of several career levels at Stripe and will be narrowed during the interview process based on a number of factors, including the candidate’s experience, qualifications, and specific location. Applicants interested in this role and who are not located in the primary location may request the annual salary range for their location during the interview process.<br><br>Specific benefits and details about what compensation is included in the salary range listed above will vary depending on the applicant’s location and can be discussed in more detail during the interview process. Benefits/additional compensation for this role may include: equity, company bonus or sales commissions/bonuses; retirement plans; health benefits; and wellness stipends.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-25,[]
+4258222582,https://ca.linkedin.com/jobs/view/data-analyst-metrics-at-lyft-4258222582?position=2&pageNum=0&refId=YY5%2BRjBYpNXgMIKjM1ugVg%3D%3D&trackingId=cS2ibd8aPeMUFujEz%2Fdz0A%3D%3D,"Data Analyst, Metrics",Lyft,"Toronto, Ontario, Canada","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+
+The Metrics team at Lyft plays a crucial role in defining key business metrics used in decision-making. We develop and manage tools and dashboards that provide easy access to this information to a wide range of stakeholders. Our work includes delivering analyses and tools to support partner product teams and Finance in developing and standardizing a data portfolio that strengthens our operational efficiency.
+
+We are seeking a data analyst to enhance our team's capability to leverage data for optimal business decisions. The ideal candidate will utilize data analysis and competitive intelligence to create resources that significantly influence growth strategy, while getting substantial exposure to executive leadership.
+
+Responsibilities:
+
+
+Analyze datasets to extract actionable insights and trends related to key business metrics
+Take ownership of specific business metrics, ensuring their accuracy, integrity, consistency, and relevance to business goals
+Design, develop, and maintain dashboards and reports to visualize key business metrics for stakeholders
+Work closely with cross-functional teams, including product, engineering, and finance, to understand and address data needs
+Provide strategic insights and recommendations to support decision-making
+Continuously seek opportunities to improve data processes and analytical methodologies
+Communicate findings and insights to stakeholders in a clear and concise manner
+
+
+Experience:
+
+
+2+ years experience in management consulting, strategic data science/analytics roles in a technology company, or an equivalent analytical role in a high growth startup
+Demonstrated data analysis and problem-solving skills
+Experience in leading high visibility projects and influencing others in a cross-functional team environment
+Entrepreneurial self-starter - you naturally take ownership, look for opportunities, and do whatever it takes to drive results
+Ability to build relationships with cross-functional stakeholders and drive shared outcomes
+Works effectively in a fast paced environment requiring new perspectives and creative approaches, and with multiple competing deadlines
+A drive to understand the core issues along with the determination to uncover the solution
+Skills:
+Ability to independently break down large datasets and synthesize inputs from multiple sources
+Ability to use data visualization tools to provide actionable insights and reusable frameworks
+Excellent organization, planning skills, and attention to detail
+Advanced analytical and problem solving skills
+Proficiency in SQL - able to write structured and efficient queries on large data sets
+
+Benefits:
+
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+Access to a Lyft funded Health Care Savings Account
+RRSP plan to help save for your future
+In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service
+Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.
+Subsidized commuter benefits
+
+
+Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
+
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+
+The expected base pay range for this position in the Toronto area is CAD 83,800 - CAD $104,750. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.<br><br>The Metrics team at Lyft plays a crucial role in defining key business metrics used in decision-making. We develop and manage tools and dashboards that provide easy access to this information to a wide range of stakeholders. Our work includes delivering analyses and tools to support partner product teams and Finance in developing and standardizing a data portfolio that strengthens our operational efficiency.<br><br>We are seeking a data analyst to enhance our team's capability to leverage data for optimal business decisions. The ideal candidate will utilize data analysis and competitive intelligence to create resources that significantly influence growth strategy, while getting substantial exposure to executive leadership.<br><br><strong>Responsibilities:<br><br></strong><ul><li>Analyze datasets to extract actionable insights and trends related to key business metrics</li><li>Take ownership of specific business metrics, ensuring their accuracy, integrity, consistency, and relevance to business goals</li><li>Design, develop, and maintain dashboards and reports to visualize key business metrics for stakeholders</li><li>Work closely with cross-functional teams, including product, engineering, and finance, to understand and address data needs</li><li>Provide strategic insights and recommendations to support decision-making</li><li>Continuously seek opportunities to improve data processes and analytical methodologies</li><li>Communicate findings and insights to stakeholders in a clear and concise manner<br><br></li></ul><strong> Experience:</strong> <br><br><ul><li>2+ years experience in management consulting, strategic data science/analytics roles in a technology company, or an equivalent analytical role in a high growth startup</li><li>Demonstrated data analysis and problem-solving skills</li><li>Experience in leading high visibility projects and influencing others in a cross-functional team environment</li><li>Entrepreneurial self-starter - you naturally take ownership, look for opportunities, and do whatever it takes to drive results</li><li>Ability to build relationships with cross-functional stakeholders and drive shared outcomes</li><li>Works effectively in a fast paced environment requiring new perspectives and creative approaches, and with multiple competing deadlines</li><li>A drive to understand the core issues along with the determination to uncover the solution</li><li>Skills:</li><ul><li>Ability to independently break down large datasets and synthesize inputs from multiple sources</li><li>Ability to use data visualization tools to provide actionable insights and reusable frameworks</li><li>Excellent organization, planning skills, and attention to detail</li><li>Advanced analytical and problem solving skills</li><li>Proficiency in SQL - able to write structured and efficient queries on large data sets<br></li></ul></ul><strong>Benefits:<br><br></strong><ul><li>Extended health and dental coverage options, along with life insurance and disability benefits</li><li>Mental health benefits</li><li>Family building benefits</li><li>Child care and pet benefits</li><li>Access to a Lyft funded Health Care Savings Account</li><li>RRSP plan to help save for your future</li><li>In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service </li><li>Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.</li><li>Subsidized commuter benefits<br><br></li></ul>Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.<br><br>Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid<br><br>The expected base pay range for this position in the Toronto area is CAD 83,800 - CAD $104,750. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-26,[]
+4213941581,https://ca.linkedin.com/jobs/view/data-analyst-fulfillment-at-lyft-4213941581?position=3&pageNum=0&refId=YY5%2BRjBYpNXgMIKjM1ugVg%3D%3D&trackingId=BZN8Z77QAWrTV9W27OK%2FKQ%3D%3D,"Data Analyst, Fulfillment",Lyft,"Toronto, Ontario, Canada","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+
+Data analysis is critical for Lyft’s products and decision-making. As a Data Analyst on the cross-functional team, you will work in a dynamic environment, where we embrace moving quickly to build the world’s best transportation. You will tackle a variety of problems ranging from shaping critical business decisions to investigating our production systems and recommend improvements.
+
+Fulfillment is responsible for Lyft’s Matching algorithm and rides’ cost computation. On the Fulfillment analytics team, you will report to a Team Manager that manages multiple functions including Product and Data Analysts. Our team is part of the bigger Marketplace organization which is responsible for accelerating the growth of the business and for delivering our top business/company goals around financial metrics and marketplace performance.
+
+As a data analyst on our team, you will initially focus on our Cost Computation product and will be responsible for delivering accurate and reliable signals in dynamic marketplace conditions. You will influence existing/future strategies and product roadmaps through your data analysis, market insights, and visual comms. We’re looking for a data-oriented and process-driven individual who has extraordinary attention to detail and a track record of analytical problem-solving.
+
+Responsibilities:
+
+
+Support marketplace operations to provide quality analysis, forecasting and reporting to stakeholders.
+Develop expertise in the cost and conversion domain, identify problem areas and provide actionable insights on improvements, and support cross-functional initiatives to improve existing products and develop new ones.
+Operate within Rideshare decision-making frameworks with a critical lens, evaluating areas of improvement and business growth opportunities.
+Work closely with the Data Scientists on model improvements and experimentation analysis to increase signal accuracy and reliability.
+Prepare regular business reviews for leadership, highlighting key areas of focus.
+Analyze data, conduct research and synthesize feedback into plans, processes and playbooks.
+Roll up your sleeves and get stuff done. No one can be counted on to execute faster or better than you.
+Identify opportunities and make them happen.
+
+
+Experience:
+
+
+3-5+ years of experience in a high growth environment in data analytics and/or strategic consulting.
+Very strong attention to detail, experience developing processes to improve efficiency.
+Proficient in SQL and quantitative analysis, you can deep dive into large amounts of data, draw meaningful insights, dissect business issues and draw actionable conclusions.
+Outcome-driven approach to developing recommendations and demonstrated ability to develop a story and execution plan to support our goals and objectives.
+Exceptional communication (listening, written, and oral) skills with the ability to present findings and recommendations targeted to the audience in question.
+A drive to understand the core issues along with the determination to uncover the solution.
+Excels at dealing with ambiguity and change management.
+Experienced with cross-functional work and good stakeholder management skills.
+
+
+Benefits:
+
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+Access to a Lyft funded Health Care Savings Account
+RRSP plan to help save for your future
+In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service
+Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.
+Subsidized commuter benefits
+
+
+Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
+
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+
+The expected base pay range for this position in the Toronto area is $102,000-$127,500 CAD. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.<br><br>Data analysis is critical for Lyft’s products and decision-making. As a Data Analyst on the cross-functional team, you will work in a dynamic environment, where we embrace moving quickly to build the world’s best transportation. You will tackle a variety of problems ranging from shaping critical business decisions to investigating our production systems and recommend improvements.<br><br>Fulfillment is responsible for Lyft’s Matching algorithm and rides’ cost computation. On the Fulfillment analytics team, you will report to a Team Manager that manages multiple functions including Product and Data Analysts. Our team is part of the bigger Marketplace organization which is responsible for accelerating the growth of the business and for delivering our top business/company goals around financial metrics and marketplace performance.<br><br>As a data analyst on our team, you will initially focus on our Cost Computation product and will be responsible for delivering accurate and reliable signals in dynamic marketplace conditions. You will influence existing/future strategies and product roadmaps through your data analysis, market insights, and visual comms. We’re looking for a data-oriented and process-driven individual who has extraordinary attention to detail and a track record of analytical problem-solving.<br><br><strong>Responsibilities:<br><br></strong><ul><li>Support marketplace operations to provide quality analysis, forecasting and reporting to stakeholders.</li><li>Develop expertise in the cost and conversion domain, identify problem areas and provide actionable insights on improvements, and support cross-functional initiatives to improve existing products and develop new ones.</li><li>Operate within Rideshare decision-making frameworks with a critical lens, evaluating areas of improvement and business growth opportunities.</li><li>Work closely with the Data Scientists on model improvements and experimentation analysis to increase signal accuracy and reliability.</li><li>Prepare regular business reviews for leadership, highlighting key areas of focus.</li><li>Analyze data, conduct research and synthesize feedback into plans, processes and playbooks.</li><li>Roll up your sleeves and get stuff done. No one can be counted on to execute faster or better than you.</li><li>Identify opportunities and make them happen.<br><br></li></ul><strong>Experience:<br><br></strong><ul><li>3-5+ years of experience in a high growth environment in data analytics and/or strategic consulting.</li><li>Very strong attention to detail, experience developing processes to improve efficiency.</li><li>Proficient in SQL and quantitative analysis, you can deep dive into large amounts of data, draw meaningful insights, dissect business issues and draw actionable conclusions.</li><li>Outcome-driven approach to developing recommendations and demonstrated ability to develop a story and execution plan to support our goals and objectives.</li><li>Exceptional communication (listening, written, and oral) skills with the ability to present findings and recommendations targeted to the audience in question.</li><li>A drive to understand the core issues along with the determination to uncover the solution.</li><li>Excels at dealing with ambiguity and change management.</li><li>Experienced with cross-functional work and good stakeholder management skills.<br><br></li></ul><strong>Benefits:<br><br></strong><ul><li>Extended health and dental coverage options, along with life insurance and disability benefits</li><li>Mental health benefits</li><li>Family building benefits</li><li>Child care and pet benefits</li><li>Access to a Lyft funded Health Care Savings Account</li><li>RRSP plan to help save for your future</li><li>In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service </li><li>Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.</li><li>Subsidized commuter benefits<br><br></li></ul><em>Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.<br><br></em><em>Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. </em><em>This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. </em><em>Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. </em><em>Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. </em><em>#Hybrid<br><br></em><em>The expected base pay range for this position in the Toronto area is $102,000-$127,500 CAD. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.</em>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-28,[]
+4244645553,https://ca.linkedin.com/jobs/view/data-analyst-at-workstream-4244645553?position=1&pageNum=0&refId=DM1M3lv7D9TEhiUvzt1IVA%3D%3D&trackingId=9yFhlAbRmUZxzLoSnKhYgA%3D%3D,Data Analyst,Workstream,"Vancouver, British Columbia, Canada","Workstream is a mission-driven company that believes in building premium, modern software solutions for hourly businesses. There are 2.7 billion hourly workers, who make up 80% of the global workforce, but they've been heavily underserved by technology and deserve better. We help local businesses around you hire, manage, and pay qualified workers.
+
+Our customers include leading brands from multiple sectors, including Burger King, Carl's Jr./Hardee's, IHOP, KFC, and Culvers. At series B, we are quickly expanding our product portfolio. We are backed by legendary VCs and industry experts like Founders Fund, BOND, and Coatue.
+
+As a Data Analyst, you will play a pivotal role in our organization, focusing on supporting our customers and our go-to-market teams through data-driven insights and analyses. This position demands a blend of analytical prowess and exceptional communication skills to effectively collaborate with our business development, sales, and customer success teams, and our valued enterprise clients. Your work will directly influence our strategic direction, product development, and customer satisfaction.
+
+Day in the Life:
+
+
+Act as the information highway between our business development, sales, customer success teams, and customers, ensuring data needs and insights are communicated effectively and actionably.
+Provide timely and relevant analysis to support customer needs.
+Develop, maintain, and optimize SQL queries, Tableau, and Explo dashboards, and internal data products.
+Deliver clear, actionable insights to both internal stakeholders and enterprise clients.
+Collaborate closely with cross-functional teams to identify opportunities for growth, efficiency improvements, and enhanced customer satisfaction through data analysis.
+Spearhead the creation and delivery of regular reports and presentations that highlight key data insights and recommendations for our enterprise customers.
+Design of Payroll, HR, and Benefits embedded reporting & analytics based on industry standards and accounting practices.
+
+
+Who You Are:
+
+
+3+ years of proven experience in data analysis, with a significant portion of this experience focusing on supporting enterprise customers.
+You have a background in payroll, HR, or accounting. CPA, CFA, CPP, CEBS, or FPC credentials are all assets.
+Entrepreneurial spirit and a great communicator
+You are able to quickly master our existing multi-product and revenue data models.
+You have the ability to learn new data models and business contexts swiftly, adapting to the evolving needs of enterprise customers.
+Advanced proficiency in SQL, DBT, pivot tables and extensive experience with report engineering.
+Capable of building data visualizations and reliable reports that include automated data quality tests by collaborating with a data engineer and using tools such as DBT and Elementary.
+You can translate complex data insights into understandable and actionable information for diverse audiences.
+Strong organizational skills, with the capability to manage multiple projects simultaneously in a fast-paced startup environment.
+
+
+What We Offer:
+
+
+A mission-driven and value-based company dedicated to empower deskless workers and local businesses
+An early employee opportunity at a Series B hyper-growth startup; work with the founding team and industry veterans to accelerate your career
+Competitive salary and equity
+Comprehensive health coverage: medical, dental, and vision
+WeWork Office - Amenities and Perks
+Learning/development stipend
+Unlimited PTO
+Hybrid Office/WFH schedule
+
+
+In compliance with the British Columbia Pay Transparency Act, the base salary range for this role is between 90K and 140KCAD. This range is not inclusive of our equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data.
+
+Additional Information
+
+Workstream provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+We are committed to the full inclusion of all qualified individuals.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Workstream is a mission-driven company that believes in building premium, modern software solutions for hourly businesses. There are 2.7 billion hourly workers, who make up 80% of the global workforce, but they've been heavily underserved by technology and deserve better. We help local businesses around you hire, manage, and pay qualified workers.<br><br>Our customers include leading brands from multiple sectors, including Burger King, Carl's Jr./Hardee's, IHOP, KFC, and Culvers. At series B, we are quickly expanding our product portfolio. We are backed by legendary VCs and industry experts like Founders Fund, BOND, and Coatue.<br><br>As a Data Analyst, you will play a pivotal role in our organization, focusing on supporting our customers and our go-to-market teams through data-driven insights and analyses. This position demands a blend of analytical prowess and exceptional communication skills to effectively collaborate with our business development, sales, and customer success teams, and our valued enterprise clients. Your work will directly influence our strategic direction, product development, and customer satisfaction.<br><br><strong>Day in the Life: <br><br></strong><ul><li>Act as the information highway between our business development, sales, customer success teams, and customers, ensuring data needs and insights are communicated effectively and actionably.</li><li>Provide timely and relevant analysis to support customer needs.</li><li>Develop, maintain, and optimize SQL queries, Tableau, and Explo dashboards, and internal data products. </li><li>Deliver clear, actionable insights to both internal stakeholders and enterprise clients.</li><li>Collaborate closely with cross-functional teams to identify opportunities for growth, efficiency improvements, and enhanced customer satisfaction through data analysis.</li><li>Spearhead the creation and delivery of regular reports and presentations that highlight key data insights and recommendations for our enterprise customers.</li><li>Design of Payroll, HR, and Benefits embedded reporting &amp; analytics based on industry standards and accounting practices. <br><br></li></ul><strong>Who You Are:<br><br></strong><ul><li>3+ years of proven experience in data analysis, with a significant portion of this experience focusing on supporting enterprise customers.</li><li>You have a background in payroll, HR, or accounting. CPA, CFA, CPP, CEBS, or FPC credentials are all assets. </li><li>Entrepreneurial spirit and a great communicator</li><li>You are able to quickly master our existing multi-product and revenue data models.</li><li>You have the ability to learn new data models and business contexts swiftly, adapting to the evolving needs of enterprise customers.</li><li>Advanced proficiency in SQL, DBT, pivot tables and extensive experience with report engineering. </li><li>Capable of building data visualizations and reliable reports that include automated data quality tests by collaborating with a data engineer and using tools such as DBT and Elementary.</li><li>You can translate complex data insights into understandable and actionable information for diverse audiences.</li><li>Strong organizational skills, with the capability to manage multiple projects simultaneously in a fast-paced startup environment.<br><br></li></ul><strong>What We Offer:<br><br></strong><ul><li>A mission-driven and value-based company dedicated to empower deskless workers and local businesses</li><li>An early employee opportunity at a Series B hyper-growth startup; work with the founding team and industry veterans to accelerate your career</li><li>Competitive salary and equity</li><li>Comprehensive health coverage: medical, dental, and vision</li><li>WeWork Office - Amenities and Perks </li><li>Learning/development stipend</li><li>Unlimited PTO</li><li>Hybrid Office/WFH schedule<br><br></li></ul><em>In compliance with the British Columbia Pay Transparency Act, the base salary range for this role is between 90K and 140KCAD. This range is not inclusive of our equity package. When determining a candidate’s compensation, we consider a number of factors including skillset, experience, job scope, and current market data.<br><br></em><strong>Additional Information<br><br></strong>Workstream provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.<br><br>We are committed to the full inclusion of all qualified individuals.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-06-09,[]
+4259915745,https://ca.linkedin.com/jobs/view/data-analyst-at-robert-half-4259915745?position=2&pageNum=0&refId=DM1M3lv7D9TEhiUvzt1IVA%3D%3D&trackingId=HtaUZq%2Fbw43iqUFcM62rOQ%3D%3D,Data Analyst,Robert Half,"Burnaby, British Columbia, Canada","We are offering a long-term contract opportunity for a Data Analyst (Raiser's Edge) with a client based in Burnaby, British Columbia, Canada. As a Data Analyst, you will be instrumental in managing and analyzing large sets of data, assisting in projects to streamline data architecture, and facilitating data extraction processes. Your responsibilities will also include troubleshooting data-related issues and assisting in the development of strategies for data management.
+
+
+
+
+Responsibilities
+
+Analyze and interpret complex datasets to facilitate decision making
+Regularly review and approve data batches to ensure accuracy and consistency
+Assist in the reconfiguration of data architecture to streamline data extraction and management processes
+Generate custom reports and conduct one-off analysis when necessary
+Assist in transitioning operations to a new data viewing format
+Develop and implement Standard Operating Procedures for data management
+Troubleshoot data-related issues and queries from the team
+Use tools such as Database Object, Database System, AB Testing, Business Intelligence (BI), and Create Dashboards for data analysis
+Utilize “Raiser’s Edge” for data management and analysis
+
+
+
+
+What you bring:
+
+Possess a strong understanding of database objects and database systems
+Proficient in AB Testing and data analysis techniques
+Experience with Business Intelligence (BI) tools
+Ability to create and manage dashboards for data visualization
+Familiarity with Raiser's Edge software (or other donor management tool) is essential
+Strong communication and interpersonal skills to effectively collaborate with team members and stakeholders
+Bachelor's degree in Computer Science, Data Science, Statistics or a related field
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          <p>We are offering a long-term contract opportunity for a Data Analyst (Raiser's Edge) with a client based in Burnaby, British Columbia, Canada. As a Data Analyst, you will be instrumental in managing and analyzing large sets of data, assisting in projects to streamline data architecture, and facilitating data extraction processes. Your responsibilities will also include troubleshooting data-related issues and assisting in the development of strategies for data management.</p><p><br></p><p>Responsibilities</p><ul><li>Analyze and interpret complex datasets to facilitate decision making</li><li>Regularly review and approve data batches to ensure accuracy and consistency</li><li>Assist in the reconfiguration of data architecture to streamline data extraction and management processes</li><li>Generate custom reports and conduct one-off analysis when necessary</li><li>Assist in transitioning operations to a new data viewing format</li><li>Develop and implement Standard Operating Procedures for data management</li><li>Troubleshoot data-related issues and queries from the team</li><li>Use tools such as Database Object, Database System, AB Testing, Business Intelligence (BI), and Create Dashboards for data analysis</li><li>Utilize “Raiser’s Edge” for data management and analysis</li></ul><p><br></p><p>What you bring:</p><ul><li>Possess a strong understanding of database objects and database systems</li><li>Proficient in AB Testing and data analysis techniques</li><li>Experience with Business Intelligence (BI) tools</li><li>Ability to create and manage dashboards for data visualization</li><li>Familiarity with Raiser's Edge software (or other donor management tool) is essential</li><li>Strong communication and interpersonal skills to effectively collaborate with team members and stakeholders</li><li>Bachelor's degree in Computer Science, Data Science, Statistics or a related field</li></ul>
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-02,[]
+4261327529,https://ca.linkedin.com/jobs/view/data-specialist-ftr-at-metro-vancouver-transit-police-4261327529?position=3&pageNum=0&refId=DM1M3lv7D9TEhiUvzt1IVA%3D%3D&trackingId=ooUUp527pThH2rbJ2PIMfQ%3D%3D,Data Specialist - FTR,Metro Vancouver Transit Police,"Vancouver, British Columbia, Canada","Marketing Statement
+
+Metro Vancouver Transit Police (""Transit Police"") is the leader in regional public transit policing, operating across 22 communities. It provides policing services to all modes of transit: Bus, SeaBus, SkyTrain, and West Coast Express. In partnership with cross-regional partners, Transit Police prevents crime and provides coordinated police services to transit users throughout the region. It also seeks to have a workforce that is responsive to and reflective of the many diverse communities is serves.
+
+Responsibilities
+
+PRIMARY PURPOSE
+
+Responsible for gathering, processing, and analyzing data to provide actionable insights that help guide business decisions. Works with various departments to identify key metrics, improve processes and manage data, and contribute to the company’s overall data-driven strategy. The role designs and develops standard and ad-hoc reports including departmental scorecards/dashboards and executive presentations. This role also engages with various business stakeholders, collaborating with them to understand the business needs and objectives.
+
+Key Accountabilities
+
+Collects, organizes, and cleans data from various internal and external sources by identifying opportunities to automate data collection, cleaning and reporting processes for greater efficiency.
+
+Provides consultative guidance to internal stakeholders and assists with identifying and scoping incoming analytics requests to working through analysis and proposing appropriate solutions.
+
+Supports data management and database maintenance by ensuring data is stored securely and efficiently, making it accessible for future analysis. Writes and runs queries (using tools like SQL and PostgreSQL) to extract and manipulate data from databases for analysis.
+
+Analyzes and processes large datasets to identify trends, patterns, and actionable insights using statistical tools and software (e.g., Excel, SQL, PostgreSQL, Python, R)
+
+Creates reports, dashboards, executive presentations and visualizations to communicate findings effectively using visualization tools such as but not limited to Tableau and Power BI.
+
+Collaborates with cross-functional teams to understand business needs and objectives of every department. Provides Business Leadership with insights, forecasts and analysis based on the data
+
+Develops and maintains databases and data systems to ensure data accuracy and accessibility.
+
+Performs data validation and quality checks to ensure data integrity by maintaining existing policies and creating standards, processes and controls over how data elements are setup, used, revised and maintained across the organization.
+
+Presents data findings to stakeholders in a clear, understandable manner in support of planning and provides recommendations for business decisions based on data analysis and reports.
+
+Keeps up with the latest trends, tools, and technologies in data analytics to continuously improve analysis techniques and outcomes. Maintains awareness of best practices, including processes and business intelligence tools, and finds opportunities for improvement of existing functionality. Liaises with technical stakeholders to support reporting tool enhancements and reporting solutions.
+
+Performs complex various data analysis and reporting in support of labour relations strategies, including union related metrics such as overtime trends, pay and scheduling to inform collective bargaining and executive decision-making.
+
+Qualifications
+
+Education & Experience:
+
+The competencies for this position would typically be acquired through a bachelor’s degree in data science, Statistics, Mathematics, Computer Science, or a related field plus 5 years of experience in an environment where logical/physical data modeling, data analysis techniques, data management and business analysis skills have been demonstrated.
+
+Other Requirements
+
+
+Proficiency in data analysis tools such as Excel, SQL, PostgreSQL and data visualization platforms such as Tableau, PowerBI.
+Solid experience with statistical analysis and data processing software (Python, R, etc.).
+Strong analytical skills and the ability to work with large datasets.
+Excellent communication skills, with the ability to explain technical data to non-technical stakeholders.
+Strong problem-solving abilities with great attention to detail.
+Experience with machine learning algorithms or advanced statistical modeling.
+Advanced knowledge of data warehousing and business intelligence concepts.
+Experience with data visualization best practices and design principles.
+Proven ability to work independently and manage multiple projects simultaneously.
+
+
+Other Information
+
+Recruitment Process: An applicant will be required to demonstrate their suitability for this position by meeting the minimum level of qualifications and experience in order to be invited into the selection process. A standard interview format will be used including general, scenario and behavioural descriptive interview questions.
+
+Work Schedule
+
+37.5 hours per week.
+
+Work Designation
+
+Hybrid
+
+This position offers the flexibility of working both on-site and home after the successful completion of the probationary period.
+
+Rate of Pay
+
+Grade: 06
+
+Salary: $82,400 to $123,600 per annum
+
+The Total Compensation Package includes Extended Health, Dental, Transit Pass, and enrollment in the Public Service Pension Plan. Enjoy a variety of health and wellness programs, including access to gym facilities. We offer a flexible benefits package with the option to elect additional vacation days.
+
+Conditions of Employment
+
+Applicant will be required to possess or have the ability to obtain and maintain enhanced security clearance.
+
+How to Apply
+
+Please click the 'Apply' button at the top right corner of the page or go to http://www.translink.ca/careers to apply for this position and view instructions on the process.
+
+INSTRUCTIONS: Please save your (1) cover letter, and your (2) resume as one pdf document prior to uploading your application on-line.
+
+Closing Date: July 16, 2025
+
+Please note that only those short listed will be contacted.
+
+Having trouble applying? Please view the System Requirements & FAQ's by going to http://www.translink.ca/careers.
+
+Equal Employment Opportunity
+
+Transit Police are committed to employment equity
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Marketing Statement<br><br>Metro Vancouver Transit Police (""Transit Police"") is the leader in regional public transit policing, operating across 22 communities. It provides policing services to all modes of transit: Bus, SeaBus, SkyTrain, and West Coast Express. In partnership with cross-regional partners, Transit Police prevents crime and provides coordinated police services to transit users throughout the region. It also seeks to have a workforce that is responsive to and reflective of the many diverse communities is serves.<br><br><strong>Responsibilities<br><br></strong>PRIMARY PURPOSE<br><br>Responsible for gathering, processing, and analyzing data to provide actionable insights that help guide business decisions. Works with various departments to identify key metrics, improve processes and manage data, and contribute to the company’s overall data-driven strategy. The role designs and develops standard and ad-hoc reports including departmental scorecards/dashboards and executive presentations. This role also engages with various business stakeholders, collaborating with them to understand the business needs and objectives.<br><br><strong>Key Accountabilities<br><br></strong>Collects, organizes, and cleans data from various internal and external sources by identifying opportunities to automate data collection, cleaning and reporting processes for greater efficiency.<br><br>Provides consultative guidance to internal stakeholders and assists with identifying and scoping incoming analytics requests to working through analysis and proposing appropriate solutions.<br><br>Supports data management and database maintenance by ensuring data is stored securely and efficiently, making it accessible for future analysis. Writes and runs queries (using tools like SQL and PostgreSQL) to extract and manipulate data from databases for analysis.<br><br>Analyzes and processes large datasets to identify trends, patterns, and actionable insights using statistical tools and software (e.g., Excel, SQL, PostgreSQL, Python, R)<br><br>Creates reports, dashboards, executive presentations and visualizations to communicate findings effectively using visualization tools such as but not limited to Tableau and Power BI.<br><br>Collaborates with cross-functional teams to understand business needs and objectives of every department. Provides Business Leadership with insights, forecasts and analysis based on the data<br><br>Develops and maintains databases and data systems to ensure data accuracy and accessibility.<br><br>Performs data validation and quality checks to ensure data integrity by maintaining existing policies and creating standards, processes and controls over how data elements are setup, used, revised and maintained across the organization.<br><br>Presents data findings to stakeholders in a clear, understandable manner in support of planning and provides recommendations for business decisions based on data analysis and reports.<br><br>Keeps up with the latest trends, tools, and technologies in data analytics to continuously improve analysis techniques and outcomes. Maintains awareness of best practices, including processes and business intelligence tools, and finds opportunities for improvement of existing functionality. Liaises with technical stakeholders to support reporting tool enhancements and reporting solutions.<br><br>Performs complex various data analysis and reporting in support of labour relations strategies, including union related metrics such as overtime trends, pay and scheduling to inform collective bargaining and executive decision-making.<br><br><strong>Qualifications<br><br></strong>Education &amp; Experience:<br><br>The competencies for this position would typically be acquired through a bachelor’s degree in data science, Statistics, Mathematics, Computer Science, or a related field plus 5 years of experience in an environment where logical/physical data modeling, data analysis techniques, data management and business analysis skills have been demonstrated.<br><br><strong>Other Requirements<br><br></strong><ul><li>Proficiency in data analysis tools such as Excel, SQL, PostgreSQL and data visualization platforms such as Tableau, PowerBI.</li><li>Solid experience with statistical analysis and data processing software (Python, R, etc.).</li><li>Strong analytical skills and the ability to work with large datasets.</li><li>Excellent communication skills, with the ability to explain technical data to non-technical stakeholders.</li><li>Strong problem-solving abilities with great attention to detail.</li><li>Experience with machine learning algorithms or advanced statistical modeling.</li><li>Advanced knowledge of data warehousing and business intelligence concepts.</li><li>Experience with data visualization best practices and design principles.</li><li>Proven ability to work independently and manage multiple projects simultaneously.<br><br></li></ul>Other Information<br><br>Recruitment Process: An applicant will be required to demonstrate their suitability for this position by meeting the minimum level of qualifications and experience in order to be invited into the selection process. A standard interview format will be used including general, scenario and behavioural descriptive interview questions.<br><br>Work Schedule<br><br>37.5 hours per week.<br><br>Work Designation<br><br>Hybrid<br><br>This position offers the flexibility of working both on-site and home after the successful completion of the probationary period.<br><br>Rate of Pay<br><br>Grade: 06<br><br>Salary: $82,400 to $123,600 per annum<br><br>The Total Compensation Package includes Extended Health, Dental, Transit Pass, and enrollment in the Public Service Pension Plan. Enjoy a variety of health and wellness programs, including access to gym facilities. We offer a flexible benefits package with the option to elect additional vacation days.<br><br>Conditions of Employment<br><br>Applicant will be required to possess or have the ability to obtain and maintain enhanced security clearance.<br><br>How to Apply<br><br>Please click the 'Apply' button at the top right corner of the page or go to http://www.translink.ca/careers to apply for this position and view instructions on the process.<br><br>INSTRUCTIONS: Please save your (1) cover letter, and your (2) resume as one pdf document prior to uploading your application on-line.<br><br>Closing Date: July 16, 2025<br><br>Please note that only those short listed will be contacted.<br><br>Having trouble applying? Please view the System Requirements &amp; FAQ's by going to http://www.translink.ca/careers.<br><br>Equal Employment Opportunity<br><br>Transit Police are committed to employment equity
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-07-02,[]
