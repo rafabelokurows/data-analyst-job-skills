@@ -1,0 +1,279 @@
+Job_ID,Link,Title,Company,Place,Description,HTML,Date,Skills
+4337023291,https://www.linkedin.com/jobs/view/data-scientist-fraud-at-plaid-4337023291?position=1&pageNum=0&refId=kehVstUi7xtZmIAuzXW50Q%3D%3D&trackingId=AXYguDckrm3bB6l6VJXfpQ%3D%3D,Data Scientist - Fraud,Plaid,"San Francisco, CA","We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.
+
+The Data team within Plaid’s Fraud organization builds the machine learning systems that power Plaid’s newest fraud detection products, leveraging the breadth of Plaid’s network data to stop fraud before it occurs. We manage the full lifecycle of these systems—from feature pipeline development and model training to deployment, serving, and monitoring—ensuring our solutions scale reliably as we grow to support hundreds of customers.
+
+As a Data Scientist on Plaid’s Fraud Data team, you will analyze customer and network traffic to understand how Protect performs across different segments and use cases. You’ll build dashboards and performance metrics that create a clear, shared view of product health for both the team and our go-to-market partners. You will run backtests on customer traffic to evaluate model and rule performance, uncover high-value opportunities, and generate insights that support sales motions and customer expansion. You’ll also design the underlying data models and schemas that enable efficient, reliable analysis and reporting. In close partnership with Product and Engineering, you will help design and evaluate experiments that shape new customer-facing features and inform the future of our fraud products.
+
+***We are open to remote candidates***
+
+Responsibilities
+
+
+Work at the intersection of product analytics, machine learning, and fraud/risk to drive meaningful product improvements.
+Own the metrics, dashboards, and experimentation frameworks that inform product strategy and decision-making.
+Analyze complex datasets to uncover clear, actionable insights that shape product direction.
+Partner with go-to-market teams to demonstrate the technical and business value of our products to customers.
+
+
+Qualifications
+
+
+3–5 years of total experience, including at least 2–3 years working deeply with product analytics, experimentation, or data-driven products.
+Strong proficiency in SQL and Python.
+Hands-on experience with product analytics, experimentation frameworks, or backtesting methodologies.
+Skilled in designing, building, and maintaining dashboards and core product performance metrics.
+Capable of designing and interpreting backtests or offline evaluations for ML and rules-based systems.
+Excellent communicator with strong stakeholder-management skills across diverse teams.
+Background in fraud or risk domains — Nice to have.
+Familiarity with data-insights products and a solid understanding of model-performance metrics — Nice to have.
+Exposure to customer-facing or GTM-facing analytics — Nice to have.
+
+
+$162,000 - $222,000 a year
+
+The target base salary for this position ranges from $162,000/year to $222,000/year in Zone 1. The target base salary will vary based on the job's location.
+
+Our Geographic Zones Are As Follows
+
+Zone 1 - New York City and San Francisco Bay Area
+
+Zone 2 - Los Angeles, Seattle, Washington D.C.
+
+Zone 3 - Austin, Boston, Denver, Houston, Portland, Sacramento, San Diego
+
+Zone 4 - Raleigh-Durham and all other US cities
+
+Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.
+
+Our mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!
+
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at [email protected] .
+
+Please review our Candidate Privacy Notice here .
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.<br><br>The Data team within Plaid’s Fraud organization builds the machine learning systems that power Plaid’s newest fraud detection products, leveraging the breadth of Plaid’s network data to stop fraud before it occurs. We manage the full lifecycle of these systems—from feature pipeline development and model training to deployment, serving, and monitoring—ensuring our solutions scale reliably as we grow to support hundreds of customers.<br><br>As a Data Scientist on Plaid’s Fraud Data team, you will analyze customer and network traffic to understand how Protect performs across different segments and use cases. You’ll build dashboards and performance metrics that create a clear, shared view of product health for both the team and our go-to-market partners. You will run backtests on customer traffic to evaluate model and rule performance, uncover high-value opportunities, and generate insights that support sales motions and customer expansion. You’ll also design the underlying data models and schemas that enable efficient, reliable analysis and reporting. In close partnership with Product and Engineering, you will help design and evaluate experiments that shape new customer-facing features and inform the future of our fraud products.<br><br>***We are open to remote candidates***<br><br><strong>Responsibilities<br><br></strong><ul><li>Work at the intersection of product analytics, machine learning, and fraud/risk to drive meaningful product improvements.</li><li>Own the metrics, dashboards, and experimentation frameworks that inform product strategy and decision-making.</li><li>Analyze complex datasets to uncover clear, actionable insights that shape product direction.</li><li>Partner with go-to-market teams to demonstrate the technical and business value of our products to customers.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li>3–5 years of total experience, including at least 2–3 years working deeply with product analytics, experimentation, or data-driven products.</li><li>Strong proficiency in SQL and Python.</li><li>Hands-on experience with product analytics, experimentation frameworks, or backtesting methodologies.</li><li>Skilled in designing, building, and maintaining dashboards and core product performance metrics.</li><li>Capable of designing and interpreting backtests or offline evaluations for ML and rules-based systems.</li><li>Excellent communicator with strong stakeholder-management skills across diverse teams.</li><li>Background in fraud or risk domains — Nice to have.</li><li>Familiarity with data-insights products and a solid understanding of model-performance metrics — Nice to have.</li><li>Exposure to customer-facing or GTM-facing analytics — Nice to have.<br><br></li></ul>$162,000 - $222,000 a year<br><br>The target base salary for this position ranges from $162,000/year to $222,000/year in Zone 1. The target base salary will vary based on the job's location.<br><br><strong>Our Geographic Zones Are As Follows<br><br></strong>Zone 1 - New York City and San Francisco Bay Area<br><br>Zone 2 - Los Angeles, Seattle, Washington D.C.<br><br>Zone 3 - Austin, Boston, Denver, Houston, Portland, Sacramento, San Diego<br><br>Zone 4 - Raleigh-Durham and all other US cities<br><br>Additional compensation in the form(s) of equity and/or commission are dependent on the position offered. Plaid provides a comprehensive benefit plan, including medical, dental, vision, and 401(k). Pay is based on factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience and skillset, and location. Pay and benefits are subject to change at any time, consistent with the terms of any applicable compensation or benefit plans.<br><br>Our mission at Plaid is to unlock financial freedom for everyone. To support that mission, we seek to build a diverse team of driven individuals who care deeply about making the financial ecosystem more equitable. We recognize that strong qualifications can come from both prior work experiences and lived experiences. We encourage you to apply to a role even if your experience doesn't fully match the job description. We are always looking for team members that will bring something unique to Plaid!<br><br>Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at [email protected] .<br><br>Please review our Candidate Privacy Notice here .
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 9l5.93-4L15 6.54l-6.15 4.2a1.5 1.5 0 01-1.69 0L1 6.54 2.07 5z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-12-10,[]
+4346052972,https://www.linkedin.com/jobs/view/business-data-scientist-forecasting-google-cloud-at-google-4346052972?position=2&pageNum=0&refId=kehVstUi7xtZmIAuzXW50Q%3D%3D&trackingId=x7KpDTMUQCKmgrqeut6AQw%3D%3D,"Business Data Scientist, Forecasting, Google Cloud",Google,"San Francisco, CA","Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Sunnyvale, CA, USA; Austin, TX, USA; San Francisco, CA, USA.Minimum qualifications:
+
+
+Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.
+3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.
+3 years of experience in data science, with a focus on time series analysis and forecasting.
+Experience in causal inference, A/B testing, statistical modeling, or machine learning.
+Experience with a range of forecasting methods, from classical statistical models to machine learning approaches.
+
+
+Preferred qualifications:
+
+
+4 years of experience deploying and maintaining forecasting models in a live production environment.
+Experience with recent advancements in forecasting, such as foundation models (TimesFM) or deep learning approaches.
+Experience in a demand planning, contact center, or operational workforce management role.
+Familiarity with cloud platforms (e.g., Google Cloud Platform) and their AI/ML services (e.g., BigQuery, Vertex AI).
+Ability to apply judgmental forecasting and incorporate qualitative business adjustments into model outputs, especially for new or unprecedented events.
+
+
+About the jobIn this role, you will be responsible for developing and maintaining the models that predict our customer support case volume. Your work will be a critical input for the organization's staffing, budgeting, and planning, directly impacting our ability to deliver exceptional customer support at scale.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
+
+Responsibilities
+
+
+Develop, deploy, and maintain time series forecasting models to predict customer support case volumes across various products, regions, and channels.
+Build and automate scalable data pipelines to ensure timely and reliable data for model training and inference.
+Monitor and evaluate model performance, dealing with key accuracy metrics, identifying model drift, and ensuring forecast reliability. Research and implement forecasting techniques to continuously improve model accuracy and capabilities.
+Partner with Operations, Finance, and leadership stakeholders to understand their planning needs, deliver forecasts, and explain variance drivers.
+Communicate forecast results and uncertainty to both technical and non-technical audiences to guide strategic decision-making.
+
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          Applicants in San Francisco: Qualified applications with arrest or conviction records will be considered for employment in accordance with the San Francisco Fair Chance Ordinance for Employers and the California Fair Chance Act.<br><br>Note: By applying to this position you will have an opportunity to share your preferred working location from the following: <strong>Sunnyvale, CA, USA; Austin, TX, USA; San Francisco, CA, USA</strong>.<strong>Minimum qualifications:<br><br></strong><ul><li>Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.</li><li>3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.</li><li>3 years of experience in data science, with a focus on time series analysis and forecasting.</li><li>Experience in causal inference, A/B testing, statistical modeling, or machine learning.</li><li>Experience with a range of forecasting methods, from classical statistical models to machine learning approaches.<br><br></li></ul><strong>Preferred qualifications:<br><br></strong><ul><li>4 years of experience deploying and maintaining forecasting models in a live production environment.</li><li>Experience with recent advancements in forecasting, such as foundation models (TimesFM) or deep learning approaches.</li><li>Experience in a demand planning, contact center, or operational workforce management role.</li><li>Familiarity with cloud platforms (e.g., Google Cloud Platform) and their AI/ML services (e.g., BigQuery, Vertex AI).</li><li>Ability to apply judgmental forecasting and incorporate qualitative business adjustments into model outputs, especially for new or unprecedented events.<br><br></li></ul><strong>About the job</strong>In this role, you will be responsible for developing and maintaining the models that predict our customer support case volume. Your work will be a critical input for the organization's staffing, budgeting, and planning, directly impacting our ability to deliver exceptional customer support at scale.The US base salary range for this full-time position is $141,000-$202,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.<br><br>Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .<br><br><strong>Responsibilities<br><br></strong><ul><li>Develop, deploy, and maintain time series forecasting models to predict customer support case volumes across various products, regions, and channels.</li><li>Build and automate scalable data pipelines to ensure timely and reliable data for model training and inference.</li><li>Monitor and evaluate model performance, dealing with key accuracy metrics, identifying model drift, and ensuring forecast reliability. Research and implement forecasting techniques to continuously improve model accuracy and capabilities.</li><li>Partner with Operations, Finance, and leadership stakeholders to understand their planning needs, deliver forecasts, and explain variance drivers.</li><li>Communicate forecast results and uncertainty to both technical and non-technical audiences to guide strategic decision-making.<br><br><br></li></ul>Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-12-23,[]
+4166293040,https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4166293040?position=3&pageNum=0&refId=kehVstUi7xtZmIAuzXW50Q%3D%3D&trackingId=DXo09Fhj%2BS6JwIiiD2mTMQ%3D%3D,"Data Scientist, Product Analytics",Meta,"San Francisco, CA","As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+
+Data Scientist, Product Analytics Responsibilities:
+
+
+Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches
+Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses
+Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends
+Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+
+Minimum Qualifications:
+
+
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+A minimum of 6 years of work experience in analytics (minimum of 4 years with a Ph.D.)
+Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience
+Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+
+
+Preferred Qualifications:
+
+
+Master's or Ph.D. Degree in a quantitative field
+
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$173,000/year to $242,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.
+Show more ","<div class=""description__text description__text--rich"">
+        
+    
+    
+    
+
+    <section data-max-lines=""5"" class=""show-more-less-html"">
+        <div class=""show-more-less-html__markup show-more-less-html__markup--clamp-after-5
+            relative overflow-hidden"">
+          As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.<br><br>Data Scientist, Product Analytics Responsibilities:<br><br><ul><li>Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches</li><li>Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses</li><li>Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends</li><li>Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations</li><li>Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions<br><br></li></ul>Minimum Qualifications:<br><br><ul><li>Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience</li><li>A minimum of 6 years of work experience in analytics (minimum of 4 years with a Ph.D.)</li><li>Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent practical experience</li><li>Experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)<br><br></li></ul>Preferred Qualifications:<br><br><ul><li>Master's or Ph.D. Degree in a quantitative field<br><br></li></ul>About Meta:<br><br>Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.<br><br>Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.<br><br>Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.<br><br>$173,000/year to $242,000/year + bonus + equity + benefits<br><br>Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about  benefits  at Meta.
+        </div>
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""false"" aria-label=""Show more"" data-tracking-control-name=""public_jobs_show-more-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--more
+        ml-0.5"">
+<!---->
+        
+            Show more
+          
+
+          <icon data-delayed-url=""https://static.licdn.com/aero-v1/sc/h/cyolgscd0imw2ldqppkrb84vo"" class=""show-more-less-html__button-icon show-more-less-button-icon""></icon>
+    </button>
+  
+
+        
+
+    
+    
+    
+
+    <button aria-expanded=""true"" aria-label=""Show less"" data-tracking-control-name=""public_jobs_show-less-html-btn"" class=""show-more-less-html__button show-more-less-button
+        show-more-less-html__button--less
+        ml-0.5"">
+<!---->
+        
+            Show less
+          
+
+          <icon class=""show-more-less-html__button-icon show-more-less-button-icon lazy-loaded"" aria-hidden=""true"" aria-busy=""false""><svg xmlns=""http://www.w3.org/2000/svg"" width=""16"" height=""16"" preserveAspectRatio=""xMinYMin meet"" focusable=""false"" class=""lazy-loaded"" aria-busy=""false""><path d=""M8 7l-5.9 4L1 9.5l6.2-4.2c.5-.3 1.2-.3 1.7 0L15 9.5 13.9 11 8 7z"" fill=""currentColor""></path></svg></icon>
+    </button>
+  
+<!---->    </section>
+  
+      </div>",2025-12-28,[]
